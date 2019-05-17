@@ -1,0 +1,24 @@
+{
+  "tenantId": "uk",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "uk.dehradun"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [
+        {
+          "code": "uk.dehradun"
+        }
+      ]
+    }
+  ]
+}

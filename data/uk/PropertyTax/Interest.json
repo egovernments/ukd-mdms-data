@@ -1,0 +1,13 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "Interest": [{
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": "01/04/2015"
+    }
+  ]
+}

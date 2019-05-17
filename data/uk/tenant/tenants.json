@@ -1,0 +1,39 @@
+{
+  "tenantId": "uk",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "uk.dehradun",
+      "name": "Dehradun",
+      "description": "Dehradun",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/dlogo.png",
+      "imageId": null,
+      "domainUrl": "http://nagarnigamdehradun.com/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nagar_nigam2008@yahoo.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dehradun",
+        "localName": "Dehradun",
+        "districtCode": "6",
+        "districtName": "Dehradun",
+        "regionName": null,
+        "ulbGrade": "MC Class I",
+        "longitude": 78.0322,
+        "latitude": 30.3165,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "601",
+        "regionCode": null,
+        "municipalityName": "Nagar Nigam Dehradun"
+      },
+      "address": "Near Doon Hospital, New road, Dehradun
+District-Dehradun,Uttarakhand-248001",
+      "contactNumber": "0135-2653572"
+    }
+  ]
+}

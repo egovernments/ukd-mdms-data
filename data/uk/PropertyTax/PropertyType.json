@@ -1,0 +1,16 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "PropertyType": [
+    {
+      "name": "Vacant Land",
+      "code": "VACANT",
+      "active": true
+    },
+    {
+      "name": "Built Up",
+      "code": "BUILTUP",
+      "active": true
+    }
+  ]
+}
