@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.ajnala",
+  "tenantId": "uk.dehradun",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ajnala",
-        "localname": "Ajnala",
+        "name": "Dehradun",
+        "localname": "Dehradun",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.ajnala",
+        "code": "uk.dehradun",
         "children": [
           {
             "id": "1ce50cdc-6e4e-45bb-ba6f-97d5486693ca",
@@ -1564,12 +1564,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ajnala",
-        "localname": "Ajnala",
+        "name": "Dehradun",
+        "localname": "Dehradun",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.ajnala",
+        "code": "uk.dehradun",
         "children": [
           {
             "id": "7d105a6f-037a-445b-ae54-bc3cc8058e05",
