@@ -1,0 +1,17 @@
+{
+  "tenantId": "uk",
+  "moduleName": "common-masters",
+  "StateInfo": [
+    {
+      "name": "Uttarakhand",
+      "code":"uk",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/uk-app-bg.jpg",
+      "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/uk-logo.png",
+      "hasLocalisation" : false,
+      "defaultUrl" : {
+          "citizen" : "/user/register",
+          "employee" : "/user/login"
+      }
+    }
+  ]
+}
