@@ -2,11 +2,39 @@
     "tenantId": "uk",
     "moduleName": "common-masters",
     "StructureType": [{
-            "code": "IMMOVABLE.PUCCA",
+            "code": "IMMOVABLE.SHED",
             "active": true
         },
         {
-            "code": "IMMOVABLE.KUTCHA",
+            "code": "IMMOVABLE.SHOP",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.GODOWN",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.WORKSHOP",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OPENLAND",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.INDUSTRIALUNIT",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OTHERPERMISES",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.GARAGE",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OPENSPACEOFBUILDING",
             "active": true
         },
         {
