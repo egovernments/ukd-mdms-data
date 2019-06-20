@@ -6,8 +6,8 @@
       "code": "TRADE.PETROLEUM.PUMP",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -16,8 +16,8 @@
       "code": "TRADE.RETAILSHOPS.CD",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -26,8 +26,8 @@
       "code": "TRADE.HOTEL.BH",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -36,8 +36,8 @@
       "code": "TRADE.INDUSTRY.MILL",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -46,8 +46,8 @@
       "code": "TRADE.INDUSTRY.BS",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -56,8 +56,8 @@
       "code": "TRADE.STREETVENDOR.SIF",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -66,8 +66,9 @@
       "code": "TRADE.STREETVENDOR.HW",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD",
+        "VENDORSURVEYCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -76,8 +77,8 @@
       "code": "TRADE.RETAILSHOPS.LA",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -86,8 +87,9 @@
       "code": "TRADE.RETAILSHOPS.HW",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD",
+        "VENDORSURVEYCARD"
       ],
       "verificationDocument": [],
       "active": true
@@ -96,8 +98,8 @@
       "code": "TRADE.PETROLEUM.KSA",
       "uom": null,
       "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
+        "AADHAARCARD",
+        "PANCARD"
       ],
       "verificationDocument": [],
       "active": true

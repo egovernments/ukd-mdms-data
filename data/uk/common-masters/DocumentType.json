@@ -4,10 +4,22 @@
     "DocumentType": [
         {
             "code": "OWNERIDPROOF",
-            "active": true
+            "active": false
         },
         {
             "code": "OWNERSHIPPROOF",
+            "active": false
+        },
+        {
+            "code": "AADHAARCARD",
+            "active": true
+        },
+        {
+            "code": "PANCARD",
+            "active": true
+        },
+        {
+            "code": "VENDORSURVEYCARD",
             "active": true
         }
     ]
