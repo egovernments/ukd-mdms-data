@@ -55,7 +55,7 @@
         "districtName": "Nainital",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
-        "longitude": 79.5130,
+        "longitude": 79.513,
         "latitude": 29.2183,
         "shapeFileLocation": null,
         "captcha": null,
@@ -97,6 +97,166 @@
       },
       "address": "Nagar Nigam Haridwar, Mayapur, Near Fire Station Devpura, Haridwar, Postcode - 249401 Uttarakhand",
       "contactNumber": "01334-227006"
+    },
+    {
+      "code": "uk.roorkee",
+      "name": "Roorkee",
+      "description": "Roorkee",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/uk.roorkee/logo.png",
+      "imageId": null,
+      "domainUrl": "http://www.nagarnigamroorkee.com/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Roorkee",
+        "localName": "Roorkee",
+        "districtCode": "50",
+        "districtName": "Haridwar",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.888,
+        "latitude": 29.8543,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248478",
+        "regionCode": null,
+        "municipalityName": "Roorkee Municipal Corporation"
+      },
+      "address": "Nagar Nigam RoorKee, Haridwar District, Postcode - 247667 Uttarakhand",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.rudrapur",
+      "name": "Rudrapur",
+      "description": "Rudrapur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/uk.rudrapur/logo.png",
+      "imageId": null,
+      "domainUrl": "http://www.nagarnigamrudrapur.com/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Rudrapur",
+        "localName": "Rudrapur",
+        "districtCode": "56",
+        "districtName": "Udham Singh Nagar",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 79.4141,
+        "latitude": 28.9875,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248471",
+        "regionCode": null,
+        "municipalityName": "Rudrapur Municipal Corporation"
+      },
+      "address": "Nagar Nigam Rudrapur, Udham Singh Nagar, Postcode - 263153 Uttarakhand",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.kashipur",
+      "name": "Kashipur",
+      "description": "Kashipur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/uk.kashipur/logo.png",
+      "imageId": null,
+      "domainUrl": "http://www.nagarnigamkashipur.com/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "info@nagarnigamkashipur.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kashipur",
+        "localName": "Kashipur",
+        "districtCode": "56",
+        "districtName": "Udham Singh Nagar",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 78.9619,
+        "latitude": 29.2104,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248463",
+        "regionCode": null,
+        "municipalityName": "Kashipur Municipal Corporation"
+      },
+      "address": "Nagar Nigam Kashipur, Uttarakhand 244713",
+      "contactNumber": "05947-2575514"
+    },
+    {
+      "code": "uk.rishikesh",
+      "name": "Rishikesh",
+      "description": "Rishikesh",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/uk.rishikesh/logo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Rishikesh",
+        "localName": "Rishikesh",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 78.2676,
+        "latitude": 30.0869,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248434",
+        "regionCode": null,
+        "municipalityName": "Rishikesh Municipal Corporation"
+      },
+      "address": "Nagar Nigam Rishikesh, Uttarakhand 249201",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.kotdwar",
+      "name": "Kotdwar",
+      "description": "Kotdwar",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/uk.kotdwar/logo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kotdwar",
+        "localName": "Kotdwar",
+        "districtCode": "52",
+        "districtName": "Pauri Garhwal",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 78.5269,
+        "latitude": 29.7524,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248441",
+        "regionCode": null,
+        "municipalityName": "Kotdwar Municipal Corporation"
+      },
+      "address": "Nagar Nigam Kotdwar, Uttarakhand 246149",
+      "contactNumber": null
     }
   ]
 }
