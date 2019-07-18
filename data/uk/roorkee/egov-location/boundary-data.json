@@ -1,0 +1,612 @@
+{
+  "tenantId": "uk.roorkee",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Roorkee",
+        "localname": "Roorkee",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.roorkee",
+        "children": [
+          {
+            "id": "0a40bb8d-8974-4bc6-8466-5894bb4a28d3",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "401f6aac-39d9-4a9f-a485-3b2e85ee0995",
+                "boundaryNum": 1,
+                "name": "WardNo.1",
+                "localname": "WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "609a920a-d7b0-4a90-8d7f-d5c4e635bc40",
+                    "boundaryNum": 1,
+                    "name": "Chavandadi - W1 - A1",
+                    "localname": "Chavandadi - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "62032961-86ac-40f7-b1dd-c824b51e330f",
+                "boundaryNum": 1,
+                "name": "WardNo.2",
+                "localname": "WardNo.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "10ae840b-0f65-4fb2-9b22-c37179ddf031",
+                    "boundaryNum": 1,
+                    "name": "Ambar Pond Western (Northern part) - W2 - A1",
+                    "localname": "Ambar Pond Western (Northern part) - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c81e8e7b-8eca-4b15-b77c-0a071fbb141b",
+                "boundaryNum": 1,
+                "name": "WardNo.3",
+                "localname": "WardNo.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "54b35312-7b54-4e7f-aff4-89ad38758685",
+                    "boundaryNum": 1,
+                    "name": "Sheikhpuri - W3 - A1",
+                    "localname": "Sheikhpuri - W3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a82d6667-cb22-4ff9-87d2-05c432e55bb2",
+                    "boundaryNum": 1,
+                    "name": "Ganeshpur - W3 - A1",
+                    "localname": "Ganeshpur - W3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5aa8faf-8e49-4b7e-a600-e410ac85f27d",
+                "boundaryNum": 1,
+                "name": "WardNo.4",
+                "localname": "WardNo.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "137da499-ae35-42ff-85bb-4f9d11663d36",
+                    "boundaryNum": 1,
+                    "name": "Purvavalli - W4 - A1",
+                    "localname": "Purvavalli - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e53169c-4d33-4b0a-9fe2-0bfd41c1e900",
+                "boundaryNum": 1,
+                "name": "WardNo.5",
+                "localname": "WardNo.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "88d4edc1-880d-4b95-9949-62b334a6012a",
+                    "boundaryNum": 1,
+                    "name": "Purvadindayal - W5 - A1",
+                    "localname": "Purvadindayal - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab343719-592f-4ec0-94e2-444b7453eefe",
+                "boundaryNum": 1,
+                "name": "WardNo.6",
+                "localname": "WardNo.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "cfa4ac77-c161-4843-88ee-272159ff14eb",
+                    "boundaryNum": 1,
+                    "name": "Amber pond east - W6 - A1",
+                    "localname": "Amber pond east - W6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "30a461c3-5bb1-4411-ba6f-67223c0c3c62",
+                "boundaryNum": 1,
+                "name": "WardNo.7",
+                "localname": "WardNo.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "8df69445-b830-4bea-9e6e-9f4ffe70fd21",
+                    "boundaryNum": 1,
+                    "name": "IIT - W7 - A1",
+                    "localname": "IIT - W7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "912695e9-b4a8-4151-ab2d-612feece4c25",
+                "boundaryNum": 1,
+                "name": "WardNo.8",
+                "localname": "WardNo.8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "fcf529bf-7ad0-4534-83c7-98c28ad3f3a9",
+                    "boundaryNum": 1,
+                    "name": "Malakpur - W8 - A1",
+                    "localname": "Malakpur - W8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a39b074-b250-4e66-b3de-dd0e132a6525",
+                "boundaryNum": 1,
+                "name": "WardNo.9",
+                "localname": "WardNo.9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "e1a081f5-fb57-4197-afbb-15b8932a35a8",
+                    "boundaryNum": 1,
+                    "name": "Sot - W9 - A1",
+                    "localname": "Sot - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f176d016-7ef9-42e3-a60b-2c950c52fede",
+                "boundaryNum": 1,
+                "name": "WardNo.10",
+                "localname": "WardNo.10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "7d137707-7c44-4aad-b8a1-73a32a475de8",
+                    "boundaryNum": 1,
+                    "name": "Civil Lines (Northern part) - W10 - A1",
+                    "localname": "Civil Lines (Northern part) - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2724a8c6-045d-4eef-9156-d503a63b7ff7",
+                    "boundaryNum": 1,
+                    "name": "Adarshnagar - W10 - A1",
+                    "localname": "Adarshnagar - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdc0829e-f7e2-4155-8b91-a0e902bbb7a6",
+                "boundaryNum": 1,
+                "name": "WardNo.11",
+                "localname": "WardNo.11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "0b8d4fae-edaf-4f5f-b4d1-af62481a954a",
+                    "boundaryNum": 1,
+                    "name": "Ambar Pond Western (Western part) - W11 - A1",
+                    "localname": "Ambar Pond Western (Western part) - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "832c11f7-b03c-4d98-81e6-b28e0caf52ba",
+                    "boundaryNum": 1,
+                    "name": "Housing Development - W11 - A1",
+                    "localname": "Housing Development - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c06d3521-b65a-4080-a2b0-394497c146ea",
+                "boundaryNum": 1,
+                "name": "WardNo.12",
+                "localname": "WardNo.12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "2a5c4428-7fa0-414e-8f37-78806ad273ea",
+                    "boundaryNum": 1,
+                    "name": "Civil Lines (Southern part) - W12 - A1",
+                    "localname": "Civil Lines (Southern part) - W12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a3036f81-a6b7-460b-936f-82179e9e341d",
+                "boundaryNum": 1,
+                "name": "WardNo.13",
+                "localname": "WardNo.13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "29e70b86-9f93-4fad-885e-9316d6df7eb4",
+                    "boundaryNum": 1,
+                    "name": "Amber Pond Western (Central part) - W13 - A1",
+                    "localname": "Amber Pond Western (Central part) - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "250f1c05-2ca7-4666-b275-6174e2830520",
+                    "boundaryNum": 1,
+                    "name": "Maktatpuri - W13 - A1",
+                    "localname": "Maktatpuri - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "71f5c40e-e2a4-4aad-80b7-2cf70e053a7c",
+                    "boundaryNum": 1,
+                    "name": "Nehranagar - W13 - A1",
+                    "localname": "Nehranagar - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52718795-22d2-4726-b479-925bc7b82ed7",
+                "boundaryNum": 1,
+                "name": "WardNo.14",
+                "localname": "WardNo.14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "6c11d5db-38f3-4f59-b96e-eeb09db7774a",
+                    "boundaryNum": 1,
+                    "name": "Civil lines (central part) - W14 - A1",
+                    "localname": "Civil lines (central part) - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8ac8212-fdc1-4f07-9a17-935f3d36de31",
+                "boundaryNum": 1,
+                "name": "WardNo.15",
+                "localname": "WardNo.15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "e9c2a704-36ac-4516-aa7f-cf3ef035657d",
+                    "boundaryNum": 1,
+                    "name": "Ramnagar (southern part) - W15 - A1",
+                    "localname": "Ramnagar (southern part) - W15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b098db43-9606-4717-afbc-a64492349429",
+                "boundaryNum": 1,
+                "name": "WardNo.16",
+                "localname": "WardNo.16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16",
+                "children": [
+                  {
+                    "id": "6e04d3eb-e6a5-4a42-9470-6fecc32932bf",
+                    "boundaryNum": 1,
+                    "name": "Magistrates - W16 - A1",
+                    "localname": "Magistrates - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ecd4855-9951-4a82-8eba-76ef1172a5d3",
+                "boundaryNum": 1,
+                "name": "WardNo.17",
+                "localname": "WardNo.17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17",
+                "children": [
+                  {
+                    "id": "d7616604-9948-47c8-933a-2b82f8327470",
+                    "boundaryNum": 1,
+                    "name": "B T Ganj - W17 - A1",
+                    "localname": "B T Ganj - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a913dcdf-ec8e-4b69-85c7-1b60680d24e7",
+                    "boundaryNum": 1,
+                    "name": "Rajputana Western - W17 - A1",
+                    "localname": "Rajputana Western - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8d8617c7-7e3c-408d-b559-1b918382a35b",
+                    "boundaryNum": 1,
+                    "name": "Rajputa East - W17 - A1",
+                    "localname": "Rajputa East - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "647bfeb0-1274-4c29-b421-57fa88391717",
+                    "boundaryNum": 1,
+                    "name": "Ramnagar (northern part) - W17 - A1",
+                    "localname": "Ramnagar (northern part) - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aad3fb88-e2cd-40c4-9c4c-f33408bfa695",
+                "boundaryNum": 1,
+                "name": "WardNo.18",
+                "localname": "WardNo.18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18",
+                "children": [
+                  {
+                    "id": "01936c63-6231-42a6-8a10-4a070795ce99",
+                    "boundaryNum": 1,
+                    "name": "Ramnagar (northern part) - W18 - A1",
+                    "localname": "Ramnagar (northern part) - W18 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac178238-64b7-483d-8e09-f75fa1482284",
+                "boundaryNum": 1,
+                "name": "WardNo.19",
+                "localname": "WardNo.19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W19",
+                "children": [
+                  {
+                    "id": "b5cfd656-4ce3-4791-b4f3-f2cbd59e32dc",
+                    "boundaryNum": 1,
+                    "name": "Old tahsil - W19 - A1",
+                    "localname": "Old tahsil - W19 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e3ffe553-da2f-4d1f-ac03-9564e52d6e4f",
+                "boundaryNum": 1,
+                "name": "WardNo.20",
+                "localname": "WardNo.20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W20",
+                "children": [
+                  {
+                    "id": "6b7f1cf9-a504-45ff-986d-18f0349c382c",
+                    "boundaryNum": 1,
+                    "name": "Satti - W20 - A1",
+                    "localname": "Satti - W20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
