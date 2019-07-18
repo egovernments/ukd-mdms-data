@@ -1,0 +1,996 @@
+{
+  "tenantId": "uk.kashipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kashipur",
+        "localname": "Kashipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.kashipur",
+        "children": [
+          {
+            "id": "6e7068c1-8040-462f-ab1e-6de76464d91b",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "56828167-f6d8-478c-8823-06a3590010f4",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.1",
+                "localname": "Kashipur(NN)-WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f5be177e-83d2-4731-a519-8a2546fad9f6",
+                    "boundaryNum": 1,
+                    "name": "Girital - W1 - A1",
+                    "localname": "Girital - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b2469ac2-a7aa-437b-b5af-39a7c421610f",
+                    "boundaryNum": 1,
+                    "name": "Katoratal - W1 - A1",
+                    "localname": "Katoratal - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "64bb440f-04ad-4049-994e-8d2ad25d7e2f",
+                    "boundaryNum": 1,
+                    "name": "Katoratal Nijhra - W1 - A1",
+                    "localname": "Katoratal Nijhra - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d8bc6e0-cf91-4ce3-916f-0f7fcca99362",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.2",
+                "localname": "Kashipur(NN)-WardNo.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "073e46f6-049b-4cb1-8c67-34acd892b096",
+                    "boundaryNum": 1,
+                    "name": "Dronasagar - W2 - A1",
+                    "localname": "Dronasagar - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b818ef98-8bc0-40c3-9af6-a2bc050c0287",
+                    "boundaryNum": 1,
+                    "name": "Jaspur Khurd - W2 - A1",
+                    "localname": "Jaspur Khurd - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "09f640af-a5df-4ba8-b53b-29b3cf6def20",
+                    "boundaryNum": 1,
+                    "name": "Kajibag - W2 - A1",
+                    "localname": "Kajibag - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c8f99ea5-5245-41ff-a6dc-ebf7ae6dc913",
+                    "boundaryNum": 1,
+                    "name": "Singhan - W2 - A1",
+                    "localname": "Singhan - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "468f42da-5fc3-44a0-b744-4f5da3388e35",
+                    "boundaryNum": 1,
+                    "name": "Ganj - W2 - A1",
+                    "localname": "Ganj - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "345f10ac-1949-4cb9-ac28-805ee2170bba",
+                    "boundaryNum": 1,
+                    "name": "Bajpur road partial - W2 - A1",
+                    "localname": "Bajpur road partial - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84062014-0b6f-4114-a72e-1684cc379d39",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.3",
+                "localname": "Kashipur(NN)-WardNo.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "3cd4533d-df36-4ba1-90d5-9740e717800a",
+                    "boundaryNum": 1,
+                    "name": "Housing Development - W3 - A1",
+                    "localname": "Housing Development - W3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5b3a6d3-2e11-451e-a4c3-c5be59be29d8",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.4",
+                "localname": "Kashipur(NN)-WardNo.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "d83a92de-8a18-4871-937b-a57380cba93b",
+                    "boundaryNum": 1,
+                    "name": "Suhshnagar - W4 - A1",
+                    "localname": "Suhshnagar - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8430cf5a-4102-4448-869a-6095ecb133c9",
+                    "boundaryNum": 1,
+                    "name": "Housing Development - W4 - A1",
+                    "localname": "Housing Development - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "58c927ba-be00-48d5-a830-cc49d1d7867f",
+                    "boundaryNum": 1,
+                    "name": "Bajpur Road - W4 - A1",
+                    "localname": "Bajpur Road - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c2ec925-bc73-49bd-9f15-e03a028f25ff",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.5",
+                "localname": "Kashipur(NN)-WardNo.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "ef11a3d9-fb81-461d-b40b-6193e41806b3",
+                    "boundaryNum": 1,
+                    "name": "Kattaramlian - W5 - A1",
+                    "localname": "Kattaramlian - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f0df613e-cb30-49f6-8825-d11c18558b81",
+                    "boundaryNum": 1,
+                    "name": "Maheshpura - W5 - A1",
+                    "localname": "Maheshpura - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26683de7-e36e-4874-a747-56ad0843d145",
+                    "boundaryNum": 1,
+                    "name": "Tanda Ujjain - W5 - A1",
+                    "localname": "Tanda Ujjain - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "923d6f65-af5c-467d-b0bd-880424233fb1",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.6",
+                "localname": "Kashipur(NN)-WardNo.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "b08bfc45-88b0-4dd3-b692-9b39c7a0b042",
+                    "boundaryNum": 1,
+                    "name": "Tanda Ujjain - W6 - A1",
+                    "localname": "Tanda Ujjain - W6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c090d8d-46d4-4ba2-bce9-5b56b31b30c6",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.7",
+                "localname": "Kashipur(NN)-WardNo.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "75f7b805-3485-4ad7-948c-5b4168f73508",
+                    "boundaryNum": 1,
+                    "name": "Maheshpura - W7 - A1",
+                    "localname": "Maheshpura - W7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5cfbfc9c-3a60-49af-bc0c-3e1519d20c1c",
+                    "boundaryNum": 1,
+                    "name": "Maheshpura Western - W7 - A1",
+                    "localname": "Maheshpura Western - W7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b9c56e7a-60b7-4cba-90f2-9caec06b8d8c",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.8",
+                "localname": "Kashipur(NN)-WardNo.8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "ecbdc517-8909-44cb-a596-fc2bfd2343e9",
+                    "boundaryNum": 1,
+                    "name": "Lumberjack band - W8 - A1",
+                    "localname": "Lumberjack band - W8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5a84629-4ff9-4ec4-8522-3be5c34bafae",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.9",
+                "localname": "Kashipur(NN)-WardNo.9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "c705168b-25a5-451b-b29d-bc31fdcdeacf",
+                    "boundaryNum": 1,
+                    "name": "Alokha western - W9 - A1",
+                    "localname": "Alokha western - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aa998553-92bb-4359-a757-4d6494ec5642",
+                    "boundaryNum": 1,
+                    "name": "Alley - W9 - A1",
+                    "localname": "Alley - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5f14e476-76a4-4632-93be-412eaac5f3f7",
+                    "boundaryNum": 1,
+                    "name": "Police station - W9 - A1",
+                    "localname": "Police station - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7ca6462-bf67-47ae-bb45-7137a155440b",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.10",
+                "localname": "Kashipur(NN)-WardNo.10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "b983a287-227d-4212-abc3-239d44df3ae4",
+                    "boundaryNum": 1,
+                    "name": "Was there before eating - W10 - A1",
+                    "localname": "Was there before eating - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5e606e6-57b2-4a24-9ad4-882a713f8583",
+                    "boundaryNum": 1,
+                    "name": "Alley - W10 - A1",
+                    "localname": "Alley - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f54cc21b-1871-4983-a005-a7225dff03d5",
+                    "boundaryNum": 1,
+                    "name": "Police station - W10 - A1",
+                    "localname": "Police station - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dbc3b80-ffe6-40b8-b51a-42d351ed988b",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.11",
+                "localname": "Kashipur(NN)-WardNo.11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "22d0ef77-5b3b-4cea-a1a1-14e28e544ca3",
+                    "boundaryNum": 1,
+                    "name": "Khatriyan - W11 - A1",
+                    "localname": "Khatriyan - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42cace08-1b29-4f70-97b0-0226ee0b59f5",
+                    "boundaryNum": 1,
+                    "name": "Khatriyan - W11 - A1",
+                    "localname": "Khatriyan - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dff90872-ffb3-4471-ab3e-6104e4b96b7f",
+                    "boundaryNum": 1,
+                    "name": "Fort - W11 - A1",
+                    "localname": "Fort - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9ce734f1-b5ea-4d9b-8e5c-f3164938d332",
+                    "boundaryNum": 1,
+                    "name": "The ozone - W11 - A1",
+                    "localname": "The ozone - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6be4a537-1441-4f8d-91c7-2294752ec3db",
+                    "boundaryNum": 1,
+                    "name": "Basfodan - W11 - A1",
+                    "localname": "Basfodan - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2fa8abe-3381-4b4c-9710-c6035fd34f20",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.12",
+                "localname": "Kashipur(NN)-WardNo.12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "a5512689-c314-4560-bdb0-704e34935520",
+                    "boundaryNum": 1,
+                    "name": "Mashpura Eastern - W12 - A1",
+                    "localname": "Mashpura Eastern - W12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b51fff8-b632-47ee-bd4c-7398bdbe5e8e",
+                    "boundaryNum": 1,
+                    "name": "Katarmil - W12 - A1",
+                    "localname": "Katarmil - W12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0415d511-da59-4da9-a2bf-1bb082726b99",
+                    "boundaryNum": 1,
+                    "name": "Maheshpura - W12 - A1",
+                    "localname": "Maheshpura - W12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b569abb9-86cc-49d0-a030-c54b35d03713",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.13",
+                "localname": "Kashipur(NN)-WardNo.13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "1d404e8d-17bd-470f-a187-03c33653bfe9",
+                    "boundaryNum": 1,
+                    "name": "Ganj - W13 - A1",
+                    "localname": "Ganj - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0d4be9d7-d617-41c2-8f5e-8090692b60a3",
+                    "boundaryNum": 1,
+                    "name": "Singhan - W13 - A1",
+                    "localname": "Singhan - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5ad65f69-5a3d-4183-a45c-3ec589fe664d",
+                    "boundaryNum": 1,
+                    "name": "Kajibag - W13 - A1",
+                    "localname": "Kajibag - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC37",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "606a4c1f-2c4b-4ff2-b823-3cf0bac02768",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.14",
+                "localname": "Kashipur(NN)-WardNo.14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "11eae128-1204-4c67-8da5-377f6eb083cb",
+                    "boundaryNum": 1,
+                    "name": "Seamstress - W14 - A1",
+                    "localname": "Seamstress - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC38",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ea2ea34-cdf6-463e-9595-8851abee2d15",
+                    "boundaryNum": 1,
+                    "name": "Gasoline - W14 - A1",
+                    "localname": "Gasoline - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC39",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fb3b0611-728b-4818-a754-efd7d87d9dc6",
+                    "boundaryNum": 1,
+                    "name": "Rahman - W14 - A1",
+                    "localname": "Rahman - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC40",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f19d7273-13fc-4ac9-8ff3-0442322c13e8",
+                    "boundaryNum": 1,
+                    "name": "Singhan - W14 - A1",
+                    "localname": "Singhan - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC41",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42c8583a-3752-4b17-88ac-650293652249",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.15",
+                "localname": "Kashipur(NN)-WardNo.15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "41f5765d-4aef-4e3d-b15d-637883f8ca6a",
+                    "boundaryNum": 1,
+                    "name": "Kajibag - W15 - A1",
+                    "localname": "Kajibag - W15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC42",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf7d91b9-4f32-489e-89e5-2e19c00fa31a",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.16",
+                "localname": "Kashipur(NN)-WardNo.16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16",
+                "children": [
+                  {
+                    "id": "7209a2ad-ef4d-4145-ac83-9aa4505951b4",
+                    "boundaryNum": 1,
+                    "name": "Lohariyan - W16 - A1",
+                    "localname": "Lohariyan - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC43",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec9cac88-f12a-49e4-a6ef-ed872174e587",
+                    "boundaryNum": 1,
+                    "name": "Khalasa - W16 - A1",
+                    "localname": "Khalasa - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC44",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b421678b-ffae-480c-863a-7d099de44e4f",
+                    "boundaryNum": 1,
+                    "name": "Khalsa - W16 - A1",
+                    "localname": "Khalsa - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC45",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e0720cbb-9696-460a-91f8-b4406ecf407c",
+                    "boundaryNum": 1,
+                    "name": "Law goyan - W16 - A1",
+                    "localname": "Law goyan - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC46",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44bd16b7-6d36-452d-8d0e-8daec871b6a7",
+                    "boundaryNum": 1,
+                    "name": "Rajwada - W16 - A1",
+                    "localname": "Rajwada - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC47",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91032389-d2ca-479e-97ca-6d65c998e965",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.17",
+                "localname": "Kashipur(NN)-WardNo.17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17",
+                "children": [
+                  {
+                    "id": "8c7675a5-b904-4efc-9342-b1d3620594bf",
+                    "boundaryNum": 1,
+                    "name": "Kanungoyayan - W17 - A1",
+                    "localname": "Kanungoyayan - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC48",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ae7b440e-4640-4dd7-9a5c-ad76eec2df02",
+                    "boundaryNum": 1,
+                    "name": "Rahman - W17 - A1",
+                    "localname": "Rahman - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "52dd54fe-7783-44f8-b6fd-bf51f207c63e",
+                    "boundaryNum": 1,
+                    "name": "Lahoria - W17 - A1",
+                    "localname": "Lahoria - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC50",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5122e32-6074-4542-89f1-58bbb95114df",
+                    "boundaryNum": 1,
+                    "name": "Fort - W17 - A1",
+                    "localname": "Fort - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC51",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "584fd788-c743-4dcc-800d-09a8fd73d0b1",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.18",
+                "localname": "Kashipur(NN)-WardNo.18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18",
+                "children": [
+                  {
+                    "id": "e0b37b03-c76a-4043-bfd8-8c3c08b54878",
+                    "boundaryNum": 1,
+                    "name": "West of Qatar - W18 - A1",
+                    "localname": "West of Qatar - W18 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC52",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4fb8c7fa-e6ac-4c5c-aaa2-ce98cfaca648",
+                    "boundaryNum": 1,
+                    "name": "Katoratal - W18 - A1",
+                    "localname": "Katoratal - W18 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC53",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7c21584-7ae4-41f6-8354-c18dd47cae13",
+                    "boundaryNum": 1,
+                    "name": "Pakakot - W18 - A1",
+                    "localname": "Pakakot - W18 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC54",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5d19256-a7c8-42da-86d0-ad6c1efd8c07",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.19",
+                "localname": "Kashipur(NN)-WardNo.19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W19",
+                "children": [
+                  {
+                    "id": "2fd413f5-69e8-4015-9d10-a2863467cd1e",
+                    "boundaryNum": 1,
+                    "name": "Katrot east - W19 - A1",
+                    "localname": "Katrot east - W19 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC55",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "80715876-d987-43b9-90ed-0b790b4ba94d",
+                    "boundaryNum": 1,
+                    "name": "Kajibag - W19 - A1",
+                    "localname": "Kajibag - W19 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC56",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2f88f5e-3c03-4475-86e3-78a431f41911",
+                    "boundaryNum": 1,
+                    "name": "Katoratal - W19 - A1",
+                    "localname": "Katoratal - W19 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC57",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "caa6fad2-d0d6-49b1-b5b7-153908f86a0f",
+                "boundaryNum": 1,
+                "name": "Kashipur(NN)-WardNo.20",
+                "localname": "Kashipur(NN)-WardNo.20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W20",
+                "children": [
+                  {
+                    "id": "d07a398c-98f7-48b8-80c3-89e65bb22726",
+                    "boundaryNum": 1,
+                    "name": "Vitriol - W20 - A1",
+                    "localname": "Vitriol - W20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC58",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5a5ad5ce-4abf-48d4-bb23-78a1f8aae215",
+                    "boundaryNum": 1,
+                    "name": "Katoratal - W20 - A1",
+                    "localname": "Katoratal - W20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC59",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0ddb5e50-c8fe-4627-ae73-80cbfdc3c796",
+                    "boundaryNum": 1,
+                    "name": "Pakakot - W20 - A1",
+                    "localname": "Pakakot - W20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC60",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
