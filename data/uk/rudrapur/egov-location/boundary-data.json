@@ -1,0 +1,600 @@
+{
+  "tenantId": "uk.rudrapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rudrapur",
+        "localname": "Rudrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.rudrapur",
+        "children": [
+          {
+            "id": "143dde48-56d9-4107-aa07-ceed21fc8685",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2d0ca72e-b518-40de-9927-b5bb94146469",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.1",
+                "localname": "Rudrapur(NN)-WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3bed4451-7bd9-4b47-a615-2b4bb70195ce",
+                    "boundaryNum": 1,
+                    "name": "Jagatpura - W1 - A1",
+                    "localname": "Jagatpura - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7399ebe2-34e7-4547-9bdd-88d8634f318b",
+                    "boundaryNum": 1,
+                    "name": "Mukherjinagar - W1 - A1",
+                    "localname": "Mukherjinagar - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "879bb27a-fd8e-42f8-ad5e-6b2afa5834f6",
+                    "boundaryNum": 1,
+                    "name": "Azadnagar - W1 - A1",
+                    "localname": "Azadnagar - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f785e1bb-e2e3-46d2-9578-110fa6e41c4f",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.2",
+                "localname": "Rudrapur(NN)-WardNo.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "f891b704-a69f-468b-8973-c5c41d8745aa",
+                    "boundaryNum": 1,
+                    "name": "Shivnagar - W2 - A1",
+                    "localname": "Shivnagar - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8e3a5384-04ca-46d0-bb96-4563424a1278",
+                    "boundaryNum": 1,
+                    "name": "Viveknagar - W2 - A1",
+                    "localname": "Viveknagar - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8186189f-2517-4f1d-90d0-64020f97b89d",
+                    "boundaryNum": 1,
+                    "name": "Thakurnagar - W2 - A1",
+                    "localname": "Thakurnagar - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5ca54f04-e99e-4430-bc9c-b1f408ba74c9",
+                    "boundaryNum": 1,
+                    "name": "Transit camp - W2 - A1",
+                    "localname": "Transit camp - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "035ad6c9-1946-477e-b470-3cf29eb006de",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.3",
+                "localname": "Rudrapur(NN)-WardNo.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "e5000234-1771-4b88-b879-f945dc5efd0b",
+                    "boundaryNum": 1,
+                    "name": "Sanjay Nagar - W3 - A1",
+                    "localname": "Sanjay Nagar - W3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d0ed9375-0f02-43f3-b667-34bfdbaf0bbd",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.4",
+                "localname": "Rudrapur(NN)-WardNo.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "552aad5c-82c0-4f72-a603-bab9d859cb91",
+                    "boundaryNum": 1,
+                    "name": "Bhadipura - W4 - A1",
+                    "localname": "Bhadipura - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5aa49ea2-e98f-4c26-9ded-b4e01951de16",
+                    "boundaryNum": 1,
+                    "name": "Paharganj - W4 - A1",
+                    "localname": "Paharganj - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2fe27963-f8fb-4684-a992-31211beafceb",
+                    "boundaryNum": 1,
+                    "name": "Dudhiyanagar - W4 - A1",
+                    "localname": "Dudhiyanagar - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5946a0c8-6dcd-4367-a0db-f018d920d83c",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.5",
+                "localname": "Rudrapur(NN)-WardNo.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "9c5fd878-6d38-4f63-9ba8-54b5a9abbcd2",
+                    "boundaryNum": 1,
+                    "name": "Kheda - W5 - A1",
+                    "localname": "Kheda - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf46b7b8-47e6-4cb4-af22-21d29e0a263e",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.6",
+                "localname": "Rudrapur(NN)-WardNo.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "03986caa-775a-4f2b-96a2-57be75f2da9e",
+                    "boundaryNum": 1,
+                    "name": "haunted house - W6 - A1",
+                    "localname": "haunted house - W6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5bbaeb8-365c-4ca4-aef7-31601a727469",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.7",
+                "localname": "Rudrapur(NN)-WardNo.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "b3f01189-5657-4085-95fc-79f53bd701d0",
+                    "boundaryNum": 1,
+                    "name": "Rampura east - W7 - A1",
+                    "localname": "Rampura east - W7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1a79cf7-306b-409f-a2a9-d89cdf3b6d82",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.8",
+                "localname": "Rudrapur(NN)-WardNo.8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "2ff4d5a8-6c96-4000-a9cb-3bd08fb82e0d",
+                    "boundaryNum": 1,
+                    "name": "Rampura western - W8 - A1",
+                    "localname": "Rampura western - W8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41bd2fad-0b0a-40eb-b707-1f5ca9472802",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.9",
+                "localname": "Rudrapur(NN)-WardNo.9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "ac031892-f8e6-42a5-bbbc-2f90d6717820",
+                    "boundaryNum": 1,
+                    "name": "Syrgottia - W9 - A1",
+                    "localname": "Syrgottia - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2490f673-8335-44e8-8198-c0c10a002502",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.10",
+                "localname": "Rudrapur(NN)-WardNo.10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "71ce4d07-bf00-4901-a3d0-45ff1cb81eca",
+                    "boundaryNum": 1,
+                    "name": "Gandhi colony - W10 - A1",
+                    "localname": "Gandhi colony - W10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91aedf33-4569-418b-bbce-7b62899f1282",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.11",
+                "localname": "Rudrapur(NN)-WardNo.11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "b3b2d9cb-4e0f-4ba5-8de2-a2b5dc937193",
+                    "boundaryNum": 1,
+                    "name": "Main Market - W11 - A1",
+                    "localname": "Main Market - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a86e3ec-b9ba-4d5a-ad7e-c40ef5ceba0c",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.12",
+                "localname": "Rudrapur(NN)-WardNo.12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "98f16593-3efd-487d-a98a-5df1820756ea",
+                    "boundaryNum": 1,
+                    "name": "Bhagat Singh Chowk - W12 - A1",
+                    "localname": "Bhagat Singh Chowk - W12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4105cf02-50c4-4be4-8b17-05ef91628a38",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.13",
+                "localname": "Rudrapur(NN)-WardNo.13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "15218d07-9349-4050-9e6f-638f947e9b38",
+                    "boundaryNum": 1,
+                    "name": "D1D2 - W13 - A1",
+                    "localname": "D1D2 - W13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46d7700b-9181-49b1-8fca-f9522e145f69",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.14",
+                "localname": "Rudrapur(NN)-WardNo.14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "5142b96c-7c14-4c13-a045-a086d9f29ec3",
+                    "boundaryNum": 1,
+                    "name": "SRA - W14 - A1",
+                    "localname": "SRA - W14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3949046e-d430-4c89-981b-b7d551fbdae3",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.15",
+                "localname": "Rudrapur(NN)-WardNo.15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "b5b79f1a-527a-4e64-8d6e-09e59241638c",
+                    "boundaryNum": 1,
+                    "name": "Indra colony - W15 - A1",
+                    "localname": "Indra colony - W15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca698869-4cf1-4c1e-806d-ae0112fbc095",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.16",
+                "localname": "Rudrapur(NN)-WardNo.16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16",
+                "children": [
+                  {
+                    "id": "795e1c61-a8d5-4aee-8ce1-3ae99533c8dc",
+                    "boundaryNum": 1,
+                    "name": "Ideal Indra Colony - W16 - A1",
+                    "localname": "Ideal Indra Colony - W16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "809740fc-640d-4632-8969-5b8ff5edd562",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.17",
+                "localname": "Rudrapur(NN)-WardNo.17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17",
+                "children": [
+                  {
+                    "id": "79b168ab-2e91-40d3-ab87-0b5a76ad15fb",
+                    "boundaryNum": 1,
+                    "name": "Ideal colony - W17 - A1",
+                    "localname": "Ideal colony - W17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cbd4887f-b3e0-42e2-acc6-cd18dc65745b",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.18",
+                "localname": "Rudrapur(NN)-WardNo.18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18",
+                "children": [
+                  {
+                    "id": "26d003d7-aaef-4312-ad6b-ccbff56206e6",
+                    "boundaryNum": 1,
+                    "name": "Ravindra nagar - W18 - A1",
+                    "localname": "Ravindra nagar - W18 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "006bd4de-2737-41e7-a5ed-dcfeb13c01cc",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.19",
+                "localname": "Rudrapur(NN)-WardNo.19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W19",
+                "children": [
+                  {
+                    "id": "60898654-d8b0-4f26-93af-e6504fcaac13",
+                    "boundaryNum": 1,
+                    "name": "Housing Development Western - W19 - A1",
+                    "localname": "Housing Development Western - W19 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1af18fc-8263-46fb-a78a-e07efbd259aa",
+                "boundaryNum": 1,
+                "name": "Rudrapur(NN)-WardNo.20",
+                "localname": "Rudrapur(NN)-WardNo.20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W20",
+                "children": [
+                  {
+                    "id": "ff66f9f0-0393-4487-9e85-dcf2124134d9",
+                    "boundaryNum": 1,
+                    "name": "Housing development east - W20 - A1",
+                    "localname": "Housing development east - W20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
