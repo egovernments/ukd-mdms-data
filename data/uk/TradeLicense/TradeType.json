@@ -354,6 +354,166 @@
       ],
       "verificationDocument": [],
       "active": true
+    },
+    {
+      "code": "TRADE.BANK.FIN",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.BANK.OTH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.BANK.INS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.FERM.BUIL",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.3STR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.5STR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.HL20",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.OTR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.MI",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.BST",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.ICE",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.CSWF",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.GRM",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.OTH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.FLS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.CLS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
     }
   ]
 }
