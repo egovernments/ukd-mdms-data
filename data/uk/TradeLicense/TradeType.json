@@ -514,6 +514,166 @@
       ],
       "verificationDocument": [],
       "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.MUT",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.CHI",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.FISH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.PIG",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.BEAF",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIVESTOCK.MILK",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "IDPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.M-20",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PC",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.XRAY",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.DCL",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PRCL",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.NR20",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.NH40",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.ATR2",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.ATR4",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.ATR7",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "REGISTER"
+      ],
+      "verificationDocument": [],
+      "active": true
     }
   ]
 }
