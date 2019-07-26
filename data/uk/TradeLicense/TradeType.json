@@ -854,6 +854,249 @@
       ],
       "verificationDocument": [],
       "active": true
+    },
+    {
+      "code": "TRADE.BANK.FINC",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "REGISTNO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.BANK.INSR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "GSTREGISTNO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.OT",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "GSTREGISTNO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTEL.MH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "GSTREGISTNO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.FLIS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "EXCISE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.CLIG",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "EXCISE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.N20",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PATH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.XR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PCLI",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.DCLI",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.OTR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "DEGREE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.P50",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.P10",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.P11",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.P21",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.REST.ALL",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "FOOD"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.REST.BAR",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "EXCISE",
+        "FOOD"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.RETAILSHOPS.DRYS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.RETAILSHOPS.WASH",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.SIFT",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAARCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TEAS",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.WORKSHOP.FAB",
+      "uom": null,
+      "applicationDocument": [
+        "PANCARD",
+        "APPLICATION",
+        "GSTREGISTNO"
+      ],
+      "verificationDocument": [],
+      "active": true
     }
   ]
 }
