@@ -1,0 +1,22 @@
+{
+  "tenantId": "uk",
+  "moduleName": "TradeLicense",
+  "RelationType": [
+    {
+      "code": "RELATIONTYPE.PROPRIETOR",
+      "active": true
+    },
+    {
+      "code": "RELATIONTYPE.PARTNER",
+      "active": true
+    },
+    {
+      "code": "RELATIONTYPE.DIRECTOR",
+      "active": true
+    },
+    {
+      "code": "RELATIONTYPE.AUTHORIZEDSIGNATORY",
+      "active": true
+    }
+  ]
+}
