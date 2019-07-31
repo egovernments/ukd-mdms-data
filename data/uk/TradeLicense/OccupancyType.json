@@ -1,0 +1,14 @@
+{
+  "tenantId": "uk",
+  "moduleName": "TradeLicense",
+  "OccupancyType": [
+    {
+      "code": "OCCUPANCYTYPE.OWNED",
+      "active": true
+    },
+    {
+      "code": "OCCUPANCYTYPE.RENTED",
+      "active": true
+    }
+  ]
+}
