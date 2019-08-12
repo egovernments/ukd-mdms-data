@@ -1,67 +1,74 @@
 {
-    "tenantId": "uk",
-    "moduleName": "common-masters",
-    "OwnerShipCategory":
-    [
-      {
-        "code": "INDIVIDUAL.SINGLEOWNER",
-        "active": true
-      },
-      {
-        "code": "INDIVIDUAL.MULTIPLEOWNERS",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PROPRIETORSHIP",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PARTNERSHIPFIRM",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.LLPARTNERSHIP",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PVTLTDCOMPANY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.PUBLTDCOMPANY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.HOUSINGCOOPERATIVESOCIETY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.SELFHELPGROUP",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.SEC8COMPANY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.ONEPERSONCOMPANY",
-        "active": true
-      },
-      {
-        "code": "INSTITUTIONALPRIVATE.NGO",
-        "active": true
-      },
-      {
-    "code": "INSTITUTIONALGOVERNMENT.STATEGOVUNDERTAKING",
-    "active": true
-  },
-  {
-    "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVUNDERTAKING",
-    "active": true
-  },
-  {
-    "code": "INSTITUTIONALGOVERNMENT.SELFGOVUNDERTAKING",
-    "active": true
-  }
-    ]
-  }
+  "tenantId": "uk",
+  "moduleName": "common-masters",
+  "OwnerShipCategory": [
+    {
+      "code": "INDIVIDUAL.SINGLEOWNER",
+      "active": true
+    },
+    {
+      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.PROPRIETORSHIP",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.LLPARTNERSHIP",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.PVTLTDCOMPANY",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.PUBLTDCOMPANY",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALCOMPANY.SEC8COMPANY",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALSOCIETY.HOUSINGCOOPERATIVESOCIETY",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALTRUST.PRIVATETRUST",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALTRUST.PUBLICTRUST",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALGOVERNMENT.STATEGOVUNDERTAKING",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVUNDERTAKING",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONALGOVERNMENT.LOCALGOVUNDERTAKING",
+      "active": true
+    }
+  ]
+}
