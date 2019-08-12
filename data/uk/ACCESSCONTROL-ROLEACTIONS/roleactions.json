@@ -6355,6 +6355,24 @@
       "actionid": 1590,
       "actioncode": "",
       "tenantId": "uk"
-    }
+    },
+      {
+    "rolecode": "TL_CEMP",
+    "actionid": 1782,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "TL_DOC_VERIFIER",
+    "actionid": 1782,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "TL_APPROVER",
+    "actionid": 1782,
+    "actioncode": "",
+    "tenantId": "uk"
+  }
   ]
 }
