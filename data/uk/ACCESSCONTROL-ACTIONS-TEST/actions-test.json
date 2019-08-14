@@ -2744,7 +2744,7 @@
       "url": "/customization/protected/bndlogin",
       "displayName": "BND Login",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGRCUSTOMSERVICE",
       "code": "null",
       "path": "BDN Login"
@@ -2755,7 +2755,7 @@
       "url": "/customization/protected/bndlogin/linkAccount",
       "displayName": "BND Link Acount",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BND",
       "code": "null",
       "path": "BND Link Acount"
@@ -2766,7 +2766,7 @@
       "url": "/customization/protected/bndlogin/unlinkAccount",
       "displayName": "BND UnLink Acount",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BND",
       "code": "null",
       "path": "BND Link Acount"
@@ -4397,7 +4397,7 @@
       "displayName": "Application",
       "orderNumber": 1,
       "parentModule": "BND",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BND",
       "code": "null",
       "path": "Birth & Death.BNDIntegration",
