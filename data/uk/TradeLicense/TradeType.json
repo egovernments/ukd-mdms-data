@@ -3,320 +3,7 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.PETROLEUM.PUMP",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.CD",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.HOTEL.BH",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.INDUSTRY.MILL",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.INDUSTRY.BS",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.SIF",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.HW",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD",
-        "VENDORSURVEYCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.LA",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.HW",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD",
-        "VENDORSURVEYCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.PETROLEUM.KSA",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "PANCARD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.EGG",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.BEEF",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.CHIC",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.MUTT",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.INDUSTRY.MIL",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.INDUSTRY.OM",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.NH20",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.NH50",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.MH20",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.MH50",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PRC",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.OTH",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PAC",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.XRY",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.DC",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETV.HW",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.RLO",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.RLD",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.RAA",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.HOTEL.OTH",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "OTHER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.HOTEL.HL30",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTERY",
-        "PTRECEIPT"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIQUOR.FLG",
+      "code": "TRADE.INDUSTRY.FM",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -336,764 +23,211 @@
       "active": true
     },
     {
-      "code": "TRADE.MEDICAL.N-20",
+      "code": "TRADE.LIQUOR.FLG",
       "uom": null,
       "applicationDocument": [
-        "COMPTREG",
-        "NURHOREG"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.MEDICAL.N-50",
+      "code": "TRADE.LIVESTOCK.BS",
       "uom": null,
       "applicationDocument": [
-        "COMPTREG",
-        "NURHOREG"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.BANK.FIN",
+      "code": "TRADE.LIVESTOCK.CS",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.BANK.OTH",
+      "code": "TRADE.LIVESTOCK.ES",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.BANK.INS",
+      "code": "TRADE.LIVESTOCK.MS",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.FERM.BUIL",
+      "code": "TRADE.MEDICAL.DNTC",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.HOTEL.3STR",
+      "code": "TRADE.MEDICAL.MHA50",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.HOTEL.5STR",
+      "code": "TRADE.MEDICAL.MH20B",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.HOTEL.HL20",
+      "code": "TRADE.MEDICAL.NHA50",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.HOTEL.OTR",
+      "code": "TRADE.MEDICAL.NH20B",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.INDUSTRY.MI",
+      "code": ".TRADE.MEDICAL.PC",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.INDUSTRY.BST",
+      "code": "TRADE.MEDICAL.PVTC",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.INDUSTRY.ICE",
+      "code": "TRADE.MEDICAL.PVTH",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.INDUSTRY.CSWF",
+      "code": "TRADE.MEDICAL.XRYC",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.INDUSTRY.GRM",
+      "code": "TRADE.TRANSPORT.RAA",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIQUOR.OTH",
+      "code": "TRADE.TRANSPORT.RLD",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIQUOR.FLS",
+      "code": "TRADE.TRANSPORT.RLO",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIQUOR.CLS",
+      "code": "TRADE.STREETVENDOR.HWK",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIVESTOCK.MUT",
+      "code": "TRADE.INDUSTRY.SI",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIVESTOCK.CHI",
+      "code": "TRADE.INDUSTRY.OM",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
     },
     {
-      "code": "TRADE.LIVESTOCK.FISH",
+      "code": "TRADE.TRANSPORT.RLOD",
       "uom": null,
       "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.PIG",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.BEAF",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIVESTOCK.MILK",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.M-20",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PC",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.XRAY",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.DCL",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PRCL",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.NR20",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.NH40",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.ATR2",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.ATR4",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.TRANSPORT.ATR7",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.REST.OTH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "REGISTER"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.REST.DHA",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.PRT",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.COD",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.DRY",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.BB",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.CONF",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.SS",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.OTH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.TSIF",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.IRS",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.TEA",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.OTH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.COMP",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.DENT",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.EXP6",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.EXP9",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.KMDM",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "IDPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.BANK.FINC",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "REGISTNO"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.BANK.INSR",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "GSTREGISTNO"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.HOTEL.OT",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "GSTREGISTNO"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.HOTEL.MH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "GSTREGISTNO"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIQUOR.FLIS",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "EXCISE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.LIQUOR.CLIG",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "EXCISE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.N20",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PATH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.XR",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.PCLI",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.DCLI",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.MEDICAL.OTR",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "DEGREE"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.POWER.P50",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.POWER.P10",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.POWER.P11",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.POWER.P21",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.REST.ALL",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "FOOD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.REST.BAR",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "EXCISE",
-        "FOOD"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.DRYS",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.RETAILSHOPS.WASH",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.SIFT",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAARCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.STREETVENDOR.TEAS",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "TRADE.WORKSHOP.FAB",
-      "uom": null,
-      "applicationDocument": [
-        "PANCARD",
-        "APPLICATION",
-        "GSTREGISTNO"
+        "IDPROOF",
+        "OTHER"
       ],
       "verificationDocument": [],
       "active": true
