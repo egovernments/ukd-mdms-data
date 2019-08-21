@@ -1251,7 +1251,107 @@
     ],
     "verificationDocument": [],
     "active": true
-  }
+  },
+  {
+    "code": "TRADE.PETROLEUM.PUMP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "ALMOP"
+    ],
+    "verificationDocument": [],
+    "active": true
+  },
+  {
+    "code": "TRADE.RETAIL.CD",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "CTRECEIPT"
+    ],
+    "verificationDocument": [],
+    "active": true
+  },
+  {
+    "code": "TRADE.HOTEL.BH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "MDDACTR"
+    ],
+    "verificationDocument": [],
+    "active": true
+  },
+  {
+    "code": "TRADE.INDUSTRY.MILL",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "GSTCTR"
+    ],
+    "verificationDocument": [],
+    "active": true
+  },
+  {
+    "code": "TRADE.INDUSTRY.BHS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "GSTCTR"
+    ],
+    "verificationDocument": [],
+    "active": true
+  },
+  {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.HW",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.RETAIL.LA",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "PLETTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.RETAIL.HW",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.PETROLEUM.KSA",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
 
   ]
 }
