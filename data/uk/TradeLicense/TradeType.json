@@ -1592,252 +1592,250 @@
       "verificationDocument": [],
       "active": true
     },
-    [
-      {
-        "code": "TRADE.HOTELS.HL30B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.HOTELS.HL60B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.HOTELS.HL90B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.HOTELS.HA90B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.HOTELS.HR3STR",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.HOTELS.HR5STR",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRNH20B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.NHA20",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRMH20B",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.MHA20",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRPVTH",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRPC",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRXRYC",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRDNTC",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.MEDICAL.HRPVTC",
-        "uom": null,
-        "applicationDocument": [
-          "PTREGISTRY",
-          "HOUSETAXRCPT"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.HRAU2S",
-        "uom": null,
-        "applicationDocument": [
-          "IDPROOF",
-          "APPLICATION",
-          "PHOTO"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.HRAU4S",
-        "uom": null,
-        "applicationDocument": [
-          "IDPROOF",
-          "APPLICATION",
-          "PHOTO"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.HRAU7S",
-        "uom": null,
-        "applicationDocument": [
-          "IDPROOF",
-          "APPLICATION",
-          "PHOTO"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.MBUS",
-        "uom": null,
-        "applicationDocument": [
-          "IDPROOF",
-          "APPLICATION",
-          "PHOTO"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.BUS",
-        "uom": null,
-        "applicationDocument": [
-          "IDPROOF",
-          "APPLICATION",
-          "PHOTO"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.HRTBHW",
-        "uom": null,
-        "applicationDocument": [
-          "AADHAR",
-          "3PSPHOTOS"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.RIKOR",
-        "uom": null,
-        "applicationDocument": [
-          "AADHAR",
-          "3PSPHOTOS"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.RIK",
-        "uom": null,
-        "applicationDocument": [
-          "AADHAR",
-          "3PSPHOTOS"
-        ],
-        "verificationDocument": [],
-        "active": true
-      },
-      {
-        "code": "TRADE.TRANSPORT.THELA",
-        "uom": null,
-        "applicationDocument": [
-          "AADHAR",
-          "3PSPHOTOS"
-        ],
-        "verificationDocument": [],
-        "active": true
-      }
-    ]
+    {
+      "code": "TRADE.HOTELS.HL30B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.HL60B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.HL90B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.HA90B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.HR3STR",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.HR5STR",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRNH20B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.NHA20",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRMH20B",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.MHA20",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRPVTH",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRPC",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRXRYC",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRDNTC",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.HRPVTC",
+      "uom": null,
+      "applicationDocument": [
+        "PTREGISTRY",
+        "HOUSETAXRCPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.HRAU2S",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.HRAU4S",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.HRAU7S",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.MBUS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.BUS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.HRTBHW",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "3PSPHOTOS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.RIKOR",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "3PSPHOTOS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.RIK",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "3PSPHOTOS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.TRANSPORT.THELA",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "3PSPHOTOS"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
   ]
 }
