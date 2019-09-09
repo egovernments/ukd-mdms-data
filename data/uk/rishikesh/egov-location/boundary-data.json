@@ -1,0 +1,1992 @@
+{
+  "tenantId": "uk.rishikesh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rishikesh",
+        "localname": "Rishikesh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.rishikesh",
+        "children": [
+          {
+            "id": "ae33d037-5ed7-4d13-8d55-eebc2f58b12b",
+            "boundaryNum": 1,
+            "name": "Rishikesh",
+            "localname": "Rishikesh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c8d883df-71f1-4640-9687-780fa8c83680",
+                "boundaryNum": 1,
+                "name": "Chandreshwar Nagar",
+                "localname": "Chandreshwar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "f2df5ef3-5954-48f2-bac7-8856f90f7fd6",
+                    "boundaryNum": 1,
+                    "name": "Shri Ram Ashram - Chandreshwar Nagar - A1",
+                    "localname": "Shri Ram Ashram - Chandreshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d793799-6ba9-494a-906a-ef96519a251e",
+                    "boundaryNum": 1,
+                    "name": "Chandreswar Nagar - Chandreshwar Nagar - A1",
+                    "localname": "Chandreswar Nagar - Chandreshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "644e460b-f5ea-4ca6-8359-30356a119594",
+                    "boundaryNum": 1,
+                    "name": "Vedanta Sadhana Kutir Partcial - Chandreshwar Nagar - A1",
+                    "localname": "Vedanta Sadhana Kutir Partcial - Chandreshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a425e846-8efb-45b2-a41e-92a16264283c",
+                "boundaryNum": 1,
+                "name": "Triveni Colony",
+                "localname": "Triveni Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "ba207617-78f0-4846-9bae-4aa7b106cf0c",
+                    "boundaryNum": 1,
+                    "name": "Chandreswar Mandir - Triveni Colony - A1",
+                    "localname": "Chandreswar Mandir - Triveni Colony - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3f2b4a2a-b1e9-4ebf-9ffb-652b191f128c",
+                    "boundaryNum": 1,
+                    "name": "Triveni Colony - Triveni Colony - A1",
+                    "localname": "Triveni Colony - Triveni Colony - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2c5db9c1-b99a-4150-9460-d49ab0f2893b",
+                    "boundaryNum": 1,
+                    "name": "Chandreswar Nagar Particial - Triveni Colony - A1",
+                    "localname": "Chandreswar Nagar Particial - Triveni Colony - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1ca64e8-496c-4113-9f6f-eff3e532a0e6",
+                "boundaryNum": 1,
+                "name": "Durga Mandir",
+                "localname": "Durga Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "002d723d-ebc2-46fa-b932-f4a332a1d090",
+                    "boundaryNum": 1,
+                    "name": "New Chandreshwar Nagar Partcial - Durga Mandir - A1",
+                    "localname": "New Chandreshwar Nagar Partcial - Durga Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "262b3ae6-2b31-4697-96be-b04dcd75aa38",
+                    "boundaryNum": 1,
+                    "name": "Swiss Cotage - Durga Mandir - A1",
+                    "localname": "Swiss Cotage - Durga Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7008d30-271e-4acd-b952-f2c5c68be7cf",
+                    "boundaryNum": 1,
+                    "name": "Dhobi Ghat - Durga Mandir - A1",
+                    "localname": "Dhobi Ghat - Durga Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "370f9453-a574-4df5-ad1c-5571f768cb1a",
+                    "boundaryNum": 1,
+                    "name": "Durga Mandir - Durga Mandir - A1",
+                    "localname": "Durga Mandir - Durga Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "abfc2b22-93e1-4beb-8fee-5c3af95d1196",
+                "boundaryNum": 1,
+                "name": "Bhairav Mandir",
+                "localname": "Bhairav Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "a750ed5c-49b4-4646-b4bc-25409c7b5cb8",
+                    "boundaryNum": 1,
+                    "name": "Bhairav Mandir - Bhairav Mandir - A1",
+                    "localname": "Bhairav Mandir - Bhairav Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28dbcfdd-93d7-4a58-a7ce-1d46122b4b27",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road - Bhairav Mandir - A1",
+                    "localname": "Gaushala Road - Bhairav Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a4019334-22e2-41a4-b3fe-529fe8ff34c4",
+                    "boundaryNum": 1,
+                    "name": "Adasram - Bhairav Mandir - A1",
+                    "localname": "Adasram - Bhairav Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f4adfbf-f726-4d80-b3bf-758cd73e461b",
+                    "boundaryNum": 1,
+                    "name": "Dhanmantri - Bhairav Mandir - A1",
+                    "localname": "Dhanmantri - Bhairav Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eb18ba62-7adc-49b5-bfaa-92154d603938",
+                    "boundaryNum": 1,
+                    "name": "14 Bigha - Bhairav Mandir - A1",
+                    "localname": "14 Bigha - Bhairav Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7016a02e-71c3-4799-a5e2-0f95dffe115a",
+                "boundaryNum": 1,
+                "name": "Pushkar Mandir",
+                "localname": "Pushkar Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "f35e8ef9-98e6-48c5-9be0-8153db38a6b0",
+                    "boundaryNum": 1,
+                    "name": "Kumhar Bada - Pushkar Mandir - A1",
+                    "localname": "Kumhar Bada - Pushkar Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7eb0ec12-71cd-41f5-92da-961cc44f77b4",
+                    "boundaryNum": 1,
+                    "name": "ISBT Road - Pushkar Mandir - A1",
+                    "localname": "ISBT Road - Pushkar Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "561ece07-efbf-4d77-a5ad-c1a228f569b4",
+                    "boundaryNum": 1,
+                    "name": "Sariya Market - Pushkar Mandir - A1",
+                    "localname": "Sariya Market - Pushkar Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2cad6c95-8c14-42b1-8748-521d96f69db4",
+                    "boundaryNum": 1,
+                    "name": "Pushkar Mandir Road - Pushkar Mandir - A1",
+                    "localname": "Pushkar Mandir Road - Pushkar Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fa3017d-cee9-4c70-b06b-e81060dc9b34",
+                    "boundaryNum": 1,
+                    "name": "Ludinda Mandi - Pushkar Mandir - A1",
+                    "localname": "Ludinda Mandi - Pushkar Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6925ba1b-4d6b-4e29-bfeb-f8cedbcc2d3f",
+                "boundaryNum": 1,
+                "name": "Adrash Gram",
+                "localname": "Adrash Gram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "a907cb85-d88c-4aa3-81fd-87d874ca3481",
+                    "boundaryNum": 1,
+                    "name": "ISBT Bus Stand - Adrash Gram - A1",
+                    "localname": "ISBT Bus Stand - Adrash Gram - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c45915d2-dbab-47b2-936b-2800cc0e5e2d",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Gram - Adrash Gram - A1",
+                    "localname": "Adarsh Gram - Adrash Gram - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20391b39-c882-488b-aa95-df6468506133",
+                "boundaryNum": 1,
+                "name": "Mayakund",
+                "localname": "Mayakund",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "58272ab9-3b6d-464d-94fb-aaa62175005b",
+                    "boundaryNum": 1,
+                    "name": "Mayakund - Mayakund - A1",
+                    "localname": "Mayakund - Mayakund - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ff2ca0f-3887-4cbe-85a3-0463714ba0d3",
+                    "boundaryNum": 1,
+                    "name": "Bengali Basti - Mayakund - A1",
+                    "localname": "Bengali Basti - Mayakund - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5482188-7732-46cd-ae54-7052b4de80fa",
+                    "boundaryNum": 1,
+                    "name": "Bihari Basti - Mayakund - A1",
+                    "localname": "Bihari Basti - Mayakund - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "289a9ee4-5c7b-4cfd-97a3-77084d8bebe2",
+                    "boundaryNum": 1,
+                    "name": "kishan Kunj - Mayakund - A1",
+                    "localname": "kishan Kunj - Mayakund - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea145d29-fe63-4075-b3e8-14130f7b11bd",
+                    "boundaryNum": 1,
+                    "name": "Tara Mata Mandir - Mayakund - A1",
+                    "localname": "Tara Mata Mandir - Mayakund - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d31dcd6-30dc-407d-a78c-89fa3e5706ad",
+                "boundaryNum": 1,
+                "name": "Bharat Mandir",
+                "localname": "Bharat Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "666e359a-5411-44e7-8ac9-03421367e7dd",
+                    "boundaryNum": 1,
+                    "name": "Bharat Mandir - Bharat Mandir - A1",
+                    "localname": "Bharat Mandir - Bharat Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7692407a-6448-474d-b89a-4e7b80a37a02",
+                    "boundaryNum": 1,
+                    "name": "Nirmal ashram - Bharat Mandir - A1",
+                    "localname": "Nirmal ashram - Bharat Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b56df035-536d-462f-8bd8-911124a147e2",
+                "boundaryNum": 1,
+                "name": "Mukharjee Marg",
+                "localname": "Mukharjee Marg",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W009",
+                "children": [
+                  {
+                    "id": "6ce34d0b-d826-48e8-9ecf-a6a33b4bfd04",
+                    "boundaryNum": 1,
+                    "name": "Mukharjee Marg - Mukharjee Marg - A1",
+                    "localname": "Mukharjee Marg - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab424138-0424-447d-adb1-de9456a7c0ed",
+                    "boundaryNum": 1,
+                    "name": "Triveni Ghat Road - Mukharjee Marg - A1",
+                    "localname": "Triveni Ghat Road - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6ec7fd28-f787-4575-94ba-4d42154b4e07",
+                    "boundaryNum": 1,
+                    "name": "Punjab Sing Kshetra Dharamshala - Mukharjee Marg - A1",
+                    "localname": "Punjab Sing Kshetra Dharamshala - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bbba00c0-dafb-42e9-9a1b-3bbd10e32d17",
+                    "boundaryNum": 1,
+                    "name": "Ghat Marg - Mukharjee Marg - A1",
+                    "localname": "Ghat Marg - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7954f9fa-2d66-4817-9d96-5ebbb8135dea",
+                    "boundaryNum": 1,
+                    "name": "Purana Post Office Road - Mukharjee Marg - A1",
+                    "localname": "Purana Post Office Road - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d79daf49-55b0-4991-805c-a1d6be46d1f1",
+                    "boundaryNum": 1,
+                    "name": "Jeewani Mai Marg - Mukharjee Marg - A1",
+                    "localname": "Jeewani Mai Marg - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbecf3a1-22ab-47ae-aa1a-4ed97a0c4839",
+                    "boundaryNum": 1,
+                    "name": "Baba Kali Kamli Road - Mukharjee Marg - A1",
+                    "localname": "Baba Kali Kamli Road - Mukharjee Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58e43875-5057-4227-9423-50985a7e5d21",
+                "boundaryNum": 1,
+                "name": "Sadanand Marg",
+                "localname": "Sadanand Marg",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W010",
+                "children": [
+                  {
+                    "id": "f2866438-a188-438f-922c-76b8b804a005",
+                    "boundaryNum": 1,
+                    "name": "Dehradun Road - Sadanand Marg - A1",
+                    "localname": "Dehradun Road - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "716df7f0-c0ee-454e-94d2-9344b5c86e10",
+                    "boundaryNum": 1,
+                    "name": "Vypar Shabha - Sadanand Marg - A1",
+                    "localname": "Vypar Shabha - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0f44110-a620-435c-ae70-c480e4a72dce",
+                    "boundaryNum": 1,
+                    "name": "Thana - Sadanand Marg - A1",
+                    "localname": "Thana - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20a62b64-56aa-4019-8415-c40b3c67561a",
+                    "boundaryNum": 1,
+                    "name": "GGIC - Sadanand Marg - A1",
+                    "localname": "GGIC - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e5f2a6c-5a94-4017-8e09-1a91a99ac507",
+                    "boundaryNum": 1,
+                    "name": "Malviya Road - Sadanand Marg - A1",
+                    "localname": "Malviya Road - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e552390-e85a-4169-b7cb-294774ef2f59",
+                    "boundaryNum": 1,
+                    "name": "Diwadi Hospital - Sadanand Marg - A1",
+                    "localname": "Diwadi Hospital - Sadanand Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ef4a54d-459f-4dd3-82d7-57c7b1fcb765",
+                "boundaryNum": 1,
+                "name": "Ashutosh Nagar",
+                "localname": "Ashutosh Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W011",
+                "children": [
+                  {
+                    "id": "02d206e3-b7f9-4d03-a89e-362abeae1894",
+                    "boundaryNum": 1,
+                    "name": "Ashutosh Nagar - Ashutosh Nagar - A1",
+                    "localname": "Ashutosh Nagar - Ashutosh Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f5b1e53c-92a6-45e7-9e12-ef1a3777c67d",
+                    "boundaryNum": 1,
+                    "name": "Nehru Gram - Ashutosh Nagar - A1",
+                    "localname": "Nehru Gram - Ashutosh Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bc9228a7-48d8-44ae-95da-41789fcb74a3",
+                    "boundaryNum": 1,
+                    "name": "Rishilok Colony - Ashutosh Nagar - A1",
+                    "localname": "Rishilok Colony - Ashutosh Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c772c19-f90f-423a-8a53-9835c3ddcadc",
+                "boundaryNum": 1,
+                "name": "Pragati Vihar",
+                "localname": "Pragati Vihar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W012",
+                "children": [
+                  {
+                    "id": "6ce81593-25d0-4e83-9ab7-652e3c0a3191",
+                    "boundaryNum": 1,
+                    "name": "Tahsheel Kshetra - Pragati Vihar - A1",
+                    "localname": "Tahsheel Kshetra - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0cdd750f-12ad-4d06-997c-17a57cfcd6d5",
+                    "boundaryNum": 1,
+                    "name": "Gas Ajency - Pragati Vihar - A1",
+                    "localname": "Gas Ajency - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c78dcd20-3518-4e6e-b1ae-090ea39d69b8",
+                    "boundaryNum": 1,
+                    "name": "Pragati Vihar - Pragati Vihar - A1",
+                    "localname": "Pragati Vihar - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9336e902-f2a7-4b6a-b66e-dfcdc28df883",
+                    "boundaryNum": 1,
+                    "name": "Shail Vihar - Pragati Vihar - A1",
+                    "localname": "Shail Vihar - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7dcebdde-12e8-4cc9-852f-b2c1f31e2d56",
+                    "boundaryNum": 1,
+                    "name": "Jal Sansthan office - Pragati Vihar - A1",
+                    "localname": "Jal Sansthan office - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f40af51b-40ca-4518-b07d-99fa5e5f8823",
+                    "boundaryNum": 1,
+                    "name": "DGBR Camp - Pragati Vihar - A1",
+                    "localname": "DGBR Camp - Pragati Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa17bc32-552a-4e8a-b5bd-dec2d8717751",
+                "boundaryNum": 1,
+                "name": "Valmiki Nagar",
+                "localname": "Valmiki Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W013",
+                "children": [
+                  {
+                    "id": "3c47ae91-ddba-4ebf-b15e-44abba45fcff",
+                    "boundaryNum": 1,
+                    "name": "Balmiki Nagar - Valmiki Nagar - A1",
+                    "localname": "Balmiki Nagar - Valmiki Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49d56c2c-2311-44af-b015-01f63c20a9bb",
+                    "boundaryNum": 1,
+                    "name": "New Jatav Basti - Valmiki Nagar - A1",
+                    "localname": "New Jatav Basti - Valmiki Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5931a031-2683-4db2-87a7-9e94d878d664",
+                    "boundaryNum": 1,
+                    "name": "Sinchai Vibhag Colony - Valmiki Nagar - A1",
+                    "localname": "Sinchai Vibhag Colony - Valmiki Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "308d95b1-8034-4855-97dd-17ff8f78987d",
+                "boundaryNum": 1,
+                "name": "Subhash Nagar",
+                "localname": "Subhash Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W014",
+                "children": [
+                  {
+                    "id": "34b0d9e6-f834-48b8-bdae-775abd799d5d",
+                    "boundaryNum": 1,
+                    "name": "Subhash Nagar - Subhash Nagar - A1",
+                    "localname": "Subhash Nagar - Subhash Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f611c09-d1bd-4e02-87ff-3bf5444230da",
+                    "boundaryNum": 1,
+                    "name": "PWD Office - Subhash Nagar - A1",
+                    "localname": "PWD Office - Subhash Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89c6877b-9926-477c-8f88-292b961c3753",
+                    "boundaryNum": 1,
+                    "name": "Railway Road Partcial - Subhash Nagar - A1",
+                    "localname": "Railway Road Partcial - Subhash Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b592d950-085f-4d0d-9f5f-97daea23fb32",
+                    "boundaryNum": 1,
+                    "name": "Bankhandi Partcial - Subhash Nagar - A1",
+                    "localname": "Bankhandi Partcial - Subhash Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77a29345-6af4-4fe9-9037-a4bb2918ac7e",
+                "boundaryNum": 1,
+                "name": "Maniram Marg",
+                "localname": "Maniram Marg",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W015",
+                "children": [
+                  {
+                    "id": "4b730485-d695-42f5-9ed8-9b343f870645",
+                    "boundaryNum": 1,
+                    "name": "Adweta Nand Marg - Maniram Marg - A1",
+                    "localname": "Adweta Nand Marg - Maniram Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1bc84b65-a885-4a3f-a4e9-6750617e269e",
+                    "boundaryNum": 1,
+                    "name": "Tilak Road Partcial - Maniram Marg - A1",
+                    "localname": "Tilak Road Partcial - Maniram Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f4bc2b59-eca2-43af-a731-f8ca60ba1b08",
+                    "boundaryNum": 1,
+                    "name": "Arora Dharam Shalal - Maniram Marg - A1",
+                    "localname": "Arora Dharam Shalal - Maniram Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d41b5051-a0b0-416a-80a8-cfc7a7a98aed",
+                "boundaryNum": 1,
+                "name": "Tilak Marg",
+                "localname": "Tilak Marg",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W016",
+                "children": [
+                  {
+                    "id": "e8453b5e-d703-46ec-9296-373e67a4100c",
+                    "boundaryNum": 1,
+                    "name": "Tilak Marg - Tilak Marg - A1",
+                    "localname": "Tilak Marg - Tilak Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "978dd87e-0de7-4905-a044-fe4ae9c42842",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Quarter - Tilak Marg - A1",
+                    "localname": "Nagar Palika Quarter - Tilak Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0063",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "960d855b-0a28-4eca-be31-9975fbc69afb",
+                    "boundaryNum": 1,
+                    "name": "Govind Nagar - Tilak Marg - A1",
+                    "localname": "Govind Nagar - Tilak Marg - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0064",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ad4c823-2dff-43fa-b2f1-8f4655a3ad7c",
+                "boundaryNum": 1,
+                "name": "Ganga Vihar",
+                "localname": "Ganga Vihar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W017",
+                "children": [
+                  {
+                    "id": "5956f8c5-c257-45c3-9300-ec512d156256",
+                    "boundaryNum": 1,
+                    "name": "Ganga Vihar - Ganga Vihar - A1",
+                    "localname": "Ganga Vihar - Ganga Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0065",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cbeb5430-adf5-4e61-aba2-58c371549050",
+                    "boundaryNum": 1,
+                    "name": "Sai Vihar - Ganga Vihar - A1",
+                    "localname": "Sai Vihar - Ganga Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0066",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c5d34c4f-0d32-4de7-adab-f2f2d112eca0",
+                    "boundaryNum": 1,
+                    "name": "Haridwar Road - Ganga Vihar - A1",
+                    "localname": "Haridwar Road - Ganga Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0067",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c6d73c0-7922-448b-a778-0811e55e4de8",
+                    "boundaryNum": 1,
+                    "name": "Veerbhadra Road partcial - Ganga Vihar - A1",
+                    "localname": "Veerbhadra Road partcial - Ganga Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0068",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a3b25bd9-bfbb-4aae-a522-90eb50a6962a",
+                    "boundaryNum": 1,
+                    "name": "Awas Vikas Partcial - Ganga Vihar - A1",
+                    "localname": "Awas Vikas Partcial - Ganga Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0069",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00f8dda1-02d9-4770-995e-9a3036abd71c",
+                "boundaryNum": 1,
+                "name": "Shanti Nagar",
+                "localname": "Shanti Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W018",
+                "children": [
+                  {
+                    "id": "deae5abc-f569-4e16-9745-846a37bac9e3",
+                    "boundaryNum": 1,
+                    "name": "Shanti Nagar - Shanti Nagar - A1",
+                    "localname": "Shanti Nagar - Shanti Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0070",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ba0a6c23-9b8f-4ba0-9f87-56a9649799e2",
+                    "boundaryNum": 1,
+                    "name": "Bankhandi Partcial - Shanti Nagar - A1",
+                    "localname": "Bankhandi Partcial - Shanti Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0071",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b93aa576-44f4-41e9-9888-296054e45852",
+                "boundaryNum": 1,
+                "name": "Someshwar Nagar",
+                "localname": "Someshwar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W019",
+                "children": [
+                  {
+                    "id": "7d2f7c4a-154f-4de5-ad98-e6dd455efa0f",
+                    "boundaryNum": 1,
+                    "name": "Shanti Nagar Partcial - Someshwar Nagar - A1",
+                    "localname": "Shanti Nagar Partcial - Someshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0072",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0770e862-c2f7-478c-bd3a-df5c17f8a371",
+                    "boundaryNum": 1,
+                    "name": "Someshwar Mandir - Someshwar Nagar - A1",
+                    "localname": "Someshwar Mandir - Someshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0073",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1c563b6-e961-42a3-9dc7-2c809ca82caa",
+                    "boundaryNum": 1,
+                    "name": "Dumping Ground Abadi - Someshwar Nagar - A1",
+                    "localname": "Dumping Ground Abadi - Someshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0074",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2230d5a0-2b3b-4fac-9be8-8b4ecd8c1ad9",
+                    "boundaryNum": 1,
+                    "name": "Nirkari Bhwan - Someshwar Nagar - A1",
+                    "localname": "Nirkari Bhwan - Someshwar Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0075",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca95a72e-1430-4385-aa91-6169577da9e3",
+                "boundaryNum": 1,
+                "name": "Ganga Nagar",
+                "localname": "Ganga Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W020",
+                "children": [
+                  {
+                    "id": "0d84ec7e-7fc0-4b75-8e16-5c45dd6b7c70",
+                    "boundaryNum": 1,
+                    "name": "Ganga nagar - Ganga Nagar - A1",
+                    "localname": "Ganga nagar - Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0076",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee80b882-3c6e-4e7a-96a5-a0ceef07bb78",
+                    "boundaryNum": 1,
+                    "name": "Hanumant Puram Colony - Ganga Nagar - A1",
+                    "localname": "Hanumant Puram Colony - Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0077",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "73d14195-148c-4bee-ad3e-d2d7e2a04956",
+                    "boundaryNum": 1,
+                    "name": "Bharat Mandir School - Ganga Nagar - A1",
+                    "localname": "Bharat Mandir School - Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0078",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0346229-308e-4fac-a317-a17ccf7e4925",
+                    "boundaryNum": 1,
+                    "name": "Dgree Collage - Ganga Nagar - A1",
+                    "localname": "Dgree Collage - Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0079",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32b4f5dc-e37a-4ba5-95fc-065a465151b2",
+                "boundaryNum": 1,
+                "name": "Aprar Ganga Nagar",
+                "localname": "Aprar Ganga Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W021",
+                "children": [
+                  {
+                    "id": "813f9131-c002-4f81-8c3a-d44166413b3a",
+                    "boundaryNum": 1,
+                    "name": "Someshwar Nagar - Aprar Ganga Nagar - A1",
+                    "localname": "Someshwar Nagar - Aprar Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0080",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47c4d494-b7b3-48c0-bad7-fe1fa7690f5f",
+                    "boundaryNum": 1,
+                    "name": "Upri Ganga Nagar - Aprar Ganga Nagar - A1",
+                    "localname": "Upri Ganga Nagar - Aprar Ganga Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0081",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc3fead3-4c65-4cae-a65a-27356bfe9eea",
+                "boundaryNum": 1,
+                "name": "Shashtri Nagar",
+                "localname": "Shashtri Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W022",
+                "children": [
+                  {
+                    "id": "6274c974-e35e-4418-ab10-b0c9699fa97f",
+                    "boundaryNum": 1,
+                    "name": "Someshwar Nagar Partcial - Shashtri Nagar - A1",
+                    "localname": "Someshwar Nagar Partcial - Shashtri Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0082",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a16d4ea5-ed55-4827-a4db-8ec6dc141847",
+                    "boundaryNum": 1,
+                    "name": "Shashtri Nagar - Shashtri Nagar - A1",
+                    "localname": "Shashtri Nagar - Shashtri Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0083",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf65ce3f-6c97-4f8e-96f6-01bbd6947693",
+                    "boundaryNum": 1,
+                    "name": "Ugrasen Nagar - Shashtri Nagar - A1",
+                    "localname": "Ugrasen Nagar - Shashtri Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0084",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63e03a40-7396-4145-a740-38b7a2f129dd",
+                    "boundaryNum": 1,
+                    "name": "Nandu Farm - Shashtri Nagar - A1",
+                    "localname": "Nandu Farm - Shashtri Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0085",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "72678f40-97d8-4bd0-beac-ec3340d53312",
+                    "boundaryNum": 1,
+                    "name": "Geeta Nagar Partcial - Shashtri Nagar - A1",
+                    "localname": "Geeta Nagar Partcial - Shashtri Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0086",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16ec5896-b9b5-4d57-8fbb-47b103a8a230",
+                "boundaryNum": 1,
+                "name": "Sarwhara Nagar",
+                "localname": "Sarwhara Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W023",
+                "children": [
+                  {
+                    "id": "8e27535a-783a-4d9e-85dc-10c8746b20af",
+                    "boundaryNum": 1,
+                    "name": "Sarwhara Nagar - Sarwhara Nagar - A1",
+                    "localname": "Sarwhara Nagar - Sarwhara Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0087",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28645f6e-eb89-4908-be90-66e17b1a475a",
+                    "boundaryNum": 1,
+                    "name": "kale ki Dhal - Sarwhara Nagar - A1",
+                    "localname": "kale ki Dhal - Sarwhara Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0088",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f38b695c-bcb8-424f-926e-3ae1a993e439",
+                "boundaryNum": 1,
+                "name": "Bharat Bihar",
+                "localname": "Bharat Bihar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W024",
+                "children": [
+                  {
+                    "id": "914ceb6e-fa33-4b0d-83a0-a233e0528756",
+                    "boundaryNum": 1,
+                    "name": "Bharat Vihar - Bharat Bihar - A1",
+                    "localname": "Bharat Vihar - Bharat Bihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0089",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "518f33ca-106b-4987-8e7a-1fa599e56f53",
+                    "boundaryNum": 1,
+                    "name": "Shiva Enlave - Bharat Bihar - A1",
+                    "localname": "Shiva Enlave - Bharat Bihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0090",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5bdac4c-6fb3-479e-8b47-ca7efe6a4db8",
+                    "boundaryNum": 1,
+                    "name": "Awas Vikas Partcial - Bharat Bihar - A1",
+                    "localname": "Awas Vikas Partcial - Bharat Bihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0091",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe22d9d5-abb4-4dc9-ad68-135c6986ada1",
+                    "boundaryNum": 1,
+                    "name": "Sarwhara Nagar Partcial - Bharat Bihar - A1",
+                    "localname": "Sarwhara Nagar Partcial - Bharat Bihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0092",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dba56780-2aca-49f6-8ea7-5af8a5c6ca81",
+                "boundaryNum": 1,
+                "name": "Awas Vikas",
+                "localname": "Awas Vikas",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W025",
+                "children": [
+                  {
+                    "id": "e3f286c3-6770-4447-8201-e0e560042f1e",
+                    "boundaryNum": 1,
+                    "name": "Awas Vikas Partcial - Awas Vikas - A1",
+                    "localname": "Awas Vikas Partcial - Awas Vikas - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0093",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ae88c3f2-ecf6-4e67-aedb-9480cc677c8e",
+                    "boundaryNum": 1,
+                    "name": "Veerbhadra Road - Awas Vikas - A1",
+                    "localname": "Veerbhadra Road - Awas Vikas - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0094",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "531f1589-5ded-4a11-b28e-c7e1565ef4b1",
+                    "boundaryNum": 1,
+                    "name": "ITBP - Awas Vikas - A1",
+                    "localname": "ITBP - Awas Vikas - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0095",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0ab1ecb1-6aa3-43a9-89e6-f0d1e54ab55d",
+                    "boundaryNum": 1,
+                    "name": "LIC - Awas Vikas - A1",
+                    "localname": "LIC - Awas Vikas - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0096",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17c78d81-a8e4-415d-a7ce-6a49636014f9",
+                "boundaryNum": 1,
+                "name": "Shiwaji Nagar",
+                "localname": "Shiwaji Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W026",
+                "children": [
+                  {
+                    "id": "18e936ad-559c-41d2-9550-1487ef505a25",
+                    "boundaryNum": 1,
+                    "name": "Shiwaji Nagar - Shiwaji Nagar - A1",
+                    "localname": "Shiwaji Nagar - Shiwaji Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0097",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "065842e4-4613-44b6-a5de-55ace2d9bacf",
+                    "boundaryNum": 1,
+                    "name": "AIIMS - Shiwaji Nagar - A1",
+                    "localname": "AIIMS - Shiwaji Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0098",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "249f40e9-154d-4b5e-9909-f4d0d63ec13d",
+                "boundaryNum": 1,
+                "name": "Bairaj Ward",
+                "localname": "Bairaj Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W027",
+                "children": [
+                  {
+                    "id": "071a8cfd-fde6-4e28-82b1-2882f21b23c2",
+                    "boundaryNum": 1,
+                    "name": "Bairaz - Bairaj Ward - A1",
+                    "localname": "Bairaz - Bairaj Ward - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0099",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f3cf75fa-7509-42d0-9d3c-5fe3e26f7751",
+                    "boundaryNum": 1,
+                    "name": "Hidel Colony - Bairaj Ward - A1",
+                    "localname": "Hidel Colony - Bairaj Ward - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0100",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7b226615-196a-4af6-9b13-0e5cc9de3675",
+                    "boundaryNum": 1,
+                    "name": "Sinchai Vibhag Colony - Bairaj Ward - A1",
+                    "localname": "Sinchai Vibhag Colony - Bairaj Ward - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0101",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "458e82b3-40f3-40fb-983e-635b293ada95",
+                "boundaryNum": 1,
+                "name": "Veerbhadra Mandir",
+                "localname": "Veerbhadra Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W028",
+                "children": [
+                  {
+                    "id": "6c659e99-59a0-46c7-98db-0ffcd16fbb70",
+                    "boundaryNum": 1,
+                    "name": "Veerbhadra Marg - Veerbhadra Mandir - A1",
+                    "localname": "Veerbhadra Marg - Veerbhadra Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0102",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "70889cc4-8297-45a4-ac57-4d37c7ebf5f7",
+                    "boundaryNum": 1,
+                    "name": "Seema Dental - Veerbhadra Mandir - A1",
+                    "localname": "Seema Dental - Veerbhadra Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0103",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "09178028-ef93-41e0-a402-9e65734d635f",
+                    "boundaryNum": 1,
+                    "name": "Veerbhadra Mandir - Veerbhadra Mandir - A1",
+                    "localname": "Veerbhadra Mandir - Veerbhadra Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0104",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "88fa2a0f-c0ee-40a8-8d8f-7af89057ce3b",
+                    "boundaryNum": 1,
+                    "name": "Shiwaji Nagar Partcial - Veerbhadra Mandir - A1",
+                    "localname": "Shiwaji Nagar Partcial - Veerbhadra Mandir - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0105",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9cdf0485-0fbe-4031-863f-7b8d124c05d1",
+                "boundaryNum": 1,
+                "name": "20 Bigha",
+                "localname": "20 Bigha",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W029",
+                "children": [
+                  {
+                    "id": "7f80b49d-825c-4e07-99d7-aefd2d8b620d",
+                    "boundaryNum": 1,
+                    "name": "20 Bigha - 20 Bigha - A1",
+                    "localname": "20 Bigha - 20 Bigha - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0106",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "de3e09b4-91b0-4ad9-aeec-1d4c3623a117",
+                "boundaryNum": 1,
+                "name": "Meera Nagar",
+                "localname": "Meera Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W030",
+                "children": [
+                  {
+                    "id": "31590291-4f7b-4e0b-ba48-7b156bf69367",
+                    "boundaryNum": 1,
+                    "name": "Meera nagar - Meera Nagar - A1",
+                    "localname": "Meera nagar - Meera Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0107",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72aa38a9-68ef-46b9-b09e-1e2b90e15bfb",
+                "boundaryNum": 1,
+                "name": "Bapugram",
+                "localname": "Bapugram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W031",
+                "children": [
+                  {
+                    "id": "ec76b1d7-97fc-4179-ab7e-7d98a98420e8",
+                    "boundaryNum": 1,
+                    "name": "Bapu gram, - Bapugram - A1",
+                    "localname": "Bapu gram, - Bapugram - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0108",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6ce8e969-024a-4c6a-9c33-79300b7229dc",
+                    "boundaryNum": 1,
+                    "name": "Panchyat Ghar - Bapugram - A1",
+                    "localname": "Panchyat Ghar - Bapugram - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0109",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce1fde2b-4dc4-4c52-bbd9-4ca103acf01a",
+                "boundaryNum": 1,
+                "name": "Suman Vihar",
+                "localname": "Suman Vihar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W032",
+                "children": [
+                  {
+                    "id": "1f4368ca-eff3-4aef-9df3-3944b9996bf6",
+                    "boundaryNum": 1,
+                    "name": "Bapu Gram - Suman Vihar - A1",
+                    "localname": "Bapu Gram - Suman Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0110",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1d9e0af-af14-48a3-985f-e6134d6d0f79",
+                    "boundaryNum": 1,
+                    "name": "Junior High School - Suman Vihar - A1",
+                    "localname": "Junior High School - Suman Vihar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0111",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "718a9001-81b7-4a4a-9df5-d837fb7429e7",
+                "boundaryNum": 1,
+                "name": "Geeta Nagar",
+                "localname": "Geeta Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W033",
+                "children": [
+                  {
+                    "id": "92bdcf31-f8d3-452d-a0e5-0882d2357c02",
+                    "boundaryNum": 1,
+                    "name": "Geeta Nagar To Railway Crossing - Geeta Nagar - A1",
+                    "localname": "Geeta Nagar To Railway Crossing - Geeta Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0112",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "618f5090-5399-4213-9bc2-69e9ffdbf642",
+                "boundaryNum": 1,
+                "name": "Malviya Nagar",
+                "localname": "Malviya Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W034",
+                "children": [
+                  {
+                    "id": "e88cecc1-7f7c-40cf-bdbb-ef86799d6923",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing To Pashupalan Vibhag - Malviya Nagar - A1",
+                    "localname": "Railway Crossing To Pashupalan Vibhag - Malviya Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0113",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2e15c95f-e9a1-4195-a1bc-a211db050bb3",
+                "boundaryNum": 1,
+                "name": "Amit Gram (East)",
+                "localname": "Amit Gram (East)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W035",
+                "children": [
+                  {
+                    "id": "b37ee527-6d07-4d46-81e3-d7ad63b4ee84",
+                    "boundaryNum": 1,
+                    "name": "Amit Gram - Amit Gram (East) - A1",
+                    "localname": "Amit Gram - Amit Gram (East) - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0114",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26b4347e-2e70-48fa-b074-092b37026546",
+                "boundaryNum": 1,
+                "name": "Amit Gram (West)",
+                "localname": "Amit Gram (West)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W036",
+                "children": [
+                  {
+                    "id": "4e692076-32b3-419e-9018-f98dc81dd55f",
+                    "boundaryNum": 1,
+                    "name": "Amit Gram - Amit Gram (West) - A1",
+                    "localname": "Amit Gram - Amit Gram (West) - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0115",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2a5e9d14-90ae-4a0e-9c18-aa1d085e71a6",
+                    "boundaryNum": 1,
+                    "name": "chini Godam Road - Amit Gram (West) - A1",
+                    "localname": "chini Godam Road - Amit Gram (West) - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0116",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17374e8c-9d7c-45db-8b6d-6fa6e24927d9",
+                    "boundaryNum": 1,
+                    "name": "Forest Road - Amit Gram (West) - A1",
+                    "localname": "Forest Road - Amit Gram (West) - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0117",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f82e3602-b184-4e77-b749-90a6c28c3432",
+                "boundaryNum": 1,
+                "name": "Mansha Devi",
+                "localname": "Mansha Devi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W037",
+                "children": [
+                  {
+                    "id": "a8bdfa52-8bba-42e3-86ab-3c75ec849971",
+                    "boundaryNum": 1,
+                    "name": "Mansha devi - Mansha Devi - A1",
+                    "localname": "Mansha devi - Mansha Devi - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0118",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a5d27e2b-0700-45b8-89c9-ca6457364bbd",
+                    "boundaryNum": 1,
+                    "name": "Gujjar Basti - Mansha Devi - A1",
+                    "localname": "Gujjar Basti - Mansha Devi - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0119",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6401616c-125f-4a36-89f1-e06183b74940",
+                "boundaryNum": 1,
+                "name": "Indira Nagar",
+                "localname": "Indira Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W038",
+                "children": [
+                  {
+                    "id": "931c7e95-91c5-4956-bf1a-c326a880fea2",
+                    "boundaryNum": 1,
+                    "name": "Indira Nagar - Indira Nagar - A1",
+                    "localname": "Indira Nagar - Indira Nagar - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0120",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46c46093-e1c5-487c-8009-27cbc71fe89a",
+                "boundaryNum": 1,
+                "name": "Nehru Gram",
+                "localname": "Nehru Gram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W039",
+                "children": [
+                  {
+                    "id": "f30423de-b8d2-4632-b453-4ef0f90f6876",
+                    "boundaryNum": 1,
+                    "name": "Nehru Gram - Nehru Gram - A1",
+                    "localname": "Nehru Gram - Nehru Gram - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0121",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a4c22e83-11fe-4161-a732-f90b1c654995",
+                "boundaryNum": 1,
+                "name": "T.H.D.C.",
+                "localname": "T.H.D.C.",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W040",
+                "children": [
+                  {
+                    "id": "a9a6e0f8-9c8e-4399-9688-d77e24cc10da",
+                    "boundaryNum": 1,
+                    "name": "THDC - T.H.D.C. - A1",
+                    "localname": "THDC - T.H.D.C. - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0122",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c47822a9-1fe8-4090-b72e-12263650929f",
+                    "boundaryNum": 1,
+                    "name": "Maneri Bhali Colony - T.H.D.C. - A1",
+                    "localname": "Maneri Bhali Colony - T.H.D.C. - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0123",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
