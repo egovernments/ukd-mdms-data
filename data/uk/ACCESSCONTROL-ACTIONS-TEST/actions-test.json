@@ -2533,7 +2533,7 @@
       "url": "/pt-services-v2/property/_create",
       "displayName": "Create property",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2544,7 +2544,7 @@
       "url": "/pt-services-v2/property/_update",
       "displayName": "Update property",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2555,7 +2555,7 @@
       "url": "/pt-services-v2/property/_search",
       "displayName": "Search property",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2567,7 +2567,7 @@
       "displayName": "Draft Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2579,7 +2579,7 @@
       "displayName": "Draft Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2591,7 +2591,7 @@
       "displayName": "Draft Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
@@ -2603,7 +2603,7 @@
       "displayName": "Draft Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
@@ -2615,7 +2615,7 @@
       "displayName": "PropertyTaxCalculation",
       "orderNumber": 0,
       "parentModule": null,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
@@ -2627,7 +2627,7 @@
       "displayName": "PropertyTaxEstimates",
       "orderNumber": 0,
       "parentModule": null,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
@@ -2639,7 +2639,7 @@
       "displayName": "PropertyTaxGetBill",
       "orderNumber": 2,
       "parentModule": null,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
@@ -2651,7 +2651,7 @@
       "displayName": "Draft Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
@@ -2699,7 +2699,7 @@
       "displayName": "bill apportion",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "proeprtytax",
       "code": "null",
       "path": ""
@@ -2711,7 +2711,7 @@
       "displayName": "Billing Slab Update",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
@@ -2722,7 +2722,7 @@
       "url": "/report/rainmaker-pt/_get",
       "displayName": "PT Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PROPERTYREPORTS",
       "code": "null",
       "path": "Property Report"
@@ -2733,7 +2733,7 @@
       "url": "/report/rainmaker-pt/metadata/_get",
       "displayName": "PT Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PROPERTYREPORTS",
       "code": "null",
       "path": "Property Report"
