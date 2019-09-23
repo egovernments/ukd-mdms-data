@@ -1,21 +1,30 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "OwnerShipCategory":
-  [
+  "OwnerShipCategory": [
     {
-      "name": "Individual(s)",
+      "name": "Individual",
       "code": "INDIVIDUAL",
       "active": true
     },
     {
-      "name": "Institutional - Private",
-      "code": "INSTITUTIONALPRIVATE",
+      "name": "Company",
+      "code": "COMPANY",
       "active": true
     },
     {
-      "name": "Institutional - Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "name": "Society",
+      "code": "SOCIETY",
+      "active": true
+    },
+    {
+      "name": "Trust",
+      "code": "TRUST",
+      "active": true
+    },
+    {
+      "name": "Government",
+      "code": "GOVERNMENT",
       "active": true
     }
   ]
