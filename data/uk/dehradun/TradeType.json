@@ -1,0 +1,106 @@
+{
+  "tenantId": "uk.dehradun",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.PETROLEUM.PDB",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "ALMOP"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.SHOP.COAL",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.BNQH",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "MDDACTR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.FM",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "TL_GSTCTR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.INDUSTRY.BS",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "TL_GSTCTR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "TL_POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.HWK",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "TL_POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.SHOP.LOUD",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "PLETTER"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.SHOP.HWK",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "TL_POLICE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.PETROLEUM.KSAR",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "TL_CTRECEIPT"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
+  ]
+}
