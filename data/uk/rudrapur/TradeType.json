@@ -1,0 +1,246 @@
+{
+  "tenantId": "uk.rudrapur",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.SHOP.RYC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.WORKSHOP.FAB",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.OTH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.REST.RESTS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "FOODLICENSE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.FTVEG",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-FOODLICENSE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.100H",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.BANK.RFINC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.RFLS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.LIQUOR.RCLG",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.REST.BAC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE-FOODLICENSE"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.STREETVENDOR.RTEAS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.NH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.RPC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.HOTELS.MRGH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.BANK.RINSC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.RXRYC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.SHOP.WASH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.10HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.20HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.POWER.50HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.RPVTC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.NTC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PH20B",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "TRADE.MEDICAL.PHA20",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
+  ]
+}
