@@ -3,300 +3,379 @@
   "moduleName": "PropertyTax",
   "UsageCategoryDetail": [
     {
-      "name": "Showroom",
-      "code": "SHOWROOM",
-      "usageCategorySubMinor": "RETAIL",
+      "code": "CATDET01",
+      "name": "Residential",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
       "active": true,
-      "fromFY": "2013-14"
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
+      "code": "CATDET02",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel Paying Guest House up to 10 rooms (without air-conditioned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET03",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel more than 10 rooms (non air-conditioned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 4,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET04",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All Hotel / Paying guest house (air conditioned) up to 3 star facility",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET05",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel 4 Star and Above, Bars, Pubs, Restaurants Maybar and Club Maybar",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET06",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Charitable Dharamshala / Ashram / Hotel where room rent rate is Rs. 200 per day or more or who are using electricity at commercial rates.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET07",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
       "name": "Malls",
-      "code": "MALLS",
-      "usageCategorySubMinor": "RETAIL",
       "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Establishments (In Malls)",
-      "code": "ESTABLISHMENTSINMALLS",
-      "usageCategorySubMinor": "RETAIL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Establishments (In Multiplex)",
-      "code": "ESTABLISHMENTSINMULTIPLEX",
-      "usageCategorySubMinor": "RETAIL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Grocery Store",
-      "code": "GROCERY",
-      "usageCategorySubMinor": "RETAIL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Pharmacy",
-      "code": "PHARMACY",
-      "usageCategorySubMinor": "RETAIL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "AC Restaurant",
-      "code": "ACRESTAURANT",
-      "usageCategorySubMinor": "FOODJOINTS",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Non AC Restaurant",
-      "code": "NONACRESTAURANT",
-      "usageCategorySubMinor": "FOODJOINTS",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Marriage Palace",
-      "code": "MARRIAGEPALACE",
-      "usageCategorySubMinor": "EVENTSPACE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Multiplex ",
-      "code": "MULTIPLEX",
-      "usageCategorySubMinor": "ENTERTAINMENT",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Movie Theatre",
-      "code": "MOVIETHEATRE",
-      "usageCategorySubMinor": "ENTERTAINMENT",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Statutory Organisation",
-      "code": "STATUTORYORGANISATION",
-      "usageCategorySubMinor": "STATUTORY",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Private Hospital",
-      "code": "PVTHOSPITAL",
-      "usageCategorySubMinor": "MEDICALFACILITY",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Private Dispensary",
-      "code": "PVTDISPENSARY",
-      "usageCategorySubMinor": "MEDICALFACILITY",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Other Commercial Usage ",
-      "code": "OTHERCOMMERCIAL",
-      "usageCategorySubMinor": "OTHERCOMMERCIALSUBMINOR",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Godown/Warehouse",
-      "code": "WAREHOUSE",
-      "usageCategorySubMinor": "WAREHOUSE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Manufacturing Facility",
-      "code": "MANUFACTURINGFACILITY",
-      "usageCategorySubMinor": "MANUFACTURINGFACILITY",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Other Industrial Usage",
-      "code": "OTHERINDUSTRIAL",
-      "usageCategorySubMinor": "OTHERINDUSTRIALSUBMINOR",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "School",
-      "code": "SCHOOL",
-      "usageCategorySubMinor": "EDUCATIONAL",
-      "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
       "exemption": {
-        "rate": 50,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "College",
-      "code": "COLLEGES",
-      "usageCategorySubMinor": "EDUCATIONAL",
+      "code": "CATDET08",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls up to 100 sqft",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
       "exemption": {
-        "rate": 50,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "Training Institute",
-      "code": "TRAININGINSTITUTES",
-      "usageCategorySubMinor": "EDUCATIONAL",
+      "code": "CATDET09",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls 100 sq ft to 200 sq ft",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
       "exemption": {
-        "rate": 50,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "Polytechnic",
-      "code": "POLYTECHNICS",
-      "usageCategorySubMinor": "EDUCATIONAL",
+      "code": "CATDET10",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls from 200 sq ft to 500",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 4,
       "exemption": {
-        "rate": 50,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "Other Private Educational Institute",
-      "code": "OTHEREDUCATIONAL",
-      "usageCategorySubMinor": "EDUCATIONAL",
+      "code": "CATDET11",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls over 500 sqft",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
       "exemption": {
-        "rate": 50,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "Govt. Aided Educational Institute",
-      "code": "GOVAIDEDEDUCATIONAL",
-      "usageCategorySubMinor": "EDUCATIONALGOVAIDED",
+      "code": "CATDET12",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Clinic (used for medical consultation only)",
       "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Others",
-      "code": "OTHERINSTITUTIONAL",
-      "usageCategorySubMinor": "OTHERINSTITUTIONALSUBMINOR",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Sports Stadium",
-      "code": "SPORTSSTADIUM",
-      "usageCategorySubMinor": "RECREATIONAL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Social Club",
-      "code": "SOCIALCLUB",
-      "usageCategorySubMinor": "RECREATIONAL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Golf Club ",
-      "code": "GOLFCLUB",
-      "usageCategorySubMinor": "RECREATIONAL",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Orphanage",
-      "code": "ORPHANAGE",
-      "usageCategorySubMinor": "HOMESFORSPECIALCARE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Old Age Homes",
-      "code": "OLDAGEHOMES",
-      "usageCategorySubMinor": "HOMESFORSPECIALCARE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Home for the disabled / destitute",
-      "code": "DISABLEDHOME",
-      "usageCategorySubMinor": "HOMESFORSPECIALCARE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Stray Animal Care Center",
-      "code": "ANIMALCARE",
-      "usageCategorySubMinor": "HOMESFORSPECIALCARE",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Community Hall",
-      "code": "COMMUNITYHALL",
-      "usageCategorySubMinor": "PUBLICFACILITY",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
-      "name": "Govt. Hospital & Dispensary",
-      "code": "GOVTHOSPITAL",
-      "usageCategorySubMinor": "PUBLICFACILITY",
-      "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
       "exemption": {
-        "rate": 100,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
     },
     {
-      "name": "Religious",
-      "code": "RELIGIOUS",
-      "usageCategorySubMinor": "RELIGIOUSINSTITUITION",
+      "code": "CATDET13",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hospitals / Nursing Homes, Polyclinics, Diagnostic Center Medical Stores, Paryogashalaye, Sawastha, Attendant Center etc.",
       "active": true,
-      "fromFY": "2013-14"
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
-      "name": "Historical Building",
-      "code": "HISTORICAL",
-      "usageCategorySubMinor": "HISTORICAL",
+      "code": "CATDET14",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Sports Center, Gym, Body Health Center, Fitness Center, Manoranjan Center, Theater and Cinema Hall",
       "active": true,
-      "fromFY": "2013-14"
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
-      "name": "Public Libraries",
-      "code": "LIBRARIES",
-      "usageCategorySubMinor": "PUBLICFACILITY",
+      "code": "CATDET15",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of schools, colleges and education centers with no hostel facilities (except state owned)",
       "active": true,
-      "fromFY": "2013-14"
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
-      "name": "Cremation/ Burial Ground",
-      "code": "CREMATION/BURIAL",
-      "usageCategorySubMinor": "PUBLICSPACES",
+      "code": "CATDET16",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of hostel facility schools, colleges and education centers (except state owned)",
       "active": true,
-      "fromFY": "2013-14"
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET17",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Petrol Pump, Gas Agency, Depot",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET18",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Community Building, Wedding House, Wedding Point, Kalyan Mandap, Ware House, Warehouse, Club etc.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET19",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Full service essential stalls related to business (find, vegetable-fruit, hairdresser, cobbler, cycle-rickshaw / two wheeler mechanic)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1.1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET20",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of commercial Bhavana showrooms, Bank office coaching & training institutes, ATMs",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET21",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Mobile towers in the building, all layers and undertakings of the state government, central government, which are engaged in commercial, business and financial activities",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET22",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units small",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET23",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units medium",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET24",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units broad",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "CATDET25",
+      "usageCategorySubMinor": null,
+      "usageCategoryMinor": "OTHERS",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of non-residential buildings which do not fall under the above categories",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
   ]
 }
