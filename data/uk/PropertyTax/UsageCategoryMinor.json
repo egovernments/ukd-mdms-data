@@ -1,12 +1,24 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "UsageCategoryMinor":  [
+  "UsageCategoryMinor": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
         "rate": 0,
@@ -18,7 +30,7 @@
       "name": "Industrial",
       "code": "INDUSTRIAL",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
         "rate": 0,
@@ -30,7 +42,7 @@
       "name": "Institutional",
       "code": "INSTITUTIONAL",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
         "rate": 0,
@@ -39,13 +51,13 @@
       }
     },
     {
-      "name": "Others",
+      "name": "Others(Non-residential)",
       "code": "OTHERS",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
-        "rate": 100,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
