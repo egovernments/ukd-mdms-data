@@ -6,9 +6,9 @@
       "name": "Freedom Fighter",
       "code": "FREEDOMFIGHTER",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "exemption": {
-        "rate": 100,
+        "rate": null,
         "maxAmount": null,
         "flatAmount": null
       }
@@ -17,51 +17,34 @@
       "name": "Widow",
       "code": "WIDOW",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "exemption": {
         "rate": null,
         "maxAmount": null,
-        "flatAmount": 5000.0
+        "flatAmount": null
       }
     },
     {
-      "name": "Handicapped Person",
+      "name": "Handicapped Persons",
       "code": "HANDICAPPED",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "exemption": {
         "rate": null,
         "maxAmount": null,
-        "flatAmount": 5000.0
-      }
-    },
-    {
-      "name": "Below Poverty Line",
-      "code": "BPL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100.0,
-        "maxAmount": null,
         "flatAmount": null
       }
     },
     {
-      "name": "Defense Personnell",
+      "name": "Defense Personnel",
       "code": "DEFENSE",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
         "flatAmount": null
       }
-    },
-    {
-      "name": "Not Applicable",
-      "code": "NONE",
-      "active": true,
-      "fromFY": "2013-14"
     }
   ]
 }
