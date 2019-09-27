@@ -5,6 +5,9 @@
     {
       "name": "Freedom Fighter",
       "code": "FREEDOMFIGHTER",
+      "ownerTypeDocument": [
+        "COMPETENTAUTHORITY"
+      ],
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
@@ -16,6 +19,10 @@
     {
       "name": "Widow",
       "code": "WIDOW",
+      "ownerTypeDocument": [
+        "DEATHCERTIFICATE",
+        "SPOUSEPROOF"
+      ],
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
@@ -27,6 +34,9 @@
     {
       "name": "Handicapped Persons",
       "code": "HANDICAPPED",
+      "ownerTypeDocument": [
+        "HANDICAPCERTIFICATE"
+      ],
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
@@ -38,6 +48,23 @@
     {
       "name": "Defense Personnel",
       "code": "DEFENSE",
+      "ownerTypeDocument": [
+        "DEFENCEID"
+      ],
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Government",
+      "code": "GVT",
+      "ownerTypeDocument": [
+        "SELFDECLR"
+      ],
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
