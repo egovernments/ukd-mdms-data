@@ -3,11 +3,13 @@
   "moduleName": "PropertyTax",
   "UsageCategorySubMinor": [
     {
-      "name": "Retail",
-      "code": "RETAIL",
+      "code": "SUBMNR01",
+      "name": "Residential",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
       "active": true,
-      "fromFY": "2013-14",
-      "usageCategoryMinor": "COMMERCIAL",
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -15,11 +17,13 @@
       }
     },
     {
-      "name": "Hotels",
-      "code": "HOTELS",
+      "code": "SUBMNR02",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel Paying Guest House up to 10 rooms (without air-conditioned)",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -27,11 +31,13 @@
       }
     },
     {
-      "name": "Office Space",
-      "code": "OFFICESPACE",
+      "code": "SUBMNR03",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel more than 10 rooms (non air-conditioned)",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 4,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -39,11 +45,13 @@
       }
     },
     {
-      "name": "Event Space ",
-      "code": "EVENTSPACE",
+      "code": "SUBMNR04",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All Hotel / Paying guest house (air conditioned) up to 3 star facility",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -51,11 +59,13 @@
       }
     },
     {
-      "name": "Food Joints",
-      "code": "FOODJOINTS",
+      "code": "SUBMNR05",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel 4 Star and Above, Bars, Pubs, Restaurants Maybar and Club Maybar",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -63,11 +73,13 @@
       }
     },
     {
-      "name": "Statutory",
-      "code": "STATUTORY",
+      "code": "SUBMNR06",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Charitable Dharamshala / Ashram / Hotel where room rent rate is Rs. 200 per day or more or who are using electricity at commercial rates.",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -75,11 +87,13 @@
       }
     },
     {
-      "name": "Entertainment",
-      "code": "ENTERTAINMENT",
+      "code": "SUBMNR07",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Malls",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -87,11 +101,13 @@
       }
     },
     {
-      "name": "Medical Facility",
-      "code": "MEDICALFACILITY",
+      "code": "SUBMNR08",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls up to 100 sqft",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -99,11 +115,13 @@
       }
     },
     {
-      "name": "Other Commercial Usage ",
-      "code": "OTHERCOMMERCIALSUBMINOR",
+      "code": "SUBMNR09",
       "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls 100 sq ft to 200 sq ft",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -111,11 +129,181 @@
       }
     },
     {
-      "name": "Godown / Warehouse",
-      "code": "WAREHOUSE",
+      "code": "SUBMNR10",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls from 200 sq ft to 500",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 4,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR11",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls over 500 sqft",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR12",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Clinic (used for medical consultation only)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR13",
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hospitals / Nursing Homes, Polyclinics, Diagnostic Center Medical Stores, Paryogashalaye, Sawastha, Attendant Center etc.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR14",
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Sports Center, Gym, Body Health Center, Fitness Center, Manoranjan Center, Theater and Cinema Hall",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR15",
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of schools, colleges and education centers with no hostel facilities (except state owned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR16",
+      "usageCategoryMinor": "INSTITUTIONAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of hostel facility schools, colleges and education centers (except state owned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR17",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Petrol Pump, Gas Agency, Depot",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR18",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Community Building, Wedding House, Wedding Point, Kalyan Mandap, Ware House, Warehouse, Club etc.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR19",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Full service essential stalls related to business (find, vegetable-fruit, hairdresser, cobbler, cycle-rickshaw / two wheeler mechanic)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1.1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR20",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of commercial Bhavana showrooms, Bank office coaching & training institutes, ATMs",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR21",
+      "usageCategoryMinor": "COMMERCIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Mobile towers in the building, all layers and undertakings of the state government, central government, which are engaged in commercial, business and financial activities",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR22",
       "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units small",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -123,11 +311,13 @@
       }
     },
     {
-      "name": "Manufacturing Facility",
-      "code": "MANUFACTURINGFACILITY",
+      "code": "SUBMNR23",
       "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units medium",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -135,11 +325,13 @@
       }
     },
     {
-      "name": "Other Industrial Usage ",
-      "code": "OTHERINDUSTRIALSUBMINOR",
+      "code": "SUBMNR24",
       "usageCategoryMinor": "INDUSTRIAL",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units broad",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
@@ -147,121 +339,15 @@
       }
     },
     {
-      "name": "Educational",
-      "code": "EDUCATIONAL",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Educational(govt. aided)",
-      "code": "EDUCATIONALGOVAIDED",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Recreational Space",
-      "code": "RECREATIONAL",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Others(care giving facilities)",
-      "code": "HOMESFORSPECIALCARE",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Religious Instituition",
-      "code": "RELIGIOUSINSTITUTION",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Stray Animal Care Center",
-      "code": "ANIMALCARE",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Historical Building",
-      "code": "HISTORICAL",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Public Facility",
-      "code": "PUBLICFACILITY",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Other Institutional Usage ",
-      "code": "OTHERINSTITUTIONALSUBMINOR",
-      "usageCategoryMinor": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2013-14",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Public Spaces",
-      "code": "PUBLICSPACES",
+      "code": "SUBMNR25",
       "usageCategoryMinor": "OTHERS",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of non-residential buildings which do not fall under the above categories",
       "active": true,
-      "fromFY": "2013-14",
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
       "exemption": {
-        "rate": 100,
+        "rate": 0,
         "maxAmount": 0,
         "flatAmount": 0
       }
