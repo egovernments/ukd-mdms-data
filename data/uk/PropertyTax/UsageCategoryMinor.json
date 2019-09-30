@@ -7,60 +7,14 @@
       "code": "RESIDENTIAL",
       "active": true,
       "fromFY": "2014-15",
-      "usageCategoryMajor": "RESIDENTIAL",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
+      "usageCategoryMajor": "RESIDENTIAL"
     },
     {
-      "name": "Commercial",
-      "code": "COMMERCIAL",
+      "name": "Non-residential",
+      "code": "NONRESIDENTIAL",
       "active": true,
       "fromFY": "2014-15",
-      "usageCategoryMajor": "NONRESIDENTIAL",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Industrial",
-      "code": "INDUSTRIAL",
-      "active": true,
-      "fromFY": "2014-15",
-      "usageCategoryMajor": "NONRESIDENTIAL",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Institutional",
-      "code": "INSTITUTIONAL",
-      "active": true,
-      "fromFY": "2014-15",
-      "usageCategoryMajor": "NONRESIDENTIAL",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
-      "name": "Others(Non-residential)",
-      "code": "OTHERS",
-      "active": true,
-      "fromFY": "2014-15",
-      "usageCategoryMajor": "NONRESIDENTIAL",
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
+      "usageCategoryMajor": "NONRESIDENTIAL"
     }
   ]
 }
