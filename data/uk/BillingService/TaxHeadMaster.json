@@ -68,6 +68,24 @@
     {
       "category": "TAX",
       "service": "PT",
+      "name": "PT one time penalty",
+      "code": "PT_ONE_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "PT one time rebate",
+      "code": "PT_ONE_TIME_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
       "name": "Pt fire cess",
       "code": "PT_FIRE_CESS",
       "isDebit": false,
