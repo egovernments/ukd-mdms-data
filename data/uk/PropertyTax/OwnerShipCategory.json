@@ -1,114 +1,32 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "SubOwnerShipCategory": [
+  "OwnerShipCategory":
+  [
     {
-      "name": "Single Owner",
-      "code": "SO",
-      "active": true,
-      "ownerShipCategory": "INDIVIDUAL"
+      "name": "Individual(s)",
+      "code": "INDIVIDUAL",
+      "active": true
     },
     {
-      "name": "Multiple Owner",
-      "code": "MO",
-      "active": true,
-      "ownerShipCategory": "INDIVIDUAL"
+      "name": "Company",
+      "code": "COMPANY",
+      "active": true
     },
     {
-      "name": "Proprietorship",
-      "code": "PROP",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
+      "name": "Society",
+      "code": "SOCIETY",
+      "active": true
     },
     {
-      "name": "One Person Company",
-      "code": "OPC",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
+      "name": "Trust",
+      "code": "TRUST",
+      "active": true
     },
     {
-      "name": "Partnership Firm",
-      "code": "PRF",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
-    },
-    {
-      "name": "Limited Liability Partnership",
-      "code": "LLP",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
-    },
-    {
-      "name": "Private Limited Company",
-      "code": "PRLC",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
-    },
-    {
-      "name": "Public Limited Company",
-      "code": "PULC",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
-    },
-    {
-      "name": "Section 8 Company",
-      "code": "SEC",
-      "active": true,
-      "ownerShipCategory": "COMPANY"
-    },
-    {
-      "name": "Housing Society",
-      "code": "HSS",
-      "active": true,
-      "ownerShipCategory": "SOCIETY"
-    },
-    {
-      "name": "Self Help Group",
-      "code": "SHG",
-      "active": true,
-      "ownerShipCategory": "SOCIETY"
-    },
-    {
-      "name": "Private Trust",
-      "code": "PVT",
-      "active": true,
-      "ownerShipCategory": "TRUST"
-    },
-    {
-      "name": "Public Trust",
-      "code": "PUBT",
-      "active": true,
-      "ownerShipCategory": "TRUST"
-    },
-    {
-      "name": "Religious Trust",
-      "code": "RLGT",
-      "active": true,
-      "ownerShipCategory": "TRUST"
-    },
-    {
-      "name": "State Government",
-      "code": "SGVT",
-      "active": true,
-      "ownerShipCategory": "GOVERNMENT"
-    },
-    {
-      "name": "Central Government",
-      "code": "CGVT",
-      "active": true,
-      "ownerShipCategory": "GOVERNMENT"
-    },
-    {
-      "name": "Urban Local Government",
-      "code": "ULGVT",
-      "active": true,
-      "ownerShipCategory": "GOVERNMENT"
-    },
-    {
-      "name": "Rural Local Government",
-      "code": "RLGVT",
-      "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "name": "Government",
+      "code": "GOVERNMENT",
+      "active": true
     }
   ]
 }
