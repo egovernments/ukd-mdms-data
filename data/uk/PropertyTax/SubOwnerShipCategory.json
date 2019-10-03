@@ -1,73 +1,114 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "SubOwnerShipCategory":
-  [
+  "SubOwnerShipCategory": [
     {
       "name": "Single Owner",
-      "code": "SINGLEOWNER",
+      "code": "SO",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
-      "name": "Multiple Owners",
-      "code": "MULTIPLEOWNERS",
+      "name": "Multiple Owner",
+      "code": "MO",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
-      "name": "Private Company",
-      "code": "PRIVATECOMPANY",
+      "name": "Proprietorship",
+      "code": "PROP",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "COMPANY"
     },
     {
-      "name": "NGO",
-      "code": "NGO",
+      "name": "One Person Company",
+      "code": "OPC",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "COMPANY"
     },
     {
-      "name": "Private Trust/Society",
-      "code": "PRIVATETRUST",
+      "name": "Partnership Firm",
+      "code": "PRF",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "COMPANY"
     },
     {
-      "name": "Private Board",
-      "code": "PRIVATEBOARD",
+      "name": "Limited Liability Partnership",
+      "code": "LLP",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "COMPANY"
     },
     {
-      "name": "ULB Government",
-      "code": "ULBGOVERNMENT",
+      "name": "Private Limited Company",
+      "code": "PRLC",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+      "ownerShipCategory": "COMPANY"
+    },
+    {
+      "name": "Public Limited Company",
+      "code": "PULC",
+      "active": true,
+      "ownerShipCategory": "COMPANY"
+    },
+    {
+      "name": "Section 8 Company",
+      "code": "SEC",
+      "active": true,
+      "ownerShipCategory": "COMPANY"
+    },
+    {
+      "name": "Housing Society",
+      "code": "HSS",
+      "active": true,
+      "ownerShipCategory": "SOCIETY"
+    },
+    {
+      "name": "Self Help Group",
+      "code": "SHG",
+      "active": true,
+      "ownerShipCategory": "SOCIETY"
+    },
+    {
+      "name": "Private Trust",
+      "code": "PVT",
+      "active": true,
+      "ownerShipCategory": "TRUST"
+    },
+    {
+      "name": "Public Trust",
+      "code": "PUBT",
+      "active": true,
+      "ownerShipCategory": "TRUST"
+    },
+    {
+      "name": "Religious Trust",
+      "code": "RLGT",
+      "active": true,
+      "ownerShipCategory": "TRUST"
     },
     {
       "name": "State Government",
-      "code": "STATEGOVERNMENT",
+      "code": "SGVT",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+      "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Central Government",
-      "code": "CENTRALGOVERNMENT",
+      "code": "CGVT",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+      "ownerShipCategory": "GOVERNMENT"
     },
     {
-      "name": "Others - Private Instituition",
-      "code": "OTHERSPRIVATEINSTITUITION",
+      "name": "Urban Local Government",
+      "code": "ULGVT",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "GOVERNMENT"
     },
     {
-      "name": "Others - Government Instituition",
-      "code": "OTHERGOVERNMENTINSTITUITION",
+      "name": "Rural Local Government",
+      "code": "RLGVT",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+      "ownerShipCategory": "GOVERNMENT"
     }
   ]
 }
