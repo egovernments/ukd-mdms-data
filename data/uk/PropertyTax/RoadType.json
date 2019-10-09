@@ -1,0 +1,25 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "RoadType":
+  [
+    {
+      "id": "1",
+      "name": "Less than 12 meters in width",
+      "code": "RD1",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "From 12 meters to 24 meters in width",
+      "code": "RD2",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "More than 24 meters in width",
+      "code": "RD3",
+      "active": true
+    }
+  ]
+}
