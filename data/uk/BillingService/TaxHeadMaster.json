@@ -5,6 +5,15 @@
     {
       "category": "TAX",
       "service": "PT",
+      "name": "Pt late assessment penalty",
+      "code": "PT_LATE_ASSESSMENT_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
       "isDebit": true,
