@@ -3,7 +3,7 @@
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt late assessment penalty",
       "code": "PT_LATE_ASSESSMENT_PENALTY",
@@ -48,7 +48,7 @@
       "order": 0
     },
     {
-      "category": "TAX",
+      "category": "EXEMPTION",
       "service": "PT",
       "name": "Pt unit usage excemption",
       "code": "PT_UNIT_USAGE_EXEMPTION",
@@ -57,7 +57,7 @@
       "order": 0
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
@@ -111,7 +111,7 @@
       "order": 2
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
