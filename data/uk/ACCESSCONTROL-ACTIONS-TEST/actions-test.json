@@ -5432,6 +5432,21 @@
       "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1809,
+      "name": "StateULBReport",
+      "url": "url",
+      "displayName": "ULB State Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Trade License.TL Reports.StateULBReport",
+      "navigationURL": "report/rainmaker-tl/StateULBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
