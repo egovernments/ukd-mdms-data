@@ -4,109 +4,109 @@
   "SubOwnerShipCategory": [
     {
       "name": "Single Owner",
-      "code": "SO",
+      "code": "SINGLEOWNER",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owner",
-      "code": "MO",
+      "code": "MULTIPLEOWNERS",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Proprietorship",
-      "code": "PROP",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "One Person Company",
-      "code": "OPC",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Partnership Firm",
-      "code": "PRF",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Limited Liability Partnership",
-      "code": "LLP",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Private Limited Company",
-      "code": "PRLC",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Public Limited Company",
-      "code": "PULC",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Section 8 Company",
-      "code": "SEC",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Housing Society",
-      "code": "HSS",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "SOCIETY"
     },
     {
       "name": "Self Help Group",
-      "code": "SHG",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "SOCIETY"
     },
     {
       "name": "Private Trust",
-      "code": "PVT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "Public Trust",
-      "code": "PUBT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "Religious Trust",
-      "code": "RLGT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "State Government",
-      "code": "SGVT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Central Government",
-      "code": "CGVT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Urban Local Government",
-      "code": "ULGVT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Rural Local Government",
-      "code": "RLGVT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true,
       "ownerShipCategory": "GOVERNMENT"
     }
