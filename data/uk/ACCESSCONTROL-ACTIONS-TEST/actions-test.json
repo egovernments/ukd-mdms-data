@@ -4160,7 +4160,7 @@
     },
     {
       "id": 1704,
-      "name": "Receipt Register",
+      "name": "TradeLicenseRegistryReport",
       "url": "url",
       "displayName": "Receipt Register",
       "orderNumber": 2,
@@ -5437,7 +5437,7 @@
       "id": 1809,
       "name": "StateULBReport",
       "url": "url",
-      "displayName": "ULB State Report",
+      "displayName": "StateULB Report",
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
@@ -5447,6 +5447,18 @@
       "navigationURL": "report/rainmaker-tl/StateULBReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1810,
+      "name": "egov-searcheropensearch",
+      "url": "/egov-searcher/tl-searcher/opensearch/_get",
+      "displayName": "egov-searcher Open Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "filestore url",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
