@@ -5447,6 +5447,18 @@
       "navigationURL": "report/rainmaker-tl/StateULBReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1810,
+      "name": "egov-searcheropensearch",
+      "url": "/egov-searcher/tl-searcher/opensearch/_get",
+      "displayName": "egov-searcher Open Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "filestore url",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
