@@ -6578,11 +6578,17 @@
       "actioncode": "",
       "tenantId": "uk"
     },
-     {
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1809,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1566,
+      "actioncode": "",
+      "tenantid": "uk"
     },
     {
 
@@ -6597,5 +6603,6 @@
       "actioncode": "",
       "tenantId": "uk"
     }
+    
   ]
 }
