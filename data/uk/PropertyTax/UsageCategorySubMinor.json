@@ -3,20 +3,6 @@
   "moduleName": "PropertyTax",
   "UsageCategorySubMinor": [
     {
-      "code": "SUBMNR01",
-      "name": "Residential",
-      "usageCategoryMinor": "RESIDENTIAL",
-      "usageCategoryMajor": "RESIDENTIAL",
-      "active": true,
-      "fromFY": "2014-15",
-      "ARVFactor": 1,
-      "exemption": {
-        "rate": 0,
-        "maxAmount": 0,
-        "flatAmount": 0
-      }
-    },
-    {
       "code": "SUBMNR02",
       "usageCategoryMinor": "NONRESIDENTIAL",
       "usageCategoryMajor": "NONRESIDENTIAL",
@@ -346,6 +332,76 @@
       "active": true,
       "fromFY": "2014-15",
       "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR26",
+      "name": "Rooms",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR27",
+      "name": "Balcony, Corridor, Kitchen, and Store Room",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0.5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR28",
+      "name": "Garage",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0.25,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR29",
+      "name": "Bathroom and Staircase",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR30",
+      "name": "Complete Floor/ Portion of building",
+      "usageCategoryMinor": "RESIDENTIAL",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
       "exemption": {
         "rate": 0,
         "maxAmount": 0,
