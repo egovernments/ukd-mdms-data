@@ -4063,6 +4063,19 @@
       "path": "Trade License.Application"
     },
     {
+      "id": 1692,
+      "name": "TradeLicenseApplication",
+      "url": "url",
+      "displayName": "Application",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "navigationURL": "tradelicence/apply",
+      "path": "Trade License.Application"
+    },
+    {
       "id": 1694,
       "name": "Cancel Voucher",
       "url": "/services/EGF/rest/voucher/_cancel",
