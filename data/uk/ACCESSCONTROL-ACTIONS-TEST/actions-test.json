@@ -5472,6 +5472,21 @@
       "serviceCode": "filestore url",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1811,
+      "name": "TLDashboard",
+      "url": "url",
+      "displayName": "Trade License",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.TLDashboard",
+      "navigationURL": "integration/dashboard/TLDashboard",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
