@@ -4182,7 +4182,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Trade License.TL Reports.Receipt Register",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseRegistryReport",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseRegistryReport/metadata/_get",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -4901,7 +4901,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Trade License.TL Reports.Cancelled Receipt Register",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
