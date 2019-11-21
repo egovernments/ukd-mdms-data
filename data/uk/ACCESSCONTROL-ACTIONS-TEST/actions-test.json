@@ -5487,6 +5487,29 @@
       "navigationURL": "integration/dashboard/TLDashboard",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1812,
+      "name": "FetchBill",
+      "url": "/billing-service/bill/v2/_fetchbill",
+      "displayName": "Fecth Bill",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.FetchBill"
+    },
+    {
+      "id": 1813,
+      "name": "Payment Search",
+      "url": "/collection-services/payments/_search",
+      "displayName": "Payments Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
