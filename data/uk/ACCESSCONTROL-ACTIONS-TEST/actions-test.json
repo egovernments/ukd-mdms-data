@@ -5510,6 +5510,18 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1814,
+      "name": "Payment Create",
+      "url": "/collection-services/payments/_create",
+      "displayName": "Payments Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
