@@ -5522,6 +5522,40 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1815,
+      "name": "Pdf Generator create",
+      "url": "/pdf-service/v1/_create",
+      "displayName": "Pdf Generator create",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pdf-generator-create",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1816,
+      "name": "Pdf Generator createnosave",
+      "url": "/pdf-service/v1/_createnosave",
+      "displayName": "Pdf Generator createnosave",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "pdf-generator-createnosave",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1817,
+      "name": "Pdf Generator search",
+      "url": "/pdf-service/v1/_search",
+      "displayName": "Pdf Generator search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "pdf-generator-search",
+      "code": "null",
+      "path": ""
     }
+
   ]
 }
