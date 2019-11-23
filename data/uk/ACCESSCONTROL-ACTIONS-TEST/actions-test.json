@@ -5574,7 +5574,7 @@
     {
       "id": 1819,
       "name": "Cancelled Receipt Register",
-      "url": "/report/rainmaker-tl/TradeLicenseCancelledReceiptRegister/_get",
+      "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/_get",
       "displayName": "Cancelled Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
@@ -5582,7 +5582,7 @@
       "enabled": false,
       "serviceCode": "",
       "path": "Trade License.TL Reports.Cancelled Receipt Register",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledReceiptRegister",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
