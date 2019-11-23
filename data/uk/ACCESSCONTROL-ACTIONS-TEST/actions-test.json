@@ -4174,7 +4174,7 @@
     {
       "id": 1704,
       "name": "TradeLicenseRegistryReport",
-      "url": "url",
+      "url": "/report/rainmaker-tl/TradeLicenseRegistryReport/metadata/_get",
       "displayName": "Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
@@ -4182,7 +4182,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Trade License.TL Reports.Receipt Register",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseRegistryReport/metadata/_get",
+      "navigationURL": "/report/rainmaker-tl/TradeLicenseRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
