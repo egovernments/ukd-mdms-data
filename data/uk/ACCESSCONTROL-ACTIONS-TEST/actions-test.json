@@ -4893,7 +4893,7 @@
     {
       "id": 1783,
       "name": "Cancelled Receipt Register",
-      "url": "url",
+      "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
       "displayName": "Cancelled Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
@@ -4901,7 +4901,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Trade License.TL Reports.Cancelled Receipt Register",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -5574,15 +5574,15 @@
     {
       "id": 1819,
       "name": "Cancelled Receipt Register",
-      "url": "/report/rainmaker-pt/CancelledReceiptRegister/_get",
+      "url": "/report/rainmaker-tl/CancelledReceiptRegister/_get",
       "displayName": "Cancelled Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Cancelled Receipt Register",
-      "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister",
+      "path": "Trade License.TL Reports.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-tl/CancelledReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
