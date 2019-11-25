@@ -5675,7 +5675,20 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseULBWiseApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1827,
+      "name": "BillGenie",
+      "url": "url",
+      "displayName": "BillGenie",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "abg/billSearch",
+      "path": "BG",
+      "leftIcon": "action:receipt"
     }
-
   ]
 }
