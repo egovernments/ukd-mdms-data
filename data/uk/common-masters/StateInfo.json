@@ -4,16 +4,17 @@
   "StateInfo": [
     {
       "name": "Uttarakhand",
-      "code":"uk",
+      "code": "uk",
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/banner.png",
-      "logoUrl":"https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/logo.png",
-      "hasLocalisation" : true,
-      "hideDigitLogo" : true,
-      "defaultUrl" : {
-          "citizen" : "/user/register",
-          "employee" : "/user/login"
+      "logoUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/logo.png",
+      "hasLocalisation": true,
+      "hideDigitLogo": true,
+      "defaultLanguage": "hi_IN",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
       },
-      "languages" : [
+      "languages": [
         {
           "label": "ENGLISH",
           "value": "en_IN"
