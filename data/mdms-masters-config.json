@@ -132,6 +132,14 @@
         "$.tenantId"
       ]
     },
+    "IdFormat": {
+      "masterName": "IdFormat",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.idname"
+      ]
+    },
     "Designation": {
       "masterName": "Designation",
       "moduleDefinition": null,
