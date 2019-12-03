@@ -5723,6 +5723,28 @@
     	"serviceCode": "Bill Genie",
     	"code": "null",
     	"path": ""
+    },
+    {
+      "id": 1830,
+      "name": "Search Bill",
+      "url": "/billing-service/bill/v2/_search",
+      "displayName": "Search Bill",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1831,
+      "name": "Payment workflow",
+      "url": "/collection-services/payments/_workflow",
+      "displayName": "Payment workflow",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "COLLECTION_SERVICE",
+      "code": "null",
+      "path": ""
     }
   ]
 }
