@@ -5711,6 +5711,18 @@
       "navigationURL": "property-tax/assess-pay/search-property",
       "leftIcon": "communication:business",
       "rightIcon": ""
+    },
+    {
+    	"id": 1829,
+    	"name": "Bill Genie search",
+    	"url": "/egov-searcher/bill-genie/billswithaddranduser/_get",
+    	"displayName": "Bill Genie",
+    	"orderNumber": 1,
+    	"parentModule": "",
+    	"enabled": false,
+    	"serviceCode": "Bill Genie",
+    	"code": "null",
+    	"path": ""
     }
   ]
 }
