@@ -5745,6 +5745,17 @@
       "serviceCode": "COLLECTION_SERVICE",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1832,
+      "name": "Payment Migrte",
+      "url": "/collection-services/payments/_migrate",
+      "displayName": "Payment workflow",
+      "orderNumber": 12,
+      "enabled": false,
+      "serviceCode": "COLLECTION_SERVICE",
+      "code": "null",
+      "path": ""
     }
   ]
 }
