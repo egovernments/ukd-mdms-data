@@ -72,7 +72,8 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 3
+      "order": 3,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -117,7 +118,8 @@
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": 2,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -127,6 +129,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": 1
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Swachatha Tax",
+      "code": "SWATCHATHA_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1,
+      "legacy": true
     },
     {
       "category": "TAX",
