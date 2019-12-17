@@ -6,32 +6,36 @@
       "name": "Certificate issued by DC/ Competent Authority",
       "code": "COMPETENTAUTHORITY",
       "ownerTypeCode": "FREEDOMFIGHTER",
-      "active": true
+      "active": true,
+      "effectiveFromFY": "2014-15"
     },
     {
-      "name": "Death Certificate",
-      "code": "DEATHCERTIFICATE",
+      "name": "Death Certificate, Spouse Proof",
+      "code": "DEATHCERTIFICATE-SPOUSEPROOF",
       "ownerTypeCode": "WIDOW",
-      "active": true
+      "active": true,
+      "effectiveFromFY": "2014-15"
     },
     {
       "name": "Certificate of Handicap by the competent authority",
       "code": "HANDICAPCERTIFICATE",
       "ownerTypeCode": "HANDICAPPED",
-      "active": true
-    },
-    {
-      "name": "BPL card",
-      "code": "BPLCARD",
-      "ownerTypeCode": "BPL",
-      "active": true
-      
+      "active": true,
+      "effectiveFromFY": "2014-15"
     },
     {
       "name": "Defence ID proof",
       "code": "DEFENCEID",
       "ownerTypeCode": "DEFENSE",
-      "active": true
+      "active": true,
+      "effectiveFromFY": "2014-15"
+    },
+    {
+      "name": "Self Declaration of Exemption from PT by Administrative officer of the Unit.",
+      "code": "SELFDECLR",
+      "ownerTypeCode": "GVT",
+      "active": true,
+      "effectiveFromFY": "2014-15"
     }
   ]
 }

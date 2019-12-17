@@ -1,0 +1,72 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "DepreciationAppreciation": [
+    {
+      "code": "01",
+      "depreciationAppreciation": -25,
+      "ageOfBuilding": {
+        "yearFrom": 1,
+        "yearTo": 10
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "SELFOCCUPIED"
+    },
+    {
+      "code": "02",
+      "depreciationAppreciation": -32.5,
+      "ageOfBuilding": {
+        "yearFrom": 11,
+        "yearTo": 20
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "SELFOCCUPIED"
+    },
+    {
+      "code": "03",
+      "depreciationAppreciation": -40,
+      "ageOfBuilding": {
+        "yearFrom": 21,
+        "yearTo": null
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "SELFOCCUPIED"
+    },
+    {
+      "code": "04",
+      "depreciationAppreciation": 25,
+      "ageOfBuilding": {
+        "yearFrom": 1,
+        "yearTo": 10
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "RENTED"
+    },
+    {
+      "code": "05",
+      "depreciationAppreciation": 12.5,
+      "ageOfBuilding": {
+        "yearFrom": 11,
+        "yearTo": 20
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "RENTED"
+    },
+    {
+      "code": "06",
+      "depreciationAppreciation": 0,
+      "ageOfBuilding": {
+        "yearFrom": 21,
+        "yearTo": null
+      },
+      "active": true,
+      "usageCategoryMajor": "RESIDENTIAL",
+      "occupancyType": "RENTED"
+    }
+  ]
+}

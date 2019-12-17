@@ -3,11 +3,20 @@
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
-      "category": "TAX",
+      "category": "PENALTY",
+      "service": "PT",
+      "name": "Pt late assessment penalty",
+      "code": "PT_LATE_ASSESSMENT_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
-      "isDebit": true,
+      "isDebit": false,
       "isActualDemand": false,
       "order": 0
     },
@@ -30,7 +39,7 @@
       "order": 0
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
@@ -39,7 +48,7 @@
       "order": 0
     },
     {
-      "category": "TAX",
+      "category": "EXEMPTION",
       "service": "PT",
       "name": "Pt unit usage excemption",
       "code": "PT_UNIT_USAGE_EXEMPTION",
@@ -48,7 +57,7 @@
       "order": 0
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
@@ -63,7 +72,26 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 3
+      "order": 3,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "PT one time penalty",
+      "code": "PT_ONE_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "PT one time rebate",
+      "code": "PT_ONE_TIME_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
     },
     {
       "category": "TAX",
@@ -84,13 +112,14 @@
       "order": 2
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": 2,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -100,6 +129,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": 1
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Swachatha Tax",
+      "code": "SWATCHATHA_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1,
+      "legacy": true
     },
     {
       "category": "TAX",

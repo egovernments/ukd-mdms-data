@@ -132,6 +132,14 @@
         "$.tenantId"
       ]
     },
+    "IdFormat": {
+      "masterName": "IdFormat",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.idname"
+      ]
+    },
     "Designation": {
       "masterName": "Designation",
       "moduleDefinition": null,
@@ -579,6 +587,25 @@
       "masterName": "CancerCess",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "TaxRate": {
+      "masterName": "TaxRate",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "RoadType": {
+      "masterName": "RoadType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DepreciationAppreciation": {
+      "masterName": "DepreciationAppreciation",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "TradeLicense": {
@@ -665,6 +692,13 @@
     },
     "BusinessService": {
       "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DepreciationAppreciation": {
+      "masterName": "DepreciationAppreciation",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
