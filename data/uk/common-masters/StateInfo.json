@@ -10,6 +10,8 @@
       "hasLocalisation": true,
       "hideDigitLogo": true,
       "defaultLanguage": "hi_IN",
+      "citizenNavigationURL": "https://uttarakhand-uat.egovernments.org/citizen/",
+      "employeeNavigationURL": "https://uttarakhand-uat.egovernments.org/employee/",
       "defaultUrl": {
         "citizen": "/user/register",
         "employee": "/user/login"
