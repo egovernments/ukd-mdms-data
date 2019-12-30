@@ -4342,6 +4342,17 @@
             "verificationDocument": [],
             "active": true,
             "type": "TL"
+        },
+        {
+            "code": "TRADE.PETROLEUM.PGAG",
+            "uom": null,
+            "applicationDocument": [
+		        "AADPANCARD",
+		        "ALMOP"
+	        ],
+            "verificationDocument": [],
+            "active": true,
+	        "type": "TL"
         }
     ]
 }
