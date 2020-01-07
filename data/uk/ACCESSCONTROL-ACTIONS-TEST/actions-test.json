@@ -5768,6 +5768,36 @@
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1834,
+      "name": " Property Tax Reconcillation Reports",
+      "url": "/report/rainmaker-pt/PropertyTaxReconcillationReports/metadata/_get",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Tax Reconcillation Reports",
+      "navigationURL": "report/rainmaker-pt/PropertyTaxReconcillationReports",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1835,
+      "name": " Property Tax Reconcillation Reports",
+      "url": "/report/rainmaker-pt/PropertyTaxReconcillationReports/_get",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Tax Reconcillation Reports",
+      "navigationURL": "report/rainmaker-pt/PropertyTaxReconcillationReports",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
