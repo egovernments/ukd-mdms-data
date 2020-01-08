@@ -5756,6 +5756,26 @@
       "serviceCode": "COLLECTION_SERVICE",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1833,
+      "name": "Data Entry",
+      "url": "url",
+      "displayName": "Data Entry",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "uk",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.Data Entry",
+      "navigationURL": "property-tax/assessment-form-dataentry",
+      "leftIcon": "communication:business",
+      "rightIcon": ""
     }
   ]
 }
