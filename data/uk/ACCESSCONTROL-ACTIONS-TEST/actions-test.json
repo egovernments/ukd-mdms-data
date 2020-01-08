@@ -5713,16 +5713,16 @@
       "rightIcon": ""
     },
     {
-    	"id": 1829,
-    	"name": "Bill Genie search",
-    	"url": "/egov-searcher/bill-genie/billswithaddranduser/_get",
-    	"displayName": "Bill Genie",
-    	"orderNumber": 8,
-    	"parentModule": "",
-    	"enabled": false,
-    	"serviceCode": "Bill Genie",
-    	"code": "null",
-    	"path": ""
+      "id": 1829,
+      "name": "Bill Genie search",
+      "url": "/egov-searcher/bill-genie/billswithaddranduser/_get",
+      "displayName": "Bill Genie",
+      "orderNumber": 8,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "Bill Genie",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 1830,
@@ -5898,6 +5898,47 @@
       "navigationURL": "property-tax/assessment-form-dataentry",
       "leftIcon": "communication:business",
       "rightIcon": ""
+    },
+    {
+      "id": 1844,
+      "name": "Universal Collection",
+      "url": "url",
+      "displayName": "Universal Collection",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/search",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 1845,
+      "name": "Receipts",
+      "url": "url",
+      "displayName": "Receipts",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc-citizen/search",
+      "path": "UC",
+      "leftIcon": "action:receipt"
+    },
+    {
+      "id": 1846,
+      "name": "CollectionRegister",
+      "url": "url",
+      "displayName": "Collection Register",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "COLLECTIONS",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-common/CollectionRegister",
+      "path": "Reports.Collection Register"
     }
   ]
 }
