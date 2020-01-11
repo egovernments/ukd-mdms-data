@@ -4,6 +4,10 @@
     "ApplicationType": [{
             "code": "APPLICATIONTYPE.NEW",
             "active": true
+        },
+        {
+            "code": "APPLICATIONTYPE.RENEWAL",
+            "active": true
         }
     ]
 }
