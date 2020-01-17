@@ -16,98 +16,98 @@
     },
     {
       "name": "Proprietorship",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "PROPRIETORSHIP",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "One Person Company",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "ONEPERSONCOMPANY",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Partnership Firm",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "PARTNERSHIPFIRM",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Limited Liability Partnership",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "LIMITEDLIABILITYPARTNERSHIP",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Private Limited Company",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "PRIVATELIMITEDCOMPANY",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Public Limited Company",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "PUBLICLIMITEDCOMPANY",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Section 8 Company",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "SECTION8COMPANY",
       "active": true,
       "ownerShipCategory": "COMPANY"
     },
     {
       "name": "Housing Society",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "HOUSINGSOCIETY",
+      "active": true,
       "ownerShipCategory": "SOCIETY"
     },
     {
       "name": "Self Help Group",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "SELFHELPGROUP",
+      "active": true,
       "ownerShipCategory": "SOCIETY"
     },
     {
       "name": "Private Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "PRIVATETRUST",
+      "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "Public Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "PUBLICTRUST",
+      "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "Religious Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "RELIGIOUSTRUST",
+      "active": true,
       "ownerShipCategory": "TRUST"
     },
     {
       "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "STATEGOVERNMENT",
+      "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Central Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "CENTRALGOVERNMENT",
+      "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Urban Local Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "LOCALGOVERNMENT",
+      "active": true,
       "ownerShipCategory": "GOVERNMENT"
     },
     {
       "name": "Rural Local Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": false,
+      "code": "RURALLOCALGOVERNMENT",
+      "active": true,
       "ownerShipCategory": "GOVERNMENT"
     }
   ]
