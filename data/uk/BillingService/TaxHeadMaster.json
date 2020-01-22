@@ -48,6 +48,15 @@
       "order": 0
     },
     {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "Pt promotional rebate",
+      "code": "PT_PROMOTIONAL_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
       "category": "EXEMPTION",
       "service": "PT",
       "name": "Pt unit usage excemption",
