@@ -3,9 +3,12 @@
   "moduleName": "PropertyTax",
   "PromotionalRebate": [
     {
-      "rate": 5,
-      "startDate": "2019-20"
-      "endDate": ""
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": 1554076800000,
+      "endingDay": 1585699199000
     }
   ]
 }
