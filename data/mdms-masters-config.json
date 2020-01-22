@@ -576,6 +576,13 @@
         "$.fromFY"
       ]
     },
+    "PromotionalRebate": {
+      "masterName": "PromotionalRebate",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
