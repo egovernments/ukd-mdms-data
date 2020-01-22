@@ -120,6 +120,25 @@
       "isActualDemand": true,
       "order": 2
     },
+    {	
+      "category": "TAX",	
+      "service": "PT",	
+      "name": "Pt time interest",	
+      "code": "PT_TIME_INTEREST",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": 1	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "PT",	
+      "name": "Swachatha Tax",	
+      "code": "SWATCHATHA_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": 1,	
+      "legacy": true	
+    },	
     {
       "category": "PENALTY",
       "service": "PT",
