@@ -4,7 +4,11 @@
   "Rebate": [
     {
       "rate": 5,
-      "financialYear": "2019-20"
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": 1554076800000,
+      "endingDay": 1585699199000
     }
   ]
 }
