@@ -45,7 +45,8 @@
       "code": "PT_TIME_REBATE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": 0,
+       "legacy": true
     },
     {
       "category": "REBATE",
@@ -54,7 +55,8 @@
       "code": "PT_PROMOTIONAL_REBATE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": 0,
+       "legacy": true
     },
     {
       "category": "EXEMPTION",
