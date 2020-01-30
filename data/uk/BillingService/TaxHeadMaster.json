@@ -43,9 +43,9 @@
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": true,
-      "order": 0,
+      "order": 4,
        "legacy": true
     },
     {
@@ -53,9 +53,9 @@
       "service": "PT",
       "name": "Pt promotional rebate",
       "code": "PT_PROMOTIONAL_REBATE",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": true,
-      "order": 0,
+      "order": 3,
        "legacy": true
     },
     {
@@ -83,7 +83,7 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 3,
+      "order": 0,
       "legacy": true
     },
     {
