@@ -129,7 +129,8 @@
       "code": "PT_TIME_INTEREST",	
       "isDebit": false,	
       "isActualDemand": true,	
-      "order": 1	
+      "order": 1,
+      "legacy": true
     },	
     {	
       "category": "TAX",	
@@ -148,8 +149,7 @@
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2,
-      "legacy": true
+      "order": 2
     },
     {
       "category": "TAX",
