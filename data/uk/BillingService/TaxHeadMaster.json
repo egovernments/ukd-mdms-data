@@ -43,9 +43,20 @@
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
-      "isDebit": false,
+      "isDebit": true,
       "isActualDemand": true,
-      "order": 0
+      "order": 4,
+       "legacy": true
+    },
+    {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "Pt promotional rebate",
+      "code": "PT_PROMOTIONAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": 3,
+       "legacy": true
     },
     {
       "category": "EXEMPTION",
@@ -72,7 +83,7 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 3,
+      "order": 0,
       "legacy": true
     },
     {
@@ -111,6 +122,26 @@
       "isActualDemand": true,
       "order": 2
     },
+    {	
+      "category": "TAX",	
+      "service": "PT",	
+      "name": "Pt time interest",	
+      "code": "PT_TIME_INTEREST",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": 2,
+      "legacy": true
+    },	
+    {	
+      "category": "TAX",	
+      "service": "PT",	
+      "name": "Swachatha Tax",	
+      "code": "SWATCHATHA_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": 1,	
+      "legacy": true	
+    },	
     {
       "category": "PENALTY",
       "service": "PT",
@@ -118,27 +149,7 @@
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2,
-      "legacy": true
-    },
-    {
-      "category": "TAX",
-      "service": "PT",
-      "name": "Pt time interest",
-      "code": "PT_TIME_INTEREST",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": 1
-    },
-    {
-      "category": "TAX",
-      "service": "PT",
-      "name": "Swachatha Tax",
-      "code": "SWATCHATHA_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": 1,
-      "legacy": true
+      "order": 2
     },
     {
       "category": "TAX",

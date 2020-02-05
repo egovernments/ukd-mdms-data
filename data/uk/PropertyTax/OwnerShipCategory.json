@@ -11,21 +11,31 @@
     {
       "name": "Company",
       "code": "COMPANY",
-      "active": true
+      "active": false
     },
     {
       "name": "Society",
       "code": "SOCIETY",
-      "active": true
+      "active": false
     },
     {
       "name": "Trust",
       "code": "TRUST",
-      "active": true
+      "active": false
     },
     {
       "name": "Government",
       "code": "GOVERNMENT",
+      "active": false
+    },
+    {
+      "name": "Institutional - Private ",
+      "code": "INSTITUTIONALPRIVATE",
+      "active": true
+    },
+    {
+      "name": "Institutional - Government",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true
     }
   ]

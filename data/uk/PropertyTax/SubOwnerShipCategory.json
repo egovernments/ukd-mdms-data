@@ -4,111 +4,111 @@
   "SubOwnerShipCategory": [
     {
       "name": "Single Owner",
-      "code": "SINGLEOWNER",
+      "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owner",
-      "code": "MULTIPLEOWNERS",
+      "code": "INDIVIDUAL.MULTIPLEOWNERS",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Proprietorship",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "INSTITUTIONAL.PROPRIETORSHIP",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "One Person Company",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Partnership Firm",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Limited Liability Partnership",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "INSTITUTIONALCOMPANY.LLPARTNERSHIP",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Limited Company",
-      "code": "INSTITUTIONALPRIVATE",
+      "code": "INSTITUTIONALCOMPANY.PVTLTDCOMPANY",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Public Limited Company",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALCOMPANY.PUBLTDCOMPANY",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Section 8 Company",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALCOMPANY.SEC8COMPANY",
       "active": true,
-      "ownerShipCategory": "COMPANY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Housing Society",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALSOCIETY.HOUSINGCOOPERATIVESOCIETY",
       "active": true,
-      "ownerShipCategory": "SOCIETY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Self Help Group",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
       "active": true,
-      "ownerShipCategory": "SOCIETY"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALTRUST.PRIVATETRUST",
       "active": true,
-      "ownerShipCategory": "TRUST"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Public Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALTRUST.PUBLICTRUST",
       "active": true,
-      "ownerShipCategory": "TRUST"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Religious Trust",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
       "active": true,
-      "ownerShipCategory": "TRUST"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT.STATEGOVUNDERTAKING",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Central Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVUNDERTAKING",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Urban Local Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT.LOCALGOVUNDERTAKING",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Rural Local Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT.LOCALGOVRURAL",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     }
   ]
 }
