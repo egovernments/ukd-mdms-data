@@ -58,6 +58,17 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "RoadCutting",
+      "code":"RC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
     }
   ]
 }
