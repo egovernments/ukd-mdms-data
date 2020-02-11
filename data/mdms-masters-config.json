@@ -625,7 +625,7 @@
     },
     "TradeType": {
       "masterName": "TradeType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
