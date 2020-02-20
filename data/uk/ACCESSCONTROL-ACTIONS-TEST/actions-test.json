@@ -6207,6 +6207,60 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1868,
+      "name": "Universal Collection",
+      "url": "url",
+      "displayName": "Universal Collection",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/search",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 1869,
+      "name": "MiscBusinessServiceCollectionTenant",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
+      "displayName": "Misc Business Service Collections",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
+      "path": "Reports.Misc Business Service Collections"
+    },
+    {
+      "id": 1870,
+      "name": "UCReportMetadata",
+      "url": "/report/rainmaker-uc/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "UC Collection Metadata "
+    },
+    {
+      "id": 1871,
+      "name": "rainmaker-common-uc",
+      "url": "card",
+      "displayName": "Miscellaneous Collection",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "uc/search",
+      "leftIcon": "image:collections-bookmark",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
