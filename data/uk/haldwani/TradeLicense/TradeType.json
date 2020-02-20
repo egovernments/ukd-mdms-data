@@ -4762,7 +4762,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.HL1B",
+      "code": "TRADE.HOTELS.HL1B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4775,7 +4775,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.HL2B",
+      "code": "TRADE.HOTELS.HL2B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4788,7 +4788,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.HL3B",
+      "code": "TRADE.HOTELS.HL3B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4801,7 +4801,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.HL5B",
+      "code": "TRADE.HOTELS.HL5B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4814,7 +4814,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.HSA5",
+      "code": "TRADE.HOTELS.HSA5",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4827,7 +4827,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.3STR",
+      "code": "TRADE.HOTELS.3STR",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4840,7 +4840,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.5STR",
+      "code": "TRADE.HOTELS.5STR",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4853,7 +4853,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU2S",
+      "code": "TRADE.MEDICAL.NHA5",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4866,7 +4866,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU7S",
+      "code": "TRADE.MEDICAL.TR2",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4879,7 +4879,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU4S",
+      "code": "TRADE.PETROLEUM.TR3",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -4892,7 +4892,111 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.NHA5",
+      "code": "TRADE.SHOP.TR4",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR5",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR6",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR7",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR8",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR9",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR1",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR11",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLICATION",
+        "PHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR12",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
