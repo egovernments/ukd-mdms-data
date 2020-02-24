@@ -445,7 +445,7 @@
       "url": "/egov-idgen/id/_generate",
       "displayName": "Generate Number",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.GenerateNumber"
