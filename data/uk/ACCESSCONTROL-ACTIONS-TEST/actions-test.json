@@ -1346,7 +1346,7 @@
       "url": "/billing-service/demand/_create",
       "displayName": "Create Demand",
       "orderNumber": 4,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.CreateDemand"
@@ -5496,7 +5496,7 @@
       "url": "/billing-service/bill/v2/_fetchbill",
       "displayName": "Fecth Bill",
       "orderNumber": 11,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.FetchBill"
