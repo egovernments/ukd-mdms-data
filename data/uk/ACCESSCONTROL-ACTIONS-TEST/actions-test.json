@@ -6261,6 +6261,38 @@
       "leftIcon": "image:collections-bookmark",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1872,
+      "name": "rainmaker-search-property",
+      "url": "quickAction",
+      "displayName": "Search PT",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "property-tax/search-property",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1873,
+      "name": "rainmaker-create-dataentryproperty",
+      "url": "quickAction",
+      "displayName": "Data Entry",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "property-tax/assessment-form-dataentry",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
