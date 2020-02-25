@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.mahuwadawara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mahuwadawara",
+        "localname": "mahuwadawara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.mahuwadawara",
+        "children": [
+          {
+            "id": "5feb4382-c006-4eb2-8f18-33c413f322d0",
+            "boundaryNum": 1,
+            "name": "Mahuwadawara",
+            "localname": "Mahuwadawara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "48cbf5bd-43ee-4b40-bc44-53d1c6eb2398",
+                "boundaryNum": 1,
+                "name": "Ward No.1- Dalit Saini Basti",
+                "localname": "Ward No.1- Dalit Saini Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18475",
+                "children": [
+                  {
+                    "id": "105aaa91-a1f9-4270-b3c6-6ca513559235",
+                    "boundaryNum": 1,
+                    "name": "Dalit Saini Basti - Ward No.1- Dalit Saini Basti ",
+                    "localname": "Dalit Saini Basti - Ward No.1- Dalit Saini Basti ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e55a201-4aae-445b-9a5c-fe46e568cce7",
+                "boundaryNum": 1,
+                "name": "Ward No.2 -Soot Factory Coloniyan",
+                "localname": "Ward No.2 -Soot Factory Coloniyan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18476",
+                "children": [
+                  {
+                    "id": "42c9854c-fbc1-40a9-a813-0a6933157da2",
+                    "boundaryNum": 1,
+                    "name": "Soot Fuctory kaloniyan - Ward No.2 -Soot Factory Coloniyan ",
+                    "localname": "Soot Fuctory kaloniyan - Ward No.2 -Soot Factory Coloniyan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef94bd17-55a9-4d29-ad73-cb1fd9de66f0",
+                "boundaryNum": 1,
+                "name": "Ward No.3 -Anshariyan",
+                "localname": "Ward No.3 -Anshariyan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18477",
+                "children": [
+                  {
+                    "id": "7a75f59a-901a-4e05-969a-723a1911109b",
+                    "boundaryNum": 1,
+                    "name": "Anshariyan - Ward No.3 -Anshariyan ",
+                    "localname": "Anshariyan - Ward No.3 -Anshariyan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a3264d6a-97d8-48c0-958f-6f9fe4768216",
+                "boundaryNum": 1,
+                "name": "Ward No.4 -Chadhary Kumhar Basti",
+                "localname": "Ward No.4 -Chadhary Kumhar Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18478",
+                "children": [
+                  {
+                    "id": "1fb9d375-0e7e-4491-aa10-dd742b827c0b",
+                    "boundaryNum": 1,
+                    "name": "Chadhary Kumhar Basti - Ward No.4 -Chadhary Kumhar Basti ",
+                    "localname": "Chadhary Kumhar Basti - Ward No.4 -Chadhary Kumhar Basti ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f0856b0a-592d-4704-ac51-fcbb5b3aef5c",
+                "boundaryNum": 1,
+                "name": "Ward No.5-Mangal Bazar",
+                "localname": "Ward No.5-Mangal Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18479",
+                "children": [
+                  {
+                    "id": "32e4c125-a0d8-487e-a5c2-33e99b1b1550",
+                    "boundaryNum": 1,
+                    "name": "Mangal Bazar - Ward No.5-Mangal Bazar ",
+                    "localname": "Mangal Bazar - Ward No.5-Mangal Bazar ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23acd6ee-23ea-40ef-a8d9-8309f9fa96e0",
+                "boundaryNum": 1,
+                "name": "Ward No.6- Anshariyan south",
+                "localname": "Ward No.6- Anshariyan south",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18480",
+                "children": [
+                  {
+                    "id": "9705c95f-a457-4a76-aed6-9cc02611b58d",
+                    "boundaryNum": 1,
+                    "name": "Anshariyan south - Ward No.6- Anshariyan south ",
+                    "localname": "Anshariyan south - Ward No.6- Anshariyan south ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140b01f0-a680-4dee-bd05-d9b66b82c956",
+                "boundaryNum": 1,
+                "name": "Ward No.7 -Chauhanan",
+                "localname": "Ward No.7 -Chauhanan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18481",
+                "children": [
+                  {
+                    "id": "13356522-84b5-4366-96a4-595dfcb6958d",
+                    "boundaryNum": 1,
+                    "name": "Chauhanan - Ward No.7 -Chauhanan ",
+                    "localname": "Chauhanan - Ward No.7 -Chauhanan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
