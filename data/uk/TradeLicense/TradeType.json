@@ -3,18 +3,6 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.INDUSTRY.FM",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF", 
-        "OTHER", 
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
       "code": "TRADE.LIQUOR.CLG",
       "uom": null,
       "applicationDocument": [
