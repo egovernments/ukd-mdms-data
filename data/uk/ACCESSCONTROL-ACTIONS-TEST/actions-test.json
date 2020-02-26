@@ -6317,7 +6317,7 @@
       "displayName": "Search Collections",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "uc/search",
@@ -6393,7 +6393,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptStateWide/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Collection category wise"
