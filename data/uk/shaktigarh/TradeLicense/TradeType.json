@@ -1,0 +1,292 @@
+{
+"tenantId": "uk.shaktigarh",
+"moduleName": "TradeLicense",
+"TradeType": [
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GMS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "RENTOWNER",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_TR18",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATE",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPC",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATE",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_DNTC",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATEPAN",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_HARPVTC",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATEPAN",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAXRYC",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATEPAN",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SCRPT",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PANRENTOWNER",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_MS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_BANK_OTH",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR79",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "OWNERPAPERRENTPAPER",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_FS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_CS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_PMS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_ES",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "2PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_TR21",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "RENTOWNERCERTIFICATEPAN",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_PAAN",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PAN CARD",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_JUST",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PAN CARD",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PAN CARD",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_IRON",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PAN CARD",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATSIF",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR61",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PANRENTOWNER",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BAKE",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PANRENTOWNERCERTIFICATE",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_CONF",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PANRENTOWNERCERTIFICATE",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWSH",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARIDCARDPASSPORTPICTURE",
+             "PANRENTOWNERCERTIFICATE",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR54",
+            "uom": "null",
+            "applicationDocument": [
+             "AADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_WORKSHOP_TRRE",
+            "uom": "null",
+            "applicationDocument": [
+             "RENTOWNERDOCAADHARPAN",
+             "PHOTO",
+            ],
+            "verificationDocument": [],
+            "active": "TRUE",
+            "type": "TL"
+        }
+    ]
+}
