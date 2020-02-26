@@ -1113,6 +1113,22 @@
       "service": "TL",
       "code": "TLAN2019_22",
       "financialYear": "2019-22"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "WATERCHARGES.Watercharges_metered",
+      "code": "WATERCHARGESMETERED",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "WATERCHARGES.Watercharges_nonmetered",
+      "code": "WATERCHARGESNONMETERED",
+      "financialYear": "2014-24"
     }
   ]
 }
