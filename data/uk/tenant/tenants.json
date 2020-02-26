@@ -1,422 +1,422 @@
 {
-  "tenantId": "uk",
-  "moduleName": "tenant",
-  "tenants": [
-    {
-      "code": "uk.dehradun",
-      "name": "Dehradun",
-      "description": "Dehradun",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.dehradun/logo.png",
-      "imageId": null,
-      "domainUrl": "http://nagarnigamdehradun.com/",
-      "type": "CITY",
-      "twitterUrl": "https://twitter.com/DdnNagarnigam",
-      "facebookUrl": "https://www.facebook.com/municipalcommissionerdehradun/",
-      "emailId": "nagar_nigam2008@yahoo.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+    "tenantId": "uk",
+    "moduleName": "tenant",
+    "tenants": [
+      {
+        "code": "uk.dehradun",
         "name": "Dehradun",
-        "localName": "Dehradun",
-        "districtCode": "49",
-        "districtName": "Dehradun",
-        "regionName": "Gharwal",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 78.0322,
-        "latitude": 30.3165,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248430",
-        "regionCode": "1",
-        "municipalityName": "Dehradun Municipal Corporation"
+        "description": "Dehradun",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.dehradun/logo.png",
+        "imageId": null,
+        "domainUrl": "http://nagarnigamdehradun.com/",
+        "type": "CITY",
+        "twitterUrl": "https://twitter.com/DdnNagarnigam",
+        "facebookUrl": "https://www.facebook.com/municipalcommissionerdehradun/",
+        "emailId": "nagar_nigam2008@yahoo.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Dehradun",
+          "localName": "Dehradun",
+          "districtCode": "49",
+          "districtName": "Dehradun",
+          "regionName": "Gharwal",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 78.0322,
+          "latitude": 30.3165,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248430",
+          "regionCode": "1",
+          "municipalityName": "Dehradun Municipal Corporation"
+        },
+        "address": "Near Doon Hospital, New road, District-Dehradun, Uttarakhand-248001",
+        "contactNumber": "(135) 2653572"
       },
-      "address": "Near Doon Hospital, New road, District-Dehradun, Uttarakhand-248001",
-      "contactNumber": "(135) 2653572"
-    },
-    {
-      "code": "uk.haldwani",
-      "name": "Haldwani",
-      "description": "Haldwani",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "http://www.nagarnigamhaldwani.in/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "haldwaninagarnigam@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.haldwani",
         "name": "Haldwani",
-        "localName": "Haldwani",
-        "districtCode": "51",
-        "districtName": "Nainital",
-        "regionName": "Kumaon",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 79.513,
-        "latitude": 29.2183,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248459",
-        "regionCode": "2",
-        "municipalityName": "Haldwani Municipal Corporation"
+        "description": "Haldwani",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "http://www.nagarnigamhaldwani.in/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "haldwaninagarnigam@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Haldwani",
+          "localName": "Haldwani",
+          "districtCode": "51",
+          "districtName": "Nainital",
+          "regionName": "Kumaon",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 79.513,
+          "latitude": 29.2183,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248459",
+          "regionCode": "2",
+          "municipalityName": "Haldwani Municipal Corporation"
+        },
+        "address": "Nainital Road, Haldwani, Uttarakhand 263139",
+        "contactNumber": "(05946) 220035"
       },
-      "address": "Nainital Road, Haldwani, Uttarakhand 263139",
-      "contactNumber": "(05946) 220035"
-    },
-    {
-      "code": "uk.haridwar",
-      "name": "Haridwar",
-      "description": "Haridwar",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haridwar/logo.png",
-      "imageId": null,
-      "domainUrl": "http://www.haridwarnagarnigam.com/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "nagarnigamharidwar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.haridwar",
         "name": "Haridwar",
-        "localName": "Haridwar",
-        "districtCode": "50",
-        "districtName": "Haridwar",
-        "regionName": "Gharwal",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 78.1642,
-        "latitude": 29.9457,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248485",
-        "regionCode": "50",
-        "municipalityName": "Haridwar Municipal Corporation"
+        "description": "Haridwar",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haridwar/logo.png",
+        "imageId": null,
+        "domainUrl": "http://www.haridwarnagarnigam.com/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "nagarnigamharidwar@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Haridwar",
+          "localName": "Haridwar",
+          "districtCode": "50",
+          "districtName": "Haridwar",
+          "regionName": "Gharwal",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 78.1642,
+          "latitude": 29.9457,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248485",
+          "regionCode": "50",
+          "municipalityName": "Haridwar Municipal Corporation"
+        },
+        "address": "Mayapur, Near Fire Station, Devpura, Haridwar - 249401 Uttarakhand",
+        "contactNumber": "(01334) 227006"
       },
-      "address": "Mayapur, Near Fire Station, Devpura, Haridwar - 249401 Uttarakhand",
-      "contactNumber": "(01334) 227006"
-    },
-    {
-      "code": "uk.roorkee",
-      "name": "Roorkee",
-      "description": "Roorkee",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.roorkee/logo.png",
-      "imageId": null,
-      "domainUrl": "http://www.nagarnigamroorkee.com/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "npproorkee@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.roorkee",
         "name": "Roorkee",
-        "localName": "Roorkee",
-        "districtCode": "50",
-        "districtName": "Haridwar",
-        "regionName": "Gharwal",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 77.888,
-        "latitude": 29.8543,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248478",
-        "regionCode": "1",
-        "municipalityName": "Roorkee Municipal Corporation"
+        "description": "Roorkee",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.roorkee/logo.png",
+        "imageId": null,
+        "domainUrl": "http://www.nagarnigamroorkee.com/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "npproorkee@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Roorkee",
+          "localName": "Roorkee",
+          "districtCode": "50",
+          "districtName": "Haridwar",
+          "regionName": "Gharwal",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 77.888,
+          "latitude": 29.8543,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248478",
+          "regionCode": "1",
+          "municipalityName": "Roorkee Municipal Corporation"
+        },
+        "address": "Upper Ganga Canal Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+        "contactNumber": "(01332) 272666"
       },
-      "address": "Upper Ganga Canal Rd, Civil Lines, Roorkee, Uttarakhand 247667",
-      "contactNumber": "(01332) 272666"
-    },
-    {
-      "code": "uk.rudrapur",
-      "name": "Rudrapur",
-      "description": "Rudrapur",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.rudrapur/logo.png",
-      "imageId": null,
-      "domainUrl": "http://www.nagarnigamrudrapur.com/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "nagarnigamrudrapur@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.rudrapur",
         "name": "Rudrapur",
-        "localName": "Rudrapur",
-        "districtCode": "56",
-        "districtName": "Udham Singh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 79.4141,
-        "latitude": 28.9875,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248471",
-        "regionCode": "2",
-        "municipalityName": "Rudrapur Municipal Corporation"
+        "description": "Rudrapur",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.rudrapur/logo.png",
+        "imageId": null,
+        "domainUrl": "http://www.nagarnigamrudrapur.com/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "nagarnigamrudrapur@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Rudrapur",
+          "localName": "Rudrapur",
+          "districtCode": "56",
+          "districtName": "Udham Singh Nagar",
+          "regionName": "Kumaon",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 79.4141,
+          "latitude": 28.9875,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248471",
+          "regionCode": "2",
+          "municipalityName": "Rudrapur Municipal Corporation"
+        },
+        "address": "Bilaspur-Rudrapur-Haldwani Highway, Telephone Exchange Colony, Gandhi Colony, Rudrapur, Uttarakhand 263153",
+        "contactNumber": "(5944) 242400"
       },
-      "address": "Bilaspur-Rudrapur-Haldwani Highway, Telephone Exchange Colony, Gandhi Colony, Rudrapur, Uttarakhand 263153",
-      "contactNumber": "(5944) 242400"
-    },
-    {
-      "code": "uk.kashipur",
-      "name": "Kashipur",
-      "description": "Kashipur",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.kashipur/logo.png",
-      "imageId": null,
-      "domainUrl": "http://www.nagarnigamkashipur.com/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "nagarnigamkashipur@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.kashipur",
         "name": "Kashipur",
-        "localName": "Kashipur",
-        "districtCode": "56",
-        "districtName": "Udham Singh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 78.9619,
-        "latitude": 29.2104,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248463",
-        "regionCode": "2",
-        "municipalityName": "Kashipur Municipal Corporation"
+        "description": "Kashipur",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.kashipur/logo.png",
+        "imageId": null,
+        "domainUrl": "http://www.nagarnigamkashipur.com/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "nagarnigamkashipur@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Kashipur",
+          "localName": "Kashipur",
+          "districtCode": "56",
+          "districtName": "Udham Singh Nagar",
+          "regionName": "Kumaon",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 78.9619,
+          "latitude": 29.2104,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248463",
+          "regionCode": "2",
+          "municipalityName": "Kashipur Municipal Corporation"
+        },
+        "address": "Nagar Nigam Kashipur, Kashipur, Uttarakhand 244713",
+        "contactNumber": "(05947) 2575514"
       },
-      "address": "Nagar Nigam Kashipur, Kashipur, Uttarakhand 244713",
-      "contactNumber": "(05947) 2575514"
-    },
-    {
-      "code": "uk.rishikesh",
-      "name": "Rishikesh",
-      "description": "Rishikesh",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.rishikesh/logo.png",
-      "imageId": null,
-      "domainUrl": "http://nagarnigamrishikesh.org/",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "npprishikesh@mail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.rishikesh",
         "name": "Rishikesh",
-        "localName": "Rishikesh",
-        "districtCode": "49",
-        "districtName": "Dehradun",
-        "regionName": "Gharwal",
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 78.2676,
-        "latitude": 30.0869,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248434",
-        "regionCode": "1",
-        "municipalityName": "Rishikesh Municipal Corporation"
+        "description": "Rishikesh",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.rishikesh/logo.png",
+        "imageId": null,
+        "domainUrl": "http://nagarnigamrishikesh.org/",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "npprishikesh@mail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Rishikesh",
+          "localName": "Rishikesh",
+          "districtCode": "49",
+          "districtName": "Dehradun",
+          "regionName": "Gharwal",
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 78.2676,
+          "latitude": 30.0869,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248434",
+          "regionCode": "1",
+          "municipalityName": "Rishikesh Municipal Corporation"
+        },
+        "address": "Haridwar Rd, Palika Nagar, Rishikesh, Uttarakhand 249201",
+        "contactNumber": "(0135) 2431472"
       },
-      "address": "Haridwar Rd, Palika Nagar, Rishikesh, Uttarakhand 249201",
-      "contactNumber": "(0135) 2431472"
-    },
-    {
-      "code": "uk.mahuwadawara",
-      "name": "Mahuwadawara",
-      "description": "Mahuwadawara",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "eonpmahua-urban@uk.gov.in",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.mahuwadawara",
         "name": "Mahuwadawara",
-        "localName": "Mahuwadawara",
-        "districtCode": "56",
-        "districtName": "Udhamsingh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "NP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248461",
-        "regionCode": "1",
-        "municipalityName": "Mahuvadavara Nagar Panchayat"
+        "description": "Mahuwadawara",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "eonpmahua-urban@uk.gov.in",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Mahuwadawara",
+          "localName": "Mahuwadawara",
+          "districtCode": "56",
+          "districtName": "Udhamsingh Nagar",
+          "regionName": "Kumaon",
+          "ulbGrade": "NP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248461",
+          "regionCode": "1",
+          "municipalityName": "Mahuvadavara Nagar Panchayat"
+        },
+        "address": "Nagar Panchayat Mahuwadawara ward 6 mohalla ansarian south",
+        "contactNumber": ""
       },
-      "address": "Nagar Panchayat Mahuwadawara ward 6 mohalla ansarian south",
-      "contactNumber": ""
-    },
-    {
-      "code": "uk.shaktigarh",
-      "name": "Shaktigarh",
-      "description": "Shaktigarh",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "nagarpanchyatshaktigarh@gmial.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.shaktigarh",
         "name": "Shaktigarh",
-        "localName": "Shaktigarh",
-        "districtCode": "56",
-        "districtName": "Udhamsingh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "NP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248475",
-        "regionCode": "2",
-        "municipalityName": "Shaktigarh Nagar Panchayat "
+        "description": "Shaktigarh",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "nagarpanchyatshaktigarh@gmial.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Shaktigarh",
+          "localName": "Shaktigarh",
+          "districtCode": "56",
+          "districtName": "Udhamsingh Nagar",
+          "regionName": "Kumaon",
+          "ulbGrade": "NP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248475",
+          "regionCode": "2",
+          "municipalityName": "Shaktigarh Nagar Panchayat "
+        },
+        "address": "Deendayal ward 4",
+        "contactNumber": ""
       },
-      "address": "Deendayal ward 4",
-      "contactNumber": ""
-    },
-    {
-      "code": "uk.jaspur",
-      "name": "Jaspur",
-      "description": "Jaspur",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "nppjashpur@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.jaspur",
         "name": "Jaspur",
-        "localName": "Jaspur",
-        "districtCode": "56",
-        "districtName": "Udhamsingh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "NPP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248462",
-        "regionCode": "2",
-        "municipalityName": "Jaspur Nagar Palika Parishad"
+        "description": "Jaspur",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "nppjashpur@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Jaspur",
+          "localName": "Jaspur",
+          "districtCode": "56",
+          "districtName": "Udhamsingh Nagar",
+          "regionName": "Kumaon",
+          "ulbGrade": "NPP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248462",
+          "regionCode": "2",
+          "municipalityName": "Jaspur Nagar Palika Parishad"
+        },
+        "address": "Nagar Palika Jaspur , Uddham SIngh Nagar,UK",
+        "contactNumber": ""
       },
-      "address": "Nagar Palika Jaspur , Uddham SIngh Nagar,UK",
-      "contactNumber": ""
-    },
-    {
-      "code": "uk.uttarkashi",
-      "name": "Uttarkashi",
-      "description": "Uttarkashi",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.uttarkashi",
         "name": "Uttarkashi",
-        "localName": "Uttarkashi",
-        "districtCode": "57",
-        "districtName": "Uttarkashi",
-        "regionName": "Gharwal",
-        "ulbGrade": "NPP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248410",
-        "regionCode": "1",
-        "municipalityName": "Uttarkashi Nagar Palika Parishad"
+        "description": "Uttarkashi",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Uttarkashi",
+          "localName": "Uttarkashi",
+          "districtCode": "57",
+          "districtName": "Uttarkashi",
+          "regionName": "Gharwal",
+          "ulbGrade": "NPP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248410",
+          "regionCode": "1",
+          "municipalityName": "Uttarkashi Nagar Palika Parishad"
+        },
+        "address": "Uttarkashi Nagar Palika Parishad ",
+        "contactNumber": ""
       },
-      "address": "Uttarkashi Nagar Palika Parishad ",
-      "contactNumber": ""
-    },
-    {
-      "code": "uk.almora",
-      "name": "Almora",
-      "description": "Almora",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "eonagarpalikaalmora@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.almora",
         "name": "Almora",
-        "localName": "Almora",
-        "districtCode": "45",
-        "districtName": "Almora",
-        "regionName": "Kumaon",
-        "ulbGrade": "NPP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248449",
-        "regionCode": "2",
-        "municipalityName": "Almora Nagar Palika Parishad"
+        "description": "Almora",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "eonagarpalikaalmora@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Almora",
+          "localName": "Almora",
+          "districtCode": "45",
+          "districtName": "Almora",
+          "regionName": "Kumaon",
+          "ulbGrade": "NPP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248449",
+          "regionCode": "2",
+          "municipalityName": "Almora Nagar Palika Parishad"
+        },
+        "address": "Nagar Palika Almora",
+        "contactNumber": "05962 237734"
       },
-      "address": "Nagar Palika Almora",
-      "contactNumber": "05962 237734"
-    },
-    {
-      "code": "uk.chamba",
-      "name": "Chamba",
-      "description": "Chamba",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "eonppchamba@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
+      {
+        "code": "uk.chamba",
         "name": "Chamba",
-        "localName": "Chamba",
-        "districtCode": "55",
-        "districtName": "Tehri",
-        "regionName": "Gharwal",
-        "ulbGrade": "NPP",
-        "longitude": ,
-        "latitude": ,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "248423",
-        "regionCode": "1",
-        "municipalityName": "Chamba Nagar Palika Parishad"
-      },
-      "address": "Nagar Palika Parishad Mussorie Road Chamba",
-      "contactNumber": "01376 255308"
-    }
-  ]
-}
+        "description": "Chamba",
+        "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.haldwani/logo.png",
+        "imageId": null,
+        "domainUrl": "",
+        "type": "CITY",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "emailId": "eonppchamba@gmail.com",
+        "OfficeTimings": {
+          "Mon - Sat": "10.00 AM - 5.00 PM"
+        },
+        "city": {
+          "name": "Chamba",
+          "localName": "Chamba",
+          "districtCode": "55",
+          "districtName": "Tehri",
+          "regionName": "Gharwal",
+          "ulbGrade": "NPP",
+          "longitude": "",
+          "latitude": "",
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "248423",
+          "regionCode": "1",
+          "municipalityName": "Chamba Nagar Palika Parishad"
+        },
+        "address": "Nagar Palika Parishad Mussorie Road Chamba",
+        "contactNumber": "01376 255308"
+      }
+    ]
+  }
