@@ -3,7 +3,7 @@
 "moduleName": "TradeLicense",
 "TradeType": [
   {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "code": "TRADE.MEDICAL.KAPVTC",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -14,7 +14,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_KA3STR",
+            "code": "TRADE.HOTELS.KA3STR",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -25,7 +25,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL10B",
+            "code": "TRADE.HOTELS.HL10B",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -36,7 +36,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL20B",
+            "code": "TRADE.HOTELS.HL20B",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -47,7 +47,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL30B",
+            "code": "TRADE.HOTELS.HL30B",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -58,7 +58,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_PDR",
+            "code": "TRADE.PETROLEUM.PDR",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -69,7 +69,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR61",
+            "code": "TRADE.SHOP.TR61",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -80,7 +80,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_OTH",
+            "code": "TRADE.REST.OTH",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -91,7 +91,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FVS",
+            "code": "TRADE.SHOP.FVS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -102,7 +102,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL40B",
+            "code": "TRADE.HOTELS.HL40B",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -113,7 +113,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL50B",
+            "code": "TRADE.HOTELS.HL50B",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -124,7 +124,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_RDRFLS",
+            "code": "TRADE.LIQUOR.RDRFLS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -135,7 +135,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLS",
+            "code": "TRADE.LIQUOR.CLS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -146,7 +146,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWSH",
+            "code": "TRADE.SHOP.SWSH",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -157,7 +157,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR70",
+            "code": "TRADE.SHOP.TR70",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -168,7 +168,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_OM",
+            "code": "TRADE.INDUSTRY.OM",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -179,7 +179,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_CATE",
+            "code": "TRADE.REST.CATE",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -190,7 +190,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_RIIF",
+            "code": "TRADE.INDUSTRY.RIIF",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -201,7 +201,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_HARPC",
+            "code": "TRADE.MEDICAL.HARPC",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -212,7 +212,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_MS",
+            "code": "TRADE.LIVESTOCK.MS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -223,7 +223,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_KACS",
+            "code": "TRADE.LIVESTOCK.KACS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -234,7 +234,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_KABS",
+            "code": "TRADE.LIVESTOCK.KABS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -245,7 +245,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_PMS",
+            "code": "TRADE.LIVESTOCK.PMS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -256,7 +256,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_GMD",
+            "code": "TRADE.LIVESTOCK.GMD",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -267,7 +267,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_PAAN",
+            "code": "TRADE.STREETVENDOR.PAAN",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -278,7 +278,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_RETAIL_HW",
+            "code": "TRADE.RETAIL.HW",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -289,7 +289,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GMS",
+            "code": "TRADE.SHOP.GMS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -300,7 +300,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BAKE",
+            "code": "TRADE.SHOP.BAKE",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -311,7 +311,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TR37",
+            "code": "TRADE.STREETVENDOR.TR37",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -322,7 +322,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_RDRXRYC",
+            "code": "TRADE.MEDICAL.RDRXRYC",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
@@ -333,7 +333,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "code": "TRADE.STREETVENDOR.KATEAS",
             "uom": null,
             "applicationDocument": [
              "AADHAR",
