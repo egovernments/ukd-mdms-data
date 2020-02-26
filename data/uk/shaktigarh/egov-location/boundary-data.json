@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.shaktigarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "shaktigarh",
+        "localname": "shaktigarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.shaktigarh",
+        "children": [
+          {
+            "id": "f9bd8d45-2630-4a6c-bd0a-c65c53ee541a",
+            "boundaryNum": 1,
+            "name": "Shaktigarh",
+            "localname": "Shaktigarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "ac54761d-e290-4ea7-aaca-b3ec4551cbc7",
+                "boundaryNum": 1,
+                "name": "Ward No.1 Azad Ward",
+                "localname": "Ward No.1 Azad Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18719",
+                "children": [
+                  {
+                    "id": "d9e734bf-9348-43ce-af58-c14cb6d47e5c",
+                    "boundaryNum": 1,
+                    "name": "Azad Ward - Ward No.1 Azad Ward ",
+                    "localname": "Azad Ward - Ward No.1 Azad Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71aced5a-43d1-48c1-b43d-1b23684d9aae",
+                "boundaryNum": 1,
+                "name": "Ward No.2 Shastri Ward",
+                "localname": "Ward No.2 Shastri Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18720",
+                "children": [
+                  {
+                    "id": "a17fdffe-49b2-431f-881c-07fc5c427e6b",
+                    "boundaryNum": 1,
+                    "name": "Shastri Ward - Ward No.2 Shastri Ward ",
+                    "localname": "Shastri Ward - Ward No.2 Shastri Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa90ac78-3592-4aef-8bd7-e327267cea2d",
+                "boundaryNum": 1,
+                "name": "Ward No.3 Shiv Mandir Ward",
+                "localname": "Ward No.3 Shiv Mandir Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18721",
+                "children": [
+                  {
+                    "id": "b2b5f1be-19a6-4cd1-b866-f63d3a6dac03",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir Ward - Ward No.3 Shiv Mandir Ward ",
+                    "localname": "Shiv Mandir Ward - Ward No.3 Shiv Mandir Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a7140d8-efde-4de7-8d86-11409c6b386b",
+                "boundaryNum": 1,
+                "name": "Ward No.4 Deen Dayal Ward",
+                "localname": "Ward No.4 Deen Dayal Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18722",
+                "children": [
+                  {
+                    "id": "b5c68340-6f62-4d0b-be42-a9d626db3ae9",
+                    "boundaryNum": 1,
+                    "name": "Deen Dayal Ward - Ward No.4 Deen Dayal Ward ",
+                    "localname": "Deen Dayal Ward - Ward No.4 Deen Dayal Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "674800d6-dbb0-4683-b51e-fd521037aed5",
+                "boundaryNum": 1,
+                "name": "Ward No. 5 Durga Temple Ward",
+                "localname": "Ward No. 5 Durga Temple Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296904",
+                "children": [
+                  {
+                    "id": "330b51a7-9f65-46c9-95b2-cd6321481a03",
+                    "boundaryNum": 1,
+                    "name": "Durga Temple Ward - Ward No. 5 Durga Temple Ward ",
+                    "localname": "Durga Temple Ward - Ward No. 5 Durga Temple Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a7e8ff9-f36f-4bc3-8c13-2985a1730171",
+                "boundaryNum": 1,
+                "name": "Ward No. 6 Netaji Subhash Ward",
+                "localname": "Ward No. 6 Netaji Subhash Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296905",
+                "children": [
+                  {
+                    "id": "08e0eb1b-52a0-4e21-9532-c2981de19809",
+                    "boundaryNum": 1,
+                    "name": "Netaji Subhash Ward - Ward No. 6 Netaji Subhash Ward ",
+                    "localname": "Netaji Subhash Ward - Ward No. 6 Netaji Subhash Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8fc82a3a-9229-4afe-b92c-a2b4c9f6e193",
+                "boundaryNum": 1,
+                "name": "Ward No. 7 Ravindra Nath Ward",
+                "localname": "Ward No. 7 Ravindra Nath Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296906",
+                "children": [
+                  {
+                    "id": "49094984-ea22-4fe5-928a-36be496ad54c",
+                    "boundaryNum": 1,
+                    "name": "Ravindra Nath Ward - Ward No. 7 Ravindra Nath Ward ",
+                    "localname": "Ravindra Nath Ward - Ward No. 7 Ravindra Nath Ward ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
