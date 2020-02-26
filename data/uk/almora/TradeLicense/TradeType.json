@@ -1,0 +1,347 @@
+{
+"tenantId": "uk.almora",
+"moduleName": "TradeLicense",
+"TradeType": [
+  {
+            "code": "TRADE.MEDICAL.KAPVTC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.KA3STR",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.HL10B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.HL20B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.HL30B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.PETROLEUM.PDR",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR61",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.REST.OTH",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.FVS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.HL40B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.HOTELS.HL50B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIQUOR.RDRFLS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIQUOR.CLS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.SWSH",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR70",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.OM",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.REST.CATE",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.RIIF",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.MEDICAL.HARPC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.MS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.KACS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.KABS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.PMS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.GMD",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.PAAN",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.RETAIL.HW",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.GMS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.BAKE",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.TR37",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.MEDICAL.RDRXRYC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.KATEAS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        }
+]
+}
