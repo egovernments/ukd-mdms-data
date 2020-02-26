@@ -1,0 +1,612 @@
+{
+  "tenantId": "uk.uttarkashi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "uttarkashi",
+        "localname": "uttarkashi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.uttarkashi",
+        "children": [
+          {
+            "id": "987c5988-4528-4c94-9777-b04bd0e279f1",
+            "boundaryNum": 1,
+            "name": "Uttarkashi",
+            "localname": "Uttarkashi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "a45f948a-dd67-4068-89cd-2484f511a03d",
+                "boundaryNum": 1,
+                "name": "Ward No. 01 Gangori",
+                "localname": "Ward No. 01 Gangori",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16007",
+                "children": [
+                  {
+                    "id": "2058a001-2ddf-4c87-997b-2a33c051a7bd",
+                    "boundaryNum": 1,
+                    "name": "Ganeshpur - Ward No. 01 Gangori ",
+                    "localname": "Ganeshpur - Ward No. 01 Gangori ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5c7dc0e7-9985-45c7-8650-8069f5a7ee29",
+                    "boundaryNum": 1,
+                    "name": "Garmpani - Ward No. 01 Gangori ",
+                    "localname": "Garmpani - Ward No. 01 Gangori ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e60a228-a50f-4815-97a1-7661694e65da",
+                    "boundaryNum": 1,
+                    "name": "Tekhla - Ward No. 01 Gangori ",
+                    "localname": "Tekhla - Ward No. 01 Gangori ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "861096a9-19aa-4598-acf7-df9e2a86eb51",
+                    "boundaryNum": 1,
+                    "name": "Laksheshwar - Ward No. 01 Gangori ",
+                    "localname": "Laksheshwar - Ward No. 01 Gangori ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9b122404-6710-4f8f-94c8-1ab2e5971c6a",
+                    "boundaryNum": 1,
+                    "name": "Kotbangala - Ward No. 01 Gangori ",
+                    "localname": "Kotbangala - Ward No. 01 Gangori ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c3c2eea-2283-4d7f-987e-f1c470a2a6ab",
+                "boundaryNum": 1,
+                "name": "Ward No.2 Collectrate Colony",
+                "localname": "Ward No.2 Collectrate Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16008",
+                "children": [
+                  {
+                    "id": "7cc4ade1-c443-4fc5-8a84-8e3e91d15aeb",
+                    "boundaryNum": 1,
+                    "name": "Collectorate colony, - Ward No.2 Collectrate Colony ",
+                    "localname": "Collectorate colony, - Ward No.2 Collectrate Colony ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69b34703-d756-4830-bf0c-9f60414cee5c",
+                    "boundaryNum": 1,
+                    "name": "Gophiyara, - Ward No.2 Collectrate Colony ",
+                    "localname": "Gophiyara, - Ward No.2 Collectrate Colony ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c9a3deea-abf3-403b-b916-d4f3777c8d6e",
+                    "boundaryNum": 1,
+                    "name": "Masijd Mohalla - Ward No.2 Collectrate Colony ",
+                    "localname": "Masijd Mohalla - Ward No.2 Collectrate Colony ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bf4a16b-6690-4f3c-9b79-f343117fa0a4",
+                    "boundaryNum": 1,
+                    "name": "Ganga Bhihar - Ward No.2 Collectrate Colony ",
+                    "localname": "Ganga Bhihar - Ward No.2 Collectrate Colony ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c140c5e5-a1f8-491d-a1ed-9ab36654e653",
+                "boundaryNum": 1,
+                "name": "Ward No.3 Tiloth",
+                "localname": "Ward No.3 Tiloth",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16009",
+                "children": [
+                  {
+                    "id": "2d6e544c-a0f8-4290-aa9f-e35a8fb063c0",
+                    "boundaryNum": 1,
+                    "name": "Tiloth Gaon - Ward No.3 Tiloth ",
+                    "localname": "Tiloth Gaon - Ward No.3 Tiloth ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fbd3aa0c-525c-4e44-8b16-0e00d8519876",
+                    "boundaryNum": 1,
+                    "name": "Tiloth Colony - Ward No.3 Tiloth ",
+                    "localname": "Tiloth Colony - Ward No.3 Tiloth ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "215dfbf3-ebf0-4188-8563-ed3d3b96e026",
+                    "boundaryNum": 1,
+                    "name": "Kutati Colony - Ward No.3 Tiloth ",
+                    "localname": "Kutati Colony - Ward No.3 Tiloth ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1b90226-883b-41f0-a29f-46c381f5befd",
+                "boundaryNum": 1,
+                "name": "Ward No.4 Ganga Nager",
+                "localname": "Ward No.4 Ganga Nager",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16010",
+                "children": [
+                  {
+                    "id": "90e4068c-354e-4eed-b70c-af286cc17b31",
+                    "boundaryNum": 1,
+                    "name": "Ganga Nager - Ward No.4 Ganga Nager ",
+                    "localname": "Ganga Nager - Ward No.4 Ganga Nager ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8b1ee25f-09a7-482f-8d72-c33e4940014c",
+                    "boundaryNum": 1,
+                    "name": "Balmiki Basti - Ward No.4 Ganga Nager ",
+                    "localname": "Balmiki Basti - Ward No.4 Ganga Nager ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af05c7d6-4158-42c4-af9f-1f17b46d7488",
+                    "boundaryNum": 1,
+                    "name": "Sunarkhola - Ward No.4 Ganga Nager ",
+                    "localname": "Sunarkhola - Ward No.4 Ganga Nager ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3f6b8e00-8fc4-4c28-921d-8a4365fa4780",
+                    "boundaryNum": 1,
+                    "name": "Uppla Bharhat - Ward No.4 Ganga Nager ",
+                    "localname": "Uppla Bharhat - Ward No.4 Ganga Nager ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39c0edd8-8f16-46b3-a3cd-ce38e0d4c01d",
+                "boundaryNum": 1,
+                "name": "Ward No.5 Court Road",
+                "localname": "Ward No.5 Court Road",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16011",
+                "children": [
+                  {
+                    "id": "846fea23-7ee3-4226-ae96-90401cbbe6a3",
+                    "boundaryNum": 1,
+                    "name": "Jilla Chikitsalay - Ward No.5 Court Road ",
+                    "localname": "Jilla Chikitsalay - Ward No.5 Court Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "140338db-1116-4893-b5ae-263e8594b6df",
+                    "boundaryNum": 1,
+                    "name": "CourtRoad - Ward No.5 Court Road ",
+                    "localname": "CourtRoad - Ward No.5 Court Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a6e93168-6211-43dd-9d0f-d8d343b51caf",
+                    "boundaryNum": 1,
+                    "name": "Ghrat Mohalla - Ward No.5 Court Road ",
+                    "localname": "Ghrat Mohalla - Ward No.5 Court Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f34fd1e-4b95-4fcf-8820-5b3f0017ffbb",
+                "boundaryNum": 1,
+                "name": "Ward No.6 Ramleela Maidan",
+                "localname": "Ward No.6 Ramleela Maidan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16012",
+                "children": [
+                  {
+                    "id": "1ec0afa9-d16d-4ac7-bfbb-c3562336e141",
+                    "boundaryNum": 1,
+                    "name": "Ramleela Maidan - Ward No.6 Ramleela Maidan ",
+                    "localname": "Ramleela Maidan - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1029e302-5f49-4f91-80e4-b3f511242ab9",
+                    "boundaryNum": 1,
+                    "name": "Bishana Mohalla - Ward No.6 Ramleela Maidan ",
+                    "localname": "Bishana Mohalla - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c61a2ed8-a27a-47df-958e-49420ae32d08",
+                    "boundaryNum": 1,
+                    "name": "Kedar Ghat - Ward No.6 Ramleela Maidan ",
+                    "localname": "Kedar Ghat - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "18333d32-6f53-4d13-b41e-df8a5a23452c",
+                    "boundaryNum": 1,
+                    "name": "Main Bajjar - Ward No.6 Ramleela Maidan ",
+                    "localname": "Main Bajjar - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01fed98c-c491-4a56-827a-98319f6292dd",
+                    "boundaryNum": 1,
+                    "name": "Kapoor Mohalla - Ward No.6 Ramleela Maidan ",
+                    "localname": "Kapoor Mohalla - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e84417aa-d888-48f4-8601-f789dc951150",
+                    "boundaryNum": 1,
+                    "name": "Jadbhart Marg - Ward No.6 Ramleela Maidan ",
+                    "localname": "Jadbhart Marg - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3cd0b2e0-5412-4a74-9777-45f6071baefa",
+                    "boundaryNum": 1,
+                    "name": "KaliKamli Bajar - Ward No.6 Ramleela Maidan ",
+                    "localname": "KaliKamli Bajar - Ward No.6 Ramleela Maidan ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b446d47e-f9dd-4f52-8e35-c1979688fcb4",
+                "boundaryNum": 1,
+                "name": "Ward No.7 Bhatwari Road",
+                "localname": "Ward No.7 Bhatwari Road",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16013",
+                "children": [
+                  {
+                    "id": "2b25c0cb-4ff7-4aa7-aab9-2a5766dcbc74",
+                    "boundaryNum": 1,
+                    "name": "Paduli - Ward No.7 Bhatwari Road ",
+                    "localname": "Paduli - Ward No.7 Bhatwari Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "220c0588-ad9b-4854-88d1-a95ccbadc2b1",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - Ward No.7 Bhatwari Road ",
+                    "localname": "Indra Colony - Ward No.7 Bhatwari Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "97f56ec3-bd34-488b-9383-8c48feaed601",
+                    "boundaryNum": 1,
+                    "name": "ThambaKhani - Ward No.7 Bhatwari Road ",
+                    "localname": "ThambaKhani - Ward No.7 Bhatwari Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7120a5ab-bf5b-4026-8cfd-56146e1d4544",
+                    "boundaryNum": 1,
+                    "name": "Bhatwari Road - Ward No.7 Bhatwari Road ",
+                    "localname": "Bhatwari Road - Ward No.7 Bhatwari Road ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a8928b9-bfc6-4dad-9f37-9d61e7669fff",
+                "boundaryNum": 1,
+                "name": "Ward No.8 Joshiyara",
+                "localname": "Ward No.8 Joshiyara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16014",
+                "children": [
+                  {
+                    "id": "54b2616b-1bdc-4d04-aa69-ec9ac2d600a5",
+                    "boundaryNum": 1,
+                    "name": "Joshiyara - Ward No.8 Joshiyara ",
+                    "localname": "Joshiyara - Ward No.8 Joshiyara ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "792f793a-a9dd-4745-9875-af4f584bc518",
+                    "boundaryNum": 1,
+                    "name": "Shinchai Vibhag Colony - Ward No.8 Joshiyara ",
+                    "localname": "Shinchai Vibhag Colony - Ward No.8 Joshiyara ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3f6c050-d04d-4315-827b-6a5920cdda61",
+                    "boundaryNum": 1,
+                    "name": "Manera - Ward No.8 Joshiyara ",
+                    "localname": "Manera - Ward No.8 Joshiyara ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97bdbaaf-87c9-4f22-b602-a57ee7319570",
+                "boundaryNum": 1,
+                "name": "Ward No.9 Ladari",
+                "localname": "Ward No.9 Ladari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16015",
+                "children": [
+                  {
+                    "id": "abbe59ba-8cf9-45d7-977a-88e8d52e997f",
+                    "boundaryNum": 1,
+                    "name": "Ladari - Ward No.9 Ladari ",
+                    "localname": "Ladari - Ward No.9 Ladari ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5ae068f7-0da0-48a3-9e43-c1a67bd7392d",
+                    "boundaryNum": 1,
+                    "name": "Sera - Ward No.9 Ladari ",
+                    "localname": "Sera - Ward No.9 Ladari ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "073f2e30-2fc3-452f-be11-1211e6db5242",
+                "boundaryNum": 1,
+                "name": "Ward No. 10 Gyanshu",
+                "localname": "Ward No. 10 Gyanshu",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296878",
+                "children": [
+                  {
+                    "id": "a11cf317-61cc-4696-89b1-c9b0109dfed9",
+                    "boundaryNum": 1,
+                    "name": "Gyanshu - Ward No. 10 Gyanshu ",
+                    "localname": "Gyanshu - Ward No. 10 Gyanshu ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b91de59c-448a-4b8c-a693-dc033434c7f4",
+                "boundaryNum": 1,
+                "name": "Ward No.11 Palla Gyanshu",
+                "localname": "Ward No.11 Palla Gyanshu",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296879",
+                "children": [
+                  {
+                    "id": "a5ac5715-3751-4367-b0dc-4c8a0c066754",
+                    "boundaryNum": 1,
+                    "name": "Palla Gyanshu - Ward No.11 Palla Gyanshu ",
+                    "localname": "Palla Gyanshu - Ward No.11 Palla Gyanshu ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
