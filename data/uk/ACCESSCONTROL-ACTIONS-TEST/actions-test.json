@@ -6343,7 +6343,7 @@
       "url": "/report/rainmaker-uc/CollectionRegister/metadata/_get",
       "displayName": "Collection Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "leftIcon": "action:description",
@@ -6356,7 +6356,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -6382,7 +6382,7 @@
       "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
       "displayName": "Misc Business Service Collections",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Misc Business Service Collections"
@@ -6404,7 +6404,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.miscellaneous Receipt Register"
@@ -6415,7 +6415,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
       "displayName": "Miscellaneous Cancelled Receipts",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.miscellaneous Receipt Register"
@@ -6426,7 +6426,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Receipt Register"
