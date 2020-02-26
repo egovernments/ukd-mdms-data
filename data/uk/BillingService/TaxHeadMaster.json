@@ -4932,28 +4932,6 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "TL",
-      "name": "tl application fee",
-      "code": "TL_APPLICATION_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": true,
-      "value": "100"
-    },
-    {
-      "category": "TAX",
-      "service": "TL",
-      "name": "tl order fee",
-      "code": "TL_ORDER_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": true,
-      "value": "100"
     }
   ]
 }
