@@ -1,0 +1,480 @@
+{
+  "tenantId": "uk.chamba",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "chamba",
+        "localname": "chamba",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.chamba",
+        "children": [
+          {
+            "id": "afb2ce9c-5e57-4ac3-b3e1-1c7bd7d29aec",
+            "boundaryNum": 1,
+            "name": "Chamba",
+            "localname": "Chamba",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "a0644b5c-c915-4594-90f0-2f092a4b2b85",
+                "boundaryNum": 1,
+                "name": "Ward No.1 Suman Colony Talla Chamba",
+                "localname": "Ward No.1 Suman Colony Talla Chamba",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16166",
+                "children": [
+                  {
+                    "id": "d61b4bc1-7360-4eea-a537-8c212f90d215",
+                    "boundaryNum": 1,
+                    "name": "Suman Colony Talla Chamba - Ward No.1 Suman Colony Talla Chamba ",
+                    "localname": "Suman Colony Talla Chamba - Ward No.1 Suman Colony Talla Chamba ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6fc01e40-4efa-44f6-a4ed-46965f353bb1",
+                    "boundaryNum": 1,
+                    "name": "Hydel colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "localname": "Hydel colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69f20a1b-0af7-4ef6-b5df-c181b021d9dd",
+                    "boundaryNum": 1,
+                    "name": "Suman Colony Talla chamba - Ward No.1 Suman Colony Talla Chamba ",
+                    "localname": "Suman Colony Talla chamba - Ward No.1 Suman Colony Talla Chamba ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f33ae807-8972-4f41-9d95-2a75adf60734",
+                    "boundaryNum": 1,
+                    "name": "Suman Colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "localname": "Suman Colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47ef0a95-923d-4526-b421-ef644ba0504c",
+                    "boundaryNum": 1,
+                    "name": "Forest Colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "localname": "Forest Colony - Ward No.1 Suman Colony Talla Chamba ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c562a500-c1a7-40dc-822c-4d87a7bbc61d",
+                "boundaryNum": 1,
+                "name": "Ward No.2 Tower Mohalla",
+                "localname": "Ward No.2 Tower Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16167",
+                "children": [
+                  {
+                    "id": "a807476d-58ba-4769-aeff-51e6a56c0708",
+                    "boundaryNum": 1,
+                    "name": "Tower Mohalla - Ward No.2 Tower Mohalla ",
+                    "localname": "Tower Mohalla - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "65e271d9-c5ab-4f83-9c69-13e25be55779",
+                    "boundaryNum": 1,
+                    "name": "Tower Mohalla - Ward No.2 Tower Mohalla ",
+                    "localname": "Tower Mohalla - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5a82d37-7e70-49da-b340-defd1d9cb453",
+                    "boundaryNum": 1,
+                    "name": "Sarswati Vihar - Ward No.2 Tower Mohalla ",
+                    "localname": "Sarswati Vihar - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "257bf2d5-b444-4508-b1f0-3ff9bfe8b0dc",
+                    "boundaryNum": 1,
+                    "name": "Jalnigam Colony - Ward No.2 Tower Mohalla ",
+                    "localname": "Jalnigam Colony - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a092b8e2-06c2-4a80-bde6-3fa2118ceb4a",
+                    "boundaryNum": 1,
+                    "name": "Suman Colony - Ward No.2 Tower Mohalla ",
+                    "localname": "Suman Colony - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2977ede-f25e-4b0e-902c-623c38ec8f5a",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir Mohalla - Ward No.2 Tower Mohalla ",
+                    "localname": "Shiv Mandir Mohalla - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7fe1677-bf1f-42de-bb04-1560e78db784",
+                    "boundaryNum": 1,
+                    "name": "Mussoorie Road - Ward No.2 Tower Mohalla ",
+                    "localname": "Mussoorie Road - Ward No.2 Tower Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29357b95-a329-4de4-8693-cac2aa7dd04b",
+                "boundaryNum": 1,
+                "name": "Ward No.3 Mandir Mohalla",
+                "localname": "Ward No.3 Mandir Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16168",
+                "children": [
+                  {
+                    "id": "c36c7939-8d3c-4939-9a4b-72c7610d1897",
+                    "boundaryNum": 1,
+                    "name": "Mandir Mohalla - Ward No.3 Mandir Mohalla ",
+                    "localname": "Mandir Mohalla - Ward No.3 Mandir Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a54aa895-8fa7-4070-9b22-8e75e7752a01",
+                    "boundaryNum": 1,
+                    "name": "Mandir Mohalla - Ward No.3 Mandir Mohalla ",
+                    "localname": "Mandir Mohalla - Ward No.3 Mandir Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8048eeb-e462-4e39-828a-e425f7c0e32e",
+                "boundaryNum": 1,
+                "name": "Ward No.4 V.C.Gabar Singh Mohalla",
+                "localname": "Ward No.4 V.C.Gabar Singh Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16169",
+                "children": [
+                  {
+                    "id": "0f9c7843-6c06-491a-8ba4-d3d5a5d9be3c",
+                    "boundaryNum": 1,
+                    "name": "V C Gabbar Singh Mohalla - Ward No.4 V.C.Gabar Singh Mohalla ",
+                    "localname": "V C Gabbar Singh Mohalla - Ward No.4 V.C.Gabar Singh Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a4061522-b92c-4dab-b845-7ca611e99621",
+                    "boundaryNum": 1,
+                    "name": "V.C Gabar Singh Mohalla - Ward No.4 V.C.Gabar Singh Mohalla ",
+                    "localname": "V.C Gabar Singh Mohalla - Ward No.4 V.C.Gabar Singh Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0b2abad0-e016-4646-8d76-1b99109629d8",
+                "boundaryNum": 1,
+                "name": "Ward No.5 Redcross Mohalla",
+                "localname": "Ward No.5 Redcross Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16170",
+                "children": [
+                  {
+                    "id": "1b50913f-543c-49b4-82ec-23641410ee58",
+                    "boundaryNum": 1,
+                    "name": "Redcross Mohalla - Ward No.5 Redcross Mohalla ",
+                    "localname": "Redcross Mohalla - Ward No.5 Redcross Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6cb4eddc-bfec-407b-9cdc-056844fa37cf",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - Ward No.5 Redcross Mohalla ",
+                    "localname": "Shiv Mandir - Ward No.5 Redcross Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47279ced-1842-4bf2-8a5d-053c61217b46",
+                    "boundaryNum": 1,
+                    "name": "Redcroos Mohalla - Ward No.5 Redcross Mohalla ",
+                    "localname": "Redcroos Mohalla - Ward No.5 Redcross Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "58fca13f-356e-4eb5-88c3-2b9ab4ba8aed",
+                    "boundaryNum": 1,
+                    "name": "Jagriti Vihar - Ward No.5 Redcross Mohalla ",
+                    "localname": "Jagriti Vihar - Ward No.5 Redcross Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d3d3efc-def9-4caf-89b5-2a524c8b9efc",
+                "boundaryNum": 1,
+                "name": "Ward No.6 Vanaushadhi Vatika Mohalla",
+                "localname": "Ward No.6 Vanaushadhi Vatika Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16171",
+                "children": [
+                  {
+                    "id": "76fddea2-f5d8-46cd-a94c-b173a1ac32aa",
+                    "boundaryNum": 1,
+                    "name": "Vanaushadhi Varika Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "localname": "Vanaushadhi Varika Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47d5a57b-b10c-422f-aea9-8168037a1fb4",
+                    "boundaryNum": 1,
+                    "name": "Vanaushadhi Vatika Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "localname": "Vanaushadhi Vatika Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ae5d119e-cc5f-409c-9d7f-46e2ef392c9e",
+                    "boundaryNum": 1,
+                    "name": "Vanaushadhi Vatkia Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "localname": "Vanaushadhi Vatkia Mohalla - Ward No.6 Vanaushadhi Vatika Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d6b27e7-e230-4280-8ec2-8f3953af7d46",
+                "boundaryNum": 1,
+                "name": "Ward No.7 Buranswari Mohalla",
+                "localname": "Ward No.7 Buranswari Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16172",
+                "children": [
+                  {
+                    "id": "771f2125-3fb5-4685-8697-5765f25a1950",
+                    "boundaryNum": 1,
+                    "name": "Buranswari Mohalla - Ward No.7 Buranswari Mohalla ",
+                    "localname": "Buranswari Mohalla - Ward No.7 Buranswari Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5deccaf3-e35e-4434-a85d-ddd574123d0b",
+                    "boundaryNum": 1,
+                    "name": "Buranshwari mohalla - Ward No.7 Buranswari Mohalla ",
+                    "localname": "Buranshwari mohalla - Ward No.7 Buranswari Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d74c8d5-38a5-442f-b59e-b76c72038643",
+                "boundaryNum": 1,
+                "name": "Ward No.8 Devidhar Mohalla",
+                "localname": "Ward No.8 Devidhar Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296723",
+                "children": [
+                  {
+                    "id": "cc5eab78-9e45-4398-85c5-643431086d95",
+                    "boundaryNum": 1,
+                    "name": "Devidhar Mohalla - Ward No.8 Devidhar Mohalla ",
+                    "localname": "Devidhar Mohalla - Ward No.8 Devidhar Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f758a2d8-59e2-46a9-9d10-8e8eb758bfda",
+                    "boundaryNum": 1,
+                    "name": "Devidhar Mohalla - Ward No.8 Devidhar Mohalla ",
+                    "localname": "Devidhar Mohalla - Ward No.8 Devidhar Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65358b2a-63f2-4122-ba2c-19d473ab6afc",
+                "boundaryNum": 1,
+                "name": "Ward No.9 Sridev Suman Vishwavidhyalaya Mohalla",
+                "localname": "Ward No.9 Sridev Suman Vishwavidhyalaya Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296724",
+                "children": [
+                  {
+                    "id": "41c362f3-b86a-4d20-a82b-500366ad8e79",
+                    "boundaryNum": 1,
+                    "name": "Shridev Suman Vishwavidhyalya Mohall - Ward No.9 Sridev Suman Vishwavidhyalaya Mohalla ",
+                    "localname": "Shridev Suman Vishwavidhyalya Mohall - Ward No.9 Sridev Suman Vishwavidhyalaya Mohalla ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
