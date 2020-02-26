@@ -3,7 +3,7 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
+      "code": "TRADE.SHOP.TR32",
       "uom": "null",
       "applicationDocument": [
         "RENTPAPERDED",
@@ -14,7 +14,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_KATBHW",
+      "code": "TRADE.TRANSPORT.KATBHW",
       "uom": "null",
       "applicationDocument": [
         "RENTPAPERDED",
@@ -25,7 +25,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR61",
+      "code": "TRADE.SHOP.TR61",
       "uom": "null",
       "applicationDocument": [
         "RENTPAPERDED",
@@ -36,7 +36,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR29",
+      "code": "TRADE.PETROLEUM.TR29",
       "uom": "null",
       "applicationDocument": [
         "RENTPAPERDED",
@@ -48,4 +48,3 @@
     }
   ]
 }
-
