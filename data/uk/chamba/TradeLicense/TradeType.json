@@ -1,0 +1,1099 @@
+{
+"tenantId": "uk.chamba",
+"moduleName": "TradeLicense",
+"TradeType": [
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL10B",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDREGISTERATION",
+             "AADHAR",
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL20B",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDREGISTERATION",
+             "AADHAR",
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL30B",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDREGISTERATION",
+             "AADHAR",
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL40B",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDREGISTERATION",
+             "AADHAR",
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL50B",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HSA50",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HAR3STR",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_RESTS",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_MRGH",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_OTH",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_NH20B",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_NHA20",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_MH20B",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_MHA20",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAXRYC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KADNTC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_CHEWR",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_AWOTV",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_AWITV",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU2S",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU4S",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU7S",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_BUS",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARTBHW",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_THELA",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_GOODS_TRLY",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_GOODS_OTHFW",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_MTRG",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_MTRA",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_KAOTH",
+            "uom": "null",
+             "PANIDREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR28",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR29",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR30",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_OPOS",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_OPOS",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ADVA",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ARCH",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_BANK_KAFINC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_BUILD",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ORCHT",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_TR60",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_PACQA",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_ES",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_OTH",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_LNDRY",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_KADRYC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SF",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR36",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR38",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SOPAT",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BRKKL",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PTAFC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PANMF",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_IF",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BXFCB",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PLSTF",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLS",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_FLS/",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_CTYSC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_COMPC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_TYPEC",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WCRS",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_FABIW",
+            "uom": "null",
+             "PANIDLICENSEREGISTERATION",
+             "AADHAR"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR43",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR43",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR44",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_CLTBS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR42",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BKRYP",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_CATE",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_HCB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR47",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR48",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GENMB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GMS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TH5A",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TH3A",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR51",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_COLR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_PAINT",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_DARYF",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TTRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BHUSB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BHS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_ADLIB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_VDLIB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_CBLEO",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GOSB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TENT",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR78",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_OTH",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BOOKB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BOOKR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WOODB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WOODR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TIMBM",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TARW",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FERT",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PLSTT",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWEET",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_DYFSB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_DYFSR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SPCSB",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SPCSR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FVS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FURSR",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FURSE",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_CRKSE",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_DEDCL",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BANG",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_OTH",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_LOTYS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SHOEM",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR79",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_STDPC",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_TR56",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SPICM",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TR37",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SHOES",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_GMD",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR80",
+            "uom": "null",
+            "applicationDocument": [
+             "PANIDNPPREGLICENSE",
+             "AADHAR"
+            ],
+            "verificationDocument": "[]",
+            "active": true,
+            "type": "TL"
+        }
+    ]
+}
