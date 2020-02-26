@@ -1,0 +1,456 @@
+{
+  "tenantId": "uk.ukhimath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ukhimath",
+        "localname": "ukhimath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.ukhimath",
+        "children": [
+          {
+            "id": "3a5e456c-eb37-4314-abe5-dc63988d7a19",
+            "boundaryNum": 1,
+            "name": "Ukhimath",
+            "localname": "Ukhimath",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "9dd03e4b-1def-49ad-99fd-7cf91d9f280f",
+                "boundaryNum": 1,
+                "name": "gandhinagr",
+                "localname": "gandhinagr",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W926534",
+                "children": [
+                  {
+                    "id": "c6ed4607-cbd9-4193-905c-e383f4b354d1",
+                    "boundaryNum": 1,
+                    "name": "gandhinagr - gandhinagr",
+                    "localname": "gandhinagr - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "34f57eeb-d3ef-4ae9-a89d-9e41629413be",
+                    "boundaryNum": 1,
+                    "name": "block ukhimath - gandhinagr",
+                    "localname": "block ukhimath - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0d9b0dc4-5d5c-42d5-becb-42a545fc471c",
+                    "boundaryNum": 1,
+                    "name": "primary school ukhimath - gandhinagr",
+                    "localname": "primary school ukhimath - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "97769bf2-547d-4924-908e-4556b572af81",
+                    "boundaryNum": 1,
+                    "name": "men market ukhimath - gandhinagr",
+                    "localname": "men market ukhimath - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3cd88e1-18c0-4960-939c-780c6ca38902",
+                    "boundaryNum": 1,
+                    "name": "tehsil mukhyaly - gandhinagr",
+                    "localname": "tehsil mukhyaly - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f5c2617-7106-4ccb-a00b-39958b3fa326",
+                    "boundaryNum": 1,
+                    "name": "corrective bank ukhimath - gandhinagr",
+                    "localname": "corrective bank ukhimath - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af63f926-3666-42bc-b55f-2d804744efc9",
+                    "boundaryNum": 1,
+                    "name": "state bank ukhimath se bedula dhar tk - gandhinagr",
+                    "localname": "state bank ukhimath se bedula dhar tk - gandhinagr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7668a5e-39ff-4276-b4c0-df9b014abf77",
+                "boundaryNum": 1,
+                "name": "udaypur",
+                "localname": "udaypur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W926535",
+                "children": [
+                  {
+                    "id": "0e4df431-889f-4d01-9db3-d9b22ba96145",
+                    "boundaryNum": 1,
+                    "name": "udaypur - udaypur",
+                    "localname": "udaypur - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "48f676f9-faf8-4796-a2e6-8cc2bbbe3f08",
+                    "boundaryNum": 1,
+                    "name": "kushal negi ki dukan se upri bhag - udaypur",
+                    "localname": "kushal negi ki dukan se upri bhag - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa18b090-c467-4bcb-b9fd-043ce0622e9d",
+                    "boundaryNum": 1,
+                    "name": "mastoli - udaypur",
+                    "localname": "mastoli - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "55292e7c-7411-4436-9d74-ab30b065b203",
+                    "boundaryNum": 1,
+                    "name": "udaypur banjpani - udaypur",
+                    "localname": "udaypur banjpani - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0962f473-8f93-4a1d-991e-32ece0042306",
+                    "boundaryNum": 1,
+                    "name": "timlidhungi - udaypur",
+                    "localname": "timlidhungi - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cb99ad9c-6d4b-4427-bff8-6ced1c5beaf3",
+                    "boundaryNum": 1,
+                    "name": "banbuda - udaypur",
+                    "localname": "banbuda - udaypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a415e93-a56c-4bf3-b437-b04620c89138",
+                "boundaryNum": 1,
+                "name": "omkareswar",
+                "localname": "omkareswar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927615",
+                "children": [
+                  {
+                    "id": "5fee6658-9a6d-425c-8388-90158560bcdc",
+                    "boundaryNum": 1,
+                    "name": "omkareswar - omkareswar",
+                    "localname": "omkareswar - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17ea21be-583f-4e19-8586-95f2325a99cc",
+                    "boundaryNum": 1,
+                    "name": "chiri tok - omkareswar",
+                    "localname": "chiri tok - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cfaa9e44-c432-4d5d-bcef-63c420dbae03",
+                    "boundaryNum": 1,
+                    "name": "P S C ukhimath - omkareswar",
+                    "localname": "P S C ukhimath - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5edc527d-00ae-49b0-91ab-3ba98f35b948",
+                    "boundaryNum": 1,
+                    "name": "nursary omkareswar mander - omkareswar",
+                    "localname": "nursary omkareswar mander - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9de1bf46-5c6a-45d9-ab80-3e89d5ee4057",
+                    "boundaryNum": 1,
+                    "name": "dangwari and premnagar - omkareswar",
+                    "localname": "dangwari and premnagar - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b322e7e1-7b5f-4a55-bdfa-fefb3420483f",
+                    "boundaryNum": 1,
+                    "name": "brahmankholi - omkareswar",
+                    "localname": "brahmankholi - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1fbd8ea-dd00-49eb-8431-78e859d4b853",
+                    "boundaryNum": 1,
+                    "name": "gees godam - omkareswar",
+                    "localname": "gees godam - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6bf3971-8cad-452e-aee9-ebb217a73536",
+                    "boundaryNum": 1,
+                    "name": "dowanmountecery school - omkareswar",
+                    "localname": "dowanmountecery school - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7edfc58e-2c28-44e7-8e30-10921dda7df3",
+                    "boundaryNum": 1,
+                    "name": "G I C ukhimath se sera tak - omkareswar",
+                    "localname": "G I C ukhimath se sera tak - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "85b11803-a7c6-4f61-88a6-d382f48717b1",
+                    "boundaryNum": 1,
+                    "name": "chunii - omkareswar",
+                    "localname": "chunii - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49d03d9f-3d57-4d7c-8bd5-4177c2b53d3d",
+                    "boundaryNum": 1,
+                    "name": "mangoli - omkareswar",
+                    "localname": "mangoli - omkareswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a2519c4-b19b-442c-97cb-1a767c4dadbc",
+                "boundaryNum": 1,
+                "name": "bhatteswar",
+                "localname": "bhatteswar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927618",
+                "children": [
+                  {
+                    "id": "e69e2c2a-7874-437a-a6a8-d5c7dac0f222",
+                    "boundaryNum": 1,
+                    "name": "bhatteswar - bhatteswar",
+                    "localname": "bhatteswar - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0be1f84-d70c-4890-938e-b27a5971971c",
+                    "boundaryNum": 1,
+                    "name": "jakhni - bhatteswar",
+                    "localname": "jakhni - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7bb5a6c-56c4-413f-b2ba-c6e931d332f8",
+                    "boundaryNum": 1,
+                    "name": "bharat sewa aashram ukhimath thana - bhatteswar",
+                    "localname": "bharat sewa aashram ukhimath thana - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "96baa2b6-14f8-4963-98fb-caa5c6a8f41f",
+                    "boundaryNum": 1,
+                    "name": "post offish - bhatteswar",
+                    "localname": "post offish - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff78b60a-5f4d-4361-b955-095bbd143b8f",
+                    "boundaryNum": 1,
+                    "name": "P W D ukhimath nala - bhatteswar",
+                    "localname": "P W D ukhimath nala - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c92ff987-26f7-4d5d-802a-745f4305f29e",
+                    "boundaryNum": 1,
+                    "name": "chidi sansari - bhatteswar",
+                    "localname": "chidi sansari - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3c92e77b-665e-45d8-ac28-1ad15b108589",
+                    "boundaryNum": 1,
+                    "name": "tursil - bhatteswar",
+                    "localname": "tursil - bhatteswar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
