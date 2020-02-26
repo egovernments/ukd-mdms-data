@@ -3,7 +3,7 @@
 "moduleName": "TradeLicense",
 "TradeType": [
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL10B",
+            "code": "TRADE.HOTELS.HL10B",
             "uom": "null",
             "applicationDocument": [
              "PANIDREGISTERATION",
@@ -14,7 +14,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL20B",
+            "code": "TRADE.HOTELS.HL20B",
             "uom": "null",
             "applicationDocument": [
              "PANIDREGISTERATION",
@@ -25,7 +25,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL30B",
+            "code": "TRADE.HOTELS.HL30B",
             "uom": "null",
             "applicationDocument": [
              "PANIDREGISTERATION",
@@ -36,7 +36,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL40B",
+            "code": "TRADE.HOTELS.HL40B",
             "uom": "null",
             "applicationDocument": [
              "PANIDREGISTERATION",
@@ -47,385 +47,385 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL50B",
+            "code": "TRADE.HOTELS.HL50B",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HSA50",
+            "code": "TRADE.HOTELS.HSA50",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HAR3STR",
+            "code": "TRADE.HOTELS.HAR3STR",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_RESTS",
+            "code": "TRADE.REST.RESTS",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_MRGH",
+            "code": "TRADE.HOTELS.MRGH",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_OTH",
+            "code": "TRADE.HOTELS.OTH",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_NH20B",
+            "code": "TRADE.MEDICAL.NH20B",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_NHA20",
+            "code": "TRADE.MEDICAL.NHA20",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_MH20B",
+            "code": "TRADE.MEDICAL.MH20B",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_MHA20",
+            "code": "TRADE.MEDICAL.MHA20",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "code": "TRADE.MEDICAL.KAPVTC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPC",
+            "code": "TRADE.MEDICAL.KAPC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAXRYC",
+            "code": "TRADE.MEDICAL.KAXRYC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KADNTC",
+            "code": "TRADE.MEDICAL.KADNTC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "code": "TRADE.MEDICAL.KAPVTC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_CHEWR",
+            "code": "TRADE.SHOP.CHEWR",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_AWOTV",
+            "code": "TRADE.TRANSPORT.AWOTV",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_AWITV",
+            "code": "TRADE.TRANSPORT.AWITV",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU2S",
+            "code": "TRADE.TRANSPORT.HARAU2S",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU4S",
+            "code": "TRADE.TRANSPORT.HARAU4S",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARAU7S",
+            "code": "TRADE.TRANSPORT.HARAU7S",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_BUS",
+            "code": "TRADE.TRANSPORT.BUS",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_HARTBHW",
+            "code": "TRADE.TRANSPORT.HARTBHW",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_THELA",
+            "code": "TRADE.TRANSPORT.THELA",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_GOODS_TRLY",
+            "code": "TRADE.GOODS.TRLY",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_GOODS_OTHFW",
+            "code": "TRADE.GOODS.OTHFW",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_MTRG",
+            "code": "TRADE.INDUSTRY.MTRG",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_MTRA",
+            "code": "TRADE.INDUSTRY.MTRA",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_KAOTH",
+            "code": "TRADE.TRANSPORT.KAOTH",
             "uom": "null",
              "PANIDREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR28",
+            "code": "TRADE.PETROLEUM.TR28",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR29",
+            "code": "TRADE.PETROLEUM.TR29",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR30",
+            "code": "TRADE.PETROLEUM.TR30",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_OPOS",
+            "code": "TRADE.PETROLEUM.OPOS",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_OPOS",
+            "code": "TRADE.PETROLEUM.OPOS",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ADVA",
+            "code": "TRADE.FIRM.ADVA",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ARCH",
+            "code": "TRADE.FIRM.ARCH",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_BANK_KAFINC",
+            "code": "TRADE.BANK.KAFINC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_BUILD",
+            "code": "TRADE.FIRM.BUILD",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_ORCHT",
+            "code": "TRADE.FIRM.ORCHT",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_FIRM_TR60",
+            "code": "TRADE.FIRM.TR60",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_PACQA",
+            "code": "TRADE.LIVESTOCK.PACQA",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_ES",
+            "code": "TRADE.LIVESTOCK.ES",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_OTH",
+            "code": "TRADE.LIVESTOCK.OTH",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
+            "code": "TRADE.SHOP.TR32",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_LNDRY",
+            "code": "TRADE.SHOP.LNDRY",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_KADRYC",
+            "code": "TRADE.SHOP.KADRYC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SF",
+            "code": "TRADE.INDUSTRY.SF",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR36",
+            "code": "TRADE.INDUSTRY.TR36",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR38",
+            "code": "TRADE.SHOP.TR38",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SOPAT",
+            "code": "TRADE.SHOP.SOPAT",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BRKKL",
+            "code": "TRADE.INDUSTRY.BRKKL",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PTAFC",
+            "code": "TRADE.INDUSTRY.PTAFC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PANMF",
+            "code": "TRADE.INDUSTRY.PANMF",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_IF",
+            "code": "TRADE.INDUSTRY.IF",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BXFCB",
+            "code": "TRADE.INDUSTRY.BXFCB",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PLSTF",
+            "code": "TRADE.INDUSTRY.PLSTF",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLS",
+            "code": "TRADE.LIQUOR.CLS",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_FLS/",
+            "code": "TRADE.LIQUOR.FLS/",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_CTYSC",
+            "code": "TRADE.HEALTH.CTYSC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_COMPC",
+            "code": "TRADE.HEALTH.COMPC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_HEALTH_TYPEC",
+            "code": "TRADE.HEALTH.TYPEC",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WCRS",
+            "code": "TRADE.SHOP.WCRS",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_FABIW",
+            "code": "TRADE.INDUSTRY.FABIW",
             "uom": "null",
              "PANIDLICENSEREGISTERATION",
              "AADHAR"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR43",
+            "code": "TRADE.SHOP.TR43",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -436,7 +436,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR43",
+            "code": "TRADE.SHOP.TR43",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -447,7 +447,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR44",
+            "code": "TRADE.SHOP.TR44",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -458,7 +458,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_CLTBS",
+            "code": "TRADE.INDUSTRY.CLTBS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -469,7 +469,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR42",
+            "code": "TRADE.SHOP.TR42",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -480,7 +480,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
+            "code": "TRADE.SHOP.TEABS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -491,7 +491,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
+            "code": "TRADE.SHOP.TEABS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -502,7 +502,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BKRYP",
+            "code": "TRADE.INDUSTRY.BKRYP",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -513,7 +513,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_CATE",
+            "code": "TRADE.REST.CATE",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -524,7 +524,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_HCB",
+            "code": "TRADE.SHOP.HCB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -535,7 +535,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR47",
+            "code": "TRADE.SHOP.TR47",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -546,7 +546,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR48",
+            "code": "TRADE.SHOP.TR48",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -557,7 +557,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GENMB",
+            "code": "TRADE.SHOP.GENMB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -568,7 +568,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GMS",
+            "code": "TRADE.SHOP.GMS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -579,7 +579,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TH5A",
+            "code": "TRADE.SHOP.TH5A",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -590,7 +590,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TH3A",
+            "code": "TRADE.SHOP.TH3A",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -601,7 +601,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR51",
+            "code": "TRADE.INDUSTRY.TR51",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -612,7 +612,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_COLR",
+            "code": "TRADE.SHOP.COLR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -623,7 +623,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_PAINT",
+            "code": "TRADE.SHOP.PAINT",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -634,7 +634,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_DARYF",
+            "code": "TRADE.INDUSTRY.DARYF",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -645,7 +645,7 @@
             "type": "TL"
         },
         {
-            "code": "TTRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BHUSB",
+            "code": "TTRADE.INDUSTRY.BHUSB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -656,7 +656,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_BHS",
+            "code": "TRADE.INDUSTRY.BHS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -667,7 +667,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_ADLIB",
+            "code": "TRADE.SHOP.ADLIB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -678,7 +678,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_VDLIB",
+            "code": "TRADE.SHOP.VDLIB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -689,7 +689,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_CBLEO",
+            "code": "TRADE.INDUSTRY.CBLEO",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -700,7 +700,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GOSB",
+            "code": "TRADE.SHOP.GOSB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -711,7 +711,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TENT",
+            "code": "TRADE.SHOP.TENT",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -722,7 +722,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR78",
+            "code": "TRADE.SHOP.TR78",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -733,7 +733,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_OTH",
+            "code": "TRADE.SHOP.OTH",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -744,7 +744,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "code": "TRADE.STREETVENDOR.KATEAS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -755,7 +755,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BOOKB",
+            "code": "TRADE.SHOP.BOOKB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -766,7 +766,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BOOKR",
+            "code": "TRADE.SHOP.BOOKR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -777,7 +777,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WOODB",
+            "code": "TRADE.SHOP.WOODB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -788,7 +788,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_WOODR",
+            "code": "TRADE.SHOP.WOODR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -799,7 +799,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TIMBM",
+            "code": "TRADE.INDUSTRY.TIMBM",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -810,7 +810,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TARW",
+            "code": "TRADE.INDUSTRY.TARW",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -821,7 +821,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FERT",
+            "code": "TRADE.SHOP.FERT",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -832,7 +832,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_PLSTT",
+            "code": "TRADE.INDUSTRY.PLSTT",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -843,7 +843,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWEET",
+            "code": "TRADE.SHOP.SWEET",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -854,7 +854,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_DYFSB",
+            "code": "TRADE.SHOP.DYFSB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -865,7 +865,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_DYFSR",
+            "code": "TRADE.SHOP.DYFSR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -876,7 +876,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SPCSB",
+            "code": "TRADE.SHOP.SPCSB",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -887,7 +887,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SPCSR",
+            "code": "TRADE.SHOP.SPCSR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -898,7 +898,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FVS",
+            "code": "TRADE.SHOP.FVS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -909,7 +909,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FURSR",
+            "code": "TRADE.SHOP.FURSR",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -920,7 +920,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FURSE",
+            "code": "TRADE.SHOP.FURSE",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -931,7 +931,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_CRKSE",
+            "code": "TRADE.SHOP.CRKSE",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -942,7 +942,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_DEDCL",
+            "code": "TRADE.LIVESTOCK.DEDCL",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -953,7 +953,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BANG",
+            "code": "TRADE.SHOP.BANG",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -964,7 +964,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_OTH",
+            "code": "TRADE.SHOP.OTH",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -975,7 +975,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_LOTYS",
+            "code": "TRADE.SHOP.LOTYS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -986,7 +986,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SHOEM",
+            "code": "TRADE.INDUSTRY.SHOEM",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -997,7 +997,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR79",
+            "code": "TRADE.SHOP.TR79",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1008,7 +1008,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_STDPC",
+            "code": "TRADE.STREETVENDOR.STDPC",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1019,7 +1019,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_TR56",
+            "code": "TRADE.LIVESTOCK.TR56",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1030,7 +1030,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_SPICM",
+            "code": "TRADE.INDUSTRY.SPICM",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1041,7 +1041,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "code": "TRADE.STREETVENDOR.KATEAS",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1052,7 +1052,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TR37",
+            "code": "TRADE.STREETVENDOR.TR37",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1063,7 +1063,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SHOES",
+            "code": "TRADE.SHOP.SHOES",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1074,7 +1074,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_GMD",
+            "code": "TRADE.LIVESTOCK.GMD",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
@@ -1085,7 +1085,7 @@
             "type": "TL"
         },
         {
-            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_TR80",
+            "code": "TRADE.INDUSTRY.TR80",
             "uom": "null",
             "applicationDocument": [
              "PANIDNPPREGLICENSE",
