@@ -99,14 +99,6 @@
       "financialYear": "2019-20"
     },
     {
-      "fromDate": 1364774400000,
-      "toDate": 1396310399000,
-      "periodCycle": "ANNUAL",
-      "service": "PT",
-      "code": "PTAN2013",
-      "financialYear": "2013-14"
-    },
-    {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
@@ -1089,30 +1081,6 @@
       "service": "CH.Burning_of_waste_challan",
       "code": "CHBURNINGOFWASTECHALLAN",
       "financialYear": "2014-24"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1617235199000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2019_21",
-      "financialYear": "2019-21"
-    },
-    {
-      "fromDate": 1617235200000,
-      "toDate": 1648771199000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2021",
-      "financialYear": "2021-22"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1648771199000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2019_22",
-      "financialYear": "2019-22"
     }
   ]
 }
