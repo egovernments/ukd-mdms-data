@@ -1,0 +1,51 @@
+{
+  "tenantId": "uk.mahuwadawara",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
+      "uom": "null",
+      "applicationDocument": [
+        "RENTPAPERDED",
+        "AADHARPAN"
+      ],
+      "verificationDocument": "[]",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_KATBHW",
+      "uom": "null",
+      "applicationDocument": [
+        "RENTPAPERDED",
+        "AADHARPAN"
+      ],
+      "verificationDocument": "[]",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR61",
+      "uom": "null",
+      "applicationDocument": [
+        "RENTPAPERDED",
+        "AADHARPAN"
+      ],
+      "verificationDocument": "[]",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_TR29",
+      "uom": "null",
+      "applicationDocument": [
+        "RENTPAPERDED",
+        "AADHARPAN"
+      ],
+      "verificationDocument": "[]",
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
+
