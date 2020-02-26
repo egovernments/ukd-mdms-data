@@ -1,0 +1,347 @@
+{
+"tenantId": "uk.almora",
+"moduleName": "TradeLicense",
+"TradeType": [
+  {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_KAPVTC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_KA3STR",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL10B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL20B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL30B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_PETROLEUM_PDR",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR61",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_OTH",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_FVS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL40B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_HOTELS_HL50B",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_RDRFLS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWSH",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR70",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_OM",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_REST_CATE",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_RIIF",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_HARPC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_MS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_KACS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_KABS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_PMS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_LIVESTOCK_GMD",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_PAAN",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_RETAIL_HW",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_GMS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BAKE",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TR37",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_MEDICAL_RDRXRYC",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+            "uom": null,
+            "applicationDocument": [
+             "AADHAR",
+            "PANCARD"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        }
+]
+}
