@@ -1,0 +1,252 @@
+{
+  "tenantId": "uk.bhimtal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bhimtal",
+        "localname": "bhimtal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.bhimtal",
+        "children": [
+          {
+            "id": "1f417f0b-e387-424a-8936-7cc830ab21e4",
+            "boundaryNum": 1,
+            "name": "Bhimtal",
+            "localname": "Bhimtal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "b07625ab-48d5-4cf5-9352-4feee53643aa",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Mallital Ward No.1",
+                "localname": "Bhimtal (NP) - Mallital Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17735",
+                "children": [
+                  {
+                    "id": "68212bc0-6acb-4b91-83ab-6ce9ab1556bd",
+                    "boundaryNum": 1,
+                    "name": "Mallital - Bhimtal (NP) - Mallital Ward No.1",
+                    "localname": "Mallital - Bhimtal (NP) - Mallital Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84324ced-2c81-4621-b74f-46b03677a304",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Dak Banglow Ward No.2",
+                "localname": "Bhimtal (NP) - Dak Banglow Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17736",
+                "children": [
+                  {
+                    "id": "feb34808-cad8-45ff-a1f9-dbbca33d7e34",
+                    "boundaryNum": 1,
+                    "name": "Dak Banglow - Bhimtal (NP) - Dak Banglow Ward No.2",
+                    "localname": "Dak Banglow - Bhimtal (NP) - Dak Banglow Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3357097-1bb6-4d6b-bf6f-f162e9d21e9a",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Bilashpur Ward No.3",
+                "localname": "Bhimtal (NP) - Bilashpur Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17737",
+                "children": [
+                  {
+                    "id": "8b26211b-0946-41e4-969f-686c05440abb",
+                    "boundaryNum": 1,
+                    "name": "Bilashpur - Bhimtal (NP) - Bilashpur Ward No.3",
+                    "localname": "Bilashpur - Bhimtal (NP) - Bilashpur Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9ed02306-8e6e-4186-b01c-0babf512c2c5",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Nakuchiyatal Ward No.4",
+                "localname": "Bhimtal (NP) - Nakuchiyatal Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17738",
+                "children": [
+                  {
+                    "id": "3c5601ed-b506-46b4-99d0-d4d39abd8f74",
+                    "boundaryNum": 1,
+                    "name": "Nakuchiyatal - Bhimtal (NP) - Nakuchiyatal Ward No.4",
+                    "localname": "Nakuchiyatal - Bhimtal (NP) - Nakuchiyatal Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "427b9df0-161e-4b0f-8f59-556535c7d86f",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Tallital Ward No.5",
+                "localname": "Bhimtal (NP) - Tallital Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17739",
+                "children": [
+                  {
+                    "id": "4e11b12c-1190-47ea-8c87-2975717a7000",
+                    "boundaryNum": 1,
+                    "name": "Tallital - Bhimtal (NP) - Tallital Ward No.5",
+                    "localname": "Tallital - Bhimtal (NP) - Tallital Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c025e01-2826-42bd-a6c8-ba4986060958",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - June Estate Ward No.6",
+                "localname": "Bhimtal (NP) - June Estate Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17740",
+                "children": [
+                  {
+                    "id": "15af919d-b1a4-4503-b4b2-03b79e647c32",
+                    "boundaryNum": 1,
+                    "name": "June Estate - Bhimtal (NP) - June Estate Ward No.6",
+                    "localname": "June Estate - Bhimtal (NP) - June Estate Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e10a3938-61c9-4fcd-9b90-2980d4de1fc6",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Kuwa Tall Ward No.7",
+                "localname": "Bhimtal (NP) - Kuwa Tall Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17741",
+                "children": [
+                  {
+                    "id": "b382e69b-81a6-49be-9315-c3230a5ccf7b",
+                    "boundaryNum": 1,
+                    "name": "Kuwa Tall - Bhimtal (NP) - Kuwa Tall Ward No.7",
+                    "localname": "Kuwa Tall - Bhimtal (NP) - Kuwa Tall Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f6d73f3b-00bb-48ba-b70a-904fbc991579",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Industrial area Ward No. 8",
+                "localname": "Bhimtal (NP) - Industrial area Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296886",
+                "children": [
+                  {
+                    "id": "dcd5076a-ff3a-474b-8195-d97aafbfbbfd",
+                    "boundaryNum": 1,
+                    "name": "Industrial Area - Bhimtal (NP) - Industrial area Ward No. 8",
+                    "localname": "Industrial Area - Bhimtal (NP) - Industrial area Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "770e467b-dbbd-4f98-b71f-a9d49506b156",
+                "boundaryNum": 1,
+                "name": "Bhimtal (NP) - Mehragoun Ward No. 9",
+                "localname": "Bhimtal (NP) - Mehragoun Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296887",
+                "children": [
+                  {
+                    "id": "585e6849-408e-4b74-a885-a712408b73f9",
+                    "boundaryNum": 1,
+                    "name": "Mehra Goun - Bhimtal (NP) - Mehragoun Ward No. 9",
+                    "localname": "Mehra Goun - Bhimtal (NP) - Mehragoun Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
