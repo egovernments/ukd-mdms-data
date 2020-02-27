@@ -1,0 +1,540 @@
+{
+  "tenantId": "uk.augustamuni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "augustamuni",
+        "localname": "augustamuni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.augustamuni",
+        "children": [
+          {
+            "id": "e3f76bec-66c0-4387-a2a5-856116e1b99f",
+            "boundaryNum": 1,
+            "name": "Augustamuni",
+            "localname": "Augustamuni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "543a652e-6c63-4975-a356-3eace8133ffa",
+                "boundaryNum": 1,
+                "name": "Ward No 1 - Tali Bagar",
+                "localname": "Ward No 1 - Tali Bagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927894",
+                "children": [
+                  {
+                    "id": "b62f47b5-267a-4fc3-8327-db3929f0feb3",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce5f73e4-c54f-4333-8617-f7ee48ac45b0",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e17d161c-7ee9-4074-ada7-54c00c6589f4",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0c6ac762-6b52-4e8f-8250-1c5496a34bc3",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2132780e-0d53-469d-a27f-c8c27b78b5c8",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04b679fc-fca4-423c-846a-3ec029fc943d",
+                    "boundaryNum": 1,
+                    "name": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "localname": "Ward No 1 - Tali Bagar - Ward No 1 - Tali Bagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39166df2-8aea-40f1-b1fb-9452368b0724",
+                "boundaryNum": 1,
+                "name": "Ward No 2 - Souri",
+                "localname": "Ward No 2 - Souri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927895",
+                "children": [
+                  {
+                    "id": "07a0208b-0bdf-4280-955b-72d56869b704",
+                    "boundaryNum": 1,
+                    "name": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "localname": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f203bacf-7529-4094-88bd-d59acafff6c7",
+                    "boundaryNum": 1,
+                    "name": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "localname": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6bd0d48b-8336-4249-bff8-d31fddf15da7",
+                    "boundaryNum": 1,
+                    "name": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "localname": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c507ac2-c97b-48ef-bacc-76fcb4ab9edd",
+                    "boundaryNum": 1,
+                    "name": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "localname": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25cedcd6-9201-4e49-91e1-4e0e56a9b51e",
+                    "boundaryNum": 1,
+                    "name": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "localname": "Ward No 2 - Souri - Ward No 2 - Souri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86727516-5dd8-428f-b7a4-e2c1607a431e",
+                "boundaryNum": 1,
+                "name": "Ward No 3 - Jahawar Nagar",
+                "localname": "Ward No 3 - Jahawar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927896",
+                "children": [
+                  {
+                    "id": "967ceaf5-cb4f-4cac-ae6b-9c4f98f87291",
+                    "boundaryNum": 1,
+                    "name": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "localname": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ad048fc8-3f19-49b6-94d0-7a664d1c0563",
+                    "boundaryNum": 1,
+                    "name": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "localname": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d6f3d98-5eff-4b86-a55b-9332b68e915f",
+                    "boundaryNum": 1,
+                    "name": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "localname": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a20e0b49-ad86-43cb-b2bd-5cdf2076c96a",
+                    "boundaryNum": 1,
+                    "name": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "localname": "Ward No 3 - Jahawar Nagar - Ward No 3 - Jahawar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0351ee64-ce81-4fe3-b188-941d92ab0880",
+                "boundaryNum": 1,
+                "name": "Ward No 4 - Baniyari",
+                "localname": "Ward No 4 - Baniyari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927898",
+                "children": [
+                  {
+                    "id": "d48bb1b1-1fac-4ad1-af8e-346bb82d24e3",
+                    "boundaryNum": 1,
+                    "name": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "localname": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7bac2b5-e615-4a4e-afa4-cb69478d3f74",
+                    "boundaryNum": 1,
+                    "name": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "localname": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0cf8e3cc-2e1b-4895-986c-946fa16de4d4",
+                    "boundaryNum": 1,
+                    "name": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "localname": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "45f6387b-07ab-48d2-a1b8-bc5342a47c16",
+                    "boundaryNum": 1,
+                    "name": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "localname": "Ward No 4 - Baniyari - Ward No 4 - Baniyari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3e76787f-0323-46de-80e9-ce9951250cdd",
+                "boundaryNum": 1,
+                "name": "Ward No 5 - Vijay Nagar",
+                "localname": "Ward No 5 - Vijay Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296581",
+                "children": [
+                  {
+                    "id": "33f4e951-a65b-4e6c-bbb6-8c8bf3a18f70",
+                    "boundaryNum": 1,
+                    "name": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "localname": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "81cc20a0-7c4b-41a6-990b-e73bd3ca96bf",
+                    "boundaryNum": 1,
+                    "name": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "localname": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "92b7bed4-d155-4929-afdb-2ed8f936f610",
+                    "boundaryNum": 1,
+                    "name": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "localname": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef7d8365-49a9-4849-ac6b-b09064a3188f",
+                    "boundaryNum": 1,
+                    "name": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "localname": "Ward No 5 - Vijay Nagar - Ward No 5 - Vijay Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c133aa7f-adff-4bab-a321-fe70b8475a6e",
+                "boundaryNum": 1,
+                "name": "Ward No 6 - Augustmuni",
+                "localname": "Ward No 6 - Augustmuni",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296582",
+                "children": [
+                  {
+                    "id": "47835007-8613-473c-8ea8-3ea91c795c12",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3f71133c-8511-44ca-b715-e00713eb3bc2",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1cd92bbc-bd7d-4b0a-8a1e-0b197d81eb08",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de5bc09e-1d04-46db-815c-d0a34e596452",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0435e013-3413-4ea4-822f-ef0ce3b59191",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db164b61-79c2-41d3-996f-0690b62195fe",
+                    "boundaryNum": 1,
+                    "name": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "localname": "Ward No 6 - Augustmuni - Ward No 6 - Augustmuni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e466bed-62bb-4171-aa5f-caa46e1db749",
+                "boundaryNum": 1,
+                "name": "Ward No 7 - Silli Sera",
+                "localname": "Ward No 7 - Silli Sera",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296583",
+                "children": [
+                  {
+                    "id": "3ab1257f-a14e-497d-ac09-42f35d0e194c",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da85f543-8682-4ac1-9033-5fcd9b2a7429",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cb66fc77-5de5-481a-bdae-6f81fe4d217d",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Augustmuni - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Augustmuni - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af4ccc87-db60-4603-bc8a-aecfb35180c7",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Augustmuni - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Augustmuni - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef46fdd0-eb6f-476c-8e67-0190c22014ea",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f783e5f-cff0-4428-8a73-ecc4558da894",
+                    "boundaryNum": 1,
+                    "name": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "localname": "Ward No 7 - Silli Sera - Ward No 7 - Silli Sera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
