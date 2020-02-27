@@ -1,0 +1,180 @@
+{
+  "tenantId": "uk.dwarahat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "dwarahat",
+        "localname": "dwarahat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.dwarahat",
+        "children": [
+          {
+            "id": "28f0d3a2-df8c-417e-ad1b-008d6b6c8e36",
+            "boundaryNum": 1,
+            "name": "Dwarahat",
+            "localname": "Dwarahat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c4abb100-e597-44e0-ad5d-cd03fca19825",
+                "boundaryNum": 1,
+                "name": "Hat ward no.1",
+                "localname": "Hat ward no.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17615",
+                "children": [
+                  {
+                    "id": "dbbb7944-729d-41fa-a20d-b85560f53415",
+                    "boundaryNum": 1,
+                    "name": "1-versokhola - Hat ward no.1",
+                    "localname": "1-versokhola - Hat ward no.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2852b9cd-9dcd-48ab-9691-c1581aaaa95b",
+                    "boundaryNum": 1,
+                    "name": "2-kalikholi - Hat ward no.1",
+                    "localname": "2-kalikholi - Hat ward no.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f276ba57-d58b-40ed-a671-b4989c672691",
+                "boundaryNum": 1,
+                "name": "shitlapushkar ward no.2",
+                "localname": "shitlapushkar ward no.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17616",
+                "children": [
+                  {
+                    "id": "33f1f55a-f362-4aa3-9a60-2cee424bf003",
+                    "boundaryNum": 1,
+                    "name": "1-shitlapushkar - shitlapushkar ward no.2",
+                    "localname": "1-shitlapushkar - shitlapushkar ward no.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd41acb1-1ae9-4a0f-89b5-54d29a66b56f",
+                    "boundaryNum": 1,
+                    "name": "2-mathpalkhola - shitlapushkar ward no.2",
+                    "localname": "2-mathpalkhola - shitlapushkar ward no.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c02354d-fa5b-47e0-8288-9c346faef592",
+                "boundaryNum": 1,
+                "name": "bazaar ward no.3",
+                "localname": "bazaar ward no.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17617",
+                "children": [
+                  {
+                    "id": "a1a9a66d-d83c-4254-9054-c7f4add29dcb",
+                    "boundaryNum": 1,
+                    "name": "1-purvi bazaar - bazaar ward no.3",
+                    "localname": "1-purvi bazaar - bazaar ward no.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e6050535-8e2c-42d4-96d2-111644bd2e2e",
+                    "boundaryNum": 1,
+                    "name": "2-malli bazaar - bazaar ward no.3",
+                    "localname": "2-malli bazaar - bazaar ward no.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a183acbf-a13a-42ae-81ef-cdc9a6b5b054",
+                "boundaryNum": 1,
+                "name": "vidyapur kanar ward no.4",
+                "localname": "vidyapur kanar ward no.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17618",
+                "children": [
+                  {
+                    "id": "e7178c91-2a18-48b6-9502-edcf1121f8ac",
+                    "boundaryNum": 1,
+                    "name": "1-vidyapur - vidyapur kanar ward no.4",
+                    "localname": "1-vidyapur - vidyapur kanar ward no.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6009038d-1306-4833-b9b7-3802dc344b96",
+                    "boundaryNum": 1,
+                    "name": "2-kanar - vidyapur kanar ward no.4",
+                    "localname": "2-kanar - vidyapur kanar ward no.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
