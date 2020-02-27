@@ -1,0 +1,132 @@
+{
+  "tenantId": "uk.swarnashramjunk",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "swarnashramjunk",
+        "localname": "swarnashramjunk",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.swarnashramjunk",
+        "children": [
+          {
+            "id": "09abfc69-a07d-4496-9ffc-d287198f5fd9",
+            "boundaryNum": 1,
+            "name": "Swarnashramjunk",
+            "localname": "Swarnashramjunk",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "3fa4dea9-e230-4fc2-b91b-7f532b38baf4",
+                "boundaryNum": 1,
+                "name": "Lakshmanjhula  -   Ward No. 1",
+                "localname": "Lakshmanjhula  -   Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927593",
+                "children": [
+                  {
+                    "id": "a73d25a3-ca39-4e73-966c-1d58a03257a7",
+                    "boundaryNum": 1,
+                    "name": "Lakshmanjhula - Lakshmanjhula  -   Ward No. 1",
+                    "localname": "Lakshmanjhula - Lakshmanjhula  -   Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f214a447-6859-4316-b7c0-8fdbf7647469",
+                "boundaryNum": 1,
+                "name": "Jonk                      -   Ward No. 2",
+                "localname": "Jonk                      -   Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927594",
+                "children": [
+                  {
+                    "id": "d16b13b0-51e2-45fe-983f-ae284bae3a01",
+                    "boundaryNum": 1,
+                    "name": "Jonk - Jonk                      -   Ward No. 2",
+                    "localname": "Jonk - Jonk                      -   Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eda7c1c0-c0f4-41b3-ac72-09a54ba24795",
+                "boundaryNum": 1,
+                "name": "Swargashram     -   Ward No. 3",
+                "localname": "Swargashram     -   Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927600",
+                "children": [
+                  {
+                    "id": "762d9554-365d-4541-9b0a-6540d2f6e964",
+                    "boundaryNum": 1,
+                    "name": "Swargashram - Swargashram     -   Ward No. 3",
+                    "localname": "Swargashram - Swargashram     -   Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc2765e2-7e2c-4c26-90ae-1ee7f0683339",
+                "boundaryNum": 1,
+                "name": "Parmarth Niketan  - Ward No. 4",
+                "localname": "Parmarth Niketan  - Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927601",
+                "children": [
+                  {
+                    "id": "1fc9e6ec-6934-4dfe-a460-06b7d57f8e34",
+                    "boundaryNum": 1,
+                    "name": "Parmarth Niketan - Parmarth Niketan  - Ward No. 4",
+                    "localname": "Parmarth Niketan - Parmarth Niketan  - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
