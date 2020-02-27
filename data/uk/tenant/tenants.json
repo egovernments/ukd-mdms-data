@@ -931,10 +931,10 @@
       "contactNumber": "01363 278013"
     },
     {
-      "code": "uk.mangalaur",
-      "name": "Mangalaur",
-      "description": "Mangalaur",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.mangalaur/logo.png",
+      "code": "uk.manglaur",
+      "name": "manglaur",
+      "description": "manglaur",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.manglaur/logo.png",
       "imageId": "null",
       "domainUrl": "NA",
       "type": "CITY",
@@ -946,8 +946,8 @@
       },
       "city": [
         {
-          "name": "Mangalaur",
-          "localName": "Mangalaur",
+          "name": "manglaur",
+          "localName": "manglaur",
           "districtCode": "50",
           "districtName": "Haridwar",
           "regionName": "Gharwal",
@@ -1188,7 +1188,7 @@
       "address": "Nagar Palika Parishad Pauri",
       "contactNumber": "01368 222237"
     },
-     {
+    {
       "code": "uk.gauchar",
       "name": "Gauchar",
       "description": "Gauchar",
@@ -1411,6 +1411,198 @@
       },
       "address": "Rudraprayag Nagar Palika Parishad",
       "contactNumber": "+911364-233212"
+    },
+    {
+      "code": "uk.almora",
+      "name": "Almora",
+      "description": "Almora",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.almora/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "eonagarpalikaalmora@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Almora",
+        "localName": "Almora",
+        "districtCode": "45",
+        "districtName": "Almora",
+        "regionName": "Kumaon",
+        "ulbGrade": "NPP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248449",
+        "regionCode": "2",
+        "municipalityName": "Almora Nagar Palika Parishad"
+      },
+      "address": "Nagar Palika Almora",
+      "contactNumber": "05962 237734"
+    },
+    {
+      "code": "uk.lalkuan",
+      "name": "lalkuan",
+      "description": "lalkuan",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.lalkuan/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "eolalmbuk@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "lalkuan",
+        "localName": "lalkuan",
+        "districtCode": "51",
+        "districtName": "Nainital",
+        "regionName": "Kumaon",
+        "ulbGrade": "NP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248460",
+        "regionCode": "2",
+        "municipalityName": "Lal Kuan Nagar Panchayat"
+      },
+      "address": "Nagar Panchayat Lalkua district nanital",
+      "contactNumber": ""
+    },
+    {
+      "code": "uk.mahuakheraganj",
+      "name": "Mahua Kheraganj",
+      "description": "Mahua Kheraganj",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.mahuakheraganj/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "eomhu-mb-uk@nic.in",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Mahua Kheraganj",
+        "localName": "Mahua Kheraganj",
+        "districtCode": "56",
+        "districtName": "Udhamsingh Nagar",
+        "regionName": "Kumaon",
+        "ulbGrade": "NPP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248465",
+        "regionCode": "2",
+        "municipalityName": "Mahuakhedganj Nagar Palika Parishad"
+      },
+      "address": "Ward No 6, Main Bazaar mahuakheraganj",
+      "contactNumber": ""
+    },
+    {
+      "code": "uk.dugadda",
+      "name": "Dugadda",
+      "description": "Dugadda",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.dugadda/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "Nagarpalikadd@gmail.com\n",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dugadda",
+        "localName": "Dugadda",
+        "districtCode": "52",
+        "districtName": "Pauri Garhwal ",
+        "regionName": "Gharwal",
+        "ulbGrade": "NPP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248440",
+        "regionCode": "1",
+        "municipalityName": "Dugadda Nagar Palika Parishad"
+      },
+      "address": "Nagar Palika Parishad Dogadda",
+      "contactNumber": ""
+    },
+    {
+      "code": "uk.ghansali",
+      "name": "Ghansali",
+      "description": "Ghansali",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.ghansali/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "np111gha@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ghansali",
+        "localName": "Ghansali",
+        "districtCode": "55",
+        "districtName": "Tehri",
+        "regionName": "Gharwal",
+        "ulbGrade": "NP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "262832",
+        "regionCode": "1",
+        "municipalityName": "Ghansali Nagar Panchayat"
+      },
+      "address": "Nagar Panchayat Ghansali",
+      "contactNumber": "01379 258300"
+    },
+    {
+      "code": "uk.narendranagar",
+      "name": "Narendranagar",
+      "description": "Narendranagar",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.narendranagar/logo.png",
+      "imageId": "null",
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "eombnr237@gmail.com\n",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Narendranagar",
+        "localName": "Narendranagar",
+        "districtCode": "55",
+        "districtName": "Tehri",
+        "regionName": "Gharwal",
+        "ulbGrade": "NPP",
+        "longitude": "",
+        "latitude": "",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248424",
+        "regionCode": "1",
+        "municipalityName": "Narendranagar Nagar Palika Parishad "
+      },
+      "address": "Main Market NarendraNagar, Tehri Garhwal",
+      "contactNumber": "01378 227237"
     }
   ]
 }
