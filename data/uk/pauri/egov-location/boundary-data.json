@@ -1,0 +1,780 @@
+{
+  "tenantId": "uk.pauri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "pauri",
+        "localname": "pauri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.pauri",
+        "children": [
+          {
+            "id": "c1c77557-f9ad-4dd9-a8a4-defa42a221e9",
+            "boundaryNum": 1,
+            "name": "Pauri",
+            "localname": "Pauri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "f192596e-8973-4a86-b032-dc1d9a1d028f",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                "localname": "Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17490",
+                "children": [
+                  {
+                    "id": "6e5562a8-76fd-48e1-9777-0fa210b10b99",
+                    "boundaryNum": 1,
+                    "name": "Pitr Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "localname": "Pitr Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49bbad22-34ea-40dc-9e21-33e08241ee77",
+                    "boundaryNum": 1,
+                    "name": "New bus station - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "localname": "New bus station - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c0b43136-6ba4-4493-8427-01ddf060b2f2",
+                    "boundaryNum": 1,
+                    "name": "Bainjwari - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "localname": "Bainjwari - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f000cef-329d-4728-b18a-457fc313b376",
+                    "boundaryNum": 1,
+                    "name": "Circuit house Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "localname": "Circuit house Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25556602-c03d-433e-8e50-f0d3f1f277d9",
+                    "boundaryNum": 1,
+                    "name": "Kankaleshwar Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "localname": "Kankaleshwar Mohalla - Pauri (NPP) - Ward No.1Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "257a692b-cc11-4521-a140-cec9417cb0d1",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.2 civil line Pauri",
+                "localname": "Pauri (NPP) - Ward No.2 civil line Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17491",
+                "children": [
+                  {
+                    "id": "dfa9df28-8d1d-4ef6-9fca-9470947daf20",
+                    "boundaryNum": 1,
+                    "name": "civil line Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "localname": "civil line Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e0bd06d1-8fbf-4423-88a2-8bbb559dfd6c",
+                    "boundaryNum": 1,
+                    "name": "hisriya Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "localname": "hisriya Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "df4832f7-3be5-462c-be99-58d19dce6d02",
+                    "boundaryNum": 1,
+                    "name": "tahsil Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "localname": "tahsil Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6a6ecc57-1629-457a-8856-21bf8ea6ddcf",
+                    "boundaryNum": 1,
+                    "name": "old Pould house Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "localname": "old Pould house Mohalla - Pauri (NPP) - Ward No.2 civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e445c26-b68b-438c-8a4b-9e1edad2faf8",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                "localname": "Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17492",
+                "children": [
+                  {
+                    "id": "1b535172-79f1-4ebe-8036-918a13ebd350",
+                    "boundaryNum": 1,
+                    "name": "amla quarter kandai road - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "localname": "amla quarter kandai road - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aba453d6-2fd1-44a0-b8b3-72bbacd74f62",
+                    "boundaryNum": 1,
+                    "name": "kandai gou mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "localname": "kandai gou mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "254fc529-dfc8-4355-90fd-537cb87c95e4",
+                    "boundaryNum": 1,
+                    "name": "chwecha gou mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "localname": "chwecha gou mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "718bc3e5-3ef8-43da-a82f-e18d53e59781",
+                    "boundaryNum": 1,
+                    "name": "balmiki colony mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "localname": "balmiki colony mohalla - Pauri (NPP) - Ward No.3 kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7ab9dc87-3d64-4a6e-9155-30e20d47b46a",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.4 thana Pauri",
+                "localname": "Pauri (NPP) - Ward No.4 thana Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17493",
+                "children": [
+                  {
+                    "id": "436c1d74-0196-4dd0-a7c8-0398e226bb9b",
+                    "boundaryNum": 1,
+                    "name": "thana mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "localname": "thana mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6bdf52ad-102c-4b64-87a3-66ec87216d0a",
+                    "boundaryNum": 1,
+                    "name": "diptydhara mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "localname": "diptydhara mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d3da1d7-5bd3-4c9f-8494-ba06a76a7f30",
+                    "boundaryNum": 1,
+                    "name": "upper bajar mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "localname": "upper bajar mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "713c4e41-0d02-416c-85b9-f35b488ae730",
+                    "boundaryNum": 1,
+                    "name": "mall road mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "localname": "mall road mohalla - Pauri (NPP) - Ward No.4 thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b3325c9-57b8-4977-8756-bb6530e75ab0",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.5 dhara road Pauri",
+                "localname": "Pauri (NPP) - Ward No.5 dhara road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17494",
+                "children": [
+                  {
+                    "id": "e79ba4e3-d4e4-411a-872e-22863b7f4fbb",
+                    "boundaryNum": 1,
+                    "name": "dhara road mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "localname": "dhara road mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bb96f72e-28e0-4e37-92b0-069632af3c2c",
+                    "boundaryNum": 1,
+                    "name": "pnt colony - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "localname": "pnt colony - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c0242add-f335-4fae-a33b-d1515eea8d0a",
+                    "boundaryNum": 1,
+                    "name": "lower bajar road mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "localname": "lower bajar road mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e195208-f735-484b-b21e-be09e1700364",
+                    "boundaryNum": 1,
+                    "name": "new colony lower bajar mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "localname": "new colony lower bajar mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "94427f07-5a48-486b-8154-373b5ffbb26d",
+                    "boundaryNum": 1,
+                    "name": "pauri gou 1 mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "localname": "pauri gou 1 mohalla - Pauri (NPP) - Ward No.5 dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38c5c254-f820-444c-b89e-0c2da0872931",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.6 police line Pauri",
+                "localname": "Pauri (NPP) - Ward No.6 police line Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17495",
+                "children": [
+                  {
+                    "id": "a7133d1a-3759-4492-a096-094fa6ccce41",
+                    "boundaryNum": 1,
+                    "name": "tara lodge mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "localname": "tara lodge mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b09c6936-bdb4-445e-b848-15ba82be3c26",
+                    "boundaryNum": 1,
+                    "name": "hospital mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "localname": "hospital mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "029d2bc8-a8a0-4e1a-9eb2-cc2975c578db",
+                    "boundaryNum": 1,
+                    "name": "police line mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "localname": "police line mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d4d2e3a9-2d19-4199-9567-b3c167687695",
+                    "boundaryNum": 1,
+                    "name": "kandoliya pnt mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "localname": "kandoliya pnt mohalla - Pauri (NPP) - Ward No.6 police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8810cddc-76ae-42ed-abd5-4437b7cf5090",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                "localname": "Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17496",
+                "children": [
+                  {
+                    "id": "027f972a-fedf-4f56-913e-5e9ea5702d0e",
+                    "boundaryNum": 1,
+                    "name": "power house mohalla - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "localname": "power house mohalla - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d67e3a21-4995-4b72-871d-8e18aef8ff7b",
+                    "boundaryNum": 1,
+                    "name": "vikas marg mohalla - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "localname": "vikas marg mohalla - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b882e077-6986-4dac-9484-0ff88d29568f",
+                    "boundaryNum": 1,
+                    "name": "bus station kotdwar road - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "localname": "bus station kotdwar road - Pauri (NPP) - Ward No.7 vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1cdef9b-ad8d-47fb-a72f-34b4938390e4",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                "localname": "Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17497",
+                "children": [
+                  {
+                    "id": "a8ac8624-8db4-4708-b8a1-c2ab27fcc36c",
+                    "boundaryNum": 1,
+                    "name": "srinagr road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "localname": "srinagr road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "96cb6fd1-f0b6-4c90-8684-b1659ef757c2",
+                    "boundaryNum": 1,
+                    "name": "bus station srinagar road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "localname": "bus station srinagar road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c285c498-9349-489a-b24e-ecfa4d357dfb",
+                    "boundaryNum": 1,
+                    "name": "laxmi narayan road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "localname": "laxmi narayan road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9aed5e51-f314-4242-b928-30e26f3eb1ac",
+                    "boundaryNum": 1,
+                    "name": "messmore road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "localname": "messmore road mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa84fa66-1a15-4af0-a8e5-67807e3d3648",
+                    "boundaryNum": 1,
+                    "name": "turist mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "localname": "turist mohalla - Pauri (NPP) - Ward No.8 bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5f3dd76e-33f6-4e70-be83-49bb830cd520",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                "localname": "Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17498",
+                "children": [
+                  {
+                    "id": "8fb9d126-3a5a-46d2-abcd-a184133866c9",
+                    "boundaryNum": 1,
+                    "name": "pauri gou 2 - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "localname": "pauri gou 2 - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84e4ed4b-7be2-40b1-8dae-9ba8aeb8302d",
+                    "boundaryNum": 1,
+                    "name": "satpal dharmshala mohalla - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "localname": "satpal dharmshala mohalla - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "759d6dfd-813b-44a6-97e7-5bca7334b8f3",
+                    "boundaryNum": 1,
+                    "name": "timli gou mohalla - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "localname": "timli gou mohalla - Pauri (NPP) - Ward No.9 satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a20f5cef-711e-4bdb-aeef-e1f896b9bd88",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                "localname": "Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17499",
+                "children": [
+                  {
+                    "id": "a94f6de3-2120-41a0-9c04-a581e5bce88d",
+                    "boundaryNum": 1,
+                    "name": "nagdev mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "localname": "nagdev mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dea7bb4a-1ab6-4579-8a97-76948479d050",
+                    "boundaryNum": 1,
+                    "name": "trening center upper chopra - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "localname": "trening center upper chopra - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f29484e-df86-4b9b-bf04-85e79e3d117d",
+                    "boundaryNum": 1,
+                    "name": "hanuman mandir mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "localname": "hanuman mandir mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b1a3bab0-c4a8-4294-9ec8-96babc293431",
+                    "boundaryNum": 1,
+                    "name": "mission chopra mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "localname": "mission chopra mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c8039fbb-a4be-420b-b733-b8c8102505ef",
+                    "boundaryNum": 1,
+                    "name": "lower chopra mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "localname": "lower chopra mohalla - Pauri (NPP) - Ward No.10 hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73431005-dc07-4a02-95a5-631f46181e08",
+                "boundaryNum": 1,
+                "name": "Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                "localname": "Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17500",
+                "children": [
+                  {
+                    "id": "4828db12-3a91-4b92-a3dc-cf3997bce1c7",
+                    "boundaryNum": 1,
+                    "name": "petrol pum kotdwar road mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "petrol pum kotdwar road mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1a1cacd8-18c6-4985-a3e0-ee74fb3a8f8f",
+                    "boundaryNum": 1,
+                    "name": "malli rai mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "malli rai mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7a2f9f7-8970-47bd-8a1f-bcf28af016a6",
+                    "boundaryNum": 1,
+                    "name": "prem nagar mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "prem nagar mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "58927ce6-2ca5-4c83-8acf-952cf339d0f6",
+                    "boundaryNum": 1,
+                    "name": "bichli rai mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "bichli rai mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "498f80ad-f352-4505-a3e8-7c86c73f46f4",
+                    "boundaryNum": 1,
+                    "name": "charn gou - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "charn gou - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c957d34e-8bec-482e-a679-2a354485608f",
+                    "boundaryNum": 1,
+                    "name": "gadoli - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "gadoli - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0c5cbae3-7130-476c-bc29-ec4006ccd4cf",
+                    "boundaryNum": 1,
+                    "name": "vidoli - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "vidoli - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8bf5f979-1207-4032-90c5-1637cdac34c9",
+                    "boundaryNum": 1,
+                    "name": "buakhal mandakhal - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "buakhal mandakhal - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7cd57c44-7d3d-4bf0-97ba-dbb065cc1f81",
+                    "boundaryNum": 1,
+                    "name": "galla godam saint thomas mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "localname": "galla godam saint thomas mohalla - Pauri (NPP) - Ward No.11 petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
