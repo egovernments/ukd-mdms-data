@@ -1,0 +1,432 @@
+{
+  "tenantId": "uk.tanakpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tanakpur",
+        "localname": "tanakpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.tanakpur",
+        "children": [
+          {
+            "id": "f61ce465-46f7-4ac3-a15c-e20529a8e5ea",
+            "boundaryNum": 1,
+            "name": "Tanakpur",
+            "localname": "Tanakpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "d9871421-7ab7-44c7-8444-49a8bde1b6d9",
+                "boundaryNum": 1,
+                "name": "Ward No-1 Purana Tahsil Area",
+                "localname": "Ward No-1 Purana Tahsil Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17660",
+                "children": [
+                  {
+                    "id": "474eb6fe-5a83-45ac-b36c-f54a874d2191",
+                    "boundaryNum": 1,
+                    "name": "Sharda Chungi - Ward No-1 Purana Tahsil Area",
+                    "localname": "Sharda Chungi - Ward No-1 Purana Tahsil Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "998c45b6-740e-4550-b3a0-ece233b44e6b",
+                    "boundaryNum": 1,
+                    "name": "Purana Tahsil Area - Ward No-1 Purana Tahsil Area",
+                    "localname": "Purana Tahsil Area - Ward No-1 Purana Tahsil Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "096dfce9-6708-47f8-bf0e-62ebb6012c44",
+                "boundaryNum": 1,
+                "name": "Ward No-2 Masjid Area",
+                "localname": "Ward No-2 Masjid Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17661",
+                "children": [
+                  {
+                    "id": "236a7ebd-410f-42f8-9f94-69f78e93e4e8",
+                    "boundaryNum": 1,
+                    "name": "Masjid Area - Ward No-2 Masjid Area",
+                    "localname": "Masjid Area - Ward No-2 Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce2e5d10-04e2-446c-a801-b5564c12d10d",
+                    "boundaryNum": 1,
+                    "name": "Sharda colony - Ward No-2 Masjid Area",
+                    "localname": "Sharda colony - Ward No-2 Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4c8e8357-f53b-4f64-bfb1-499670cfae2f",
+                    "boundaryNum": 1,
+                    "name": "Chand Colony - Ward No-2 Masjid Area",
+                    "localname": "Chand Colony - Ward No-2 Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8488b541-69df-4315-b94c-6950c44ae62c",
+                "boundaryNum": 1,
+                "name": "Ward No-3 Verma Line",
+                "localname": "Ward No-3 Verma Line",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17662",
+                "children": [
+                  {
+                    "id": "75928a6c-87f8-4d6d-b3fe-3e779c226242",
+                    "boundaryNum": 1,
+                    "name": "Verma Line - Ward No-3 Verma Line",
+                    "localname": "Verma Line - Ward No-3 Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea6b32b3-8da1-4e5b-bdd0-7d498b534a0f",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar - Ward No-3 Verma Line",
+                    "localname": "Ambedkar Nagar - Ward No-3 Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "59469bf4-bf62-4390-b759-47ae155ccc39",
+                    "boundaryNum": 1,
+                    "name": "Bangali Colony - Ward No-3 Verma Line",
+                    "localname": "Bangali Colony - Ward No-3 Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d57936d-bb1d-4257-8c64-d991cf20230b",
+                "boundaryNum": 1,
+                "name": "Ward No- 4 Railway Area",
+                "localname": "Ward No- 4 Railway Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17663",
+                "children": [
+                  {
+                    "id": "5f2ee1eb-72dc-4b43-bc27-87690ac832b6",
+                    "boundaryNum": 1,
+                    "name": "Railway Area - Ward No- 4 Railway Area",
+                    "localname": "Railway Area - Ward No- 4 Railway Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af5c6c81-b2d6-454a-85c1-0f6432a2d273",
+                    "boundaryNum": 1,
+                    "name": "Nayi Tahsil Area - Ward No- 4 Railway Area",
+                    "localname": "Nayi Tahsil Area - Ward No- 4 Railway Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10123ea9-391f-4df8-8571-73443ad5bcf0",
+                "boundaryNum": 1,
+                "name": "Ward No-5 New Town",
+                "localname": "Ward No-5 New Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17664",
+                "children": [
+                  {
+                    "id": "cadb2a3e-2732-4ca7-86c7-e6c8128ce50b",
+                    "boundaryNum": 1,
+                    "name": "New Town - Ward No-5 New Town",
+                    "localname": "New Town - Ward No-5 New Town",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6503f3c3-a09f-4b64-8cc5-2f01e7e56460",
+                "boundaryNum": 1,
+                "name": "Ward No-6 Karmchari Colony",
+                "localname": "Ward No-6 Karmchari Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17665",
+                "children": [
+                  {
+                    "id": "e080f9e8-060d-455a-b68d-3455bba20eba",
+                    "boundaryNum": 1,
+                    "name": "Karmchari Colony - Ward No-6 Karmchari Colony",
+                    "localname": "Karmchari Colony - Ward No-6 Karmchari Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "10151ec4-88a7-415e-9926-19e36ddaf6a2",
+                    "boundaryNum": 1,
+                    "name": "Kumaun warkshop Area - Ward No-6 Karmchari Colony",
+                    "localname": "Kumaun warkshop Area - Ward No-6 Karmchari Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9218d731-77fc-4759-8798-dae4fd2fbeef",
+                "boundaryNum": 1,
+                "name": "Ward No-7 Lal Imli Padav",
+                "localname": "Ward No-7 Lal Imli Padav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17666",
+                "children": [
+                  {
+                    "id": "88a6d4bb-6048-48a4-adb8-a092a796f82f",
+                    "boundaryNum": 1,
+                    "name": "Lal Imli Padav - Ward No-7 Lal Imli Padav",
+                    "localname": "Lal Imli Padav - Ward No-7 Lal Imli Padav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1fb5cde2-1a99-4aed-a5e2-4697dc0a1a10",
+                    "boundaryNum": 1,
+                    "name": "Shivalay Area - Ward No-7 Lal Imli Padav",
+                    "localname": "Shivalay Area - Ward No-7 Lal Imli Padav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93a1757b-1e3a-47cb-8bae-4c6754ebd952",
+                "boundaryNum": 1,
+                "name": "Ward No-8 Main Market",
+                "localname": "Ward No-8 Main Market",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17667",
+                "children": [
+                  {
+                    "id": "f20610d6-5dbc-441e-be59-ea4227f8a8bd",
+                    "boundaryNum": 1,
+                    "name": "Bada Bajar - Ward No-8 Main Market",
+                    "localname": "Bada Bajar - Ward No-8 Main Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "08ea457f-51cb-49e6-b330-84b8579c2071",
+                "boundaryNum": 1,
+                "name": "Ward No-9 Ghasiyara Mandi",
+                "localname": "Ward No-9 Ghasiyara Mandi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17668",
+                "children": [
+                  {
+                    "id": "eded49f6-4eb8-48eb-9d14-9af6c83a9e24",
+                    "boundaryNum": 1,
+                    "name": "Ghasiyara Mandi - Ward No-9 Ghasiyara Mandi",
+                    "localname": "Ghasiyara Mandi - Ward No-9 Ghasiyara Mandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "776e013c-b705-459c-8255-f602221f529d",
+                    "boundaryNum": 1,
+                    "name": "Nayak kheda - Ward No-9 Ghasiyara Mandi",
+                    "localname": "Nayak kheda - Ward No-9 Ghasiyara Mandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e905ffec-93f1-4ef4-a39f-a2042197428f",
+                "boundaryNum": 1,
+                "name": "Ward No-10 Karki Farm",
+                "localname": "Ward No-10 Karki Farm",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296577",
+                "children": [
+                  {
+                    "id": "c9add1cd-59d4-4021-b768-363d5132ddb0",
+                    "boundaryNum": 1,
+                    "name": "Karki Farm - Ward No-10 Karki Farm",
+                    "localname": "Karki Farm - Ward No-10 Karki Farm",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f0a9589a-cd51-44fd-a68c-ec67fab43694",
+                    "boundaryNum": 1,
+                    "name": "Van Bibhag Colony - Ward No-10 Karki Farm",
+                    "localname": "Van Bibhag Colony - Ward No-10 Karki Farm",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf333c27-8e25-4d8a-8fe8-1a82f66c2991",
+                "boundaryNum": 1,
+                "name": "Ward No-11 Vishnupuri Colony",
+                "localname": "Ward No-11 Vishnupuri Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296578",
+                "children": [
+                  {
+                    "id": "e8f0e95c-4bbe-4169-821f-2392d3bf7bb2",
+                    "boundaryNum": 1,
+                    "name": "Mohanpur - Ward No-11 Vishnupuri Colony",
+                    "localname": "Mohanpur - Ward No-11 Vishnupuri Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a6d6973a-bec0-4a73-9a78-bf492548312e",
+                    "boundaryNum": 1,
+                    "name": "Vishnupuri Colony - Ward No-11 Vishnupuri Colony",
+                    "localname": "Vishnupuri Colony - Ward No-11 Vishnupuri Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
