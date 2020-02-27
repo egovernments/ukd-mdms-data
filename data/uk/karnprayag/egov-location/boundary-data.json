@@ -1,0 +1,540 @@
+{
+  "tenantId": "uk.karnprayag",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "karnprayag",
+        "localname": "karnprayag",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.karnprayag",
+        "children": [
+          {
+            "id": "1378612d-665c-4a4b-9edd-7e2d6075a730",
+            "boundaryNum": 1,
+            "name": "Karnprayag",
+            "localname": "Karnprayag",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "7eed5efa-68e8-44b2-9775-5415fc83bab5",
+                "boundaryNum": 1,
+                "name": "GANDHINAGAR- Ward No. 1",
+                "localname": "GANDHINAGAR- Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W72996",
+                "children": [
+                  {
+                    "id": "750f9e21-6699-4a78-ba33-b1af157de579",
+                    "boundaryNum": 1,
+                    "name": "SHAKTINAGAR - GANDHINAGAR- Ward No. 1",
+                    "localname": "SHAKTINAGAR - GANDHINAGAR- Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2cbc128-185d-4a05-8975-0168d1c4a8f7",
+                    "boundaryNum": 1,
+                    "name": "PUJARI GAUN - GANDHINAGAR- Ward No. 1",
+                    "localname": "PUJARI GAUN - GANDHINAGAR- Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5a2384f4-4705-45cc-83ee-a2bf341beb94",
+                    "boundaryNum": 1,
+                    "name": "GANDHINAGAR - GANDHINAGAR- Ward No. 1",
+                    "localname": "GANDHINAGAR - GANDHINAGAR- Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a7a9ea8-a0ad-4d83-88c1-75373bfdb2d4",
+                "boundaryNum": 1,
+                "name": "IDABADHANI- Ward No. 2",
+                "localname": "IDABADHANI- Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W72997",
+                "children": [
+                  {
+                    "id": "5df090da-2735-4fd5-808b-fa1993de3ab4",
+                    "boundaryNum": 1,
+                    "name": "PADLI - IDABADHANI- Ward No. 2",
+                    "localname": "PADLI - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "508062e5-e38f-43a6-9726-2ab22b9ee839",
+                    "boundaryNum": 1,
+                    "name": "RITHOLI - IDABADHANI- Ward No. 2",
+                    "localname": "RITHOLI - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e98ce71a-0152-4a03-aa00-21591f3fb112",
+                    "boundaryNum": 1,
+                    "name": "MAJYARA - IDABADHANI- Ward No. 2",
+                    "localname": "MAJYARA - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "197229f6-d4d5-4dcf-930c-678c47cb54af",
+                    "boundaryNum": 1,
+                    "name": "IDABADHANI - IDABADHANI- Ward No. 2",
+                    "localname": "IDABADHANI - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8972e611-cb30-4b85-8be4-c49180c919b9",
+                    "boundaryNum": 1,
+                    "name": "KAFALDALI - IDABADHANI- Ward No. 2",
+                    "localname": "KAFALDALI - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6ccd2ce4-4400-478c-b595-3e2e3e9991c2",
+                    "boundaryNum": 1,
+                    "name": "KUNDELA - IDABADHANI- Ward No. 2",
+                    "localname": "KUNDELA - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f9189995-9180-4f3b-9f56-279ff8e0c5e2",
+                    "boundaryNum": 1,
+                    "name": "PALETHI - IDABADHANI- Ward No. 2",
+                    "localname": "PALETHI - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44e41f61-7adf-432c-8436-4233eb9722c0",
+                    "boundaryNum": 1,
+                    "name": "SANKARI MALLA - IDABADHANI- Ward No. 2",
+                    "localname": "SANKARI MALLA - IDABADHANI- Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3decd6b5-f46b-41cd-a646-2a2c17aab4b8",
+                "boundaryNum": 1,
+                "name": "I.T.I- Ward No. 3",
+                "localname": "I.T.I- Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W72998",
+                "children": [
+                  {
+                    "id": "79287bc2-bac9-4209-8ab9-f89049ed721d",
+                    "boundaryNum": 1,
+                    "name": "RAJNAGAR - I.T.I- Ward No. 3",
+                    "localname": "RAJNAGAR - I.T.I- Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "182fd975-c842-4805-8e1c-224ef2ba619f",
+                    "boundaryNum": 1,
+                    "name": "ITI - I.T.I- Ward No. 3",
+                    "localname": "ITI - I.T.I- Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f603522a-ca39-4413-8b45-50251395c873",
+                    "boundaryNum": 1,
+                    "name": "PREMNAGAR - I.T.I- Ward No. 3",
+                    "localname": "PREMNAGAR - I.T.I- Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63c82a5e-2411-4649-bd9c-8f6b2bdcc04b",
+                    "boundaryNum": 1,
+                    "name": "BAHUGUNANAGAR - I.T.I- Ward No. 3",
+                    "localname": "BAHUGUNANAGAR - I.T.I- Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f0cfdf3-4c51-4b5b-ad9c-728c08052416",
+                    "boundaryNum": 1,
+                    "name": "DARI - I.T.I- Ward No. 3",
+                    "localname": "DARI - I.T.I- Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c127f546-cf0a-424a-8b75-bd7ac38b82f0",
+                "boundaryNum": 1,
+                "name": "TEHSIL COLONY- Ward No. 4",
+                "localname": "TEHSIL COLONY- Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W72999",
+                "children": [
+                  {
+                    "id": "f0fc1d94-2a49-4ff8-a988-c5a03ac7dfb1",
+                    "boundaryNum": 1,
+                    "name": "TEHSIL COLONY - TEHSIL COLONY- Ward No. 4",
+                    "localname": "TEHSIL COLONY - TEHSIL COLONY- Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f053e392-6d34-45c7-83a5-76a0dd052f86",
+                    "boundaryNum": 1,
+                    "name": "INTER COLLEGE COLONY - TEHSIL COLONY- Ward No. 4",
+                    "localname": "INTER COLLEGE COLONY - TEHSIL COLONY- Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "83e89105-7b9d-4fff-8611-d6c51f9923d8",
+                    "boundaryNum": 1,
+                    "name": "GHATGAD - TEHSIL COLONY- Ward No. 4",
+                    "localname": "GHATGAD - TEHSIL COLONY- Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4dcc7050-e4b4-4259-ac20-bb98882b5117",
+                "boundaryNum": 1,
+                "name": "SUBHASHNAGAR SIMLI - Ward No.5",
+                "localname": "SUBHASHNAGAR SIMLI - Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73000",
+                "children": [
+                  {
+                    "id": "e1d1e8db-ee8e-4e6f-85d9-667d52bd249d",
+                    "boundaryNum": 1,
+                    "name": "SUBHASHNAGAR - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "SUBHASHNAGAR - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e442274c-2e69-4790-9f3a-7e61f9ed4045",
+                    "boundaryNum": 1,
+                    "name": "SANKARI TALLA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "SANKARI TALLA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0b7d2144-8619-40ae-9724-911f37ee9d0b",
+                    "boundaryNum": 1,
+                    "name": "RAMPURSERA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "RAMPURSERA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "317acccd-2bd1-4d3f-8cfb-82d06976af14",
+                    "boundaryNum": 1,
+                    "name": "SIMLI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "SIMLI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43ab4aa8-9cfe-4c2a-869a-6e4ca5309fe1",
+                    "boundaryNum": 1,
+                    "name": "RADKHI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "RADKHI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b6a4c432-fda2-4457-a709-7e692d8e1cf1",
+                    "boundaryNum": 1,
+                    "name": "MAJYARI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "MAJYARI - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e5618c2-1924-40b7-be47-8fe1d0894f63",
+                    "boundaryNum": 1,
+                    "name": "PIPALSERA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "localname": "PIPALSERA - SUBHASHNAGAR SIMLI - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "706832c5-50cc-4c90-85b9-3126862a7919",
+                "boundaryNum": 1,
+                "name": "BUS STATION SEMI - Ward No.6",
+                "localname": "BUS STATION SEMI - Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73001",
+                "children": [
+                  {
+                    "id": "8498ad3e-483e-43b2-9312-e49db7b9980f",
+                    "boundaryNum": 1,
+                    "name": "BUS STATION - BUS STATION SEMI - Ward No.6",
+                    "localname": "BUS STATION - BUS STATION SEMI - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ed59ed5-96f9-4456-b145-5fd39f03f4d8",
+                    "boundaryNum": 1,
+                    "name": "VALMIKI BASTI - BUS STATION SEMI - Ward No.6",
+                    "localname": "VALMIKI BASTI - BUS STATION SEMI - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38b56387-b676-435c-909b-7c7d726abb61",
+                    "boundaryNum": 1,
+                    "name": "SEMI-GWAD - BUS STATION SEMI - Ward No.6",
+                    "localname": "SEMI-GWAD - BUS STATION SEMI - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f9ad02e7-7568-496d-bec0-170120777129",
+                    "boundaryNum": 1,
+                    "name": "DEVTOLI - BUS STATION SEMI - Ward No.6",
+                    "localname": "DEVTOLI - BUS STATION SEMI - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fff0ff29-94f9-41f9-92cb-3e11aa88a8d7",
+                    "boundaryNum": 1,
+                    "name": "VAKEEL MOHALLA - BUS STATION SEMI - Ward No.6",
+                    "localname": "VAKEEL MOHALLA - BUS STATION SEMI - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d370ec6-e46d-409e-be7f-0d5e05387b49",
+                "boundaryNum": 1,
+                "name": "UPPER MARKET - Ward No.7",
+                "localname": "UPPER MARKET - Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73002",
+                "children": [
+                  {
+                    "id": "2bdb88fc-efbb-4d84-83c0-9e88d73bbed0",
+                    "boundaryNum": 1,
+                    "name": "PWD COLONY - UPPER MARKET - Ward No.7",
+                    "localname": "PWD COLONY - UPPER MARKET - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c77a4b9c-04d7-43b5-bd61-8e1d89aa975d",
+                    "boundaryNum": 1,
+                    "name": "UPPER MARKET - UPPER MARKET - Ward No.7",
+                    "localname": "UPPER MARKET - UPPER MARKET - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "23933682-ddb9-4b1b-9ade-7230a1b1500c",
+                    "boundaryNum": 1,
+                    "name": "HOSPITAL COLONY - UPPER MARKET - Ward No.7",
+                    "localname": "HOSPITAL COLONY - UPPER MARKET - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a76b7897-6bab-4f12-95b4-865b33a6f35a",
+                    "boundaryNum": 1,
+                    "name": "TAMTA MOHALLA - UPPER MARKET - Ward No.7",
+                    "localname": "TAMTA MOHALLA - UPPER MARKET - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
