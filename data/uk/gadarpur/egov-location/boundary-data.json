@@ -1,0 +1,576 @@
+{
+  "tenantId": "uk.gadarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gadarpur",
+        "localname": "gadarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gadarpur",
+        "children": [
+          {
+            "id": "abaefd84-5a4e-4449-bd1f-4fb494557f28",
+            "boundaryNum": 1,
+            "name": "Gadarpur",
+            "localname": "Gadarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "30f8226f-674c-474f-a094-a897a2e3ee6d",
+                "boundaryNum": 1,
+                "name": "Gurudwara singh sabha",
+                "localname": "Gurudwara singh sabha",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18565",
+                "children": [
+                  {
+                    "id": "a23972a1-2001-45f8-9c38-b14ba21a45e2",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Singh sabha - Gurudwara singh sabha",
+                    "localname": "Gurudwara Singh sabha - Gurudwara singh sabha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "079e7786-63b6-40af-8192-01c94a5e170d",
+                    "boundaryNum": 1,
+                    "name": "Kartarpur Road - Gurudwara singh sabha",
+                    "localname": "Kartarpur Road - Gurudwara singh sabha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3bf6d0c9-ca05-4e24-a541-e5a4e249e6ef",
+                "boundaryNum": 1,
+                "name": "Ambedkar Park",
+                "localname": "Ambedkar Park",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18566",
+                "children": [
+                  {
+                    "id": "e92a0301-d587-4b8d-bb57-e7c5ea50b253",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Park - Ambedkar Park",
+                    "localname": "Ambedkar Park - Ambedkar Park",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e8e640ad-c80b-454c-b01a-dd67a1dcc35a",
+                    "boundaryNum": 1,
+                    "name": "Shishu Mandir road - Ambedkar Park",
+                    "localname": "Shishu Mandir road - Ambedkar Park",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b75c4463-8a46-4f3f-bc8d-05860dc3b7ef",
+                    "boundaryNum": 1,
+                    "name": "Bhola colony - Ambedkar Park",
+                    "localname": "Bhola colony - Ambedkar Park",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8b77592-9189-4be4-a437-c600341d9a15",
+                "boundaryNum": 1,
+                "name": "Gandhi Nagar",
+                "localname": "Gandhi Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18567",
+                "children": [
+                  {
+                    "id": "4f0690f4-f452-4286-ab91-6f8308f35b8b",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Nagar - Gandhi Nagar",
+                    "localname": "Gandhi Nagar - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9a6ad7b3-5c23-49a9-b720-38b5df550ecc",
+                    "boundaryNum": 1,
+                    "name": "Bhola colony - Gandhi Nagar",
+                    "localname": "Bhola colony - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "554bc1b8-0920-404e-b842-70ecc3a9dba9",
+                    "boundaryNum": 1,
+                    "name": "Cinema road - Gandhi Nagar",
+                    "localname": "Cinema road - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "414dc58b-9abe-434d-ba2d-dceba5f7b085",
+                "boundaryNum": 1,
+                "name": "Govt. Inter college",
+                "localname": "Govt. Inter college",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18568",
+                "children": [
+                  {
+                    "id": "41230fa6-65eb-410d-bb6b-cf1d681af6fe",
+                    "boundaryNum": 1,
+                    "name": "Govt. Inter college - Govt. Inter college",
+                    "localname": "Govt. Inter college - Govt. Inter college",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ef3cd0e-a58b-4f1b-a030-3af597b14ead",
+                    "boundaryNum": 1,
+                    "name": "Chiranji colony - Govt. Inter college",
+                    "localname": "Chiranji colony - Govt. Inter college",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fdf0c44-e9ad-4169-a398-0da2d649c9e1",
+                    "boundaryNum": 1,
+                    "name": "Sakainiya moad - Govt. Inter college",
+                    "localname": "Sakainiya moad - Govt. Inter college",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f48329c-4d39-4260-85ce-e7787cc753be",
+                    "boundaryNum": 1,
+                    "name": "Balmiki Basti - Govt. Inter college",
+                    "localname": "Balmiki Basti - Govt. Inter college",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "51a8d5dc-92d9-4a25-aff4-a7ee6eb0f63b",
+                    "boundaryNum": 1,
+                    "name": "Gaytri Bihar - Govt. Inter college",
+                    "localname": "Gaytri Bihar - Govt. Inter college",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ad7f9e5-9536-4f6c-8ce8-53e5148a1bd3",
+                "boundaryNum": 1,
+                "name": "Adarsh Nagar",
+                "localname": "Adarsh Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18569",
+                "children": [
+                  {
+                    "id": "93db6b9b-1b02-4878-9b6e-0770b9ecbb42",
+                    "boundaryNum": 1,
+                    "name": "AdarshNagar - Adarsh Nagar",
+                    "localname": "AdarshNagar - Adarsh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de683721-f759-4619-9485-6c59bbd5ea8a",
+                    "boundaryNum": 1,
+                    "name": "Teja Fouja Colony - Adarsh Nagar",
+                    "localname": "Teja Fouja Colony - Adarsh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4ad51ab2-8dcb-4cb0-a618-a6cc9eed0b1f",
+                "boundaryNum": 1,
+                "name": "Awas vikas",
+                "localname": "Awas vikas",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18570",
+                "children": [
+                  {
+                    "id": "a80fc0bb-b8eb-49dd-bfcc-a2d46e49fbdf",
+                    "boundaryNum": 1,
+                    "name": "Awas Vikas - Awas vikas",
+                    "localname": "Awas Vikas - Awas vikas",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "008e6a04-d47f-430a-9b26-0878bd5e3480",
+                    "boundaryNum": 1,
+                    "name": "Gularbhoj road - Awas vikas",
+                    "localname": "Gularbhoj road - Awas vikas",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afd13be8-f5b2-45c5-ba87-854b5d5a4969",
+                "boundaryNum": 1,
+                "name": "Shiv Mandir",
+                "localname": "Shiv Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18571",
+                "children": [
+                  {
+                    "id": "24650690-ea37-45d1-8509-ddebfb241287",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - Shiv Mandir",
+                    "localname": "Shiv Mandir - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "808c334d-bba1-4b22-a4eb-0b3030a2965c",
+                    "boundaryNum": 1,
+                    "name": "Gularbhoj road - Shiv Mandir",
+                    "localname": "Gularbhoj road - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8f7aa8d0-223e-4bbd-ae88-92240472dafd",
+                    "boundaryNum": 1,
+                    "name": "Anaaj Mandi Baypass road - Shiv Mandir",
+                    "localname": "Anaaj Mandi Baypass road - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a1980aa-611a-423e-a9fe-ca51ea1f1372",
+                "boundaryNum": 1,
+                "name": "Block colony",
+                "localname": "Block colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18572",
+                "children": [
+                  {
+                    "id": "ac7c5570-e6ee-41c5-bf09-c23386b23960",
+                    "boundaryNum": 1,
+                    "name": "Block colony - Block colony",
+                    "localname": "Block colony - Block colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d28a6f34-782c-4b20-9566-d929610cef86",
+                    "boundaryNum": 1,
+                    "name": "Papneja Colony - Block colony",
+                    "localname": "Papneja Colony - Block colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce8bd41f-7ad0-4149-bc03-234ab74559f3",
+                    "boundaryNum": 1,
+                    "name": "Gularbhoj road - Block colony",
+                    "localname": "Gularbhoj road - Block colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27c1b82b-ba9d-4506-8c54-830871d9fcea",
+                "boundaryNum": 1,
+                "name": "Islam Nagar",
+                "localname": "Islam Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18573",
+                "children": [
+                  {
+                    "id": "57fe7dbc-9c5d-45fe-810c-85a6dac12530",
+                    "boundaryNum": 1,
+                    "name": "Islamnagar - Islam Nagar",
+                    "localname": "Islamnagar - Islam Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8a5527f7-5474-49c2-8924-a1bf39a1cadc",
+                    "boundaryNum": 1,
+                    "name": "Rajrani School Road - Islam Nagar",
+                    "localname": "Rajrani School Road - Islam Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c7a7932a-62c7-45f0-a2d1-bf93d4b026ed",
+                "boundaryNum": 1,
+                "name": "Azadnagar",
+                "localname": "Azadnagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296749",
+                "children": [
+                  {
+                    "id": "cd4a314c-f838-425c-ac63-e0afa8f4ea04",
+                    "boundaryNum": 1,
+                    "name": "Azadnagar - Azadnagar",
+                    "localname": "Azadnagar - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "12de383f-ee30-4e71-ba8a-b54abefc0092",
+                    "boundaryNum": 1,
+                    "name": "Madaan Photo State wali gali - Azadnagar",
+                    "localname": "Madaan Photo State wali gali - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cec9ee18-6ff9-4f42-b5dc-ff9585a5b71d",
+                    "boundaryNum": 1,
+                    "name": "Main road - Azadnagar",
+                    "localname": "Main road - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b542af21-8312-40fd-a891-4bc1902227c3",
+                    "boundaryNum": 1,
+                    "name": "Super Market - Azadnagar",
+                    "localname": "Super Market - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5e43a7a2-9b4a-4cd8-9a45-35bef5dc4663",
+                    "boundaryNum": 1,
+                    "name": "Anaj Mandi - Azadnagar",
+                    "localname": "Anaj Mandi - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd816f75-52fb-4e0a-87df-f0818659968f",
+                    "boundaryNum": 1,
+                    "name": "Thane ke samne wali gali - Azadnagar",
+                    "localname": "Thane ke samne wali gali - Azadnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3526c4f3-6af3-476e-b2c5-8d2337334307",
+                "boundaryNum": 1,
+                "name": "Pashu Chikitsalya",
+                "localname": "Pashu Chikitsalya",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296750",
+                "children": [
+                  {
+                    "id": "34442004-8d93-4aa0-8034-e2fb1e284083",
+                    "boundaryNum": 1,
+                    "name": "Pashu Chikitsalya - Pashu Chikitsalya",
+                    "localname": "Pashu Chikitsalya - Pashu Chikitsalya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8457da39-e753-477c-bbc7-e86adc6caee7",
+                    "boundaryNum": 1,
+                    "name": "Gyan Bihar - Pashu Chikitsalya",
+                    "localname": "Gyan Bihar - Pashu Chikitsalya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6c3b844f-cf14-445f-822c-6bc6c82eff1e",
+                    "boundaryNum": 1,
+                    "name": "Dineshpur Moad - Pashu Chikitsalya",
+                    "localname": "Dineshpur Moad - Pashu Chikitsalya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
