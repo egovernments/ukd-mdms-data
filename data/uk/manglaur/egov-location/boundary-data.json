@@ -1,0 +1,852 @@
+{
+  "tenantId": "uk.manglaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "manglaur",
+        "localname": "manglaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.manglaur",
+        "children": [
+          {
+            "id": "82337a8a-1432-460c-8a26-21736b53ba7e",
+            "boundaryNum": 1,
+            "name": "Manglaur",
+            "localname": "Manglaur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "6f7bd675-034e-4a91-b0f4-7336de5edad9",
+                "boundaryNum": 1,
+                "name": "Ward No.1 CHAMARAN KHALSA",
+                "localname": "Ward No.1 CHAMARAN KHALSA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11710",
+                "children": [
+                  {
+                    "id": "1ee170c8-837b-4a80-a8b8-6291cd988e12",
+                    "boundaryNum": 1,
+                    "name": "MALIYAN - Ward No.1 CHAMARAN KHALSA",
+                    "localname": "MALIYAN - Ward No.1 CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "369fd24c-b0f8-4292-8f61-328d1cc02e8a",
+                    "boundaryNum": 1,
+                    "name": "KHALSA - Ward No.1 CHAMARAN KHALSA",
+                    "localname": "KHALSA - Ward No.1 CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5c05db61-961c-4acf-8621-355bb842a7b3",
+                    "boundaryNum": 1,
+                    "name": "MIRDHGAN - Ward No.1 CHAMARAN KHALSA",
+                    "localname": "MIRDHGAN - Ward No.1 CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3017a83d-f0c4-4404-8215-3c4486fdd9f8",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.1 CHAMARAN KHALSA",
+                    "localname": "OTHER - Ward No.1 CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f6ba606c-4801-4198-b351-3cb28c4bd034",
+                "boundaryNum": 1,
+                "name": "Ward No.2 MAJBATA",
+                "localname": "Ward No.2 MAJBATA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11711",
+                "children": [
+                  {
+                    "id": "71537f55-b462-4035-aecb-84d08971fe9c",
+                    "boundaryNum": 1,
+                    "name": "MAJBATA - Ward No.2 MAJBATA",
+                    "localname": "MAJBATA - Ward No.2 MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4d483b55-8c8b-46e7-bad9-9f9938e76e24",
+                    "boundaryNum": 1,
+                    "name": "MALANPURA - Ward No.2 MAJBATA",
+                    "localname": "MALANPURA - Ward No.2 MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d791f283-6c6c-49a3-8c55-a909a112d7d1",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.2 MAJBATA",
+                    "localname": "OTHER - Ward No.2 MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64572fcd-73fc-49eb-a5e3-378f3fd1cd24",
+                "boundaryNum": 1,
+                "name": "Ward No.3 MANAK CHOWK",
+                "localname": "Ward No.3 MANAK CHOWK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11712",
+                "children": [
+                  {
+                    "id": "9df395bb-3b06-4226-9527-0f5c28c19bf4",
+                    "boundaryNum": 1,
+                    "name": "MANAKCHOWK - Ward No.3 MANAK CHOWK",
+                    "localname": "MANAKCHOWK - Ward No.3 MANAK CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1aadb93c-f413-4b02-a16e-31eb65de3c4c",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.3 MANAK CHOWK",
+                    "localname": "OTHER - Ward No.3 MANAK CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8f70e2db-da3e-4142-ab8e-e47eed5c0257",
+                "boundaryNum": 1,
+                "name": "Ward No.4 MALANPURA",
+                "localname": "Ward No.4 MALANPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11713",
+                "children": [
+                  {
+                    "id": "394a0c7a-f791-4127-8156-d9f682791112",
+                    "boundaryNum": 1,
+                    "name": "MALANPURA - Ward No.4 MALANPURA",
+                    "localname": "MALANPURA - Ward No.4 MALANPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fae8c700-a199-42ab-bd3c-97cb7c4f2a6e",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.4 MALANPURA",
+                    "localname": "OTHER - Ward No.4 MALANPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85cd5d2c-edf1-4942-b7b7-68131cc78664",
+                "boundaryNum": 1,
+                "name": "Ward No.5 PATHANPURA 2ND",
+                "localname": "Ward No.5 PATHANPURA 2ND",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11714",
+                "children": [
+                  {
+                    "id": "8e029c11-d6eb-45bd-a4d8-10ec9160491c",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - Ward No.5 PATHANPURA 2ND",
+                    "localname": "PATHANPURA - Ward No.5 PATHANPURA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "399bc15a-8ee1-4a06-a6f7-bb28c4116144",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.5 PATHANPURA 2ND",
+                    "localname": "OTHER - Ward No.5 PATHANPURA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4df6fcd6-d7fb-4bca-810c-47d84c53fb45",
+                "boundaryNum": 1,
+                "name": "Ward No.6 PATHANPURA 1ST",
+                "localname": "Ward No.6 PATHANPURA 1ST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11715",
+                "children": [
+                  {
+                    "id": "4c1a774c-b3cc-4c74-893e-5dbcc2752688",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - Ward No.6 PATHANPURA 1ST",
+                    "localname": "PATHANPURA - Ward No.6 PATHANPURA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d144add7-4d07-47b2-9deb-f6c8678e4352",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.6 PATHANPURA 1ST",
+                    "localname": "OTHER - Ward No.6 PATHANPURA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d664c04-272c-4d05-bc55-ee9ad6a22eee",
+                "boundaryNum": 1,
+                "name": "Ward No.7 BANDARTOL",
+                "localname": "Ward No.7 BANDARTOL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11716",
+                "children": [
+                  {
+                    "id": "483edd68-1cce-4b6c-8840-fbda9504e7a4",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - Ward No.7 BANDARTOL",
+                    "localname": "BANDARTOL - Ward No.7 BANDARTOL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cab55db3-ae2c-4ee3-bdb2-e3243d12f1c6",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.7 BANDARTOL",
+                    "localname": "OTHER - Ward No.7 BANDARTOL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b0243de1-96be-48e9-9a7e-00fd483a8299",
+                "boundaryNum": 1,
+                "name": "Ward No.8 BRAHAMNAN",
+                "localname": "Ward No.8 BRAHAMNAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11717",
+                "children": [
+                  {
+                    "id": "42318881-b34a-42a7-b4af-222470e4a667",
+                    "boundaryNum": 1,
+                    "name": "BRAHMNAN - Ward No.8 BRAHAMNAN",
+                    "localname": "BRAHMNAN - Ward No.8 BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "094c0c84-11eb-41a7-9d37-35c2b4aec836",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - Ward No.8 BRAHAMNAN",
+                    "localname": "BANDARTOL - Ward No.8 BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf0f6fbe-6ce3-4a30-9581-37f74ae7bbf8",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.8 BRAHAMNAN",
+                    "localname": "OTHER - Ward No.8 BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ca29b71-0692-47d7-9275-438ea22cd0af",
+                "boundaryNum": 1,
+                "name": "Ward No.9 HALKA",
+                "localname": "Ward No.9 HALKA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11718",
+                "children": [
+                  {
+                    "id": "133c73d3-f5dd-43ec-b49f-454b36dfbbc7",
+                    "boundaryNum": 1,
+                    "name": "HALKA - Ward No.9 HALKA",
+                    "localname": "HALKA - Ward No.9 HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eda54be7-f2e4-4391-a197-e1b416c720ad",
+                    "boundaryNum": 1,
+                    "name": "KILA - Ward No.9 HALKA",
+                    "localname": "KILA - Ward No.9 HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "938ca94d-9c91-46a5-8472-93a949c23832",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.9 HALKA",
+                    "localname": "OTHER - Ward No.9 HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8eb3c642-e97e-4473-b1a0-624b2eabf8d0",
+                "boundaryNum": 1,
+                "name": "Ward No.10 KATEHRA",
+                "localname": "Ward No.10 KATEHRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11719",
+                "children": [
+                  {
+                    "id": "481698ca-9351-4756-ad14-ffbe37ecc5a6",
+                    "boundaryNum": 1,
+                    "name": "KATAHDA - Ward No.10 KATEHRA",
+                    "localname": "KATAHDA - Ward No.10 KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ae10d410-1d92-4b9f-ba8f-9505739e40dd",
+                    "boundaryNum": 1,
+                    "name": "LALBADA - Ward No.10 KATEHRA",
+                    "localname": "LALBADA - Ward No.10 KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "996f5770-600c-4479-8aa2-b0d620c31e91",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.10 KATEHRA",
+                    "localname": "OTHER - Ward No.10 KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "428be5fa-a9b0-4a15-b5c4-99a1997a3559",
+                "boundaryNum": 1,
+                "name": "Ward No.11 LALBARA",
+                "localname": "Ward No.11 LALBARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11720",
+                "children": [
+                  {
+                    "id": "467f1e90-3268-4723-8473-3a9e47b00678",
+                    "boundaryNum": 1,
+                    "name": "LALBADA - Ward No.11 LALBARA",
+                    "localname": "LALBADA - Ward No.11 LALBARA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f77c3390-8956-48b7-b8aa-07f5649b97f5",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.11 LALBARA",
+                    "localname": "OTHER - Ward No.11 LALBARA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa18a22c-6d41-4902-8c41-51fbb74b0d12",
+                "boundaryNum": 1,
+                "name": "Ward No.12 PEERGHARI",
+                "localname": "Ward No.12 PEERGHARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11721",
+                "children": [
+                  {
+                    "id": "3c1881e3-0b73-4c1b-9ca8-35c3d6aa74ce",
+                    "boundaryNum": 1,
+                    "name": "PEERGARHI - Ward No.12 PEERGHARI",
+                    "localname": "PEERGARHI - Ward No.12 PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f5aa119-7f3a-480e-ba07-6d6534d73f6e",
+                    "boundaryNum": 1,
+                    "name": "BAHAR KILA - Ward No.12 PEERGHARI",
+                    "localname": "BAHAR KILA - Ward No.12 PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d8a1d0d4-3501-4670-a3f1-b977bc893b05",
+                    "boundaryNum": 1,
+                    "name": "MALAKPURA - Ward No.12 PEERGHARI",
+                    "localname": "MALAKPURA - Ward No.12 PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "27262f88-97ac-4138-8be8-4fcb2e038ed0",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.12 PEERGHARI",
+                    "localname": "OTHER - Ward No.12 PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e1104f7b-6844-481a-a862-b2efeddf7ad0",
+                "boundaryNum": 1,
+                "name": "Ward No.13 SARAVGYAN",
+                "localname": "Ward No.13 SARAVGYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11722",
+                "children": [
+                  {
+                    "id": "319f4c36-fa7b-4ea7-9843-6e2d7f60f6f0",
+                    "boundaryNum": 1,
+                    "name": "SARAVGYAN - Ward No.13 SARAVGYAN",
+                    "localname": "SARAVGYAN - Ward No.13 SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9c7373b-daac-4cd0-b329-a595273819e9",
+                    "boundaryNum": 1,
+                    "name": "KAYASTHAN - Ward No.13 SARAVGYAN",
+                    "localname": "KAYASTHAN - Ward No.13 SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4c6720ca-e04b-4051-8da8-bd62151769a2",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.13 SARAVGYAN",
+                    "localname": "OTHER - Ward No.13 SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa28014c-aabe-42a3-b554-fd5d2747ebe0",
+                "boundaryNum": 1,
+                "name": "Ward No.14 SARAY AJEEJ",
+                "localname": "Ward No.14 SARAY AJEEJ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11723",
+                "children": [
+                  {
+                    "id": "f4b672db-31c7-4ce6-97c8-9d73e32bb3bb",
+                    "boundaryNum": 1,
+                    "name": "SARAY AJEEJ - Ward No.14 SARAY AJEEJ",
+                    "localname": "SARAY AJEEJ - Ward No.14 SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e17c75bb-3bc6-4502-889e-3e5a3c722a13",
+                    "boundaryNum": 1,
+                    "name": "MIRDHGAN - Ward No.14 SARAY AJEEJ",
+                    "localname": "MIRDHGAN - Ward No.14 SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f025fa5b-a21e-4aaf-a60c-6fecec0d318f",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.14 SARAY AJEEJ",
+                    "localname": "OTHER - Ward No.14 SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2e33aa9-5f92-438c-b383-77976e66f4c4",
+                "boundaryNum": 1,
+                "name": "Ward No.15 BAHAR KILA",
+                "localname": "Ward No.15 BAHAR KILA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11724",
+                "children": [
+                  {
+                    "id": "f4045e95-8d6a-453b-b563-efa1b537711a",
+                    "boundaryNum": 1,
+                    "name": "BAHAR KILA - Ward No.15 BAHAR KILA",
+                    "localname": "BAHAR KILA - Ward No.15 BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "19c6d9fa-7987-43d5-9a7c-2fbd7c13ca98",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - Ward No.15 BAHAR KILA",
+                    "localname": "PATHANPURA - Ward No.15 BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a021d141-875c-41d4-b167-0f134f2e2ac8",
+                    "boundaryNum": 1,
+                    "name": "PEERGHARI - Ward No.15 BAHAR KILA",
+                    "localname": "PEERGHARI - Ward No.15 BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f9306cf-49e9-40e0-8ae4-e803fd4c10f1",
+                    "boundaryNum": 1,
+                    "name": "OTHER - Ward No.15 BAHAR KILA",
+                    "localname": "OTHER - Ward No.15 BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5d87f86-5d7b-4a8d-9bca-c9f54cedbdcd",
+                "boundaryNum": 1,
+                "name": "WardNo.16 MALAKPURA",
+                "localname": "WardNo.16 MALAKPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296788",
+                "children": [
+                  {
+                    "id": "da1c89e1-3186-4b13-87a1-e2c64b278e64",
+                    "boundaryNum": 1,
+                    "name": "MALAKPURA - WardNo.16 MALAKPURA",
+                    "localname": "MALAKPURA - WardNo.16 MALAKPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b81c85c7-ef0c-4e07-8d4a-8b443cc6113f",
+                "boundaryNum": 1,
+                "name": "WardNo.17 KILA 1ST",
+                "localname": "WardNo.17 KILA 1ST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296789",
+                "children": [
+                  {
+                    "id": "23afbe51-cfa7-4f91-8af2-706f43412638",
+                    "boundaryNum": 1,
+                    "name": "KILA - WardNo.17 KILA 1ST",
+                    "localname": "KILA - WardNo.17 KILA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0b0e3a57-77b9-45b9-8bc0-490ce58ff389",
+                "boundaryNum": 1,
+                "name": "WardNo.18 KILA 2ND",
+                "localname": "WardNo.18 KILA 2ND",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296790",
+                "children": [
+                  {
+                    "id": "832d6802-da2c-4e12-815c-cb7945ab7c3f",
+                    "boundaryNum": 1,
+                    "name": "KILA - WardNo.18 KILA 2ND",
+                    "localname": "KILA - WardNo.18 KILA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02a279b2-9fec-4cf4-8d79-56546aa69c30",
+                "boundaryNum": 1,
+                "name": "WardNo.19 TOLI",
+                "localname": "WardNo.19 TOLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296791",
+                "children": [
+                  {
+                    "id": "006ddf75-57bf-4984-a93c-260514243ea1",
+                    "boundaryNum": 1,
+                    "name": "TOLI - WardNo.19 TOLI",
+                    "localname": "TOLI - WardNo.19 TOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2fa8c60-a39f-4dc3-864a-9d7c70bc1197",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - WardNo.19 TOLI",
+                    "localname": "BANDARTOL - WardNo.19 TOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3d1f6bf-a52b-44c0-a942-6348ad53de35",
+                "boundaryNum": 1,
+                "name": "WardNo.20 KILA 3RD",
+                "localname": "WardNo.20 KILA 3RD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296792",
+                "children": [
+                  {
+                    "id": "e3081007-dde5-4d75-8ac6-ae8caee0014b",
+                    "boundaryNum": 1,
+                    "name": "KILA - WardNo.20 KILA 3RD",
+                    "localname": "KILA - WardNo.20 KILA 3RD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
