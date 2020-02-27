@@ -1,0 +1,486 @@
+{
+  "tenantId": "uk.garrison",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+        {
+            "code": "TRADE.LIQUOR.FLS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "HOTELS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.MTRG",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.SCTRG",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.MTRA",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.TRANSPORT.TR24",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.CYCA",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.PETROLEUM.PUMP",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.PETROLEUM.PDR",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.KADRYC",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.FM",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR43",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.ELEI",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.CLTBS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.REST.CATE",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.BAKRY",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR46",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR47",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.CKGSA",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.GMS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TH3A",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TH5A",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.PAINT",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.GMD",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.INDUSTRY.CBLEO",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.GOSB",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TENT",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR79",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.PAAN",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.RITEAS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.WODT",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR66",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.TR68",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.DYFSR",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.FVS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.FURSE",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.CRKSH",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.BANG",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.MCS",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.OTH",
+            "uom": null,
+            "applicationDocument": [
+            "AADHAR",
+             "RENTAGREEMENTLEGALDOCUMENT",
+             "PHOTO"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        }
+    ]
+}
