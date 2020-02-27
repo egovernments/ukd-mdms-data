@@ -1,0 +1,396 @@
+{
+  "tenantId": "uk.bhawali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bhawali",
+        "localname": "bhawali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.bhawali",
+        "children": [
+          {
+            "id": "0bf5a937-f5a8-401c-a9e3-5f16781588c9",
+            "boundaryNum": 1,
+            "name": "Bhawali",
+            "localname": "Bhawali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "e3fc2d06-858e-4ce2-9ef1-0c6607269c55",
+                "boundaryNum": 1,
+                "name": "Sanitoriam Ward 01",
+                "localname": "Sanitoriam Ward 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17710",
+                "children": [
+                  {
+                    "id": "fe1d495a-8e0f-4a4a-95a8-1aa0a2408d07",
+                    "boundaryNum": 1,
+                    "name": "Sanitoriam - Sanitoriam Ward 01",
+                    "localname": "Sanitoriam - Sanitoriam Ward 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d95a39ca-b041-4f34-a7f1-bd5a1a160a59",
+                    "boundaryNum": 1,
+                    "name": "Balmeki callony - Sanitoriam Ward 01",
+                    "localname": "Balmeki callony - Sanitoriam Ward 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e8e92459-1a66-4fe0-af83-e27592467786",
+                    "boundaryNum": 1,
+                    "name": "Ranikhet Road - Sanitoriam Ward 01",
+                    "localname": "Ranikhet Road - Sanitoriam Ward 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9433275-d98e-4e5a-8f80-b4db955defa8",
+                "boundaryNum": 1,
+                "name": "Gandhi collony Ward No.2",
+                "localname": "Gandhi collony Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17711",
+                "children": [
+                  {
+                    "id": "42a52223-b886-4c7b-b9de-832cce544ff4",
+                    "boundaryNum": 1,
+                    "name": "Gandhai colony - Gandhi collony Ward No.2",
+                    "localname": "Gandhai colony - Gandhi collony Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9a86acfd-6454-423f-8a25-c56e3e2cebb3",
+                    "boundaryNum": 1,
+                    "name": "Khichdi Mohalla - Gandhi collony Ward No.2",
+                    "localname": "Khichdi Mohalla - Gandhi collony Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "415437db-9cf9-4660-9038-4a289545b193",
+                    "boundaryNum": 1,
+                    "name": "P.W.D.callony - Gandhi collony Ward No.2",
+                    "localname": "P.W.D.callony - Gandhi collony Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "32a4aac8-0966-4816-a2aa-d351b36a772e",
+                    "boundaryNum": 1,
+                    "name": "Mashjid - Gandhi collony Ward No.2",
+                    "localname": "Mashjid - Gandhi collony Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fd1c7e04-db8a-4151-b0b1-f94ca2884e7c",
+                "boundaryNum": 1,
+                "name": "Rehar- Ward No.3",
+                "localname": "Rehar- Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17712",
+                "children": [
+                  {
+                    "id": "7c705e29-08c8-450a-b947-bcd4465b0e02",
+                    "boundaryNum": 1,
+                    "name": "Rehar - Rehar- Ward No.3",
+                    "localname": "Rehar - Rehar- Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cfc3bab5-50a8-4ece-b554-6b5024d91d97",
+                    "boundaryNum": 1,
+                    "name": "Range Office - Rehar- Ward No.3",
+                    "localname": "Range Office - Rehar- Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "afc0ed9e-debc-4784-99ff-0b9fdaf919b0",
+                    "boundaryNum": 1,
+                    "name": "Tamtura - Rehar- Ward No.3",
+                    "localname": "Tamtura - Rehar- Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c1b97e38-0701-4528-b1a0-1a2af411a63c",
+                "boundaryNum": 1,
+                "name": "Malli Bazar- Ward No.4",
+                "localname": "Malli Bazar- Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17713",
+                "children": [
+                  {
+                    "id": "1de0fd5d-51f8-42b7-ac88-1d5824e11633",
+                    "boundaryNum": 1,
+                    "name": "Malli Bazar - Malli Bazar- Ward No.4",
+                    "localname": "Malli Bazar - Malli Bazar- Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2a2efdd-85ea-49fe-9db1-dcdeda79d82f",
+                    "boundaryNum": 1,
+                    "name": "Dhugai State - Malli Bazar- Ward No.4",
+                    "localname": "Dhugai State - Malli Bazar- Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7389fb4-ba6f-4e81-b3eb-6e6176c4df85",
+                    "boundaryNum": 1,
+                    "name": "Tamtura - Malli Bazar- Ward No.4",
+                    "localname": "Tamtura - Malli Bazar- Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2700047b-b385-4c04-acdf-c4f4b03cae77",
+                "boundaryNum": 1,
+                "name": "Bhonidhar - Ward No.5",
+                "localname": "Bhonidhar - Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17714",
+                "children": [
+                  {
+                    "id": "f6da6d29-1ae2-4822-9023-a02d3fb1e6b0",
+                    "boundaryNum": 1,
+                    "name": "Bhonidhar - Bhonidhar - Ward No.5",
+                    "localname": "Bhonidhar - Bhonidhar - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "413a5cd6-01ea-42fc-a878-241fd64adc01",
+                    "boundaryNum": 1,
+                    "name": "Harsoli - Bhonidhar - Ward No.5",
+                    "localname": "Harsoli - Bhonidhar - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a999256e-a128-4228-a6c0-f5a7fc54a2ca",
+                    "boundaryNum": 1,
+                    "name": "Kaleash vew - Bhonidhar - Ward No.5",
+                    "localname": "Kaleash vew - Bhonidhar - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ed84822-13fc-4798-8efa-138fed44cd89",
+                    "boundaryNum": 1,
+                    "name": "Kahalqueera - Bhonidhar - Ward No.5",
+                    "localname": "Kahalqueera - Bhonidhar - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d716912-3f20-416f-a769-63e53ca02898",
+                "boundaryNum": 1,
+                "name": "Shyamkhet-kahalqueera Ward No.6",
+                "localname": "Shyamkhet-kahalqueera Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17715",
+                "children": [
+                  {
+                    "id": "f6355d0b-b318-4509-a837-f3627fecfd62",
+                    "boundaryNum": 1,
+                    "name": "Shyamkhet - Shyamkhet-kahalqueera Ward No.6",
+                    "localname": "Shyamkhet - Shyamkhet-kahalqueera Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "61b3b5a5-802b-4634-9481-1ae94aeef1a0",
+                    "boundaryNum": 1,
+                    "name": "Kahalqueera - Shyamkhet-kahalqueera Ward No.6",
+                    "localname": "Kahalqueera - Shyamkhet-kahalqueera Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a99a0841-39cf-4584-b67a-c2aab32ab0ee",
+                "boundaryNum": 1,
+                "name": "Dugai State - Ward No.7",
+                "localname": "Dugai State - Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17716",
+                "children": [
+                  {
+                    "id": "188bb4a3-35e1-4dba-b342-9aac009ce2cf",
+                    "boundaryNum": 1,
+                    "name": "Dhugai - Dugai State - Ward No.7",
+                    "localname": "Dhugai - Dugai State - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4694f261-9666-471a-b29a-614315916863",
+                    "boundaryNum": 1,
+                    "name": "Pant state - Dugai State - Ward No.7",
+                    "localname": "Pant state - Dugai State - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "81f7d44e-879a-481f-8102-6a0b1af3efa6",
+                    "boundaryNum": 1,
+                    "name": "Ranikhet Road - Dugai State - Ward No.7",
+                    "localname": "Ranikhet Road - Dugai State - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5289eb2-a86c-45a1-bd79-d1062f731278",
+                    "boundaryNum": 1,
+                    "name": "Sevashram - Dugai State - Ward No.7",
+                    "localname": "Sevashram - Dugai State - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
