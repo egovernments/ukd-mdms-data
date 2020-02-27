@@ -1,0 +1,684 @@
+{
+  "tenantId": "uk.bageshwar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bageshwar",
+        "localname": "bageshwar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.bageshwar",
+        "children": [
+          {
+            "id": "d5b55d70-f5bc-4af8-802b-143134ae6afe",
+            "boundaryNum": 1,
+            "name": "Bageshwar",
+            "localname": "Bageshwar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "32941fba-b2f9-4517-9bb5-401958ca4a46",
+                "boundaryNum": 1,
+                "name": "bilonashera (NPP)- Ward No.1",
+                "localname": "bilonashera (NPP)- Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17590",
+                "children": [
+                  {
+                    "id": "1c5d37cb-5cb2-4a62-b335-c71fe3bf350f",
+                    "boundaryNum": 1,
+                    "name": "shaman mandir - bilonashera (NPP)- Ward No.1",
+                    "localname": "shaman mandir - bilonashera (NPP)- Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38a49a1b-143a-440c-9073-0a0fa1e8c060",
+                    "boundaryNum": 1,
+                    "name": "Bhagwati mandir - bilonashera (NPP)- Ward No.1",
+                    "localname": "Bhagwati mandir - bilonashera (NPP)- Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd58e940-035e-4826-96c6-d71f5cae8206",
+                    "boundaryNum": 1,
+                    "name": "golu mandir - bilonashera (NPP)- Ward No.1",
+                    "localname": "golu mandir - bilonashera (NPP)- Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7290ac89-de75-4807-b625-cd0a55203219",
+                "boundaryNum": 1,
+                "name": "narayandev (NPP) - Ward No.2",
+                "localname": "narayandev (NPP) - Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17591",
+                "children": [
+                  {
+                    "id": "9e831a5e-d806-4815-9c86-1bd3aac62ff8",
+                    "boundaryNum": 1,
+                    "name": "kafalkhet - narayandev (NPP) - Ward No.2",
+                    "localname": "kafalkhet - narayandev (NPP) - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ff1f338-2179-4555-bcf1-5369f1dc44f2",
+                    "boundaryNum": 1,
+                    "name": "senj - narayandev (NPP) - Ward No.2",
+                    "localname": "senj - narayandev (NPP) - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7ba71f7a-268b-4e43-b4ff-33b9c70fd664",
+                    "boundaryNum": 1,
+                    "name": "baret - narayandev (NPP) - Ward No.2",
+                    "localname": "baret - narayandev (NPP) - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31f17a1e-b3bf-4ccb-a486-ef2e2cd02011",
+                    "boundaryNum": 1,
+                    "name": "tuynura - narayandev (NPP) - Ward No.2",
+                    "localname": "tuynura - narayandev (NPP) - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d4018ca7-12fd-4e4b-b61e-3e057a11dcde",
+                "boundaryNum": 1,
+                "name": "jwaladevi (NPP) - Ward No.3",
+                "localname": "jwaladevi (NPP) - Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17592",
+                "children": [
+                  {
+                    "id": "f5667a14-cb75-420b-be78-5e09dca68abc",
+                    "boundaryNum": 1,
+                    "name": "maziyakhet - jwaladevi (NPP) - Ward No.3",
+                    "localname": "maziyakhet - jwaladevi (NPP) - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "595ad04c-2eb0-41cc-b4c4-b1132ca2711c",
+                    "boundaryNum": 1,
+                    "name": "bhurchuniya north - jwaladevi (NPP) - Ward No.3",
+                    "localname": "bhurchuniya north - jwaladevi (NPP) - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "52e691df-2172-4144-ba36-6e688d3b8344",
+                    "boundaryNum": 1,
+                    "name": "adarsh colony - jwaladevi (NPP) - Ward No.3",
+                    "localname": "adarsh colony - jwaladevi (NPP) - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6592ceff-6bb2-479c-9252-fa5b7536cc22",
+                    "boundaryNum": 1,
+                    "name": "tehsil parisar - jwaladevi (NPP) - Ward No.3",
+                    "localname": "tehsil parisar - jwaladevi (NPP) - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "863d5086-aa55-40e4-a772-af633040c9ba",
+                "boundaryNum": 1,
+                "name": "sammandir(NPP) - Ward No.4",
+                "localname": "sammandir(NPP) - Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17593",
+                "children": [
+                  {
+                    "id": "56c48682-5387-46c8-bdc2-369f22238e7c",
+                    "boundaryNum": 1,
+                    "name": "bhurchuniya south - sammandir(NPP) - Ward No.4",
+                    "localname": "bhurchuniya south - sammandir(NPP) - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e732d524-a3b3-41e6-b50e-d62aa619654f",
+                    "boundaryNum": 1,
+                    "name": "ramchandra tiwari - sammandir(NPP) - Ward No.4",
+                    "localname": "ramchandra tiwari - sammandir(NPP) - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47b395de-4057-4e14-aa89-8453dc9a687f",
+                    "boundaryNum": 1,
+                    "name": "julkiya - sammandir(NPP) - Ward No.4",
+                    "localname": "julkiya - sammandir(NPP) - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e7a56c20-03f2-4514-abae-4cb0938a344e",
+                    "boundaryNum": 1,
+                    "name": "balsuna - sammandir(NPP) - Ward No.4",
+                    "localname": "balsuna - sammandir(NPP) - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "442d0638-40f0-43f1-8c54-4c3de4aa5e29",
+                    "boundaryNum": 1,
+                    "name": "digro - sammandir(NPP) - Ward No.4",
+                    "localname": "digro - sammandir(NPP) - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14d9b9ec-0716-4d9e-ba37-5f23b11f6bce",
+                "boundaryNum": 1,
+                "name": "Bagnath (NPP) - Ward No.5",
+                "localname": "Bagnath (NPP) - Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17594",
+                "children": [
+                  {
+                    "id": "48e925bb-0c5b-4662-9a40-fb191d31cc66",
+                    "boundaryNum": 1,
+                    "name": "parketeshwar - Bagnath (NPP) - Ward No.5",
+                    "localname": "parketeshwar - Bagnath (NPP) - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17c65e7f-d930-4aac-857e-7c513b11f879",
+                    "boundaryNum": 1,
+                    "name": "katyur bazar - Bagnath (NPP) - Ward No.5",
+                    "localname": "katyur bazar - Bagnath (NPP) - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef806267-b2bd-4c44-8aa3-8d9875c5f29e",
+                    "boundaryNum": 1,
+                    "name": "talli bazar - Bagnath (NPP) - Ward No.5",
+                    "localname": "talli bazar - Bagnath (NPP) - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36ee1c3e-f711-4207-8138-37c4e763c2d2",
+                    "boundaryNum": 1,
+                    "name": "ghat bagar - Bagnath (NPP) - Ward No.5",
+                    "localname": "ghat bagar - Bagnath (NPP) - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e679cd71-dc5d-4034-8a3d-d0bab0d50033",
+                "boundaryNum": 1,
+                "name": "thakurdwara(NPP) - Ward No.6",
+                "localname": "thakurdwara(NPP) - Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17595",
+                "children": [
+                  {
+                    "id": "4207106d-628f-4365-90f0-e53bdba319a4",
+                    "boundaryNum": 1,
+                    "name": "thakur dwara - thakurdwara(NPP) - Ward No.6",
+                    "localname": "thakur dwara - thakurdwara(NPP) - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c15b5581-bf09-4d07-818f-7b46b4c35c42",
+                    "boundaryNum": 1,
+                    "name": "bhatrola - thakurdwara(NPP) - Ward No.6",
+                    "localname": "bhatrola - thakurdwara(NPP) - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e01e96b5-3cb0-48b6-8c04-9ffd19b0a504",
+                    "boundaryNum": 1,
+                    "name": "jogyarirau - thakurdwara(NPP) - Ward No.6",
+                    "localname": "jogyarirau - thakurdwara(NPP) - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "88fb668a-de16-4f4f-8d6e-f2ad10602842",
+                    "boundaryNum": 1,
+                    "name": "pwd parishar - thakurdwara(NPP) - Ward No.6",
+                    "localname": "pwd parishar - thakurdwara(NPP) - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af1b08f6-d30b-4590-877f-a3b8a3c16aaf",
+                "boundaryNum": 1,
+                "name": "Kathayatbada(NPP) - Ward No.7",
+                "localname": "Kathayatbada(NPP) - Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17596",
+                "children": [
+                  {
+                    "id": "b4867155-d3bd-427e-bae4-d1bdfebb889f",
+                    "boundaryNum": 1,
+                    "name": "pg college - Kathayatbada(NPP) - Ward No.7",
+                    "localname": "pg college - Kathayatbada(NPP) - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "057b23da-d505-4b14-b7a0-7f7e76e8bc8b",
+                    "boundaryNum": 1,
+                    "name": "maa bhagwati mandir - Kathayatbada(NPP) - Ward No.7",
+                    "localname": "maa bhagwati mandir - Kathayatbada(NPP) - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2b03f023-13d6-4ef0-82bb-6fb852461c84",
+                    "boundaryNum": 1,
+                    "name": "juniour high parishar - Kathayatbada(NPP) - Ward No.7",
+                    "localname": "juniour high parishar - Kathayatbada(NPP) - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5e618793-9949-4e3c-8772-1a913eceb989",
+                    "boundaryNum": 1,
+                    "name": "D.F.O colony - Kathayatbada(NPP) - Ward No.7",
+                    "localname": "D.F.O colony - Kathayatbada(NPP) - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a42f24a-081c-44c5-be49-6bb41823e6e7",
+                "boundaryNum": 1,
+                "name": "Mandalshera north(NPP) - Ward No.8",
+                "localname": "Mandalshera north(NPP) - Ward No.8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296729",
+                "children": [
+                  {
+                    "id": "8da71f61-7c84-4e34-9ddd-31bbdf6c97d1",
+                    "boundaryNum": 1,
+                    "name": "Banri - Mandalshera north(NPP) - Ward No.8",
+                    "localname": "Banri - Mandalshera north(NPP) - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf4daaa1-946d-42f3-8dc6-bb4ff47f4606",
+                    "boundaryNum": 1,
+                    "name": "devidhar - Mandalshera north(NPP) - Ward No.8",
+                    "localname": "devidhar - Mandalshera north(NPP) - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e719a24-3e79-4c5e-b0ee-9c002a05070e",
+                    "boundaryNum": 1,
+                    "name": "saryu tok - Mandalshera north(NPP) - Ward No.8",
+                    "localname": "saryu tok - Mandalshera north(NPP) - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bbd84df2-3262-424d-8bf8-d1527df3c332",
+                "boundaryNum": 1,
+                "name": "Mandelshera south(NPP) - Ward No.9",
+                "localname": "Mandelshera south(NPP) - Ward No.9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296730",
+                "children": [
+                  {
+                    "id": "378f7765-8d9a-48ed-8a2a-b91a1cbc5a3a",
+                    "boundaryNum": 1,
+                    "name": "Bharatpur - Mandelshera south(NPP) - Ward No.9",
+                    "localname": "Bharatpur - Mandelshera south(NPP) - Ward No.9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a117817b-1566-4b22-964a-96f9526fae09",
+                    "boundaryNum": 1,
+                    "name": "jeetnagar - Mandelshera south(NPP) - Ward No.9",
+                    "localname": "jeetnagar - Mandelshera south(NPP) - Ward No.9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7bd94f5-7b3d-4db9-9d1f-8b122eaa6e2a",
+                    "boundaryNum": 1,
+                    "name": "hospital colony - Mandelshera south(NPP) - Ward No.9",
+                    "localname": "hospital colony - Mandelshera south(NPP) - Ward No.9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d38cf0d9-9003-456e-9000-51ff97879ba0",
+                "boundaryNum": 1,
+                "name": "maa chandika (NPP) - Ward No.10",
+                "localname": "maa chandika (NPP) - Ward No.10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296731",
+                "children": [
+                  {
+                    "id": "f21e9b7f-5d8f-4eb3-8e75-bc566c21eb1e",
+                    "boundaryNum": 1,
+                    "name": "numaiskhet - maa chandika (NPP) - Ward No.10",
+                    "localname": "numaiskhet - maa chandika (NPP) - Ward No.10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43b5d549-35df-4940-9b08-0f077e9879ac",
+                    "boundaryNum": 1,
+                    "name": "pandeykhola - maa chandika (NPP) - Ward No.10",
+                    "localname": "pandeykhola - maa chandika (NPP) - Ward No.10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e409c1e3-ee44-4d87-b8b1-8790184b130a",
+                    "boundaryNum": 1,
+                    "name": "Bhileshwar - maa chandika (NPP) - Ward No.10",
+                    "localname": "Bhileshwar - maa chandika (NPP) - Ward No.10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bba2cd48-032e-4263-ae39-0e8790a46252",
+                    "boundaryNum": 1,
+                    "name": "Dugbazar - maa chandika (NPP) - Ward No.10",
+                    "localname": "Dugbazar - maa chandika (NPP) - Ward No.10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db605b83-688d-4442-a97b-d9eb6b2dd2ef",
+                    "boundaryNum": 1,
+                    "name": "Bankhola - maa chandika (NPP) - Ward No.10",
+                    "localname": "Bankhola - maa chandika (NPP) - Ward No.10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b773d9a-4bcb-4c33-a100-e67fa1f1461e",
+                "boundaryNum": 1,
+                "name": "Vedimadhav (NPP) - Ward No.11",
+                "localname": "Vedimadhav (NPP) - Ward No.11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296732",
+                "children": [
+                  {
+                    "id": "2b97a891-b6f2-493f-af10-559fe8651909",
+                    "boundaryNum": 1,
+                    "name": "mehnarbunga - Vedimadhav (NPP) - Ward No.11",
+                    "localname": "mehnarbunga - Vedimadhav (NPP) - Ward No.11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "97c133b3-91e7-4404-889c-cb66144bb9ee",
+                    "boundaryNum": 1,
+                    "name": "new basti - Vedimadhav (NPP) - Ward No.11",
+                    "localname": "new basti - Vedimadhav (NPP) - Ward No.11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cd5cec83-3bd7-4913-9fd4-7f397faf850a",
+                    "boundaryNum": 1,
+                    "name": "Bhitalgao - Vedimadhav (NPP) - Ward No.11",
+                    "localname": "Bhitalgao - Vedimadhav (NPP) - Ward No.11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3b9d3dc-0cdc-481c-84b7-6caecaf6bc11",
+                    "boundaryNum": 1,
+                    "name": "chorashi - Vedimadhav (NPP) - Ward No.11",
+                    "localname": "chorashi - Vedimadhav (NPP) - Ward No.11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
