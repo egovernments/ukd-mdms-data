@@ -1,0 +1,636 @@
+{
+  "tenantId": "uk.joshimath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "joshimath",
+        "localname": "joshimath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.joshimath",
+        "children": [
+          {
+            "id": "cbb7a59b-6a81-4aa7-8610-b8e3bc97716f",
+            "boundaryNum": 1,
+            "name": "Joshimath",
+            "localname": "Joshimath",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "2414e35f-1761-481d-be84-322f8112a951",
+                "boundaryNum": 1,
+                "name": "Gandhinagar",
+                "localname": "Gandhinagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16044",
+                "children": [
+                  {
+                    "id": "8cc9c3ea-145a-440d-85e8-b3d070297c77",
+                    "boundaryNum": 1,
+                    "name": "Gandhinagar - Gandhinagar",
+                    "localname": "Gandhinagar - Gandhinagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "123b7e03-6d71-4994-88ec-58e9f9243642",
+                    "boundaryNum": 1,
+                    "name": "Chawni Bazar - Gandhinagar",
+                    "localname": "Chawni Bazar - Gandhinagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "551c7ed7-68b3-4abd-a238-2f5e2db418bb",
+                    "boundaryNum": 1,
+                    "name": "Kamd - Gandhinagar",
+                    "localname": "Kamd - Gandhinagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8bb7c34a-7d3a-49d3-8a69-9cde1a72df03",
+                "boundaryNum": 1,
+                "name": "Marwadi Painka",
+                "localname": "Marwadi Painka",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16045",
+                "children": [
+                  {
+                    "id": "02f54fb9-82d1-4780-9349-b8db774f2167",
+                    "boundaryNum": 1,
+                    "name": "Marwadi - Marwadi Painka",
+                    "localname": "Marwadi - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6a79d4b9-4b4d-4f90-b2fa-3df3ca154196",
+                    "boundaryNum": 1,
+                    "name": "Chunar - Marwadi Painka",
+                    "localname": "Chunar - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "395c1427-8be1-4171-b28f-6f542fdee9bf",
+                    "boundaryNum": 1,
+                    "name": "J.P - Marwadi Painka",
+                    "localname": "J.P - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6337db10-1d16-4d59-9f5e-630e3c5a544b",
+                    "boundaryNum": 1,
+                    "name": "Sema - Marwadi Painka",
+                    "localname": "Sema - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fccc06c-9eae-4d4e-b792-7aca50a3442c",
+                    "boundaryNum": 1,
+                    "name": "Saila - Marwadi Painka",
+                    "localname": "Saila - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "48536bc6-4e83-4ed0-9ba1-4ac548464284",
+                    "boundaryNum": 1,
+                    "name": "Siyung - Marwadi Painka",
+                    "localname": "Siyung - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd9773cd-5c3c-4d4d-8cfd-c491861cd086",
+                    "boundaryNum": 1,
+                    "name": "Dharsa - Marwadi Painka",
+                    "localname": "Dharsa - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec34e803-baad-474f-9c06-ddac7b1d812b",
+                    "boundaryNum": 1,
+                    "name": "Ramkanura - Marwadi Painka",
+                    "localname": "Ramkanura - Marwadi Painka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d4fdc7d-6d3a-4126-83f9-624133049ca3",
+                "boundaryNum": 1,
+                "name": "Lowar Bazzar",
+                "localname": "Lowar Bazzar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16046",
+                "children": [
+                  {
+                    "id": "de68991c-b43d-4d82-b754-3b900ac69cd2",
+                    "boundaryNum": 1,
+                    "name": "Lower Bazar - Lowar Bazzar",
+                    "localname": "Lower Bazar - Lowar Bazzar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "627e2ccb-42e7-43e1-b2a6-70ab860842f1",
+                    "boundaryNum": 1,
+                    "name": "Narsingh Mandir - Lowar Bazzar",
+                    "localname": "Narsingh Mandir - Lowar Bazzar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a3d96b13-1397-47ab-8945-52a0186dc341",
+                    "boundaryNum": 1,
+                    "name": "Jabari - Lowar Bazzar",
+                    "localname": "Jabari - Lowar Bazzar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e900d268-f8d1-4594-8ddd-5ee505ed8f3f",
+                "boundaryNum": 1,
+                "name": "Singhdhar",
+                "localname": "Singhdhar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16047",
+                "children": [
+                  {
+                    "id": "b896f1be-7fc8-4947-9fc5-6c485935c6ee",
+                    "boundaryNum": 1,
+                    "name": "Singhdhar - Singhdhar",
+                    "localname": "Singhdhar - Singhdhar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "553abe19-b27f-494c-8f6d-4af97726f9ca",
+                    "boundaryNum": 1,
+                    "name": "Kharadhar ( Jyotinagar) - Singhdhar",
+                    "localname": "Kharadhar ( Jyotinagar) - Singhdhar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2585823f-3f01-41d9-bcfe-d4e1a88bc17a",
+                    "boundaryNum": 1,
+                    "name": "Prem Nagar - Singhdhar",
+                    "localname": "Prem Nagar - Singhdhar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "50cfeeb4-16fd-4640-a256-a1c769bbda7b",
+                    "boundaryNum": 1,
+                    "name": "Garuna - Singhdhar",
+                    "localname": "Garuna - Singhdhar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5fe025a0-801d-4e56-b569-763079d13878",
+                "boundaryNum": 1,
+                "name": "Manoharbag",
+                "localname": "Manoharbag",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16048",
+                "children": [
+                  {
+                    "id": "62b33749-1aa8-496a-8258-8300c7c9aa20",
+                    "boundaryNum": 1,
+                    "name": "Manoharbag - Manoharbag",
+                    "localname": "Manoharbag - Manoharbag",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5c5af50b-fbaa-46ba-b88c-9b4cd060d434",
+                    "boundaryNum": 1,
+                    "name": "Jyotirmath - Manoharbag",
+                    "localname": "Jyotirmath - Manoharbag",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c3c43cff-b9b2-40fe-adba-88014e2308ed",
+                    "boundaryNum": 1,
+                    "name": "bhaina - Manoharbag",
+                    "localname": "bhaina - Manoharbag",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "15d89971-a8af-4525-bbe5-a319cdb221ff",
+                    "boundaryNum": 1,
+                    "name": "Sundar Nagar - Manoharbag",
+                    "localname": "Sundar Nagar - Manoharbag",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e70da91-609f-4b9d-b886-4ba1ea9f80cd",
+                    "boundaryNum": 1,
+                    "name": "Janglat - Manoharbag",
+                    "localname": "Janglat - Manoharbag",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa711a8d-b48b-4582-8af2-f9129696d26f",
+                "boundaryNum": 1,
+                "name": "Uppar Bazar-Dado",
+                "localname": "Uppar Bazar-Dado",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16049",
+                "children": [
+                  {
+                    "id": "df280a17-020d-45d5-b046-ba6d3c342086",
+                    "boundaryNum": 1,
+                    "name": "Upper Bazar - Uppar Bazar-Dado",
+                    "localname": "Upper Bazar - Uppar Bazar-Dado",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "773543c2-424b-46b9-9226-651415d40d5f",
+                    "boundaryNum": 1,
+                    "name": "Dadon - Uppar Bazar-Dado",
+                    "localname": "Dadon - Uppar Bazar-Dado",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "358113c1-dcb2-4e62-96b8-fc3b8eae8a03",
+                    "boundaryNum": 1,
+                    "name": "Chaudari - Uppar Bazar-Dado",
+                    "localname": "Chaudari - Uppar Bazar-Dado",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06a0af24-6010-498c-be4e-cda589c6ab05",
+                "boundaryNum": 1,
+                "name": "Sunil",
+                "localname": "Sunil",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16050",
+                "children": [
+                  {
+                    "id": "32e462bc-861d-4e71-bdaa-edfd08f8e408",
+                    "boundaryNum": 1,
+                    "name": "Sunil - Sunil",
+                    "localname": "Sunil - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a5b8be1d-d09c-459b-9b58-20ad0360f751",
+                    "boundaryNum": 1,
+                    "name": "Palla Sunil - Sunil",
+                    "localname": "Palla Sunil - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab41df34-c85a-407b-8d9e-0b9c162aa0cf",
+                    "boundaryNum": 1,
+                    "name": "Daudil - Sunil",
+                    "localname": "Daudil - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aa6a8cbd-f1e5-43d1-9c11-6aa9a60bcae1",
+                    "boundaryNum": 1,
+                    "name": "T.V Tower - Sunil",
+                    "localname": "T.V Tower - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2c963da-3930-4724-b2b2-8f653a4bb2b1",
+                    "boundaryNum": 1,
+                    "name": "Haripuram - Sunil",
+                    "localname": "Haripuram - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e77d0282-30da-49d6-b4bb-d7965eb6748d",
+                    "boundaryNum": 1,
+                    "name": "Bellapur - Sunil",
+                    "localname": "Bellapur - Sunil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe4b2e05-d8b5-46fa-bc7c-8cfa15b62c0f",
+                "boundaryNum": 1,
+                "name": "Parsari",
+                "localname": "Parsari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16051",
+                "children": [
+                  {
+                    "id": "25d7545b-0f14-4e56-8a31-fb2270befae3",
+                    "boundaryNum": 1,
+                    "name": "Parsari - Parsari",
+                    "localname": "Parsari - Parsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "daecae98-1a96-4188-b1be-2b841d885e71",
+                    "boundaryNum": 1,
+                    "name": "Farkiyagwad - Parsari",
+                    "localname": "Farkiyagwad - Parsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bee04e3f-9eea-466f-9771-27c5081c38fe",
+                    "boundaryNum": 1,
+                    "name": "Paing Murunda - Parsari",
+                    "localname": "Paing Murunda - Parsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef5fecd5-9610-49a5-b800-5e97344c1c13",
+                    "boundaryNum": 1,
+                    "name": "A.T Company - Parsari",
+                    "localname": "A.T Company - Parsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "603d790b-557e-4d1c-a2de-c6077d9df812",
+                    "boundaryNum": 1,
+                    "name": "Auli - Parsari",
+                    "localname": "Auli - Parsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca90d7ad-2183-487b-a42e-20ebdf6780f0",
+                "boundaryNum": 1,
+                "name": "Ravigram",
+                "localname": "Ravigram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16052",
+                "children": [
+                  {
+                    "id": "8ca54e2b-5f94-421c-920f-845d39fcb322",
+                    "boundaryNum": 1,
+                    "name": "Ravigram - Ravigram",
+                    "localname": "Ravigram - Ravigram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3a3ca680-f7d9-4c5d-847c-b5be9ec291da",
+                    "boundaryNum": 1,
+                    "name": "Kothlagadh - Ravigram",
+                    "localname": "Kothlagadh - Ravigram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cd6a9f90-61be-48d2-b8b0-276cf5b1107b",
+                    "boundaryNum": 1,
+                    "name": "New Ravigram - Ravigram",
+                    "localname": "New Ravigram - Ravigram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "773de18e-7ba7-4ff4-aaa0-d8c34c196aae",
+                    "boundaryNum": 1,
+                    "name": "Pokhri-Gorang - Ravigram",
+                    "localname": "Pokhri-Gorang - Ravigram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
