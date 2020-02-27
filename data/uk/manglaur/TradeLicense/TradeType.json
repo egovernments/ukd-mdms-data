@@ -1,0 +1,94 @@
+{
+"tenantId": "uk.manglaur",
+"moduleName": "TradeLicense",
+"TradeType":  [
+        {
+            "code": "TRADE.SHOP.GMS",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.LIVESTOCK.BS",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.CBMB",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.TRANSPORT.KATBHW",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.STREETVENDOR.TSIF",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.DYFSR",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.SHOP.FVS",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        },
+        {
+            "code": "TRADE.TRANSPORT.RIRLO",
+            "uom": null,
+            "applicationDocument": [
+            "APPLICATIONFORM",
+            "AADHARVOTERID"
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL"
+        }
+    ]
+}
