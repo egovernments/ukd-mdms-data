@@ -1,0 +1,228 @@
+{
+  "tenantId": "uk.tilwara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tilwara",
+        "localname": "tilwara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.tilwara",
+        "children": [
+          {
+            "id": "cd0391b9-0044-4052-b51a-afa4e10601c5",
+            "boundaryNum": 1,
+            "name": "Tilwara",
+            "localname": "Tilwara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "0937253d-5c7b-4e30-a956-2da00efc1427",
+                "boundaryNum": 1,
+                "name": "Rampur",
+                "localname": "Rampur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1306631",
+                "children": [
+                  {
+                    "id": "96dd8661-268c-45af-8d7b-c0710807118b",
+                    "boundaryNum": 1,
+                    "name": "Rampur - Rampur",
+                    "localname": "Rampur - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3630a69c-0128-42df-88b0-fa4dc109cca6",
+                    "boundaryNum": 1,
+                    "name": "Peena - Rampur",
+                    "localname": "Peena - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4975da49-439f-4fcb-a77c-cb539096d7e0",
+                    "boundaryNum": 1,
+                    "name": "Math - Rampur",
+                    "localname": "Math - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2eed2df-d133-4fcb-a069-36141274c070",
+                    "boundaryNum": 1,
+                    "name": "Chidi - Rampur",
+                    "localname": "Chidi - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b52b9bd6-6246-4390-ab5b-2e9a8874806c",
+                    "boundaryNum": 1,
+                    "name": "Amrkunj - Rampur",
+                    "localname": "Amrkunj - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e433287f-d259-4664-835a-2a0c418eac11",
+                    "boundaryNum": 1,
+                    "name": "Bhateena - Rampur",
+                    "localname": "Bhateena - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58a387b8-a433-428c-9f80-11b933d301e6",
+                "boundaryNum": 1,
+                "name": "Geed Bhuter",
+                "localname": "Geed Bhuter",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1306632",
+                "children": [
+                  {
+                    "id": "23e666f6-88c0-430a-bd9a-ac1d7080bfba",
+                    "boundaryNum": 1,
+                    "name": "Geed Bhuter - Geed Bhuter",
+                    "localname": "Geed Bhuter - Geed Bhuter",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1b7da81c-3a1d-47e3-af82-d2547b920b7f",
+                "boundaryNum": 1,
+                "name": "Tilwara",
+                "localname": "Tilwara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1306633",
+                "children": [
+                  {
+                    "id": "0ac2c35d-4e1a-4c94-9cd6-60a0f0bc3ee4",
+                    "boundaryNum": 1,
+                    "name": "Bedi - Tilwara",
+                    "localname": "Bedi - Tilwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25c3da39-e901-4337-9a80-f3b61c7d6b05",
+                    "boundaryNum": 1,
+                    "name": "Sour - Tilwara",
+                    "localname": "Sour - Tilwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a4576fbd-6b42-418a-8ee7-916096e2e735",
+                    "boundaryNum": 1,
+                    "name": "Patyoon - Tilwara",
+                    "localname": "Patyoon - Tilwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36ee269a-9ca1-4cdb-9720-4fa330a2b6b3",
+                "boundaryNum": 1,
+                "name": "Maithana Chatoli",
+                "localname": "Maithana Chatoli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1306634",
+                "children": [
+                  {
+                    "id": "0675aab4-2c03-48b2-a517-223639c5e5fa",
+                    "boundaryNum": 1,
+                    "name": "Maithana - Maithana Chatoli",
+                    "localname": "Maithana - Maithana Chatoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6c68a486-6d3e-4154-b98a-8de2afa1d607",
+                    "boundaryNum": 1,
+                    "name": "Chatoli - Maithana Chatoli",
+                    "localname": "Chatoli - Maithana Chatoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
