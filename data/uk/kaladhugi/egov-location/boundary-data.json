@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.kaladhugi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kaladhugi",
+        "localname": "kaladhugi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.kaladhugi",
+        "children": [
+          {
+            "id": "3f318952-cadf-4f75-9e71-4a4d626e89d8",
+            "boundaryNum": 1,
+            "name": "Kaladhugi",
+            "localname": "Kaladhugi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "d0ec6c42-9d62-4511-b028-d47dba4019a6",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Junglaat Ward No.1",
+                "localname": "Kaladhungi (NP) - Junglaat Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18427",
+                "children": [
+                  {
+                    "id": "08a41c24-8432-45f9-9715-28b6eca45f37",
+                    "boundaryNum": 1,
+                    "name": "dakbangla & jim corbett sangrhalay - Kaladhungi (NP) - Junglaat Ward No.1",
+                    "localname": "dakbangla & jim corbett sangrhalay - Kaladhungi (NP) - Junglaat Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2380e9ce-bb07-4a8c-9b9c-a7d6f940e332",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Factory Ward No.2",
+                "localname": "Kaladhungi (NP) - Factory Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18428",
+                "children": [
+                  {
+                    "id": "9dc5d4b7-2c53-4b26-8890-1a0ead6febd3",
+                    "boundaryNum": 1,
+                    "name": "kandibel & harijan basti - Kaladhungi (NP) - Factory Ward No.2",
+                    "localname": "kandibel & harijan basti - Kaladhungi (NP) - Factory Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9ec812a8-42e8-46a0-b26d-8fffc5618a49",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Uttari Banzara Bashti Ward No.3",
+                "localname": "Kaladhungi (NP) - Uttari Banzara Bashti Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18429",
+                "children": [
+                  {
+                    "id": "8645466f-8699-4f94-8e5c-8befff4663b6",
+                    "boundaryNum": 1,
+                    "name": "banjara basti /co-operative bank - Kaladhungi (NP) - Uttari Banzara Bashti Ward No.3",
+                    "localname": "banjara basti /co-operative bank - Kaladhungi (NP) - Uttari Banzara Bashti Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "210eab7b-553b-4f66-8785-1fb0c2455567",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Aspataal Ward No.4",
+                "localname": "Kaladhungi (NP) - Aspataal Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18430",
+                "children": [
+                  {
+                    "id": "54f4a912-e19e-4c4a-836f-0ec8a736cf58",
+                    "boundaryNum": 1,
+                    "name": "sahkari samiti - Kaladhungi (NP) - Aspataal Ward No.4",
+                    "localname": "sahkari samiti - Kaladhungi (NP) - Aspataal Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4883d5b8-05e0-472a-9195-8ee9dfdbcc1c",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Purvi Dhobi Bashti Ward No.5",
+                "localname": "Kaladhungi (NP) - Purvi Dhobi Bashti Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18431",
+                "children": [
+                  {
+                    "id": "bbc82612-fc31-4fd8-8ea6-7de2b53b8b36",
+                    "boundaryNum": 1,
+                    "name": "balmiki basti - Kaladhungi (NP) - Purvi Dhobi Bashti Ward No.5",
+                    "localname": "balmiki basti - Kaladhungi (NP) - Purvi Dhobi Bashti Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23cd0d06-4cf1-4535-a0ec-1b7d64e6baba",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - THANA / TAHSHIL Ward No.6",
+                "localname": "Kaladhungi (NP) - THANA / TAHSHIL Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18432",
+                "children": [
+                  {
+                    "id": "d50efac5-79e6-4540-bd03-e5931faf42c5",
+                    "boundaryNum": 1,
+                    "name": "nagar panchayat office & pashu Asptal - Kaladhungi (NP) - THANA / TAHSHIL Ward No.6",
+                    "localname": "nagar panchayat office & pashu Asptal - Kaladhungi (NP) - THANA / TAHSHIL Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac5f10a7-b99b-4fdf-8028-e7211279ba95",
+                "boundaryNum": 1,
+                "name": "Kaladhungi (NP) - Mangoliya Dhada Ward No.7",
+                "localname": "Kaladhungi (NP) - Mangoliya Dhada Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18433",
+                "children": [
+                  {
+                    "id": "08d79ec9-e7fb-413f-80e9-6485b354af15",
+                    "boundaryNum": 1,
+                    "name": "saini basti - Kaladhungi (NP) - Mangoliya Dhada Ward No.7",
+                    "localname": "saini basti - Kaladhungi (NP) - Mangoliya Dhada Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
