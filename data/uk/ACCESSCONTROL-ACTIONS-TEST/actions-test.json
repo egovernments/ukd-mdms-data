@@ -6430,6 +6430,38 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Receipt Register"
+    },
+    {
+      "id": 1885,
+      "name": "rainmaker-uc-search",
+      "url": "quickAction",
+      "displayName": "Search Miscellaneous Collection",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "uc/search",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1886,
+      "name": "rainmaker-uc-newcollection",
+      "url": "quickAction",
+      "displayName": "New Miscellaneous Collection",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "uc/newCollection",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
