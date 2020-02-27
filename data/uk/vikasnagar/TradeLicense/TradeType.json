@@ -1,0 +1,186 @@
+{
+  "tenantId": "uk.vikasnagar",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.LIQUOR.FLS",
+      "uom": "null",
+      "applicationDocument": [
+        "AADHAR",
+        "LIQUORLICENSE",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.CLS",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "LIQUORLICENSE",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.OTH",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "FOODLICENSE",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.DARYF",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR69",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "Aadhar card",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.IF",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.KATEAS",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.PAAN",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.RIK",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.BAKE",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "FOODLICENSE",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR32",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "POWER",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "LIVESTOCK",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "AADHAR",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.SWSH",
+      "uom": "null",
+      "applicationDocument": [
+        "VOTERID",
+        "FOODLICENSE",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
