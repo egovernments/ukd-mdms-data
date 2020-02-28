@@ -1,0 +1,329 @@
+{
+"tenantId": "uk.dogada",
+"moduleName": "TradeLicense",
+"TradeType":[
+  {
+    "code": "TRADE.SHOP.TR69",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.RESTS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.SWSH",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR79",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.FS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.SHOEM",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.TR80",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.CBLEO",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.SHOES",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR52",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR66",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WCRS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR40",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR50",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.MRGH",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.HARPVTC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR54",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL10B",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL20B",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR43",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BAKE",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR61",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.CRKSH",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "OTHER",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
