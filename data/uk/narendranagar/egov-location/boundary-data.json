@@ -1,0 +1,216 @@
+{
+  "tenantId": "uk.narendranagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "narendranagar",
+        "localname": "narendranagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.narendranagar",
+        "children": [
+          {
+            "id": "8ca91be4-779a-403b-b4c7-1e205b66bd25",
+            "boundaryNum": 1,
+            "name": "Narendranagar",
+            "localname": "Narendranagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "867c9f27-fd46-4d6d-921c-dc4dad1d69b0",
+                "boundaryNum": 1,
+                "name": "Ward No.1-KINWANI",
+                "localname": "Ward No.1-KINWANI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16176",
+                "children": [
+                  {
+                    "id": "d713a0df-2ef6-4e20-915c-46f19991b251",
+                    "boundaryNum": 1,
+                    "name": "Ward No.1- KINWANI - Ward No.1-KINWANI",
+                    "localname": "Ward No.1- KINWANI - Ward No.1-KINWANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "efbb41dd-8e7c-4c45-9514-1a172072d4ae",
+                    "boundaryNum": 1,
+                    "name": "Ward No.1- KINWANI - Ward No.1-KINWANI",
+                    "localname": "Ward No.1- KINWANI - Ward No.1-KINWANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bb76524-9026-4537-9d17-b8c01f22874a",
+                "boundaryNum": 1,
+                "name": "Ward No.2-VENDAI MATRAM",
+                "localname": "Ward No.2-VENDAI MATRAM",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16177",
+                "children": [
+                  {
+                    "id": "5148ab60-5c49-4242-82b7-87f068e4860c",
+                    "boundaryNum": 1,
+                    "name": "Ward No.2-VENDRAIMATRAM - Ward No.2-VENDAI MATRAM",
+                    "localname": "Ward No.2-VENDRAIMATRAM - Ward No.2-VENDAI MATRAM",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63e7c3ad-a4a2-46ac-ba4e-3cae0f96f132",
+                "boundaryNum": 1,
+                "name": "Ward No.3-BAZAR LINE",
+                "localname": "Ward No.3-BAZAR LINE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16178",
+                "children": [
+                  {
+                    "id": "243fd77c-2d6f-4521-bd6a-56394176cea8",
+                    "boundaryNum": 1,
+                    "name": "Ward No.3-BAZAR LINE - Ward No.3-BAZAR LINE",
+                    "localname": "Ward No.3-BAZAR LINE - Ward No.3-BAZAR LINE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "81e2587e-095b-4101-b89b-4ba7693b1833",
+                "boundaryNum": 1,
+                "name": "Ward No.4-CIVIL LINE",
+                "localname": "Ward No.4-CIVIL LINE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16179",
+                "children": [
+                  {
+                    "id": "dc995935-c96c-4503-bfe6-bdd5e9b3a9e2",
+                    "boundaryNum": 1,
+                    "name": "Ward No.4-CIVIL LINE - Ward No.4-CIVIL LINE",
+                    "localname": "Ward No.4-CIVIL LINE - Ward No.4-CIVIL LINE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce893261-d7a5-4dd5-a298-717208a6e5a2",
+                "boundaryNum": 1,
+                "name": "Ward No.5-SUMAN HOSPITAL PARISAR",
+                "localname": "Ward No.5-SUMAN HOSPITAL PARISAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296810",
+                "children": [
+                  {
+                    "id": "e4330400-b5c9-45c0-a3d0-ff1b1e2a653c",
+                    "boundaryNum": 1,
+                    "name": "Ward No.5-SUMAN HOSPITAL PARISAR - Ward No.5-SUMAN HOSPITAL PARISAR",
+                    "localname": "Ward No.5-SUMAN HOSPITAL PARISAR - Ward No.5-SUMAN HOSPITAL PARISAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10726743-568b-40d1-8094-bb07df7174fd",
+                "boundaryNum": 1,
+                "name": "Ward No.6-BHAKHRIYNA",
+                "localname": "Ward No.6-BHAKHRIYNA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296811",
+                "children": [
+                  {
+                    "id": "ad763f45-5e67-40f2-9a20-d3e48eaf5a00",
+                    "boundaryNum": 1,
+                    "name": "Ward No.6-BHAKHRIYNA - Ward No.6-BHAKHRIYNA",
+                    "localname": "Ward No.6-BHAKHRIYNA - Ward No.6-BHAKHRIYNA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d72b2c7d-dcf0-4730-92b0-816b62f4c482",
+                "boundaryNum": 1,
+                "name": "Ward No.7 CLERK QUARTER",
+                "localname": "Ward No.7 CLERK QUARTER",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296812",
+                "children": [
+                  {
+                    "id": "87e1c2e4-4abc-4d86-b7b5-30cf6108cf20",
+                    "boundaryNum": 1,
+                    "name": "Ward No.7-CLERK QUARTER - Ward No.7 CLERK QUARTER",
+                    "localname": "Ward No.7-CLERK QUARTER - Ward No.7 CLERK QUARTER",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
