@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.garrison",
+  "tenantId": "uk.gairsain",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "garrison",
-        "localname": "garrison",
+        "name": "gairsain",
+        "localname": "gairsain",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.garrison",
+        "code": "uk.gairsain",
         "children": [
           {
             "id": "fb6447cd-32f8-4bc5-ac8f-8e5c962bf0a8",
             "boundaryNum": 1,
-            "name": "Garrison",
-            "localname": "Garrison",
+            "name": "gairsain",
+            "localname": "gairsain",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
