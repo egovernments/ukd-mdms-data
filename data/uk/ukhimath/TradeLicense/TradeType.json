@@ -1,0 +1,89 @@
+{
+  "tenantId": "uk.ukhimath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+  {
+    "code": "TRADE.HOTEL.TR10",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HEALTH.COMPC",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HLGHR",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.DHAB",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.KATEAS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HEALTH.PVPBS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC044",
+      "AADPANCARD",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
