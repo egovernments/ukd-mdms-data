@@ -1,0 +1,60 @@
+{
+  "tenantId": "uk.kedarnath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kedarnath",
+        "localname": "kedarnath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.kedarnath",
+        "children": [
+          {
+            "id": "e28fed9e-624e-4d76-a7b1-6d3f95840830",
+            "boundaryNum": 1,
+            "name": "Kedarnath",
+            "localname": "Kedarnath",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "22cf9fa8-8a61-49b3-a68c-4d1cfeca7f65",
+                "boundaryNum": 1,
+                "name": "Kedarnath",
+                "localname": "Kedarnath",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16114",
+                "children": [
+                  {
+                    "id": "fa8462db-d303-4f6a-a520-09557b8daa28",
+                    "boundaryNum": 1,
+                    "name": "kedarnath - Kedarnath",
+                    "localname": "kedarnath - Kedarnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
