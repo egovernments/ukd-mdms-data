@@ -1,0 +1,408 @@
+{
+  "tenantId": "uk.chamiyala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "chamiyala",
+        "localname": "chamiyala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.chamiyala",
+        "children": [
+          {
+            "id": "dccc8e5d-195f-4b14-bf2f-d0b254527280",
+            "boundaryNum": 1,
+            "name": "Chamiyala",
+            "localname": "Chamiyala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "15aac1e5-9046-4114-834f-87c19c1d4f90",
+                "boundaryNum": 1,
+                "name": "Wards1-Latta",
+                "localname": "Wards1-Latta",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296911",
+                "children": [
+                  {
+                    "id": "63b19440-d223-4dc4-9a62-af2dc2fe8aa3",
+                    "boundaryNum": 1,
+                    "name": "pilwa - Wards1-Latta",
+                    "localname": "pilwa - Wards1-Latta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b029f668-8186-4483-94cb-6ab815ad9ba5",
+                    "boundaryNum": 1,
+                    "name": "lata lehshil - Wards1-Latta",
+                    "localname": "lata lehshil - Wards1-Latta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "caf03068-8c94-4722-acec-a2e1dd2eecce",
+                    "boundaryNum": 1,
+                    "name": "Inter college pipal sen - Wards1-Latta",
+                    "localname": "Inter college pipal sen - Wards1-Latta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1b24d796-841d-4583-84a7-3bdece485f0d",
+                    "boundaryNum": 1,
+                    "name": "dang - Wards1-Latta",
+                    "localname": "dang - Wards1-Latta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "146cd16a-c44a-44e6-90c1-8edbf93e3c14",
+                "boundaryNum": 1,
+                "name": "Wards2-Chamiyala Gaon",
+                "localname": "Wards2-Chamiyala Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296912",
+                "children": [
+                  {
+                    "id": "62cf6f22-c36e-413b-b8bb-10c2ffcb4379",
+                    "boundaryNum": 1,
+                    "name": "kholdi - Wards2-Chamiyala Gaon",
+                    "localname": "kholdi - Wards2-Chamiyala Gaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c79c73ee-7c28-4267-af63-a748d95da7ba",
+                    "boundaryNum": 1,
+                    "name": "shiwal ganw - Wards2-Chamiyala Gaon",
+                    "localname": "shiwal ganw - Wards2-Chamiyala Gaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a2d35742-deb8-4ef7-b2cd-dcd00865087e",
+                    "boundaryNum": 1,
+                    "name": "baheda sour - Wards2-Chamiyala Gaon",
+                    "localname": "baheda sour - Wards2-Chamiyala Gaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ebc13734-8b11-4bb0-aac9-c2898950fa65",
+                    "boundaryNum": 1,
+                    "name": "mathiyali - Wards2-Chamiyala Gaon",
+                    "localname": "mathiyali - Wards2-Chamiyala Gaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74057ac2-5cad-448d-a90d-b584ca0c6921",
+                "boundaryNum": 1,
+                "name": "Wards3-Chamiyala Bazaar",
+                "localname": "Wards3-Chamiyala Bazaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296913",
+                "children": [
+                  {
+                    "id": "38636778-6294-4779-ba14-e3828b2ea7d4",
+                    "boundaryNum": 1,
+                    "name": "matru ki chaouri - Wards3-Chamiyala Bazaar",
+                    "localname": "matru ki chaouri - Wards3-Chamiyala Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89a406cb-ce5e-47e6-8d1d-b7c921ec407f",
+                    "boundaryNum": 1,
+                    "name": "himalyan janta school khed gehra - Wards3-Chamiyala Bazaar",
+                    "localname": "himalyan janta school khed gehra - Wards3-Chamiyala Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52ce708a-1bb5-4a84-9aab-e828da8b9480",
+                "boundaryNum": 1,
+                "name": "Wards4-chama",
+                "localname": "Wards4-chama",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296914",
+                "children": [
+                  {
+                    "id": "455a291f-c873-44a4-969c-ec3673b8c6b6",
+                    "boundaryNum": 1,
+                    "name": "chama - Wards4-chama",
+                    "localname": "chama - Wards4-chama",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6fa46c00-37a7-40df-9ff3-7a9e40d689c6",
+                    "boundaryNum": 1,
+                    "name": "kanya patsala - Wards4-chama",
+                    "localname": "kanya patsala - Wards4-chama",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e35b4c40-99ba-4bf7-b7c0-5d4bd418524d",
+                    "boundaryNum": 1,
+                    "name": "bazar ka nichla bhag - Wards4-chama",
+                    "localname": "bazar ka nichla bhag - Wards4-chama",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5fa06865-cfc8-477f-9ac1-106e236c61bf",
+                    "boundaryNum": 1,
+                    "name": "choraha mohla - Wards4-chama",
+                    "localname": "choraha mohla - Wards4-chama",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37fd9d47-246b-4f0a-9fd0-0958aa4cc9e2",
+                "boundaryNum": 1,
+                "name": "Wards5-Srikot Saud",
+                "localname": "Wards5-Srikot Saud",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296915",
+                "children": [
+                  {
+                    "id": "8980cc44-ecd4-4ef0-86fe-02776f6196d2",
+                    "boundaryNum": 1,
+                    "name": "sour - Wards5-Srikot Saud",
+                    "localname": "sour - Wards5-Srikot Saud",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "82eda8d2-841e-4985-a964-1c3a18027bdc",
+                    "boundaryNum": 1,
+                    "name": "bazar - Wards5-Srikot Saud",
+                    "localname": "bazar - Wards5-Srikot Saud",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1079f1eb-7007-41de-b9c9-6e64e9524cea",
+                    "boundaryNum": 1,
+                    "name": "petrol punmp - Wards5-Srikot Saud",
+                    "localname": "petrol punmp - Wards5-Srikot Saud",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3ea038e-3378-4c0c-b2b8-cad8a567b944",
+                    "boundaryNum": 1,
+                    "name": "katith bhawan - Wards5-Srikot Saud",
+                    "localname": "katith bhawan - Wards5-Srikot Saud",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a1aab50-86c1-4507-9432-03eacb6f120d",
+                "boundaryNum": 1,
+                "name": "Wards6 -Bhandarigaon",
+                "localname": "Wards6 -Bhandarigaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296916",
+                "children": [
+                  {
+                    "id": "691a0d41-9532-4989-899c-82151383062e",
+                    "boundaryNum": 1,
+                    "name": "bhandari ganw - Wards6 -Bhandarigaon",
+                    "localname": "bhandari ganw - Wards6 -Bhandarigaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a0f9c217-e866-4e58-aac3-a2d9f57b7c13",
+                    "boundaryNum": 1,
+                    "name": "shikot gadera - Wards6 -Bhandarigaon",
+                    "localname": "shikot gadera - Wards6 -Bhandarigaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "807ca8ae-d581-4aa9-9a4b-fb0c931081b5",
+                    "boundaryNum": 1,
+                    "name": "ajay bhatt vidya mandir - Wards6 -Bhandarigaon",
+                    "localname": "ajay bhatt vidya mandir - Wards6 -Bhandarigaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a5071d7e-f099-4d50-8bb2-6fec33d98830",
+                "boundaryNum": 1,
+                "name": "Wards4 -Beleshwer",
+                "localname": "Wards4 -Beleshwer",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296917",
+                "children": [
+                  {
+                    "id": "a306fd69-d93c-45ad-8e1d-dfb42ce31769",
+                    "boundaryNum": 1,
+                    "name": "beleswar mandir - Wards4 -Beleshwer",
+                    "localname": "beleswar mandir - Wards4 -Beleshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4d3ecf3d-ad82-4df1-806b-61f5277f0c7f",
+                    "boundaryNum": 1,
+                    "name": "hospital mohla - Wards4 -Beleshwer",
+                    "localname": "hospital mohla - Wards4 -Beleshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e3297b4b-de3f-46b3-8767-fd53bdbfecec",
+                    "boundaryNum": 1,
+                    "name": "bazar mohala - Wards4 -Beleshwer",
+                    "localname": "bazar mohala - Wards4 -Beleshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
