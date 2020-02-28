@@ -1,0 +1,437 @@
+{
+"tenantId": "uk.gadarpur",
+"moduleName": "TradeLicense",
+"TradeType":[
+  {
+    "code": "HOTELS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HAR3STR",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIAU7S",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIAU4S",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.KAXRYC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.KADNTC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.KAPVTC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.TR62",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.IF",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.FIRM.BUILD",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.RDRFLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAINSC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.BS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HAR5STR",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NH20B",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAFINC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.HARAU2S",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NHA20",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.MHA20",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PVTC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.RDRPC",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.GOODS.OTHFW",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.TR94",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR34",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR34",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.THELA",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC038",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.MH20B",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIBUS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.GOODS.TRLY",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.KATBHW",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIMBUS",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.PACQA",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIKOR",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.TR87",
+    "uom": "null",
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
