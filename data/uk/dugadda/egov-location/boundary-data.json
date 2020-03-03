@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.dogadda",
+  "tenantId": "uk.dugadda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "dogadda",
-        "localname": "dogadda",
+        "name": "dugadda",
+        "localname": "dugadda",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.dogadda",
+        "code": "uk.dugadda",
         "children": [
           {
             "id": "3f345391-33e1-4bbd-87ae-56937fc98c78",
             "boundaryNum": 1,
-            "name": "Dogadda",
-            "localname": "Dogadda",
+            "name": "Dugadda",
+            "localname": "Dugadda",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
