@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.kaladhugi",
+  "tenantId": "uk.kaladhungi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "kaladhugi",
-        "localname": "kaladhugi",
+        "name": "kaladhungi",
+        "localname": "kaladhungi",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.kaladhugi",
+        "code": "uk.kaladhungi",
         "children": [
           {
             "id": "3f318952-cadf-4f75-9e71-4a4d626e89d8",
             "boundaryNum": 1,
-            "name": "Kaladhugi",
-            "localname": "Kaladhugi",
+            "name": "Kaladhungi",
+            "localname": "Kaladhungi",
             "longitude": null,
             "latitude": null,
             "label": "Zone",

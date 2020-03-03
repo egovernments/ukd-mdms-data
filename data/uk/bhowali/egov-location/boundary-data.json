@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.bhawali",
+  "tenantId": "uk.bhowali",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "bhawali",
-        "localname": "bhawali",
+        "name": "bhowali",
+        "localname": "bhowali",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.bhawali",
+        "code": "uk.bhowali",
         "children": [
           {
             "id": "0bf5a937-f5a8-401c-a9e3-5f16781588c9",
             "boundaryNum": 1,
-            "name": "Bhawali",
-            "localname": "Bhawali",
+            "name": "Bhowali",
+            "localname": "Bhowali",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
