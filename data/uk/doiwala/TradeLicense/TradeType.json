@@ -1,0 +1,42 @@
+  
+{
+  "tenantId": "uk.doiwala",
+  "moduleName": "egov-location",
+  "TenantBoundary"[
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC016",
+      "EXCISELICENSE",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC016",
+      "EXCISELICENSE",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.HW",
+    "uom": null,
+    "applicationDocument": [
+      "AC002",
+      "AC043",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
