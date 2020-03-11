@@ -1,0 +1,264 @@
+{
+  "tenantId": "uk.gularbhoj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gularbhoj",
+        "localname": "gularbhoj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gularbhoj",
+        "children": [
+          {
+            "id": "d42c98a7-1234-49a4-9065-6086b7311d10",
+            "boundaryNum": 1,
+            "name": "Gularbhoj",
+            "localname": "Gularbhoj",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "cd6a4281-da05-491d-813b-f2d161038f88",
+                "boundaryNum": 1,
+                "name": "(Ward No 1)- Nai Basti Kopa",
+                "localname": "(Ward No 1)- Nai Basti Kopa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296918",
+                "children": [
+                  {
+                    "id": "fca1ff91-aad2-4cf7-a2d4-6740f48d8385",
+                    "boundaryNum": 1,
+                    "name": "Nai Basti Kopa - (Ward No 1)- Nai Basti Kopa",
+                    "localname": "Nai Basti Kopa - (Ward No 1)- Nai Basti Kopa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57c66ae3-c007-4518-8044-b72620153150",
+                "boundaryNum": 1,
+                "name": "(Ward No 2)- Govindpur",
+                "localname": "(Ward No 2)- Govindpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296919",
+                "children": [
+                  {
+                    "id": "94d3eed7-8c2a-4f55-b4dd-9ddb00666463",
+                    "boundaryNum": 1,
+                    "name": "Govindpur - (Ward No 2)- Govindpur",
+                    "localname": "Govindpur - (Ward No 2)- Govindpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4cc66f4b-dff3-4f2e-b92f-93509140e340",
+                "boundaryNum": 1,
+                "name": "(Ward No 3)- Chandayan",
+                "localname": "(Ward No 3)- Chandayan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296920",
+                "children": [
+                  {
+                    "id": "e235695c-0e89-4e51-9538-61fe599f2e79",
+                    "boundaryNum": 1,
+                    "name": "Chandayan Gaanv - (Ward No 3)- Chandayan",
+                    "localname": "Chandayan Gaanv - (Ward No 3)- Chandayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "358fdedd-0034-4065-bbde-7f6659418fc1",
+                    "boundaryNum": 1,
+                    "name": "TANTPURI - (Ward No 3)- Chandayan",
+                    "localname": "TANTPURI - (Ward No 3)- Chandayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e41b84a5-f382-4c0e-be12-f05340d1f02a",
+                    "boundaryNum": 1,
+                    "name": "Santosh Nagar - (Ward No 3)- Chandayan",
+                    "localname": "Santosh Nagar - (Ward No 3)- Chandayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6e89412f-bfdb-4a74-b8a5-b3bb89e98cda",
+                "boundaryNum": 1,
+                "name": "(Ward No 4)- Nai Basti",
+                "localname": "(Ward No 4)- Nai Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296921",
+                "children": [
+                  {
+                    "id": "253faf06-8995-4e83-b0da-cc6095d5a212",
+                    "boundaryNum": 1,
+                    "name": "Nai Basti - (Ward No 4)- Nai Basti",
+                    "localname": "Nai Basti - (Ward No 4)- Nai Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4987ccb-441e-4cf7-ba90-67321e1b4949",
+                "boundaryNum": 1,
+                "name": "(Ward No 5)- Gadar Basti",
+                "localname": "(Ward No 5)- Gadar Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296922",
+                "children": [
+                  {
+                    "id": "babe6d62-f925-40be-845c-1a9e6cdf00a9",
+                    "boundaryNum": 1,
+                    "name": "Gadar Basti - (Ward No 5)- Gadar Basti",
+                    "localname": "Gadar Basti - (Ward No 5)- Gadar Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dfcb954e-405a-4f1d-b0d4-79639d31681c",
+                    "boundaryNum": 1,
+                    "name": "Gousadan - (Ward No 5)- Gadar Basti",
+                    "localname": "Gousadan - (Ward No 5)- Gadar Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f08079be-02a0-4838-90ec-333071149622",
+                "boundaryNum": 1,
+                "name": "(Ward No 6)- Colony Number-02 nai basti",
+                "localname": "(Ward No 6)- Colony Number-02 nai basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296923",
+                "children": [
+                  {
+                    "id": "d6e322a6-abfa-4215-bdc1-351fc05f9c07",
+                    "boundaryNum": 1,
+                    "name": "Nai Basti - (Ward No 6)- Colony Number-02 nai basti",
+                    "localname": "Nai Basti - (Ward No 6)- Colony Number-02 nai basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "61d8b746-64c7-4834-b553-c8f3c0379cf5",
+                    "boundaryNum": 1,
+                    "name": "kenal colony Number-02 - (Ward No 6)- Colony Number-02 nai basti",
+                    "localname": "kenal colony Number-02 - (Ward No 6)- Colony Number-02 nai basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3cf8416-a815-49ab-9cf4-1cd0d3f1cc48",
+                "boundaryNum": 1,
+                "name": "(Ward No 7)- Golai",
+                "localname": "(Ward No 7)- Golai",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296924",
+                "children": [
+                  {
+                    "id": "7909a5c1-2f2f-4133-bab2-b370dc7535c0",
+                    "boundaryNum": 1,
+                    "name": "Golai - (Ward No 7)- Golai",
+                    "localname": "Golai - (Ward No 7)- Golai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cce0caa5-4535-4c0c-bd6d-e47b522cfa5b",
+                    "boundaryNum": 1,
+                    "name": "kenal colony Number-02 - (Ward No 7)- Golai",
+                    "localname": "kenal colony Number-02 - (Ward No 7)- Golai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
