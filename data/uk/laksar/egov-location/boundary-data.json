@@ -1,0 +1,300 @@
+{
+  "tenantId": "uk.laksar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "laksar",
+        "localname": "laksar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.laksar",
+        "children": [
+          {
+            "id": "6002c4d2-5add-4863-b91b-73cfb36a9b73",
+            "boundaryNum": 1,
+            "name": "Laksar",
+            "localname": "Laksar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "8c0f07a2-0a96-4889-8ba0-f26ffc881f13",
+                "boundaryNum": 1,
+                "name": "Ambedkar nagar",
+                "localname": "Ambedkar nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11776",
+                "children": [
+                  {
+                    "id": "9b26c4aa-2361-46e0-8981-c94090e3c836",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar nagar - Ambedkar nagar",
+                    "localname": "Ambedkar nagar - Ambedkar nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "476116ed-c9e5-4d0e-a275-e698f3ac23b8",
+                "boundaryNum": 1,
+                "name": "Seemli",
+                "localname": "Seemli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11777",
+                "children": [
+                  {
+                    "id": "8fe19a11-b77c-4de3-ae2f-7bbaf23b6668",
+                    "boundaryNum": 1,
+                    "name": "Seemli - Seemli",
+                    "localname": "Seemli - Seemli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2710f485-30a8-4b06-bdbe-f10806f059c5",
+                "boundaryNum": 1,
+                "name": "Shivpuri",
+                "localname": "Shivpuri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11778",
+                "children": [
+                  {
+                    "id": "33df7ca6-636c-4744-980d-191c449c4cf9",
+                    "boundaryNum": 1,
+                    "name": "Shivpuri - Shivpuri",
+                    "localname": "Shivpuri - Shivpuri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "422eb044-8288-4758-b95a-bb1bc007512a",
+                "boundaryNum": 1,
+                "name": "Shivpuri purvi",
+                "localname": "Shivpuri purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11779",
+                "children": [
+                  {
+                    "id": "53d71b05-6f34-49e7-8be0-2ec88b92accd",
+                    "boundaryNum": 1,
+                    "name": "Shivpuri purvi - Shivpuri purvi",
+                    "localname": "Shivpuri purvi - Shivpuri purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2738e63-4dc6-4078-ae62-6c9b14b411b3",
+                "boundaryNum": 1,
+                "name": "laksari",
+                "localname": "laksari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11780",
+                "children": [
+                  {
+                    "id": "76e15505-0de4-4f07-bc25-a4cfd4a3a12a",
+                    "boundaryNum": 1,
+                    "name": "laksari - laksari",
+                    "localname": "laksari - laksari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c15b3e18-f941-42a9-88bc-679a05b3f5a8",
+                "boundaryNum": 1,
+                "name": "Adersh colony",
+                "localname": "Adersh colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11781",
+                "children": [
+                  {
+                    "id": "218f7d96-9397-411b-b8df-0f3f1fd2665a",
+                    "boundaryNum": 1,
+                    "name": "Adersh colony - Adersh colony",
+                    "localname": "Adersh colony - Adersh colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee775197-3458-4cb6-ae01-4becf7e2a6ed",
+                "boundaryNum": 1,
+                "name": "Mainbazar",
+                "localname": "Mainbazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11782",
+                "children": [
+                  {
+                    "id": "37f04c56-d54e-43ef-bc62-c5c983236d0b",
+                    "boundaryNum": 1,
+                    "name": "Mainbazar - Mainbazar",
+                    "localname": "Mainbazar - Mainbazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9653f5ea-9af5-4087-bf30-4ce7570716f0",
+                "boundaryNum": 1,
+                "name": "Laksar purvi",
+                "localname": "Laksar purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11783",
+                "children": [
+                  {
+                    "id": "499b7f57-a34a-4dd8-98dd-6ead706f653e",
+                    "boundaryNum": 1,
+                    "name": "Laksar purvi - Laksar purvi",
+                    "localname": "Laksar purvi - Laksar purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42a49a93-3711-440a-899f-f3b1c9e14fda",
+                "boundaryNum": 1,
+                "name": "Azad nagar",
+                "localname": "Azad nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11784",
+                "children": [
+                  {
+                    "id": "d2a0e6de-b9dc-4145-a37b-64c6bcdcc5f5",
+                    "boundaryNum": 1,
+                    "name": "Azad nagar - Azad nagar",
+                    "localname": "Azad nagar - Azad nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1d18d0b-c6d3-41e5-af1b-c07cb9972a91",
+                "boundaryNum": 1,
+                "name": "Keshav nagar",
+                "localname": "Keshav nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296559",
+                "children": [
+                  {
+                    "id": "f967d264-5914-4b40-86b4-88c5f9d56bd4",
+                    "boundaryNum": 1,
+                    "name": "Keshav nagar - Keshav nagar",
+                    "localname": "Keshav nagar - Keshav nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d27da13e-4937-46c4-afca-d58d3d43482b",
+                "boundaryNum": 1,
+                "name": "Keshav nagar purvi",
+                "localname": "Keshav nagar purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296560",
+                "children": [
+                  {
+                    "id": "1187f22d-dfbd-4272-bcab-971d27ed72f6",
+                    "boundaryNum": 1,
+                    "name": "Keshav nagar purvi - Keshav nagar purvi",
+                    "localname": "Keshav nagar purvi - Keshav nagar purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
