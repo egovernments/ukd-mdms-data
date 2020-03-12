@@ -1,0 +1,89 @@
+{
+"tenantId": "uk.bazpur",
+"moduleName": "TradeLicense",
+"TradeType":[
+  {
+    "code": "TRADE.REST.UK_DIDIHAT_REVENUE_BLOCK_W1296734",
+    "uom": "null",
+    "applicationDocument": [
+      "AC056",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR46",
+    "uom": "null",
+    "applicationDocument": [
+      "AC043",
+      "AC056",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC024 ",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC024 ",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.KACS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC020 ",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.FS",
+    "uom": "null",
+    "applicationDocument": [
+      "AC020 ",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.WORKSHOP.OTHW",
+    "uom": "null",
+    "applicationDocument": [
+      "AC020 ",
+      "AC028",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
