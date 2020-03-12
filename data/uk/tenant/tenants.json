@@ -2435,38 +2435,6 @@
       "contactNumber": ""
     },
     {
-      "code": "uk.Khatima",
-      "name": "Khatima",
-      "description": "Khatima",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.khatima/logo.png",
-      "imageId": null,
-      "domainUrl": "khatimanpp.in",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "npkhatima108@gmail.com",
-      "OfficeTimings": {
-        "Mon - Sat": "10.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "Khatima",
-        "localName": "खटीमा",
-        "districtCode": "56",
-        "districtName": "Udham Singh Nagar",
-        "regionName": "Kumaon",
-        "ulbGrade": "NP",
-        "longitude": "",
-        "latitude": "",
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "263160",
-        "regionCode": "2",
-        "municipalityName": "Nagar Panchayat khatima"
-      },
-      "address": "Nagar Panchayat khatima",
-      "contactNumber": ""
-    },
-    {
       "code": "uk.dineshpur",
       "name": "Dineshpur",
       "description": "Dineshpur",
@@ -2599,6 +2567,74 @@
       ],
       "address": "Nagar Palika Parishad Tanakpur",
       "contactNumber": ""
+    },
+    {
+  "code": "uk.pirankaliyar",
+  "name": "Piran kaliyar",
+  "description": "Piran kaliyar",
+  "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.pirankaliyar/logo.png",
+  "imageId": "null",
+  "domainUrl": "NA",
+  "type": "CITY",
+  "twitterUrl": "",
+  "facebookUrl": "",
+  "emailId": "eonppirankaliyar@gmail.com ",
+  "OfficeTimings": {
+    "Mon - Sat": "10.00 AM - 5.00 PM"
+  },
+  "city": [
+    {
+      "name": "Piran kaliyar",
+      "localName": "पिरान कलियर",
+      "districtCode": "50",
+      "districtName": "Haridwar",
+      "regionName": "Garhwal",
+      "ulbGrade": "NP",
+      "longitude": "",
+      "latitude": "",
+      "shapeFileLocation": null,
+      "captcha": null,
+      "code": "275670",
+      "regionCode": "1",
+      "municipalityName": "Nagar Panchayat Piran kaliyar"
     }
+  ],
+  "address": "Nagar Panchayat Piran kaliyar",
+  "contactNumber": ""
+},
+{
+  "code": "uk.kapkot",
+  "name": "Kapkot",
+  "description": "Kapkot",
+  "logoId": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/uk.kapkot/logo.png",
+  "imageId": "null",
+  "domainUrl": "NA",
+  "type": "CITY",
+  "twitterUrl": "",
+  "facebookUrl": "",
+  "emailId": "eonpkapkote@gmail.com ",
+  "OfficeTimings": {
+    "Mon - Sat": "10.00 AM - 5.00 PM"
+  },
+  "city": [
+    {
+      "name": "Kapkot",
+      "localName": "कपकोट",
+      "districtCode": "46",
+      "districtName": "Bageshwar",
+      "regionName": "Kumaon",
+      "ulbGrade": "NPP",
+      "longitude": "",
+      "latitude": "",
+      "shapeFileLocation": null,
+      "captcha": null,
+      "code": "259921",
+      "regionCode": "2",
+      "municipalityName": "Kapkot Nagar Palika Parishad "
+    }
+  ],
+  "address": "Nagar Palika Parishad Kapkot",
+  "contactNumber": "8958064591"
+}
   ]
 }
