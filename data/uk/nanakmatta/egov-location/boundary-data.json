@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.nanakmatta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "nanakmatta",
+        "localname": "nanakmatta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.nanakmatta",
+        "children": [
+          {
+            "id": "a6b39828-d1db-4935-bb83-172799b3dd7e",
+            "boundaryNum": 1,
+            "name": "Nanakmatta",
+            "localname": "Nanakmatta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "8dd959f1-11a5-4b4c-a31b-902b01789fe3",
+                "boundaryNum": 1,
+                "name": "Milak najeer",
+                "localname": "Milak najeer",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296602",
+                "children": [
+                  {
+                    "id": "8f6d69fb-57ca-4fe3-bd14-9d3f36c1949c",
+                    "boundaryNum": 1,
+                    "name": "Milak najeer - Milak najeer",
+                    "localname": "Milak najeer - Milak najeer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70ee1488-78af-464a-a7b2-382aa230dbc8",
+                "boundaryNum": 1,
+                "name": "GARI PATTI",
+                "localname": "GARI PATTI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296603",
+                "children": [
+                  {
+                    "id": "8c1138c8-b0f0-429b-9f49-09d96e4bb9d7",
+                    "boundaryNum": 1,
+                    "name": "GARI PATTI - GARI PATTI",
+                    "localname": "GARI PATTI - GARI PATTI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c09cc6e-49bc-443b-9839-0e3f46c236bf",
+                "boundaryNum": 1,
+                "name": "THANA WARD",
+                "localname": "THANA WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296604",
+                "children": [
+                  {
+                    "id": "c45d373a-d46a-4af0-a887-5f1cb81b1f7b",
+                    "boundaryNum": 1,
+                    "name": "THANA WARD - THANA WARD",
+                    "localname": "THANA WARD - THANA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b58ce35-47aa-45b9-8617-93a38ea4e7c3",
+                "boundaryNum": 1,
+                "name": "TRC",
+                "localname": "TRC",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296605",
+                "children": [
+                  {
+                    "id": "5b088141-4b73-4304-9c84-d8f4fba63446",
+                    "boundaryNum": 1,
+                    "name": "TRC - TRC",
+                    "localname": "TRC - TRC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71f27b8e-cc04-46d5-81db-70ae10ae1794",
+                "boundaryNum": 1,
+                "name": "MILAK MAFI",
+                "localname": "MILAK MAFI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296606",
+                "children": [
+                  {
+                    "id": "63eda162-1905-4e73-944e-58ef69b28ce3",
+                    "boundaryNum": 1,
+                    "name": "MILAK MAFI - MILAK MAFI",
+                    "localname": "MILAK MAFI - MILAK MAFI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87303f34-ddbe-4621-969c-2e1031017091",
+                "boundaryNum": 1,
+                "name": "JAGDAMBA WARD",
+                "localname": "JAGDAMBA WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296607",
+                "children": [
+                  {
+                    "id": "bfbff029-04e5-4d72-ab6a-8032e4aec720",
+                    "boundaryNum": 1,
+                    "name": "JAGDAMBA WARD - JAGDAMBA WARD",
+                    "localname": "JAGDAMBA WARD - JAGDAMBA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d457f2a6-a3aa-418c-a748-abbb554671d2",
+                "boundaryNum": 1,
+                "name": "TAPERA",
+                "localname": "TAPERA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296608",
+                "children": [
+                  {
+                    "id": "061138e0-0e41-40e4-a2e1-745ca85d93b0",
+                    "boundaryNum": 1,
+                    "name": "TAPERA - TAPERA",
+                    "localname": "TAPERA - TAPERA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
