@@ -1,0 +1,384 @@
+
+{
+  "tenantId": "uk.gangolihat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gangolihat",
+        "localname": "gangolihat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gangolihat",
+        "children": [
+          {
+            "id": "6c356eb8-7f01-40dc-83df-c0136044c828",
+            "boundaryNum": 1,
+            "name": "Gangolihat",
+            "localname": "Gangolihat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "1bd030d4-75ae-4fcc-804f-ee790d311433",
+                "boundaryNum": 1,
+                "name": "Punoli",
+                "localname": "Punoli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927725",
+                "children": [
+                  {
+                    "id": "5e9750f4-e6e9-4ed6-9308-113301040b11",
+                    "boundaryNum": 1,
+                    "name": "PUNOLI - Punoli",
+                    "localname": "PUNOLI - Punoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbcc600e-58cf-44a3-aee4-dd62014db491",
+                    "boundaryNum": 1,
+                    "name": "KHATIGARHA - Punoli",
+                    "localname": "KHATIGARHA - Punoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b817cfb5-ef4b-4e9f-a00d-e2df310abe9e",
+                    "boundaryNum": 1,
+                    "name": "CHUTRAPANI - Punoli",
+                    "localname": "CHUTRAPANI - Punoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4a67b909-9bcb-4977-ab3b-09184cdad899",
+                    "boundaryNum": 1,
+                    "name": "chudiyagare - Punoli",
+                    "localname": "chudiyagare - Punoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88c4fd7c-bc3c-4228-99ab-0f55a5e38d1c",
+                "boundaryNum": 1,
+                "name": "Bazar",
+                "localname": "Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927726",
+                "children": [
+                  {
+                    "id": "ed9cb142-1d68-46f9-9581-a96624c44405",
+                    "boundaryNum": 1,
+                    "name": "PATARBADA - Bazar",
+                    "localname": "PATARBADA - Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "82da2c08-61a9-4bef-969a-ebcb61bce3de",
+                    "boundaryNum": 1,
+                    "name": "LEKHA - Bazar",
+                    "localname": "LEKHA - Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e9de9114-f276-40ed-a76c-7494b533ae75",
+                    "boundaryNum": 1,
+                    "name": "POST OFFICE LINE - Bazar",
+                    "localname": "POST OFFICE LINE - Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0073af8b-ef37-4002-87f3-05a0a4e60306",
+                    "boundaryNum": 1,
+                    "name": "BAZAR - Bazar",
+                    "localname": "BAZAR - Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93b997f6-e362-40ca-aa01-58fdfb75aa93",
+                "boundaryNum": 1,
+                "name": "Henara",
+                "localname": "Henara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927729",
+                "children": [
+                  {
+                    "id": "1277aba5-8278-4120-9741-5e5af5146fa0",
+                    "boundaryNum": 1,
+                    "name": "HENARA - Henara",
+                    "localname": "HENARA - Henara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "39eaec31-451a-474d-b9a3-d46b4a1cda28",
+                    "boundaryNum": 1,
+                    "name": "CHODIYAR - Henara",
+                    "localname": "CHODIYAR - Henara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31d5ce5f-5362-4853-b551-a82a0fc5ded9",
+                "boundaryNum": 1,
+                "name": "Lali",
+                "localname": "Lali",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927730",
+                "children": [
+                  {
+                    "id": "e62aaaa8-e66a-4d7b-8784-fe61824fe18b",
+                    "boundaryNum": 1,
+                    "name": "lali - Lali",
+                    "localname": "lali - Lali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "54bee07e-065e-41fb-969d-1dc15a0bbdcb",
+                    "boundaryNum": 1,
+                    "name": "khateda - Lali",
+                    "localname": "khateda - Lali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "adfa8fec-c341-4798-adb9-744b73d182b4",
+                    "boundaryNum": 1,
+                    "name": "geruwa - Lali",
+                    "localname": "geruwa - Lali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b06a1e7-4160-4b45-bf1b-30e17fb7ea97",
+                    "boundaryNum": 1,
+                    "name": "khatera - Lali",
+                    "localname": "khatera - Lali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22f15a8e-b3e2-48ee-83ff-377b5a1bd718",
+                "boundaryNum": 1,
+                "name": "Pathqura",
+                "localname": "Pathqura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927739",
+                "children": [
+                  {
+                    "id": "8176334c-efeb-424a-9e4d-55c8fd3df040",
+                    "boundaryNum": 1,
+                    "name": "Pathqura - Pathqura",
+                    "localname": "Pathqura - Pathqura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b8363018-c8de-4b68-a647-cd5cc4cb7611",
+                    "boundaryNum": 1,
+                    "name": "bhulara - Pathqura",
+                    "localname": "bhulara - Pathqura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e98b9f31-77bb-4687-9e5e-f2ca6415c083",
+                    "boundaryNum": 1,
+                    "name": "hudquda - Pathqura",
+                    "localname": "hudquda - Pathqura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e501549-0d52-496a-9828-12a5956375b4",
+                    "boundaryNum": 1,
+                    "name": "Doliya - Pathqura",
+                    "localname": "Doliya - Pathqura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "32826ed3-7ffa-48cb-bebf-90aa0bc9fe9a",
+                    "boundaryNum": 1,
+                    "name": "hatkhat - Pathqura",
+                    "localname": "hatkhat - Pathqura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccfc40a3-e1a7-4fe5-8ad6-fdd311b72081",
+                "boundaryNum": 1,
+                "name": "Rawalgoun",
+                "localname": "Rawalgoun",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927740",
+                "children": [
+                  {
+                    "id": "ebed9854-1726-45e0-82c3-ab862272c6b4",
+                    "boundaryNum": 1,
+                    "name": "rawalgoun - Rawalgoun",
+                    "localname": "rawalgoun - Rawalgoun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "810e1a27-22f5-4e75-9f09-6d98a44792a6",
+                    "boundaryNum": 1,
+                    "name": "jandevi - Rawalgoun",
+                    "localname": "jandevi - Rawalgoun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af81e636-4ce0-4898-9ea4-38a2c42cce9e",
+                    "boundaryNum": 1,
+                    "name": "kunjanpur - Rawalgoun",
+                    "localname": "kunjanpur - Rawalgoun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5728cd6e-724e-410a-af90-3a419a615cb2",
+                "boundaryNum": 1,
+                "name": "Kunjanpur",
+                "localname": "Kunjanpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927741",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
