@@ -1,0 +1,132 @@
+{
+  "tenantId": "uk.lambgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "lambgaon",
+        "localname": "lambgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.lambgaon",
+        "children": [
+          {
+            "id": "6e75bd00-4acd-481e-ab19-a922e0f4cf60",
+            "boundaryNum": 1,
+            "name": "Lambgaon",
+            "localname": "Lambgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "37cbd311-82f4-4113-b98b-4d259d9cc533",
+                "boundaryNum": 1,
+                "name": "Shiyari",
+                "localname": "Shiyari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297045",
+                "children": [
+                  {
+                    "id": "d73427cc-7a4c-4a1a-a91a-060f5a3ad4b3",
+                    "boundaryNum": 1,
+                    "name": "Shiyari - Shiyari",
+                    "localname": "Shiyari - Shiyari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a958dc2-b482-41d7-962f-f3cc6845fe28",
+                "boundaryNum": 1,
+                "name": "Lambgaon Bazzar",
+                "localname": "Lambgaon Bazzar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297046",
+                "children": [
+                  {
+                    "id": "209e3788-f413-4424-87b1-00655fe2c8b2",
+                    "boundaryNum": 1,
+                    "name": "Lambgaon Bazzar - Lambgaon Bazzar",
+                    "localname": "Lambgaon Bazzar - Lambgaon Bazzar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b8c3149-0bf3-4523-95d0-3e336aa0e2ca",
+                "boundaryNum": 1,
+                "name": "Naughar",
+                "localname": "Naughar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297047",
+                "children": [
+                  {
+                    "id": "588ed8e2-c965-4fde-a9e2-7d1942340551",
+                    "boundaryNum": 1,
+                    "name": "Naughar - Naughar",
+                    "localname": "Naughar - Naughar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72168843-edcb-485a-93de-772890caa429",
+                "boundaryNum": 1,
+                "name": "Upper Naughar",
+                "localname": "Upper Naughar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297048",
+                "children": [
+                  {
+                    "id": "a2ba43bc-fe0b-4014-b615-5c58df254bf7",
+                    "boundaryNum": 1,
+                    "name": "Upper Naughar - Upper Naughar",
+                    "localname": "Upper Naughar - Upper Naughar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
