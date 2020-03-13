@@ -6462,6 +6462,22 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1887,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Localization",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "Localization",
+      "navigationURL": "utils/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
