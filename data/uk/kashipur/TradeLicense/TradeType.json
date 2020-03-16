@@ -4760,6 +4760,16 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
-    }
+    },
+	{
+	"code": "TRADE.SHOP.FVS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "PANCARD-REGISTRATION"
+      ],
+      "verificationDocument": [],
+      "active": true
+	}
   ]
 }
