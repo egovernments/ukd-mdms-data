@@ -2,407 +2,473 @@
   "tenantId": "uk.gairsain",
   "moduleName": "TradeLicense",
   "TradeType": [
-    {
-      "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
-      },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "gairsain",
-        "localname": "gairsain",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "uk.gairsain",
-        "children": [
-          {
-            "id": "fb6447cd-32f8-4bc5-ac8f-8e5c962bf0a8",
-            "boundaryNum": 1,
-            "name": "gairsain",
-            "localname": "gairsain",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "ZONE1",
-            "children": [
-              {
-                "id": "97c5b0de-836d-4223-af65-b3f1a37aa7f5",
-                "boundaryNum": 1,
-                "name": "SALIYANA",
-                "localname": "SALIYANA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927746",
-                "children": [
-                  {
-                    "id": "ee9d4ab9-9364-46c6-99ff-585e756e68c7",
-                    "boundaryNum": 1,
-                    "name": "DANGIDHAR - SALIYANA",
-                    "localname": "DANGIDHAR - SALIYANA",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0001",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "0c536c26-97c2-462c-a28a-f2f9db7cfcad",
-                    "boundaryNum": 1,
-                    "name": "SALIYANA BEND - SALIYANA",
-                    "localname": "SALIYANA BEND - SALIYANA",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0002",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "59d8ef2a-608f-4e25-a20e-ccf5c28d66bc",
-                    "boundaryNum": 1,
-                    "name": "SALIYANA - SALIYANA",
-                    "localname": "SALIYANA - SALIYANA",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0003",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "4c9724f1-410b-417b-8365-ddcb42978340",
-                    "boundaryNum": 1,
-                    "name": "GWAR TALLA - SALIYANA",
-                    "localname": "GWAR TALLA - SALIYANA",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0004",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "2debd555-c409-4e9c-97d8-5b41c14ac022",
-                "boundaryNum": 1,
-                "name": "GAID",
-                "localname": "GAID",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927747",
-                "children": [
-                  {
-                    "id": "2bde8ede-f7cd-4988-822c-275f3fc070a6",
-                    "boundaryNum": 1,
-                    "name": "GWAR MALLA - GAID",
-                    "localname": "GWAR MALLA - GAID",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0005",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "399c6db8-47a9-4a6f-8327-d1c52e9d67ae",
-                    "boundaryNum": 1,
-                    "name": "PATORI - GAID",
-                    "localname": "PATORI - GAID",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0006",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "2ba73056-11dc-457c-9b52-c2b211df251d",
-                    "boundaryNum": 1,
-                    "name": "GAIR - GAID",
-                    "localname": "GAIR - GAID",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0007",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "8dd5e24d-498d-49b9-9087-b4183e55acea",
-                    "boundaryNum": 1,
-                    "name": "SUNAR GANW - GAID",
-                    "localname": "SUNAR GANW - GAID",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0008",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "059aa4f3-c084-433e-8826-8b9d254fc6f1",
-                "boundaryNum": 1,
-                "name": "GAIRSAIN EAST",
-                "localname": "GAIRSAIN EAST",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927748",
-                "children": [
-                  {
-                    "id": "52db88f4-743a-435e-88c7-85e2a6aabd91",
-                    "boundaryNum": 1,
-                    "name": "DHARGAIR - GAIRSAIN EAST",
-                    "localname": "DHARGAIR - GAIRSAIN EAST",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0009",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "fe847e74-bac8-4e8b-875e-475a1a5fffa3",
-                    "boundaryNum": 1,
-                    "name": "PANT NAGARI - GAIRSAIN EAST",
-                    "localname": "PANT NAGARI - GAIRSAIN EAST",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0010",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "6d2d8fd8-a232-4dea-9a1a-7d2136c08345",
-                    "boundaryNum": 1,
-                    "name": "SAINIK COLONY - GAIRSAIN EAST",
-                    "localname": "SAINIK COLONY - GAIRSAIN EAST",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0011",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0777e0d7-e528-4576-a13a-9fd8adad7569",
-                "boundaryNum": 1,
-                "name": "GAIRSAIN WEST",
-                "localname": "GAIRSAIN WEST",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927749",
-                "children": [
-                  {
-                    "id": "5d7b41b7-dcd6-409e-a0a1-2aab2554c1a2",
-                    "boundaryNum": 1,
-                    "name": "TEHSIL - GAIRSAIN WEST",
-                    "localname": "TEHSIL - GAIRSAIN WEST",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0012",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "25dd7168-db5f-41e5-b0fb-159472dea090",
-                    "boundaryNum": 1,
-                    "name": "LANKA DHAR - GAIRSAIN WEST",
-                    "localname": "LANKA DHAR - GAIRSAIN WEST",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0013",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "55d66dee-6853-4443-8a6d-23d758d63055",
-                "boundaryNum": 1,
-                "name": "KOLIYANA WALD NO-05",
-                "localname": "KOLIYANA WALD NO-05",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927750",
-                "children": [
-                  {
-                    "id": "3a34c07b-3437-4540-8891-ab344a51bb51",
-                    "boundaryNum": 1,
-                    "name": "KOLIYANA - KOLIYANA WALD NO-05",
-                    "localname": "KOLIYANA - KOLIYANA WALD NO-05",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0014",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "46be97ba-c0b7-4c17-8d8c-9b50ab566955",
-                    "boundaryNum": 1,
-                    "name": "RIKHOLI - KOLIYANA WALD NO-05",
-                    "localname": "RIKHOLI - KOLIYANA WALD NO-05",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0015",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "9c0e427d-fe2e-4f65-9253-c55b84c85537",
-                "boundaryNum": 1,
-                "name": "GANWALI WALD NO-06",
-                "localname": "GANWALI WALD NO-06",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927751",
-                "children": [
-                  {
-                    "id": "4deb16a8-06a8-4eb5-8104-0a2538afa219",
-                    "boundaryNum": 1,
-                    "name": "GANWALI - GANWALI WALD NO-06",
-                    "localname": "GANWALI - GANWALI WALD NO-06",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0016",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "51269a28-13a1-440d-9c60-3318f95695e5",
-                    "boundaryNum": 1,
-                    "name": "SONIYANA - GANWALI WALD NO-06",
-                    "localname": "SONIYANA - GANWALI WALD NO-06",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0017",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "197a872f-5ad2-4f98-8826-536c1342e1bf",
-                    "boundaryNum": 1,
-                    "name": "KHATRIYANA - GANWALI WALD NO-06",
-                    "localname": "KHATRIYANA - GANWALI WALD NO-06",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0018",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "a46d1775-c365-411d-b775-2f6a6caa529f",
-                    "boundaryNum": 1,
-                    "name": "DUNARGHAT - GANWALI WALD NO-06",
-                    "localname": "DUNARGHAT - GANWALI WALD NO-06",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0019",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "07e389a0-7eac-4273-85e0-2476b0b0b79d",
-                    "boundaryNum": 1,
-                    "name": "GADOLI - GANWALI WALD NO-06",
-                    "localname": "GADOLI - GANWALI WALD NO-06",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0020",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "84265549-a170-4238-9ccb-60a7d90b435f",
-                "boundaryNum": 1,
-                "name": "SAINJI WALD NO-07",
-                "localname": "SAINJI WALD NO-07",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W927752",
-                "children": [
-                  {
-                    "id": "f938a26d-8657-4cef-a018-7f3b7eb7ff43",
-                    "boundaryNum": 1,
-                    "name": "SAINJI - SAINJI WALD NO-07",
-                    "localname": "SAINJI - SAINJI WALD NO-07",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0021",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "e7f149fd-d81f-44c7-9d56-32d9df9a98a2",
-                    "boundaryNum": 1,
-                    "name": "BHATIDHAR - SAINJI WALD NO-07",
-                    "localname": "BHATIDHAR - SAINJI WALD NO-07",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0022",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "41b34c67-11c9-42be-bd04-2cc9c8c91b48",
-                    "boundaryNum": 1,
-                    "name": "SILANGI - SAINJI WALD NO-07",
-                    "localname": "SILANGI - SAINJI WALD NO-07",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0023",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "f897b521-61b6-4c6f-95d7-57242661aa6f",
-                    "boundaryNum": 1,
-                    "name": "DALIMDALI - SAINJI WALD NO-07",
-                    "localname": "DALIMDALI - SAINJI WALD NO-07",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0024",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
+  {
+    "code": "TRADE.SHOP.TR66",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.DYFSR",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.FVS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR47",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MCS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.RITEAS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR79",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WODT",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR68",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.TR24",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.CYCA",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PUMP",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PDR",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR48",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.FURSE",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "HOTELS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRG",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.SCTRG",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRA",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.KADRYC",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.FM",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR43",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.ELEI",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BAKRY",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR46",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.CRKSH",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BANG",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.CATE",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.GMS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TH3A",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TH5A",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.PAINT",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.GMD",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.CBLEO",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.GOSB",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TENT",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.CLTBS",
+    "uom": null,
+    "applicationDocument": [
+      "AADHAR",
+      "AC070",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
     }
-  ]
-}
+   ]
+  }
