@@ -1,10 +1,10 @@
 {
   "tenantId": "uk.gairsain",
-  "moduleName": "egov-location",
+  "moduleName": "TradeLicense",
   "TradeType": [
   {
     "code": "TRADE.SHOP.POTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -16,7 +16,7 @@
   },
   {
     "code": "TRADE.SHOP.PRES",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -28,7 +28,7 @@
   },
   {
     "code": "TRADE.PETROLEUM.PDR",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -40,7 +40,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.PAAN",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -52,7 +52,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.KATSIF",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -64,7 +64,7 @@
   },
   {
     "code": "TRADE.WORKSHOP.ELEW",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -76,7 +76,7 @@
   },
   {
     "code": "TRADE.SHOP.GMS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -88,7 +88,7 @@
   },
   {
     "code": "TRADE.FIRM.TR59",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -100,7 +100,7 @@
   },
   {
     "code": "TRADE.FIRM.TR55",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -112,7 +112,7 @@
   },
   {
     "code": "TRADE.FIRM.ARCH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -124,7 +124,7 @@
   },
   {
     "code": "TRADE.SHOP.TR32",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -136,7 +136,7 @@
   },
   {
     "code": "TRADE.FIRM.TR85",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -148,7 +148,7 @@
   },
   {
     "code": "TRADE.SHOP.ELEI",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -160,7 +160,7 @@
   },
   {
     "code": "TRADE.FIRM.TR60",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -172,7 +172,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.TR37",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -184,7 +184,7 @@
   },
   {
     "code": "TRADE.REST.DHAB",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -196,7 +196,7 @@
   },
   {
     "code": "TRADE.SHOP.CRKSH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -208,7 +208,7 @@
   },
   {
     "code": "TRADE.MEDICAL.PC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -220,7 +220,7 @@
   },
   {
     "code": "TRADE.MEDICAL.RDRDNTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -232,7 +232,7 @@
   },
   {
     "code": "TRADE.MEDICAL.TR18",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -244,7 +244,7 @@
   },
   {
     "code": "TRADE.MEDICAL.PVTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -256,7 +256,7 @@
   },
   {
     "code": "TRADE.SHOP.WCRS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -268,7 +268,7 @@
   },
   {
     "code": "TRADE.SHOP.SPCSR",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -280,7 +280,7 @@
   },
   {
     "code": "TRADE.TRANSPORT.TR24",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -292,7 +292,7 @@
   },
   {
     "code": "TRADE.SHOP.TR49",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -304,7 +304,7 @@
   },
   {
     "code": "TRADE.SHOP.TR43",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -316,7 +316,7 @@
   },
   {
     "code": "TRADE.SHOP.BOOKR",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -328,7 +328,7 @@
   },
   {
     "code": "TRADE.SHOP.TR78",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -340,7 +340,7 @@
   },
   {
     "code": "TRADE.HEALTH.COMPC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -352,7 +352,7 @@
   },
   {
     "code": "TRADE.LIQUOR.FLS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -364,7 +364,7 @@
   },
   {
     "code": "TRADE.LIQUOR.TR62",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -376,7 +376,7 @@
   },
   {
     "code": "TRADE.SHOP.TR79",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC028",
@@ -387,3 +387,4 @@
     "type": "TL"
   }
 ]
+}

@@ -1,10 +1,10 @@
 {
   "tenantId": "uk.tanakpur",
-  "moduleName": "egov-location",
+  "moduleName": "TradeLicense",
   "TradeType": [
   {
     "code": "TRADE.REST.DHAB",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -16,7 +16,7 @@
   },
   {
     "code": "TRADE.MEDICAL.PC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -28,7 +28,7 @@
   },
   {
     "code": "TRADE.MEDICAL.KAXRYC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -40,7 +40,7 @@
   },
   {
     "code": "TRADE.MEDICAL.RDRDNTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -52,7 +52,7 @@
   },
   {
     "code": "TRADE.TRANSPORT.RIK",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -64,7 +64,7 @@
   },
   {
     "code": "TRADE.TRANSPORT.RITBHW",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -76,7 +76,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL10B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -88,7 +88,7 @@
   },
   {
     "code": "TRADE.LIQUOR.CLS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -100,7 +100,7 @@
   },
   {
     "code": "TRADE.PETROLEUM.PDR",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -112,7 +112,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.KATEAS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -124,7 +124,7 @@
   },
   {
     "code": "TRADE.SHOP.SWSH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -136,7 +136,7 @@
   },
   {
     "code": "TRADE.MEDICAL.RDRPVTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -148,7 +148,7 @@
   },
   {
     "code": "TRADE.TRANSPORT.RIAU2S",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -160,7 +160,7 @@
   },
   {
     "code": "TRADE.SHOP.LNDRY",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -172,7 +172,7 @@
   },
   {
     "code": "TRADE.SHOP.TR34",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC001",
       "AC034",
@@ -183,3 +183,4 @@
     "type": "TL"
   }
 ]
+}

@@ -1,10 +1,10 @@
 {
   "tenantId": "uk.joshimath",
-  "moduleName": "egov-location",
+  "moduleName": "TradeLicense",
   "TradeType": [
   {
     "code": "TRADE.LIQUOR.FLS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -16,7 +16,7 @@
   },
   {
     "code": "TRADE.SHOP.GMS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -28,7 +28,7 @@
   },
   {
     "code": "TRADE.SHOP.TR78",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -40,7 +40,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL30B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -52,7 +52,7 @@
   },
   {
     "code": "TRADE.LIVESTOCK.MS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -64,7 +64,7 @@
   },
   {
     "code": "TRADE.SHOP.SWSH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -76,7 +76,7 @@
   },
   {
     "code": "TRADE.SHOP.BAKE",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -88,7 +88,7 @@
   },
   {
     "code": "TRADE.SHOP.TR65",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -100,7 +100,7 @@
   },
   {
     "code": "TRADE.INDUSTRY.CBLEO",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -112,7 +112,7 @@
   },
   {
     "code": "TRADE.SHOP.NEWS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -124,7 +124,7 @@
   },
   {
     "code": "TRADE.SHOP.TENT",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -136,7 +136,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.IRON",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -148,7 +148,7 @@
   },
   {
     "code": "TRADE.MEDICAL.XRYC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -160,7 +160,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.RITEAS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -172,7 +172,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.TSIF",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -184,7 +184,7 @@
   },
   {
     "code": "TRADE.SHOP.OTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -196,7 +196,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL20B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -208,7 +208,7 @@
   },
   {
     "code": "TRADE.MEDICAL.TR21",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -220,7 +220,7 @@
   },
   {
     "code": "TRADE.MEDICAL.DNTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -232,7 +232,7 @@
   },
   {
     "code": "TRADE.SHOP.TR79",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -244,7 +244,7 @@
   },
   {
     "code": "TRADE.REST.CATE",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -256,7 +256,7 @@
   },
   {
     "code": "TRADE.REST.OTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -268,7 +268,7 @@
   },
   {
     "code": "TRADE.REST.DHAB",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -280,7 +280,7 @@
   },
   {
     "code": "TRADE.SHOP.BANG",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -292,7 +292,7 @@
   },
   {
     "code": "TRADE.SHOP.BPS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -304,7 +304,7 @@
   },
   {
     "code": "TRADE.WORKSHOP.COMP",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -316,7 +316,7 @@
   },
   {
     "code": "TRADE.MEDICAL.TR18",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -328,7 +328,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL40B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -340,7 +340,7 @@
   },
   {
     "code": "TRADE.MEDICAL.TR18",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -352,7 +352,7 @@
   },
   {
     "code": "TRADE.MEDICAL.TR20",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -364,7 +364,7 @@
   },
   {
     "code": "TRADE.PETROLEUM.OPOS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -376,7 +376,7 @@
   },
   {
     "code": "TRADE.PETROLEUM.PUMP",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -388,7 +388,7 @@
   },
   {
     "code": "TRADE.FIRM.TR84",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -400,7 +400,7 @@
   },
   {
     "code": "TRADE.FIRM.TR96",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -412,7 +412,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL10B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -424,7 +424,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL20B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -436,7 +436,7 @@
   },
   {
     "code": "TRADE.HOTELS.MRGH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -448,7 +448,7 @@
   },
   {
     "code": "TRADE.SHOP.OTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -460,7 +460,7 @@
   },
   {
     "code": "TRADE.HOTELS.OTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -472,7 +472,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL10B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -484,7 +484,7 @@
   },
   {
     "code": "TRADE.LIVESTOCK.MCS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -496,7 +496,7 @@
   },
   {
     "code": "TRADE.LIVESTOCK.PMS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -508,7 +508,7 @@
   },
   {
     "code": "TRADE.WORKSHOP.WELD",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -520,7 +520,7 @@
   },
   {
     "code": "TRADE.SHOP.POTH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -532,7 +532,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.PAAN",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -544,7 +544,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.JUST",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -556,7 +556,7 @@
   },
   {
     "code": "TRADE.INDUSTRY.TARW",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -568,7 +568,7 @@
   },
   {
     "code": "TRADE.SHOP.WCRS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -580,7 +580,7 @@
   },
   {
     "code": "TRADE.HOTELS.HL50B",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -592,7 +592,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.HW",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -604,7 +604,7 @@
   },
   {
     "code": "TRADE.SHOP.KADRYC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -616,7 +616,7 @@
   },
   {
     "code": "TRADE.SHOP.TR69",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -628,7 +628,7 @@
   },
   {
     "code": "TRADE.SHOP.GMS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -640,7 +640,7 @@
   },
   {
     "code": "TRADE.SHOP.TR43",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -652,7 +652,7 @@
   },
   {
     "code": "TRADE.SHOP.TR54",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -664,7 +664,7 @@
   },
   {
     "code": "TRADE.SHOP.PRES",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -676,7 +676,7 @@
   },
   {
     "code": "TRADE.WORKSHOP.COMP",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -688,7 +688,7 @@
   },
   {
     "code": "TRADE.INDUSTRY.DARYF",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -700,7 +700,7 @@
   },
   {
     "code": "TRADE.LIVESTOCK.GMD",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -712,7 +712,7 @@
   },
   {
     "code": "TRADE.SHOP.WASH",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC057",
@@ -723,3 +723,4 @@
     "type": "TL"
   }
 ]
+}

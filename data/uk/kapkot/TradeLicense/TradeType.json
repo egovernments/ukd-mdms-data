@@ -1,8 +1,8 @@
   
 {
   "tenantId": "uk.kapkot",
-  "moduleName": "egov-location",
-  "TradeType"[
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.SHOP.TENT",
     "uom": null,
@@ -748,3 +748,4 @@
     "type": "TL"
   }
 ]
+}

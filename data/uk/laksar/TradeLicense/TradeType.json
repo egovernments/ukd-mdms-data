@@ -1,7 +1,7 @@
 {
   "tenantId": "uk.laksar",
-  "moduleName": "egov-location",
-  "TradeType"[
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.MEDICAL.NH20B",
     "uom": null,
@@ -807,3 +807,4 @@
     "type": "TL"
   }
 ]
+}

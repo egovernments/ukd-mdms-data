@@ -1,8 +1,8 @@
   
 {
   "tenantId": "uk.jhabrera",
-  "moduleName": "egov-location",
-  "TradeType"[
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.FIRM.BUILD",
     "uom": null,
@@ -316,3 +316,4 @@
     "type": "TL"
   }
 ]
+}
