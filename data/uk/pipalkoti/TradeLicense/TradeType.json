@@ -1,8 +1,8 @@
   
 {
   "tenantId": "uk.pipalkoti",
-  "moduleName": "egov-location",
-  "TradeType"[
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.SHOP.BANG",
     "uom": null,
@@ -664,3 +664,4 @@
     "type": "TL"
   }
 ]
+}

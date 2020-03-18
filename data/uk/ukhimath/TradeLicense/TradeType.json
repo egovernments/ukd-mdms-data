@@ -1,10 +1,10 @@
 {
   "tenantId": "uk.ukhimath",
-  "moduleName": "egov-location",
+  "moduleName": "TradeLicense",
   "TradeType": [
   {
     "code": "TRADE.HOTEL.TR10",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -16,7 +16,7 @@
   },
   {
     "code": "TRADE.HEALTH.COMPC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -28,7 +28,7 @@
   },
   {
     "code": "TRADE.HOTELS.HLGHR",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -40,7 +40,7 @@
   },
   {
     "code": "TRADE.REST.DHAB",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -52,7 +52,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.KATEAS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -64,7 +64,7 @@
   },
   {
     "code": "TRADE.STREETVENDOR.PAAN",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -76,7 +76,7 @@
   },
   {
     "code": "TRADE.HEALTH.PVPBS",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AC044",
       "AADPANCARD",
@@ -87,3 +87,4 @@
     "type": "TL"
   }
 ]
+}

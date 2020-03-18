@@ -1,8 +1,8 @@
   
 {
   "tenantId": "uk.doiwala",
-  "moduleName": "egov-location",
-  "TradeType"[
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.LIQUOR.CLS",
     "uom": null,
@@ -40,3 +40,4 @@
     "type": "TL"
   }
 ]
+}
