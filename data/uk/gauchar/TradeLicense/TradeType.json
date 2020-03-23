@@ -3,32 +3,8 @@
   "moduleName": "TradeLicense",
   "TradeType":[
   {
-    "code": "TRADE.LIVESTOCK.MCS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.TR18",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.MTRG",
-    "uom": "null",
+    "code": "TRADE.REST.CATE",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC019",
@@ -40,331 +16,7 @@
   },
   {
     "code": "TRADE.REST.DHAB",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.MTRA",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.PETROLEUM.PDR",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.SCTRA",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.CRKSH",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.WCRS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR79",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.FIRM.TR97",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.REST.OTH",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.BANG",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.BPS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.BAKE",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.CBLEO",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.CYCA",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.PAINT",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.PRES",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TH3A",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TH5A",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.TARW",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.HOTELS.HL10B",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.FM",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.LIQUOR.FLS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.LIVESTOCK.GMD",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR68",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.JUST",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.PETROLEUM.PUMP",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.REST.CATE",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.PVTC",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC019",
@@ -376,127 +28,7 @@
   },
   {
     "code": "TRADE.SHOP.WODT",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.OTH",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR34",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.FTVEG",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.PAAN",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.RITEAS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TENT",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.ELEI",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.GMS",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.HCB",
-    "uom": "null",
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC019",
-      "PHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR43",
-    "uom": "null",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC019",
@@ -508,7 +40,487 @@
   },
   {
     "code": "TRADE.SHOP.NEWS",
-    "uom": "null",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL10B",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.FM",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.GMD",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MCS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.TR18",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PVTC",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.CYCA",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRG",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRA",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.SCTRA",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PUMP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PDR",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.OTH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BANG",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BPS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BAKE",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.CBLEO",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.FIRM.TR97",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR34",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.DYFSR",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.ELEI",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.FTVEG",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.GMS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.HCB",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR43",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.OTH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR79",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.PRES",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR68",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TH3A",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TH5A",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.TARW",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TENT",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.PAINT",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.CRKSH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WCRS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.JUST",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC019",
+      "PHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.RITEAS",
+    "uom": null,
     "applicationDocument": [
       "AADPANCARD",
       "AC019",
