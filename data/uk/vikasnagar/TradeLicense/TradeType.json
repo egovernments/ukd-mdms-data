@@ -4,10 +4,10 @@
   "TradeType": [
     {
       "code": "TRADE.LIQUOR.FLS",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "AADHAR",
-        "LIQUORLICENSE",
+        "AADPANCARD",
+        "AC024",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -15,11 +15,11 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIQUOR.CLS",
-      "uom": "null",
+      "code": "TRADE.LIQUOR.CLG",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "LIQUORLICENSE",
+        "AC056",
+        "AC024",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -28,10 +28,22 @@
     },
     {
       "code": "TRADE.REST.OTH",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
+        "AC056",
+        "AC015",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTEL.TR10",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -40,10 +52,10 @@
     },
     {
       "code": "TRADE.INDUSTRY.DARYF",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -52,10 +64,10 @@
     },
     {
       "code": "TRADE.SHOP.TR69",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "Aadhar card",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -64,10 +76,10 @@
     },
     {
       "code": "TRADE.INDUSTRY.IF",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AC015",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -76,10 +88,22 @@
     },
     {
       "code": "TRADE.STREETVENDOR.KATEAS",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
+        "PHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TEABS",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -88,10 +112,10 @@
     },
     {
       "code": "TRADE.STREETVENDOR.TSIF",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -100,10 +124,10 @@
     },
     {
       "code": "TRADE.STREETVENDOR.PAAN",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -112,10 +136,10 @@
     },
     {
       "code": "TRADE.TRANSPORT.RIK",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -124,10 +148,10 @@
     },
     {
       "code": "TRADE.SHOP.BAKE",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
+        "AC056",
+        "AC015",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -136,34 +160,10 @@
     },
     {
       "code": "TRADE.SHOP.TR32",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "POWER",
-      "uom": "null",
-      "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "LIVESTOCK",
-      "uom": "null",
-      "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
+        "AC056",
+        "AADPANCARD",
         "PHOTO"
       ],
       "verificationDocument": [],
@@ -172,10 +172,10 @@
     },
     {
       "code": "TRADE.SHOP.SWSH",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
+        "AC056",
+        "AC015",
         "PHOTO"
       ],
       "verificationDocument": [],
