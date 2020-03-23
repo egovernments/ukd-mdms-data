@@ -3,165 +3,180 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_FLS",
+      "code": "TRADE.LIQUOR.FLS",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "AC024"
+        "AC024",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLG",
+      "code": "TRADE.LIQUOR.CLG",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC024"
+        "AC024",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_REST_OTH",
+      "code": "TRADE.REST.OTH",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC015"
+        "AC015",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_HOTEL_TR10",
+      "code": "TRADE.HOTEL.TR10",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC015"
+        "AC015",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_DARYF",
+      "code": "TRADE.INDUSTRY.DARYF",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR69",
+      "code": "TRADE.SHOP.TR69",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_IF",
+      "code": "TRADE.INDUSTRY.IF",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC015"
+        "AC015",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
+      "code": "TRADE.STREETVENDOR.KATEAS",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
+      "code": "TRADE.SHOP.TEABS",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TSIF",
+      "code": "TRADE.STREETVENDOR.TSIF",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_PAAN",
+      "code": "TRADE.STREETVENDOR.PAAN",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_RIK",
+      "code": "TRADE.TRANSPORT.RIK",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BAKE",
+      "code": "TRADE.SHOP.BAKE",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC015"
+        "AC015",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
+      "code": "TRADE.SHOP.TR32",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AADPANCARD"
+        "AADPANCARD",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWSH",
+      "code": "TRADE.SHOP.SWSH",
       "uom": null,
       "applicationDocument": [
         "AC056",
-        "AC015"
+        "AC015",
+        "PHOTO"
       ],
       "verificationDocument": [],
       "active": true,
