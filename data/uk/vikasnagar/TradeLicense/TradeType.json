@@ -3,180 +3,165 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.LIQUOR.FLS",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_FLS",
       "uom": "null",
       "applicationDocument": [
-        "AADHAR",
-        "LIQUORLICENSE",
-        "PHOTO"
+        "AADPANCARD",
+        "AC024"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.LIQUOR.CLS",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_LIQUOR_CLG",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "LIQUORLICENSE",
-        "PHOTO"
+        "AC056",
+        "AC024"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.REST.OTH",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_REST_OTH",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
-        "PHOTO"
+        "AC056",
+        "AC015"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.DARYF",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_HOTEL_TR10",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AC015"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.TR69",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_DARYF",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "Aadhar card",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.IF",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR69",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.KATEAS",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_INDUSTRY_IF",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AC015"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.TSIF",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_KATEAS",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.PAAN",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TEABS",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.RIK",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_TSIF",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.BAKE",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_STREETVENDOR_PAAN",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.TR32",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_TRANSPORT_RIK",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "POWER",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_BAKE",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AC015"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "LIVESTOCK",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_TR32",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "AADHAR",
-        "PHOTO"
+        "AC056",
+        "AADPANCARD"
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.SWSH",
+      "code": "TRADELICENSE_TRADETYPE_TRADE_SHOP_SWSH",
       "uom": "null",
       "applicationDocument": [
-        "VOTERID",
-        "FOODLICENSE",
-        "PHOTO"
+        "AC056",
+        "AC015"
       ],
       "verificationDocument": [],
       "active": true,
