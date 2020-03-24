@@ -534,6 +534,13 @@
         "$.code"
       ]
     },
+    "UsageCategory": {
+      "masterName": "UsageCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
