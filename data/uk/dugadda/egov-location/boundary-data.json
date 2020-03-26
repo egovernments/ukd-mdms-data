@@ -18,7 +18,7 @@
         "code": "uk.dugadda",
         "children": [
           {
-            "id": "3f345391-33e1-4bbd-87ae-56937fc98c78",
+            "id": "6eb57bf6-dd08-4786-9be7-5e235b0ae552",
             "boundaryNum": 1,
             "name": "Dugadda",
             "localname": "Dugadda",
@@ -28,7 +28,7 @@
             "code": "ZONE1",
             "children": [
               {
-                "id": "ffef7969-b433-4055-913b-222ac19f6399",
+                "id": "eb81f523-e39d-449b-bc4f-ed38aa78f3b4",
                 "boundaryNum": 1,
                 "name": "Dhaniram Bazar",
                 "localname": "Dhaniram Bazar",
@@ -38,7 +38,7 @@
                 "code": "W17519",
                 "children": [
                   {
-                    "id": "31e1ca09-f534-47a5-b0dc-d70052936fb3",
+                    "id": "d531ce9e-605d-44f8-b2bd-66cb9a3c51ab",
                     "boundaryNum": 1,
                     "name": "valmiki basti - Dhaniram Bazar",
                     "localname": "valmiki basti - Dhaniram Bazar",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "ae6dae6d-1979-4635-9a2e-28148393842b",
+                "id": "d73bd7ba-3768-446a-902b-c5afcb9c1828",
                 "boundaryNum": 1,
                 "name": "Kamal Nehru Marg",
                 "localname": "Kamal Nehru Marg",
@@ -62,7 +62,7 @@
                 "code": "W17520",
                 "children": [
                   {
-                    "id": "fe85f21f-0061-495b-9667-8b05f062cb73",
+                    "id": "0844cff7-cac0-4100-88f5-bb8f674d1def",
                     "boundaryNum": 1,
                     "name": "vikash colony - Kamal Nehru Marg",
                     "localname": "vikash colony - Kamal Nehru Marg",
@@ -76,7 +76,7 @@
                 ]
               },
               {
-                "id": "7d9cd5b8-514b-43e6-93c2-0f458dc9e902",
+                "id": "e99ac08b-89f2-49ea-850a-a07b426e78e6",
                 "boundaryNum": 1,
                 "name": "Moti bazar",
                 "localname": "Moti bazar",
@@ -84,10 +84,23 @@
                 "latitude": null,
                 "label": "Block",
                 "code": "W17521",
-                "children": []
+                "children": [
+                  {
+                    "id": "bdda9eae-ce35-4885-a082-5572fba34570",
+                    "boundaryNum": 1,
+                    "name": "moti bazar - Moti bazar",
+                    "localname": "moti bazar - Moti bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
               },
               {
-                "id": "1cb943ab-9ba1-434b-a862-62f7acc95b66",
+                "id": "dc313ea3-358f-41ee-87ea-67e8fb5d7de2",
                 "boundaryNum": 1,
                 "name": "Subhash Bazar",
                 "localname": "Subhash Bazar",
@@ -97,7 +110,7 @@
                 "code": "W17522",
                 "children": [
                   {
-                    "id": "178742fe-fb91-4714-b993-1a2bec070fdd",
+                    "id": "205417df-384f-4e5f-b5bc-8c50ead87bb1",
                     "boundaryNum": 1,
                     "name": "valmiki basti - Subhash Bazar",
                     "localname": "valmiki basti - Subhash Bazar",
