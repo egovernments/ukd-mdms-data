@@ -1,0 +1,132 @@
+{
+  "tenantId": "uk.swargashram jonk",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "swargashram jonk",
+        "localname": "swargashram jonk",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.swargashram jonk",
+        "children": [
+          {
+            "id": "76831533-3d18-44af-852d-198666feb489",
+            "boundaryNum": 1,
+            "name": "Swargashram Jonk",
+            "localname": "Swargashram Jonk",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c96c1651-5e6d-4b3a-aa56-8f3b554285d8",
+                "boundaryNum": 1,
+                "name": "Lakshmanjhula",
+                "localname": "Lakshmanjhula",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927593",
+                "children": [
+                  {
+                    "id": "ef0a1d09-8359-4efc-b90d-036a2d8778c5",
+                    "boundaryNum": 1,
+                    "name": "Lakshmanjhula - Lakshmanjhula",
+                    "localname": "Lakshmanjhula - Lakshmanjhula",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e8f13f76-e2a4-4c97-8158-78743a6cb145",
+                "boundaryNum": 1,
+                "name": "Jonk",
+                "localname": "Jonk",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927594",
+                "children": [
+                  {
+                    "id": "997f69f4-12a8-4656-b59f-1537efa6698e",
+                    "boundaryNum": 1,
+                    "name": "Jonk - Jonk",
+                    "localname": "Jonk - Jonk",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "933cf62d-8e42-4ab2-99a6-0c5938c4d929",
+                "boundaryNum": 1,
+                "name": "Swargashram",
+                "localname": "Swargashram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927600",
+                "children": [
+                  {
+                    "id": "eef31e17-dca5-4c1b-88d6-a5a40f70c850",
+                    "boundaryNum": 1,
+                    "name": "Swargashram - Swargashram",
+                    "localname": "Swargashram - Swargashram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3db3a93d-6a76-4540-b386-d5e333e835db",
+                "boundaryNum": 1,
+                "name": "Parmarth Niketan",
+                "localname": "Parmarth Niketan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927601",
+                "children": [
+                  {
+                    "id": "5a7bfa71-ee3c-425c-a7be-5401293376c1",
+                    "boundaryNum": 1,
+                    "name": "Parmarth Niketan - Parmarth Niketan",
+                    "localname": "Parmarth Niketan - Parmarth Niketan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
