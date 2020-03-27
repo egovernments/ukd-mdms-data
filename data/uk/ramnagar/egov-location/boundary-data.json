@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.ramnagar",
+  "tenantId": "uk.bageshwar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,86 +10,62 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "ramnagar",
-        "localname": "ramnagar",
+        "name": "bageshwar",
+        "localname": "bageshwar",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.ramnagar",
+        "code": "uk.bageshwar",
         "children": [
           {
-            "id": "f21a33b2-ab4b-425f-94c3-f23c3e419c44",
+            "id": "c9a39e0f-5efd-4909-94d5-dbd54e4051aa",
             "boundaryNum": 1,
-            "name": "Ramnagar",
-            "localname": "Ramnagar",
+            "name": "Bageshwar",
+            "localname": "Bageshwar",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
             "code": "ZONE1",
             "children": [
               {
-                "id": "f5d78284-cac3-494f-a743-5eb536f16105",
+                "id": "05db9a23-5a06-4fe8-a0f1-041a93665eae",
                 "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.1",
-                "localname": "Ramnagar (NPP) - Ward No.1",
+                "name": "Bilonasera",
+                "localname": "Bilonasera",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W18402",
+                "code": "W17590",
                 "children": [
                   {
-                    "id": "de835ae1-2a2d-46da-bb62-d2ea4a65f5bf",
+                    "id": "58f6da8d-cbc0-439a-a557-8c299fb86457",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.1 - Ramnagar (NPP) - Ward No.1",
-                    "localname": "Ramnagar (NPP) - Ward No.1 - Ramnagar (NPP) - Ward No.1",
+                    "name": "shaman mandir - Bilonasera",
+                    "localname": "shaman mandir - Bilonasera",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0001",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "648d1294-4863-45d7-8c8f-69e3c1c40567",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.2",
-                "localname": "Ramnagar (NPP) - Ward No.2",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18403",
-                "children": [
+                  },
                   {
-                    "id": "aa9cca5c-942f-4f2b-97d6-ec203f789836",
+                    "id": "1b61c789-e931-4fa3-8dc5-a851bbe0994c",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.2 - Ramnagar (NPP) - Ward No.2",
-                    "localname": "Ramnagar (NPP) - Ward No.2 - Ramnagar (NPP) - Ward No.2",
+                    "name": "Bhagwati mandir - Bilonasera",
+                    "localname": "Bhagwati mandir - Bilonasera",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0002",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0661510e-0011-4c5d-a427-f47445ca7ca8",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.3",
-                "localname": "Ramnagar (NPP) - Ward No.3",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18404",
-                "children": [
+                  },
                   {
-                    "id": "26bad3e8-84de-4bab-8998-130856e6f16f",
+                    "id": "5a6bfbed-5241-4e54-bcfd-1ac892cf38f9",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.3 - Ramnagar (NPP) - Ward No.3",
-                    "localname": "Ramnagar (NPP) - Ward No.3 - Ramnagar (NPP) - Ward No.3",
+                    "name": "golu mandir - Bilonasera",
+                    "localname": "golu mandir - Bilonasera",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -100,92 +76,56 @@
                 ]
               },
               {
-                "id": "608a5759-e524-45ca-8865-c15f960bceef",
+                "id": "f79cc81c-93e7-42fc-9771-ecdbfa466169",
                 "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.4",
-                "localname": "Ramnagar (NPP) - Ward No.4",
+                "name": "Narayan Dev",
+                "localname": "Narayan Dev",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W18405",
+                "code": "W17591",
                 "children": [
                   {
-                    "id": "0ea3456e-dabc-434f-aef8-098d35dbfaa8",
+                    "id": "bf26d2d2-211d-4ce2-9e89-40869491db53",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.4 - Ramnagar (NPP) - Ward No.4",
-                    "localname": "Ramnagar (NPP) - Ward No.4 - Ramnagar (NPP) - Ward No.4",
+                    "name": "kafalkhet - Narayan Dev",
+                    "localname": "kafalkhet - Narayan Dev",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0004",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "fa2fc5e4-a763-48a7-9466-25a2cdd6346f",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.5",
-                "localname": "Ramnagar (NPP) - Ward No.5",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18406",
-                "children": [
+                  },
                   {
-                    "id": "573376ca-9480-497a-9bde-c016252c275c",
+                    "id": "16d0cc07-2a76-4c46-9219-e075dc1c91a7",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.5 - Ramnagar (NPP) - Ward No.5",
-                    "localname": "Ramnagar (NPP) - Ward No.5 - Ramnagar (NPP) - Ward No.5",
+                    "name": "senj - Narayan Dev",
+                    "localname": "senj - Narayan Dev",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0005",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "bf99b95a-1c19-4556-aced-f4fc17559375",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.6",
-                "localname": "Ramnagar (NPP) - Ward No.6",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18407",
-                "children": [
+                  },
                   {
-                    "id": "f24f714b-670f-4bf2-a535-30bb17459a39",
+                    "id": "ae2b0f99-5cde-45b9-b351-c09c01019c24",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.6 - Ramnagar (NPP) - Ward No.6",
-                    "localname": "Ramnagar (NPP) - Ward No.6 - Ramnagar (NPP) - Ward No.6",
+                    "name": "baret - Narayan Dev",
+                    "localname": "baret - Narayan Dev",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0006",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "03c88bdd-af89-40e0-84f1-aac07d759814",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.7",
-                "localname": "Ramnagar (NPP) - Ward No.7",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18408",
-                "children": [
+                  },
                   {
-                    "id": "103b2798-acc1-4171-8d3b-eface2cf2214",
+                    "id": "7aa22d8f-bd9f-4ad8-b1b5-1641bdfae503",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.7 - Ramnagar (NPP) - Ward No.7",
-                    "localname": "Ramnagar (NPP) - Ward No.7 - Ramnagar (NPP) - Ward No.7",
+                    "name": "tuynura - Narayan Dev",
+                    "localname": "tuynura - Narayan Dev",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -196,92 +136,56 @@
                 ]
               },
               {
-                "id": "3dd55880-0d82-4fba-93b1-fc2830a0300c",
+                "id": "258d077b-5e49-4155-92cb-3368ff010a7d",
                 "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.8",
-                "localname": "Ramnagar (NPP) - Ward No.8",
+                "name": "Jwala Devi",
+                "localname": "Jwala Devi",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W18409",
+                "code": "W17592",
                 "children": [
                   {
-                    "id": "79d8cd0f-38bf-4d26-a254-7cbd368869e2",
+                    "id": "964e10fc-f8ce-464a-b1fe-d75c4d4bf0d6",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.8 - Ramnagar (NPP) - Ward No.8",
-                    "localname": "Ramnagar (NPP) - Ward No.8 - Ramnagar (NPP) - Ward No.8",
+                    "name": "maziyakhet - Jwala Devi",
+                    "localname": "maziyakhet - Jwala Devi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0008",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "62210998-7d8b-433c-b438-6b7903745df4",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.9",
-                "localname": "Ramnagar (NPP) - Ward No.9",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18410",
-                "children": [
+                  },
                   {
-                    "id": "28cd83a0-20fa-4538-a95f-994f37a7093c",
+                    "id": "2de1524c-0ee2-415c-8958-176ec175dd41",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.9 - Ramnagar (NPP) - Ward No.9",
-                    "localname": "Ramnagar (NPP) - Ward No.9 - Ramnagar (NPP) - Ward No.9",
+                    "name": "bhurchuniya north - Jwala Devi",
+                    "localname": "bhurchuniya north - Jwala Devi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0009",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "52a55906-57b7-4e31-a99b-ed1197b26508",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.10",
-                "localname": "Ramnagar (NPP) - Ward No.10",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18411",
-                "children": [
+                  },
                   {
-                    "id": "f73bf609-a359-4c9d-bbe3-833b9ceafec9",
+                    "id": "345e3378-1d86-4e1b-9184-20c404af8f9c",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.10 - Ramnagar (NPP) - Ward No.10",
-                    "localname": "Ramnagar (NPP) - Ward No.10 - Ramnagar (NPP) - Ward No.10",
+                    "name": "adarsh colony - Jwala Devi",
+                    "localname": "adarsh colony - Jwala Devi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0010",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "b1dac97e-44d4-4683-bff0-e64540b92a8d",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.11",
-                "localname": "Ramnagar (NPP) - Ward No.11",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18412",
-                "children": [
+                  },
                   {
-                    "id": "d739f009-4e93-427c-b4fd-29ac9b79eed1",
+                    "id": "4125faae-48d8-4d6d-8cb2-7cade610df64",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.11 - Ramnagar (NPP) - Ward No.11",
-                    "localname": "Ramnagar (NPP) - Ward No.11 - Ramnagar (NPP) - Ward No.11",
+                    "name": "tehsil parisar - Jwala Devi",
+                    "localname": "tehsil parisar - Jwala Devi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -292,116 +196,68 @@
                 ]
               },
               {
-                "id": "7665b964-113f-43e0-8f4d-15c9850eb1ac",
+                "id": "be215ea4-ef89-4165-bc4b-7b454efec22f",
                 "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.12",
-                "localname": "Ramnagar (NPP) - Ward No.12",
+                "name": "Saim Mandir",
+                "localname": "Saim Mandir",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W18413",
+                "code": "W17593",
                 "children": [
                   {
-                    "id": "f705f464-cc2b-45a5-afdf-b481066b5c76",
+                    "id": "f931122e-8ac3-43a0-b386-b7d7bb06f0dc",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.12 - Ramnagar (NPP) - Ward No.12",
-                    "localname": "Ramnagar (NPP) - Ward No.12 - Ramnagar (NPP) - Ward No.12",
+                    "name": "bhurchuniya south - Saim Mandir",
+                    "localname": "bhurchuniya south - Saim Mandir",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0012",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "76db047f-3b65-44f8-925b-61c6f5fcb653",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.13",
-                "localname": "Ramnagar (NPP) - Ward No.13",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18414",
-                "children": [
+                  },
                   {
-                    "id": "b48f262e-4e93-4c4d-9d9a-62c434e081fb",
+                    "id": "d7544949-0186-4480-abee-09d7b0a12606",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.13 - Ramnagar (NPP) - Ward No.13",
-                    "localname": "Ramnagar (NPP) - Ward No.13 - Ramnagar (NPP) - Ward No.13",
+                    "name": "ramchandra tiwari - Saim Mandir",
+                    "localname": "ramchandra tiwari - Saim Mandir",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0013",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "e55611ac-cf08-4918-bccc-d80fa309353b",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward No.14",
-                "localname": "Ramnagar (NPP) - Ward No.14",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18415",
-                "children": [
+                  },
                   {
-                    "id": "911f98d4-390e-46a6-94fb-06df69cb01f7",
+                    "id": "2a02c98f-413c-46f9-bf8e-50bd4440422b",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward No.14 - Ramnagar (NPP) - Ward No.14",
-                    "localname": "Ramnagar (NPP) - Ward No.14 - Ramnagar (NPP) - Ward No.14",
+                    "name": "julkiya - Saim Mandir",
+                    "localname": "julkiya - Saim Mandir",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0014",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "c4cc0b83-d741-498c-b819-2ba7b804f1e6",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO. 15",
-                "localname": "Ramnagar (NPP) - Ward NO. 15",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18416",
-                "children": [
+                  },
                   {
-                    "id": "69899a4f-1aee-4337-b108-0611d56b8bbb",
+                    "id": "0ab61797-a0ad-4f03-9645-71bb3ea4d155",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO. 15 - Ramnagar (NPP) - Ward NO. 15",
-                    "localname": "Ramnagar (NPP) - Ward NO. 15 - Ramnagar (NPP) - Ward NO. 15",
+                    "name": "balsuna - Saim Mandir",
+                    "localname": "balsuna - Saim Mandir",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0015",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "9143562d-6d9e-475f-99d1-ec881791c7ef",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO.16",
-                "localname": "Ramnagar (NPP) - Ward NO.16",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296568",
-                "children": [
+                  },
                   {
-                    "id": "cbff488b-99eb-4dcb-9089-9a22a4532d44",
+                    "id": "65da0a59-aad3-4c8a-a21b-0803ccc1efb9",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO.16 - Ramnagar (NPP) - Ward NO.16",
-                    "localname": "Ramnagar (NPP) - Ward NO.16 - Ramnagar (NPP) - Ward NO.16",
+                    "name": "digro - Saim Mandir",
+                    "localname": "digro - Saim Mandir",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -412,96 +268,408 @@
                 ]
               },
               {
-                "id": "a0d8a37a-5c31-440a-93b4-ed74f06e9dbe",
+                "id": "612d93f3-e5ff-4df3-b0aa-3d06b3e67a7b",
                 "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO.17",
-                "localname": "Ramnagar (NPP) - Ward NO.17",
+                "name": "Baagnath",
+                "localname": "Baagnath",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W1296569",
+                "code": "W17594",
                 "children": [
                   {
-                    "id": "a06706ca-139f-4129-be6d-e3f082d7a4c3",
+                    "id": "13ac2de4-40e4-4268-88e5-b8297211b0fa",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO.17 - Ramnagar (NPP) - Ward NO.17",
-                    "localname": "Ramnagar (NPP) - Ward NO.17 - Ramnagar (NPP) - Ward NO.17",
+                    "name": "parketeshwar - Baagnath",
+                    "localname": "parketeshwar - Baagnath",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0017",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "a882e0e6-9507-4032-8f3b-e6a5f82f4dca",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO.18",
-                "localname": "Ramnagar (NPP) - Ward NO.18",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296570",
-                "children": [
+                  },
                   {
-                    "id": "c9f2ebdc-5593-4492-bf65-a9a7b963ffa6",
+                    "id": "14aaa75c-ce30-4bac-b833-17cbdda135fb",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO.18 - Ramnagar (NPP) - Ward NO.18",
-                    "localname": "Ramnagar (NPP) - Ward NO.18 - Ramnagar (NPP) - Ward NO.18",
+                    "name": "katyur bazar - Baagnath",
+                    "localname": "katyur bazar - Baagnath",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0018",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "c75c66f2-b05f-4dfc-a435-5839e724d6f1",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO.19",
-                "localname": "Ramnagar (NPP) - Ward NO.19",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296571",
-                "children": [
+                  },
                   {
-                    "id": "5bf41b24-05d5-495b-bcb7-61455d52c711",
+                    "id": "18ac005d-3cc5-4739-99b7-99cf475e213e",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO.19 - Ramnagar (NPP) - Ward NO.19",
-                    "localname": "Ramnagar (NPP) - Ward NO.19 - Ramnagar (NPP) - Ward NO.19",
+                    "name": "talli bazar - Baagnath",
+                    "localname": "talli bazar - Baagnath",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0019",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "5e2a8b03-fde0-49a1-a7ca-d176dda0ad46",
-                "boundaryNum": 1,
-                "name": "Ramnagar (NPP) - Ward NO.20",
-                "localname": "Ramnagar (NPP) - Ward NO.20",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296572",
-                "children": [
+                  },
                   {
-                    "id": "a293efc1-7077-468d-8b09-b32c74ca9d9e",
+                    "id": "b96f5281-eef6-4859-87c4-6aa63999dc46",
                     "boundaryNum": 1,
-                    "name": "Ramnagar (NPP) - Ward NO.20 - Ramnagar (NPP) - Ward NO.20",
-                    "localname": "Ramnagar (NPP) - Ward NO.20 - Ramnagar (NPP) - Ward NO.20",
+                    "name": "ghat bagar - Baagnath",
+                    "localname": "ghat bagar - Baagnath",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba5ef0c5-53ab-453b-98b0-420c5e77a28a",
+                "boundaryNum": 1,
+                "name": "Thakur Dwara",
+                "localname": "Thakur Dwara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17595",
+                "children": [
+                  {
+                    "id": "86ba71f2-a6a6-42b9-9abb-09b46aa629a6",
+                    "boundaryNum": 1,
+                    "name": "thakur dwara - Thakur Dwara",
+                    "localname": "thakur dwara - Thakur Dwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "932d244f-0faf-442c-b751-3838b19a59ee",
+                    "boundaryNum": 1,
+                    "name": "bhatrola - Thakur Dwara",
+                    "localname": "bhatrola - Thakur Dwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "74866570-6356-40df-8087-3aa2dc842697",
+                    "boundaryNum": 1,
+                    "name": "jogyarirau - Thakur Dwara",
+                    "localname": "jogyarirau - Thakur Dwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2fe93efa-4f8b-48b0-8e48-a0876321f3f1",
+                    "boundaryNum": 1,
+                    "name": "pwd parishar - Thakur Dwara",
+                    "localname": "pwd parishar - Thakur Dwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7ddb4fda-0bf7-46c3-a8ec-8e81081461c0",
+                "boundaryNum": 1,
+                "name": "Kathayatwada",
+                "localname": "Kathayatwada",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17596",
+                "children": [
+                  {
+                    "id": "95e8fe72-ac70-4a06-a70a-4cb1b7e3bf78",
+                    "boundaryNum": 1,
+                    "name": "pg college - Kathayatwada",
+                    "localname": "pg college - Kathayatwada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f23c279-5cc4-41c9-94d8-7c2c3fc820ba",
+                    "boundaryNum": 1,
+                    "name": "maa bhagwati mandir - Kathayatwada",
+                    "localname": "maa bhagwati mandir - Kathayatwada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d34f62d8-6baf-431e-9c3a-ac28de72f94d",
+                    "boundaryNum": 1,
+                    "name": "juniour high parishar - Kathayatwada",
+                    "localname": "juniour high parishar - Kathayatwada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "14d1d749-30c0-41a5-8e64-347538d4632b",
+                    "boundaryNum": 1,
+                    "name": "D.F.O colony - Kathayatwada",
+                    "localname": "D.F.O colony - Kathayatwada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca4bdb1c-7d52-4def-aa8d-cd3f609923e8",
+                "boundaryNum": 1,
+                "name": "Mandalsera Uttar",
+                "localname": "Mandalsera Uttar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296729",
+                "children": [
+                  {
+                    "id": "bd3a32bc-5399-4b6d-be2a-8b4b442054e3",
+                    "boundaryNum": 1,
+                    "name": "Banri - Mandalsera Uttar",
+                    "localname": "Banri - Mandalsera Uttar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "41e34f4d-d2b2-4c1f-a7a7-8407424ff5fc",
+                    "boundaryNum": 1,
+                    "name": "devidhar - Mandalsera Uttar",
+                    "localname": "devidhar - Mandalsera Uttar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "756a20c4-4824-4f16-b215-3d03590f8825",
+                    "boundaryNum": 1,
+                    "name": "saryu tok - Mandalsera Uttar",
+                    "localname": "saryu tok - Mandalsera Uttar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43b77b73-cc98-4cb9-8a6e-f3f46a064a98",
+                "boundaryNum": 1,
+                "name": "Mandalsera Dakhchin",
+                "localname": "Mandalsera Dakhchin",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296730",
+                "children": [
+                  {
+                    "id": "78902cee-689c-4fab-83ac-fab006440e38",
+                    "boundaryNum": 1,
+                    "name": "Bharatpur - Mandalsera Dakhchin",
+                    "localname": "Bharatpur - Mandalsera Dakhchin",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a63a55d9-e880-4921-bb26-50d32be99f3f",
+                    "boundaryNum": 1,
+                    "name": "jeetnagar - Mandalsera Dakhchin",
+                    "localname": "jeetnagar - Mandalsera Dakhchin",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "52af2bf4-fef1-4e32-91af-6b72094ca505",
+                    "boundaryNum": 1,
+                    "name": "hospital colony - Mandalsera Dakhchin",
+                    "localname": "hospital colony - Mandalsera Dakhchin",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc2f47e4-e888-446f-a258-9070d4c7b2b1",
+                "boundaryNum": 1,
+                "name": "Maa Chandika",
+                "localname": "Maa Chandika",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296731",
+                "children": [
+                  {
+                    "id": "5555454a-3006-4d82-b155-6c10114372b2",
+                    "boundaryNum": 1,
+                    "name": "numaiskhet - Maa Chandika",
+                    "localname": "numaiskhet - Maa Chandika",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f6a291b2-b9cd-477c-8284-2a37fde9da2d",
+                    "boundaryNum": 1,
+                    "name": "pandeykhola - Maa Chandika",
+                    "localname": "pandeykhola - Maa Chandika",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff3c929e-57cb-4cc4-8796-b72885be6c4d",
+                    "boundaryNum": 1,
+                    "name": "Bhileshwar - Maa Chandika",
+                    "localname": "Bhileshwar - Maa Chandika",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c5bd68e2-e8cd-4c5b-bfa8-11a085ccbe9e",
+                    "boundaryNum": 1,
+                    "name": "Dugbazar - Maa Chandika",
+                    "localname": "Dugbazar - Maa Chandika",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d5ff537-7cbe-44a7-ac97-6547f946dc84",
+                    "boundaryNum": 1,
+                    "name": "Bankhola - Maa Chandika",
+                    "localname": "Bankhola - Maa Chandika",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6e42241-216e-457c-abc4-21feb972a5a8",
+                "boundaryNum": 1,
+                "name": "Veni Madhav",
+                "localname": "Veni Madhav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296732",
+                "children": [
+                  {
+                    "id": "2c24a7ae-986c-4dfc-ade9-d124cf5bc750",
+                    "boundaryNum": 1,
+                    "name": "mehnarbunga - Veni Madhav",
+                    "localname": "mehnarbunga - Veni Madhav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "849e016f-d369-414e-9cdc-77685d0d0e9b",
+                    "boundaryNum": 1,
+                    "name": "new basti - Veni Madhav",
+                    "localname": "new basti - Veni Madhav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "428cf4f7-57d9-4343-ba58-9a71dd9696f3",
+                    "boundaryNum": 1,
+                    "name": "Bhitalgao - Veni Madhav",
+                    "localname": "Bhitalgao - Veni Madhav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "08639b44-7605-4b7b-a544-7b1cfa204041",
+                    "boundaryNum": 1,
+                    "name": "chorashi - Veni Madhav",
+                    "localname": "chorashi - Veni Madhav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
                     "area": "AREA1",
                     "children": []
                   }
