@@ -44,7 +44,9 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
+      "isVoucherCreationEnabled": false,
+      "isActive": true,
+      "type": "Adhoc"
     },
     {
       "businessService": "FIRENOC",
