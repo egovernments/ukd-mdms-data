@@ -1,5 +1,6 @@
+
 {
-  "tenantId": "uk.bageshwar",
+  "tenantId": "uk.ramnagar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,38 +11,38 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "bageshwar",
-        "localname": "bageshwar",
+        "name": "ramnagar",
+        "localname": "ramnagar",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "uk.bageshwar",
+        "code": "uk.ramnagar",
         "children": [
           {
-            "id": "c9a39e0f-5efd-4909-94d5-dbd54e4051aa",
+            "id": "f081fcc5-08c8-480e-a0ba-4a5d35a8a9d0",
             "boundaryNum": 1,
-            "name": "Bageshwar",
-            "localname": "Bageshwar",
+            "name": "Ramnagar",
+            "localname": "Ramnagar",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
             "code": "ZONE1",
             "children": [
               {
-                "id": "05db9a23-5a06-4fe8-a0f1-041a93665eae",
+                "id": "1e7cabe3-73b4-43cc-b263-0b639e2b753b",
                 "boundaryNum": 1,
-                "name": "Bilonasera",
-                "localname": "Bilonasera",
+                "name": "P.W.D. Vishram Bhavan",
+                "localname": "P.W.D. Vishram Bhavan",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W17590",
+                "code": "W18402",
                 "children": [
                   {
-                    "id": "58f6da8d-cbc0-439a-a557-8c299fb86457",
+                    "id": "c36d1f6d-b8d7-4a05-9247-266e7abfe0e1",
                     "boundaryNum": 1,
-                    "name": "shaman mandir - Bilonasera",
-                    "localname": "shaman mandir - Bilonasera",
+                    "name": "Pampauri - P.W.D. Vishram Bhavan",
+                    "localname": "Pampauri - P.W.D. Vishram Bhavan",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -50,10 +51,10 @@
                     "children": []
                   },
                   {
-                    "id": "1b61c789-e931-4fa3-8dc5-a851bbe0994c",
+                    "id": "621a6775-2700-4fe2-95fe-9d94dab02857",
                     "boundaryNum": 1,
-                    "name": "Bhagwati mandir - Bilonasera",
-                    "localname": "Bhagwati mandir - Bilonasera",
+                    "name": "P.W.D. colony - P.W.D. Vishram Bhavan",
+                    "localname": "P.W.D. colony - P.W.D. Vishram Bhavan",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -62,46 +63,46 @@
                     "children": []
                   },
                   {
-                    "id": "5a6bfbed-5241-4e54-bcfd-1ac892cf38f9",
+                    "id": "822719d9-3a43-4e35-99e0-38450d5a50dd",
                     "boundaryNum": 1,
-                    "name": "golu mandir - Bilonasera",
-                    "localname": "golu mandir - Bilonasera",
+                    "name": "Bhratpuri - P.W.D. Vishram Bhavan",
+                    "localname": "Bhratpuri - P.W.D. Vishram Bhavan",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0003",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "f79cc81c-93e7-42fc-9771-ecdbfa466169",
-                "boundaryNum": 1,
-                "name": "Narayan Dev",
-                "localname": "Narayan Dev",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17591",
-                "children": [
+                  },
                   {
-                    "id": "bf26d2d2-211d-4ce2-9e89-40869491db53",
+                    "id": "d05eb8eb-6a9a-4dbf-bd79-1c57df3031d6",
                     "boundaryNum": 1,
-                    "name": "kafalkhet - Narayan Dev",
-                    "localname": "kafalkhet - Narayan Dev",
+                    "name": "Durgapuri partially - P.W.D. Vishram Bhavan",
+                    "localname": "Durgapuri partially - P.W.D. Vishram Bhavan",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0004",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "e46df064-2e05-42d5-9dc8-db148571bbf7",
+                "boundaryNum": 1,
+                "name": "Durgapur Bharatpuri",
+                "localname": "Durgapur Bharatpuri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18403",
+                "children": [
                   {
-                    "id": "16d0cc07-2a76-4c46-9219-e075dc1c91a7",
+                    "id": "16d9ad81-cbd4-4a7e-8642-0b826d2422f6",
                     "boundaryNum": 1,
-                    "name": "senj - Narayan Dev",
-                    "localname": "senj - Narayan Dev",
+                    "name": "Durgapuri partially - Durgapur Bharatpuri",
+                    "localname": "Durgapuri partially - Durgapur Bharatpuri",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -110,10 +111,10 @@
                     "children": []
                   },
                   {
-                    "id": "ae2b0f99-5cde-45b9-b351-c09c01019c24",
+                    "id": "e5ae928e-62a1-4119-9eb6-c5abd05ec3ed",
                     "boundaryNum": 1,
-                    "name": "baret - Narayan Dev",
-                    "localname": "baret - Narayan Dev",
+                    "name": "Bhratpuri - Durgapur Bharatpuri",
+                    "localname": "Bhratpuri - Durgapur Bharatpuri",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -122,46 +123,46 @@
                     "children": []
                   },
                   {
-                    "id": "7aa22d8f-bd9f-4ad8-b1b5-1641bdfae503",
+                    "id": "11d3ad2a-9414-46dc-a674-64d8e0566ef2",
                     "boundaryNum": 1,
-                    "name": "tuynura - Narayan Dev",
-                    "localname": "tuynura - Narayan Dev",
+                    "name": "Kaushalyapuri - Durgapur Bharatpuri",
+                    "localname": "Kaushalyapuri - Durgapur Bharatpuri",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0007",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "258d077b-5e49-4155-92cb-3368ff010a7d",
-                "boundaryNum": 1,
-                "name": "Jwala Devi",
-                "localname": "Jwala Devi",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17592",
-                "children": [
+                  },
                   {
-                    "id": "964e10fc-f8ce-464a-b1fe-d75c4d4bf0d6",
+                    "id": "6729b71a-296f-4f22-b4d7-3e519c39eb70",
                     "boundaryNum": 1,
-                    "name": "maziyakhet - Jwala Devi",
-                    "localname": "maziyakhet - Jwala Devi",
+                    "name": "Pump House - Durgapur Bharatpuri",
+                    "localname": "Pump House - Durgapur Bharatpuri",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0008",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "fbff4ead-8d58-46d2-a35c-ea59478384bc",
+                "boundaryNum": 1,
+                "name": "Shilpkar Bashti-Teda Road",
+                "localname": "Shilpkar Bashti-Teda Road",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18404",
+                "children": [
                   {
-                    "id": "2de1524c-0ee2-415c-8958-176ec175dd41",
+                    "id": "f635b6e9-c5fc-40a9-9770-5b2dacc800ae",
                     "boundaryNum": 1,
-                    "name": "bhurchuniya north - Jwala Devi",
-                    "localname": "bhurchuniya north - Jwala Devi",
+                    "name": "Durgapuri partially - Shilpkar Bashti-Teda Road",
+                    "localname": "Durgapuri partially - Shilpkar Bashti-Teda Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -170,10 +171,10 @@
                     "children": []
                   },
                   {
-                    "id": "345e3378-1d86-4e1b-9184-20c404af8f9c",
+                    "id": "76b92fd7-4ee9-4d77-8524-3162cbfce0a2",
                     "boundaryNum": 1,
-                    "name": "adarsh colony - Jwala Devi",
-                    "localname": "adarsh colony - Jwala Devi",
+                    "name": "Shilpkar Basti - Shilpkar Bashti-Teda Road",
+                    "localname": "Shilpkar Basti - Shilpkar Bashti-Teda Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -182,46 +183,46 @@
                     "children": []
                   },
                   {
-                    "id": "4125faae-48d8-4d6d-8cb2-7cade610df64",
+                    "id": "60012562-c5dd-4ddd-8de3-7a8226602f2c",
                     "boundaryNum": 1,
-                    "name": "tehsil parisar - Jwala Devi",
-                    "localname": "tehsil parisar - Jwala Devi",
+                    "name": "Teda Road - Shilpkar Bashti-Teda Road",
+                    "localname": "Teda Road - Shilpkar Bashti-Teda Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0011",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "be215ea4-ef89-4165-bc4b-7b454efec22f",
-                "boundaryNum": 1,
-                "name": "Saim Mandir",
-                "localname": "Saim Mandir",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17593",
-                "children": [
+                  },
                   {
-                    "id": "f931122e-8ac3-43a0-b386-b7d7bb06f0dc",
+                    "id": "004ab5b2-a10d-46f7-b78c-8f886a8798ce",
                     "boundaryNum": 1,
-                    "name": "bhurchuniya south - Saim Mandir",
-                    "localname": "bhurchuniya south - Saim Mandir",
+                    "name": "area near about P.W.D. Store - Shilpkar Bashti-Teda Road",
+                    "localname": "area near about P.W.D. Store - Shilpkar Bashti-Teda Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0012",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "f2d70f7c-3506-414a-b0dd-bcbc5e0c8156",
+                "boundaryNum": 1,
+                "name": "Lakhanpur-Forest Compound",
+                "localname": "Lakhanpur-Forest Compound",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18405",
+                "children": [
                   {
-                    "id": "d7544949-0186-4480-abee-09d7b0a12606",
+                    "id": "42cb92d9-f222-4ef3-9238-1efa4eef0d37",
                     "boundaryNum": 1,
-                    "name": "ramchandra tiwari - Saim Mandir",
-                    "localname": "ramchandra tiwari - Saim Mandir",
+                    "name": "degree college premises - Lakhanpur-Forest Compound",
+                    "localname": "degree college premises - Lakhanpur-Forest Compound",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -230,10 +231,10 @@
                     "children": []
                   },
                   {
-                    "id": "2a02c98f-413c-46f9-bf8e-50bd4440422b",
+                    "id": "9a4d7f56-13ad-4520-b7e4-01f0f44c9744",
                     "boundaryNum": 1,
-                    "name": "julkiya - Saim Mandir",
-                    "localname": "julkiya - Saim Mandir",
+                    "name": "forest premises - Lakhanpur-Forest Compound",
+                    "localname": "forest premises - Lakhanpur-Forest Compound",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -242,58 +243,70 @@
                     "children": []
                   },
                   {
-                    "id": "0ab61797-a0ad-4f03-9645-71bb3ea4d155",
+                    "id": "72d6be2e-d7f8-46aa-9aea-f17e4f0f5299",
                     "boundaryNum": 1,
-                    "name": "balsuna - Saim Mandir",
-                    "localname": "balsuna - Saim Mandir",
+                    "name": "area near about parvatiya sabha - Lakhanpur-Forest Compound",
+                    "localname": "area near about parvatiya sabha - Lakhanpur-Forest Compound",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0015",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "7d99462a-533e-46f1-82d6-23ad6f78b185",
+                "boundaryNum": 1,
+                "name": "Shantikunj",
+                "localname": "Shantikunj",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18406",
+                "children": [
                   {
-                    "id": "65da0a59-aad3-4c8a-a21b-0803ccc1efb9",
+                    "id": "af0e601e-0cf4-42ed-8017-e98a2e8b44ca",
                     "boundaryNum": 1,
-                    "name": "digro - Saim Mandir",
-                    "localname": "digro - Saim Mandir",
+                    "name": "shanti kunj - Shantikunj",
+                    "localname": "shanti kunj - Shantikunj",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0016",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "612d93f3-e5ff-4df3-b0aa-3d06b3e67a7b",
-                "boundaryNum": 1,
-                "name": "Baagnath",
-                "localname": "Baagnath",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17594",
-                "children": [
+                  },
                   {
-                    "id": "13ac2de4-40e4-4268-88e5-b8297211b0fa",
+                    "id": "d9b5aae5-ce19-40e8-aed6-e0482d31bd68",
                     "boundaryNum": 1,
-                    "name": "parketeshwar - Baagnath",
-                    "localname": "parketeshwar - Baagnath",
+                    "name": "lakhanpur - Shantikunj",
+                    "localname": "lakhanpur - Shantikunj",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0017",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "e3f37285-cc29-4b56-8119-3fc4529deba1",
+                "boundaryNum": 1,
+                "name": "Taj Maszid",
+                "localname": "Taj Maszid",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18407",
+                "children": [
                   {
-                    "id": "14aaa75c-ce30-4bac-b833-17cbdda135fb",
+                    "id": "812195d4-710b-4356-8db6-3aabe9dfc9d1",
                     "boundaryNum": 1,
-                    "name": "katyur bazar - Baagnath",
-                    "localname": "katyur bazar - Baagnath",
+                    "name": "taj maszid - Taj Maszid",
+                    "localname": "taj maszid - Taj Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -302,46 +315,46 @@
                     "children": []
                   },
                   {
-                    "id": "18ac005d-3cc5-4739-99b7-99cf475e213e",
+                    "id": "8ea8c751-a6b2-4be1-896e-e2b233bcbbee",
                     "boundaryNum": 1,
-                    "name": "talli bazar - Baagnath",
-                    "localname": "talli bazar - Baagnath",
+                    "name": "area near chhappar vali maszid kabristaan - Taj Maszid",
+                    "localname": "area near chhappar vali maszid kabristaan - Taj Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0019",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "094aa645-cab7-4010-a308-2ef58ef43bbd",
+                "boundaryNum": 1,
+                "name": "Kotdwar Road",
+                "localname": "Kotdwar Road",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18408",
+                "children": [
                   {
-                    "id": "b96f5281-eef6-4859-87c4-6aa63999dc46",
+                    "id": "aa17d778-9303-4b89-b60c-525063a2fb57",
                     "boundaryNum": 1,
-                    "name": "ghat bagar - Baagnath",
-                    "localname": "ghat bagar - Baagnath",
+                    "name": "population of kotdwar - Kotdwar Road",
+                    "localname": "population of kotdwar - Kotdwar Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0020",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "ba5ef0c5-53ab-453b-98b0-420c5e77a28a",
-                "boundaryNum": 1,
-                "name": "Thakur Dwara",
-                "localname": "Thakur Dwara",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17595",
-                "children": [
+                  },
                   {
-                    "id": "86ba71f2-a6a6-42b9-9abb-09b46aa629a6",
+                    "id": "e2488122-56bf-49f2-89f4-319341994114",
                     "boundaryNum": 1,
-                    "name": "thakur dwara - Thakur Dwara",
-                    "localname": "thakur dwara - Thakur Dwara",
+                    "name": "primary school/population in front of samudayik bhawan, - Kotdwar Road",
+                    "localname": "primary school/population in front of samudayik bhawan, - Kotdwar Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -350,10 +363,10 @@
                     "children": []
                   },
                   {
-                    "id": "932d244f-0faf-442c-b751-3838b19a59ee",
+                    "id": "7faad39b-1267-4ccc-a49e-7ac1f4835ba1",
                     "boundaryNum": 1,
-                    "name": "bhatrola - Thakur Dwara",
-                    "localname": "bhatrola - Thakur Dwara",
+                    "name": "south of taj maszid - Kotdwar Road",
+                    "localname": "south of taj maszid - Kotdwar Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -362,46 +375,46 @@
                     "children": []
                   },
                   {
-                    "id": "74866570-6356-40df-8087-3aa2dc842697",
+                    "id": "1420605e-8dbe-4a6d-b1dd-a998139ee641",
                     "boundaryNum": 1,
-                    "name": "jogyarirau - Thakur Dwara",
-                    "localname": "jogyarirau - Thakur Dwara",
+                    "name": "population of west of chappar vali maszid - Kotdwar Road",
+                    "localname": "population of west of chappar vali maszid - Kotdwar Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0023",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "fe0a234b-c3a5-4b54-bc1f-03917f90473b",
+                "boundaryNum": 1,
+                "name": "Badi Maszid",
+                "localname": "Badi Maszid",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18409",
+                "children": [
                   {
-                    "id": "2fe93efa-4f8b-48b0-8e48-a0876321f3f1",
+                    "id": "344f075b-c5c3-4ba1-9744-9d28ab7ecf14",
                     "boundaryNum": 1,
-                    "name": "pwd parishar - Thakur Dwara",
-                    "localname": "pwd parishar - Thakur Dwara",
+                    "name": "badi maszid - Badi Maszid",
+                    "localname": "badi maszid - Badi Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0024",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "7ddb4fda-0bf7-46c3-a8ec-8e81081461c0",
-                "boundaryNum": 1,
-                "name": "Kathayatwada",
-                "localname": "Kathayatwada",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W17596",
-                "children": [
+                  },
                   {
-                    "id": "95e8fe72-ac70-4a06-a70a-4cb1b7e3bf78",
+                    "id": "917cdb4e-c1ce-4fe0-801a-41e25a0cab65",
                     "boundaryNum": 1,
-                    "name": "pg college - Kathayatwada",
-                    "localname": "pg college - Kathayatwada",
+                    "name": "meat market - Badi Maszid",
+                    "localname": "meat market - Badi Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -410,10 +423,10 @@
                     "children": []
                   },
                   {
-                    "id": "2f23c279-5cc4-41c9-94d8-7c2c3fc820ba",
+                    "id": "b9e8e5f4-4b59-46b9-9757-8f727a30e31b",
                     "boundaryNum": 1,
-                    "name": "maa bhagwati mandir - Kathayatwada",
-                    "localname": "maa bhagwati mandir - Kathayatwada",
+                    "name": "area near state bank - Badi Maszid",
+                    "localname": "area near state bank - Badi Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -422,46 +435,46 @@
                     "children": []
                   },
                   {
-                    "id": "d34f62d8-6baf-431e-9c3a-ac28de72f94d",
+                    "id": "babba7b9-b73b-44f0-bf29-d0abcabcd3f8",
                     "boundaryNum": 1,
-                    "name": "juniour high parishar - Kathayatwada",
-                    "localname": "juniour high parishar - Kathayatwada",
+                    "name": "population situated in the south of kabristaan - Badi Maszid",
+                    "localname": "population situated in the south of kabristaan - Badi Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0027",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "03cdfce1-3985-4c11-ae8a-98aa50deed20",
+                "boundaryNum": 1,
+                "name": "Edgaah",
+                "localname": "Edgaah",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18410",
+                "children": [
                   {
-                    "id": "14d1d749-30c0-41a5-8e64-347538d4632b",
+                    "id": "b6dbfb37-cd8a-43dd-8561-d62514a4ae34",
                     "boundaryNum": 1,
-                    "name": "D.F.O colony - Kathayatwada",
-                    "localname": "D.F.O colony - Kathayatwada",
+                    "name": "eidgah - Edgaah",
+                    "localname": "eidgah - Edgaah",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0028",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "ca4bdb1c-7d52-4def-aa8d-cd3f609923e8",
-                "boundaryNum": 1,
-                "name": "Mandalsera Uttar",
-                "localname": "Mandalsera Uttar",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296729",
-                "children": [
+                  },
                   {
-                    "id": "bd3a32bc-5399-4b6d-be2a-8b4b442054e3",
+                    "id": "fbe54c71-7990-4d88-94ba-45f525fbe92d",
                     "boundaryNum": 1,
-                    "name": "Banri - Mandalsera Uttar",
-                    "localname": "Banri - Mandalsera Uttar",
+                    "name": "fire station - Edgaah",
+                    "localname": "fire station - Edgaah",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -470,10 +483,10 @@
                     "children": []
                   },
                   {
-                    "id": "41e34f4d-d2b2-4c1f-a7a7-8407424ff5fc",
+                    "id": "3d3b9ebc-fa22-49ad-a82d-3277ec52fdab",
                     "boundaryNum": 1,
-                    "name": "devidhar - Mandalsera Uttar",
-                    "localname": "devidhar - Mandalsera Uttar",
+                    "name": "ranikhet road colony - Edgaah",
+                    "localname": "ranikhet road colony - Edgaah",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -482,10 +495,10 @@
                     "children": []
                   },
                   {
-                    "id": "756a20c4-4824-4f16-b215-3d03590f8825",
+                    "id": "3b63d09e-917d-46c9-9a6b-2b6b94299222",
                     "boundaryNum": 1,
-                    "name": "saryu tok - Mandalsera Uttar",
-                    "localname": "saryu tok - Mandalsera Uttar",
+                    "name": "m.p. inter college and near about tower - Edgaah",
+                    "localname": "m.p. inter college and near about tower - Edgaah",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -496,20 +509,20 @@
                 ]
               },
               {
-                "id": "43b77b73-cc98-4cb9-8a6e-f3f46a064a98",
+                "id": "9acfc9f0-e5a4-485d-9390-eadaacdfe254",
                 "boundaryNum": 1,
-                "name": "Mandalsera Dakhchin",
-                "localname": "Mandalsera Dakhchin",
+                "name": "Moti Maszid",
+                "localname": "Moti Maszid",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W1296730",
+                "code": "W18411",
                 "children": [
                   {
-                    "id": "78902cee-689c-4fab-83ac-fab006440e38",
+                    "id": "026cd0fc-548b-4f20-b30d-95283fb8a91f",
                     "boundaryNum": 1,
-                    "name": "Bharatpur - Mandalsera Dakhchin",
-                    "localname": "Bharatpur - Mandalsera Dakhchin",
+                    "name": "valmiki basti - Moti Maszid",
+                    "localname": "valmiki basti - Moti Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -518,46 +531,46 @@
                     "children": []
                   },
                   {
-                    "id": "a63a55d9-e880-4921-bb26-50d32be99f3f",
+                    "id": "e8b8b827-bbee-46dc-a73a-8b6750dfa827",
                     "boundaryNum": 1,
-                    "name": "jeetnagar - Mandalsera Dakhchin",
-                    "localname": "jeetnagar - Mandalsera Dakhchin",
+                    "name": "area near about moti maszid - Moti Maszid",
+                    "localname": "area near about moti maszid - Moti Maszid",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0033",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "b3c32c1a-c7fb-4173-b40e-4b3e6fc61727",
+                "boundaryNum": 1,
+                "name": "Block Office",
+                "localname": "Block Office",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18412",
+                "children": [
                   {
-                    "id": "52af2bf4-fef1-4e32-91af-6b72094ca505",
+                    "id": "53721a85-adf5-47dd-ae0a-8b62790b6f33",
                     "boundaryNum": 1,
-                    "name": "hospital colony - Mandalsera Dakhchin",
-                    "localname": "hospital colony - Mandalsera Dakhchin",
+                    "name": "block office - Block Office",
+                    "localname": "block office - Block Office",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0034",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "bc2f47e4-e888-446f-a258-9070d4c7b2b1",
-                "boundaryNum": 1,
-                "name": "Maa Chandika",
-                "localname": "Maa Chandika",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296731",
-                "children": [
+                  },
                   {
-                    "id": "5555454a-3006-4d82-b155-6c10114372b2",
+                    "id": "347f22a6-3e03-4705-9c1e-e1951dd06b68",
                     "boundaryNum": 1,
-                    "name": "numaiskhet - Maa Chandika",
-                    "localname": "numaiskhet - Maa Chandika",
+                    "name": "board office - Block Office",
+                    "localname": "board office - Block Office",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -566,10 +579,10 @@
                     "children": []
                   },
                   {
-                    "id": "f6a291b2-b9cd-477c-8284-2a37fde9da2d",
+                    "id": "da6ebb07-b37a-46d1-99ff-3448a420d594",
                     "boundaryNum": 1,
-                    "name": "pandeykhola - Maa Chandika",
-                    "localname": "pandeykhola - Maa Chandika",
+                    "name": "inter college - Block Office",
+                    "localname": "inter college - Block Office",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -578,22 +591,34 @@
                     "children": []
                   },
                   {
-                    "id": "ff3c929e-57cb-4cc4-8796-b72885be6c4d",
+                    "id": "58ad3d4d-dfcf-4ff0-a70e-cf132e352809",
                     "boundaryNum": 1,
-                    "name": "Bhileshwar - Maa Chandika",
-                    "localname": "Bhileshwar - Maa Chandika",
+                    "name": "population of teela - Block Office",
+                    "localname": "population of teela - Block Office",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0037",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "0c00bf8f-4a6e-4ba5-89c8-f63964f8863b",
+                "boundaryNum": 1,
+                "name": "Prathmik Vidhyalay",
+                "localname": "Prathmik Vidhyalay",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18413",
+                "children": [
                   {
-                    "id": "c5bd68e2-e8cd-4c5b-bfa8-11a085ccbe9e",
+                    "id": "cabae0b2-b395-4944-8275-def5b1cc498c",
                     "boundaryNum": 1,
-                    "name": "Dugbazar - Maa Chandika",
-                    "localname": "Dugbazar - Maa Chandika",
+                    "name": "oot paraw - Prathmik Vidhyalay",
+                    "localname": "oot paraw - Prathmik Vidhyalay",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -602,34 +627,22 @@
                     "children": []
                   },
                   {
-                    "id": "3d5ff537-7cbe-44a7-ac97-6547f946dc84",
+                    "id": "e2582805-5ae0-49cf-bacd-f85eb7fec289",
                     "boundaryNum": 1,
-                    "name": "Bankhola - Maa Chandika",
-                    "localname": "Bankhola - Maa Chandika",
+                    "name": "primary schol - Prathmik Vidhyalay",
+                    "localname": "primary schol - Prathmik Vidhyalay",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0039",
                     "area": "AREA1",
                     "children": []
-                  }
-                ]
-              },
-              {
-                "id": "e6e42241-216e-457c-abc4-21feb972a5a8",
-                "boundaryNum": 1,
-                "name": "Veni Madhav",
-                "localname": "Veni Madhav",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W1296732",
-                "children": [
+                  },
                   {
-                    "id": "2c24a7ae-986c-4dfc-ade9-d124cf5bc750",
+                    "id": "0c64a48a-1b73-4037-aabd-2ba0ce9ddf33",
                     "boundaryNum": 1,
-                    "name": "mehnarbunga - Veni Madhav",
-                    "localname": "mehnarbunga - Veni Madhav",
+                    "name": "kabristaan - Prathmik Vidhyalay",
+                    "localname": "kabristaan - Prathmik Vidhyalay",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -638,22 +651,34 @@
                     "children": []
                   },
                   {
-                    "id": "849e016f-d369-414e-9cdc-77685d0d0e9b",
+                    "id": "5a8589e4-5f0e-43ce-b5c0-3c16e7f420af",
                     "boundaryNum": 1,
-                    "name": "new basti - Veni Madhav",
-                    "localname": "new basti - Veni Madhav",
+                    "name": "population in the south of block road - Prathmik Vidhyalay",
+                    "localname": "population in the south of block road - Prathmik Vidhyalay",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0041",
                     "area": "AREA1",
                     "children": []
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "b2123240-4ea9-4223-95a5-2a46d0cedbf4",
+                "boundaryNum": 1,
+                "name": "Townhall",
+                "localname": "Townhall",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18414",
+                "children": [
                   {
-                    "id": "428cf4f7-57d9-4343-ba58-9a71dd9696f3",
+                    "id": "6a4c6e65-28cb-4777-9bac-2d5f1c996f49",
                     "boundaryNum": 1,
-                    "name": "Bhitalgao - Veni Madhav",
-                    "localname": "Bhitalgao - Veni Madhav",
+                    "name": "town hall - Townhall",
+                    "localname": "town hall - Townhall",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -662,14 +687,590 @@
                     "children": []
                   },
                   {
-                    "id": "08639b44-7605-4b7b-a544-7b1cfa204041",
+                    "id": "615770de-454a-4124-ae32-d76cc4a0de90",
                     "boundaryNum": 1,
-                    "name": "chorashi - Veni Madhav",
-                    "localname": "chorashi - Veni Madhav",
+                    "name": "veternity hospital - Townhall",
+                    "localname": "veternity hospital - Townhall",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4bdbe337-1fb6-4b11-99e9-15975c7acf6c",
+                    "boundaryNum": 1,
+                    "name": "hospital premises - Townhall",
+                    "localname": "hospital premises - Townhall",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "95c9d0ca-1f8d-4b8b-8abe-d207584e50f7",
+                    "boundaryNum": 1,
+                    "name": "kotwali premises - Townhall",
+                    "localname": "kotwali premises - Townhall",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ac3b87b2-d2d9-4560-badb-284c04d65dc6",
+                    "boundaryNum": 1,
+                    "name": "gas godam - Townhall",
+                    "localname": "gas godam - Townhall",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd0fd88a-60cf-4c24-83a4-5d2378099adb",
+                    "boundaryNum": 1,
+                    "name": "area near about khatari nala - Townhall",
+                    "localname": "area near about khatari nala - Townhall",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3fe7dbfb-2c54-40c2-9a22-9dd0361de853",
+                "boundaryNum": 1,
+                "name": "Railway Padaav",
+                "localname": "Railway Padaav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18415",
+                "children": [
+                  {
+                    "id": "118a824a-3202-4570-843b-e77fefec97e6",
+                    "boundaryNum": 1,
+                    "name": "railway paraw - Railway Padaav",
+                    "localname": "railway paraw - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c70f784a-8df1-4662-8da5-56e358cca8cd",
+                    "boundaryNum": 1,
+                    "name": "bhawaniganj - Railway Padaav",
+                    "localname": "bhawaniganj - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ecd98f0-a918-4e17-a251-2c0930cad811",
+                    "boundaryNum": 1,
+                    "name": "hundiwal garden - Railway Padaav",
+                    "localname": "hundiwal garden - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "be400b00-ed0d-486a-89dc-d29f1836743e",
+                    "boundaryNum": 1,
+                    "name": "sarkari bagh - Railway Padaav",
+                    "localname": "sarkari bagh - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9bceec27-d702-4813-a5cc-60165c0fca73",
+                    "boundaryNum": 1,
+                    "name": "punjabi colony - Railway Padaav",
+                    "localname": "punjabi colony - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ad094c3-13db-45bd-a624-9c69e5fefc36",
+                    "boundaryNum": 1,
+                    "name": "area near hussaini maszid - Railway Padaav",
+                    "localname": "area near hussaini maszid - Railway Padaav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6dab52e-7c50-4ed7-b962-b91a93d82439",
+                "boundaryNum": 1,
+                "name": "Gularghaati Pashchami",
+                "localname": "Gularghaati Pashchami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18416",
+                "children": [
+                  {
+                    "id": "a78df178-ebd6-4877-8480-fd671292b6e0",
+                    "boundaryNum": 1,
+                    "name": "gularghatti purani basti - Gularghaati Pashchami",
+                    "localname": "gularghatti purani basti - Gularghaati Pashchami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8f6efd92-a6bc-4268-bfdf-75fdc070fbfb",
+                    "boundaryNum": 1,
+                    "name": "bagh basti - Gularghaati Pashchami",
+                    "localname": "bagh basti - Gularghaati Pashchami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "02d460eb-7d9e-46bf-a160-0f983ad108ee",
+                    "boundaryNum": 1,
+                    "name": "population in the north of kandi road - Gularghaati Pashchami",
+                    "localname": "population in the north of kandi road - Gularghaati Pashchami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3ccc6aa-9b52-4407-b54a-aca321a908a1",
+                "boundaryNum": 1,
+                "name": "Gularghaati Purvi",
+                "localname": "Gularghaati Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296568",
+                "children": [
+                  {
+                    "id": "174900e9-4a8d-4182-a711-f7264e608280",
+                    "boundaryNum": 1,
+                    "name": "gular ghatti nayi basti - Gularghaati Purvi",
+                    "localname": "gular ghatti nayi basti - Gularghaati Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d4884a3-d943-457f-a161-101b8e086117",
+                    "boundaryNum": 1,
+                    "name": "area of shamshan ghat - Gularghaati Purvi",
+                    "localname": "area of shamshan ghat - Gularghaati Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "db3a108c-3bd1-4416-ae5f-55b965203948",
+                "boundaryNum": 1,
+                "name": "Jatav Bashti",
+                "localname": "Jatav Bashti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296569",
+                "children": [
+                  {
+                    "id": "7fa11330-7089-4b66-a72c-fd8ab4a36627",
+                    "boundaryNum": 1,
+                    "name": "jatav basti - Jatav Bashti",
+                    "localname": "jatav basti - Jatav Bashti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab510dad-15a9-42d7-8faf-f4a8332d6e55",
+                    "boundaryNum": 1,
+                    "name": "bhawaniganj - Jatav Bashti",
+                    "localname": "bhawaniganj - Jatav Bashti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da3a978d-47d7-4538-a93b-98eb078a3b21",
+                    "boundaryNum": 1,
+                    "name": "kanjar basti - Jatav Bashti",
+                    "localname": "kanjar basti - Jatav Bashti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "23133255-78d4-40b9-bfef-f03e92d74bcf",
+                    "boundaryNum": 1,
+                    "name": "kusht ashram - Jatav Bashti",
+                    "localname": "kusht ashram - Jatav Bashti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a548bf36-358d-409b-a157-d5505df098ce",
+                    "boundaryNum": 1,
+                    "name": "panchvati colony - Jatav Bashti",
+                    "localname": "panchvati colony - Jatav Bashti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0063",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7837f1fe-585a-4b4a-91ea-4027f0876cc2",
+                "boundaryNum": 1,
+                "name": "Moti Mahal Bumbor",
+                "localname": "Moti Mahal Bumbor",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296570",
+                "children": [
+                  {
+                    "id": "f7733397-6b73-42c2-8bb0-7cfbb471fdf5",
+                    "boundaryNum": 1,
+                    "name": "moti mahal - Moti Mahal Bumbor",
+                    "localname": "moti mahal - Moti Mahal Bumbor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0064",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0ffb0749-a853-48cb-abb3-ba83fe0b7442",
+                    "boundaryNum": 1,
+                    "name": "bambagher - Moti Mahal Bumbor",
+                    "localname": "bambagher - Moti Mahal Bumbor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0065",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "87b513fe-0a66-49e9-b04d-fa7e17e4a1d9",
+                    "boundaryNum": 1,
+                    "name": "purani aabkari area - Moti Mahal Bumbor",
+                    "localname": "purani aabkari area - Moti Mahal Bumbor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0066",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04330b2f-b9b4-4eb8-a18d-f17f143e7280",
+                    "boundaryNum": 1,
+                    "name": "gpp inter college - Moti Mahal Bumbor",
+                    "localname": "gpp inter college - Moti Mahal Bumbor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0067",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1f9591c0-4d22-4bc4-8420-e59e59c93316",
+                    "boundaryNum": 1,
+                    "name": "area of mtimahal school - Moti Mahal Bumbor",
+                    "localname": "area of mtimahal school - Moti Mahal Bumbor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0068",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06ff9aaf-3889-4406-b916-7ed15b9a22d9",
+                "boundaryNum": 1,
+                "name": "Bazaar",
+                "localname": "Bazaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296571",
+                "children": [
+                  {
+                    "id": "76c289e1-157c-415d-a2d2-9f5e401d66e4",
+                    "boundaryNum": 1,
+                    "name": "jaspuriya line partially - Bazaar",
+                    "localname": "jaspuriya line partially - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0069",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc27c1be-3d89-4ad3-b5ee-361ad56868d7",
+                    "boundaryNum": 1,
+                    "name": "lohara line partialy - Bazaar",
+                    "localname": "lohara line partialy - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0070",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7983853-7019-4461-b48b-ee1862232a43",
+                    "boundaryNum": 1,
+                    "name": "jwala line - Bazaar",
+                    "localname": "jwala line - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0071",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "68f56ac0-3d91-4583-94c3-9fd5fb7c8c30",
+                    "boundaryNum": 1,
+                    "name": "partially bajaja line - Bazaar",
+                    "localname": "partially bajaja line - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0072",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17149a53-7bde-4b69-9e04-b7f1625a0fbf",
+                    "boundaryNum": 1,
+                    "name": "nanda line - Bazaar",
+                    "localname": "nanda line - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0073",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da459c6c-3273-4edf-ae52-e8015b57ea07",
+                    "boundaryNum": 1,
+                    "name": "nayi line - Bazaar",
+                    "localname": "nayi line - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0074",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "607bc835-1a79-425b-905e-5d60944cf806",
+                    "boundaryNum": 1,
+                    "name": "population of the south of kosi - Bazaar",
+                    "localname": "population of the south of kosi - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0075",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2b323bf5-8e1d-427b-a0fc-78f1227a14d8",
+                    "boundaryNum": 1,
+                    "name": "area near school - Bazaar",
+                    "localname": "area near school - Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0076",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d2e31c8-9b9d-45d5-bd08-fb0f89dedb16",
+                "boundaryNum": 1,
+                "name": "Water Works Compound",
+                "localname": "Water Works Compound",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296572",
+                "children": [
+                  {
+                    "id": "33614fa0-b838-467b-aecb-248e847e3fbf",
+                    "boundaryNum": 1,
+                    "name": "paith paraw - Water Works Compound",
+                    "localname": "paith paraw - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0077",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b1700996-461a-4e80-a93c-8b508fbe0eee",
+                    "boundaryNum": 1,
+                    "name": "water works compound - Water Works Compound",
+                    "localname": "water works compound - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0078",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "59982f90-7095-4251-8cfe-8428d027b30b",
+                    "boundaryNum": 1,
+                    "name": "hanumaan garhi - Water Works Compound",
+                    "localname": "hanumaan garhi - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0079",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20f97aa0-2220-45eb-90ea-2d9ce7100f57",
+                    "boundaryNum": 1,
+                    "name": "canal colony - Water Works Compound",
+                    "localname": "canal colony - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0080",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "03488bd1-19d6-4fd7-9ce1-226858bdd8d8",
+                    "boundaryNum": 1,
+                    "name": "jaspuriya line partially - Water Works Compound",
+                    "localname": "jaspuriya line partially - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0081",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "87c6fd22-394a-47e0-962d-bfe0eb6bcdab",
+                    "boundaryNum": 1,
+                    "name": "lohara line partially - Water Works Compound",
+                    "localname": "lohara line partially - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0082",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fcc6d753-61c5-4771-95f9-a587e3879375",
+                    "boundaryNum": 1,
+                    "name": "jwala line partially - Water Works Compound",
+                    "localname": "jwala line partially - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0083",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5705d5a8-f61d-498b-b5fc-d45029c12f83",
+                    "boundaryNum": 1,
+                    "name": "area near about arya samaj - Water Works Compound",
+                    "localname": "area near about arya samaj - Water Works Compound",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0084",
                     "area": "AREA1",
                     "children": []
                   }
