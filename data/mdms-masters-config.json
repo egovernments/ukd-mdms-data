@@ -643,6 +643,20 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "RelationType": {
+      "masterName": "RelationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "egov-hrms": {
