@@ -2,49 +2,101 @@
   "tenantId": "uk.mahuwadawara",
   "moduleName": "TradeLicense",
   "TradeType": [
-    {
-      "code": "TRADE.SHOP.TR32",
-      "uom": null,
-      "applicationDocument": [
-        "RENTPAPERDED",
-        "AADHARPAN"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.KATBHW",
-      "uom": null,
-      "applicationDocument": [
-        "RENTPAPERDED",
-        "AADHARPAN"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.SHOP.TR61",
-      "uom": null,
-      "applicationDocument": [
-        "RENTPAPERDED",
-        "AADHARPAN"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.PETROLEUM.TR29",
-      "uom": null,
-      "applicationDocument": [
-        "RENTPAPERDED",
-        "AADHARPAN"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    }
-  ]
+  {
+    "code": "TRADE.SHOP.TR32",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RITBHW",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR61",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PDR",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR32",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RITBHW",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR61",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PDR",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
 }
