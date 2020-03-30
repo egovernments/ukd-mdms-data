@@ -1468,6 +1468,19 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "RoadCutting",
+      "code":"RC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }
