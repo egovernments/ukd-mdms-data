@@ -7,100 +7,120 @@
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "ALMOP"
+        "ALMOP",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.COAL",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "CTRECEIPT"
+        "CTRECEIPT",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.BNQH",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "MDDACTR"
+        "MDDACTR",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.FM",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "GSTCTR"
+        "GSTCTR",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BS",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "GSTCTR"
+        "GSTCTR",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.TSIF",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "POLICE"
+        "POLICE",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.HWK",
       "uom": null,
       "applicationDocument": [
         "AADPANVENCARD",
-        "POLICE"
+        "POLICE",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.LOUD",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "PLETTER"
+        "PLETTER",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.HWK",
       "uom": null,
       "applicationDocument": [
         "AADPANVENCARD",
-        "POLICE"
+        "POLICE",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.KSAR",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
-        "CTRECEIPT"
+        "CTRECEIPT",
+        "OWNERPHOTO"
       ],
       "verificationDocument": [],
-      "active": true
+      "active": true,
+      "type": "TL"
     }
   ]
 }
