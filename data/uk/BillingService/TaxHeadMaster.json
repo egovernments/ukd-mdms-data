@@ -4873,6 +4873,16 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RC",
+      "name": "Road Cutting Charges",
+      "code": "RC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0,
+      "isRequired": true
     }
   ]
 }
