@@ -1,0 +1,126 @@
+{
+  "tenantId": "uk.dehradun",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.PETROLEUM.PDB",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "ALMOP",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.COAL",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.BNQH",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "MDDACTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.FM",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "GSTCTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.BS",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "GSTCTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "POLICE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.HWK",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.LOUD",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "PLETTER",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.HWK",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.KSAR",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
