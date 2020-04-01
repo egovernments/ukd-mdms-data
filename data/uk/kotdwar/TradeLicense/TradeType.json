@@ -2,1094 +2,1193 @@
   "tenantId": "uk.kotdwar",
   "moduleName": "TradeLicense",
   "TradeType": [
-        {
-            "code": "TRADE.BANK.KAFINC",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR58",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR48",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR98",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR75",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR86",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR83",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR84",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR81",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR82",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HEALTH.TR101",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HEALTH.TR102",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR96",
-            "uom": null,
-            "applicationDocument": [
-             "AADHAR",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HEALTH.TR100",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HEALTH.TR99",
-            "uom": null,
-            "applicationDocument": [
-             "REGCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HAR3STR",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HAR5STR",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.MRGH",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HL10B",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HL10B",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HL20B",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HL30B",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HL50B",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.HOTELS.HSA50",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.REST.RESTS",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.BAKRY",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.LNDRY",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR34",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR52",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR35",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR36",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR63",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR38",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.LIQUOR.CLS",
-            "uom": null,
-            "applicationDocument": [
-             "EXLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.LIQUOR.TR72",
-            "uom": null,
-            "applicationDocument": [
-             "EXLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.DARYF",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.TR21",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.DNTC",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.TR16",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.TR17",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.TR18",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.HARNH20B",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.TR12",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.NHA50",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.NH",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.PC",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.MEDICAL.KAPVTC",
-            "uom": null,
-            "applicationDocument": [
-             "MEDCERT",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR27",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR22",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR23",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR24",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.CYCA",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR91",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR25",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.KAOTH",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.RAA",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR89",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR90",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR87",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.TR88",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.RAA",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.TRANSPORT.KATBHW",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.PETROLEUM.TR28",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.PETROLEUM.TR29",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.PETROLEUM.TR30",
-            "uom": null,
-            "applicationDocument": [
-             "DISTNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.PETROLEUM.TR31",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR78",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR47",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR45",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR65",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.FIRM.TR97",
-            "uom": null,
-            "applicationDocument": [
-             "AUTHL",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR39",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR40",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR42",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR51",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR76",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR44",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.FERT",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR70",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR69",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR73",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR74",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.GMS",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR49",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR46",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR53",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR54",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR77",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR79",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.PRES",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR41",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.SWEET",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR50",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR66",
-            "uom": null,
-            "applicationDocument": [
-             "AadharCard",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TENT",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.SHOP.TR43",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.STREETVENDOR.TR37",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.INDUSTRY.TR57",
-            "uom": null,
-            "applicationDocument": [
-             "LIGHTWATER",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        },
-        {
-            "code": "TRADE.LIQUOR.TR62",
-            "uom": null,
-            "applicationDocument": [
-             "FOODLICNO",
-            "IDPROOFORCOLORPHOTO"
-            ],
-            "verificationDocument": [],
-            "active": true,
-            "type": "TL"
-        }
-    ]
+    {
+      "code": "TRADE.BANK.KAFINC",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR58",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR48",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR98",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR75",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR86",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR83",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR84",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR81",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR82",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR101",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR102",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR96",
+      "uom": null,
+      "applicationDocument": [
+        "AADHAR",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR100",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.TR99",
+      "uom": null,
+      "applicationDocument": [
+        "REGCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HAR3STR",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HAR5STR",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.MRGH",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL10B",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL10B",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL20B",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL30B",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL50B",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HSA50",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.RESTS",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.BAKRY",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.LNDRY",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR34",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR52",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR35",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR36",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR63",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR38",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.CLS",
+      "uom": null,
+      "applicationDocument": [
+        "EXLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.TR72",
+      "uom": null,
+      "applicationDocument": [
+        "EXLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.DARYF",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.TR21",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.DNTC",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.TR16",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.TR17",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.TR18",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.HARNH20B",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.TR12",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NHA50",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NH",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.PC",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.KAPVTC",
+      "uom": null,
+      "applicationDocument": [
+        "MEDCERT",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR27",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR22",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR23",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR24",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.CYCA",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR91",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR25",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.KAOTH",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.RAA",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR89",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR90",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR87",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.TR88",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.RAA",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.KATBHW",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.TR28",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.TR29",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.TR30",
+      "uom": null,
+      "applicationDocument": [
+        "DISTNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.TR31",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR78",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR47",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR45",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR65",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.FIRM.TR97",
+      "uom": null,
+      "applicationDocument": [
+        "AUTHL",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR39",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR40",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR42",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR51",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR76",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR44",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.FERT",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR70",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR69",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR73",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR74",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.GMS",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR49",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR46",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR53",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR54",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR77",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR79",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.PRES",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR41",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.SWEET",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR50",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR66",
+      "uom": null,
+      "applicationDocument": [
+        "AadharCard",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TENT",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR43",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TR37",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.TR57",
+      "uom": null,
+      "applicationDocument": [
+        "LIGHTWATER",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.TR62",
+      "uom": null,
+      "applicationDocument": [
+        "FOODLICNO",
+        "IDPROOFORCOLORPHOTO",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
 }
