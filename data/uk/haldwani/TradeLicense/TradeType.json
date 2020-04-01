@@ -12392,9 +12392,23 @@
       "code": "TRADE.SHOP.TR53",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC028",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC028",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC028",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -12664,9 +12678,23 @@
       "code": "TRADE.INDUSTRY.TR63",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC024",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -12910,9 +12938,23 @@
       "code": "TRADE.LIQUOR.TR72",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC024",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -12922,9 +12964,23 @@
       "code": "TRADE.LIVESTOCK.KABS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC024",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC024",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -13454,9 +13510,23 @@
       "code": "TRADE.TRANSPORT.TR88",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC008",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -13466,9 +13536,23 @@
       "code": "TRADE.TRANSPORT.TR89",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC008",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -13478,9 +13562,23 @@
       "code": "TRADE.TRANSPORT.TR9",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC008",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -13490,9 +13588,23 @@
       "code": "TRADE.TRANSPORT.TR91",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "AC008",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "AC008",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
