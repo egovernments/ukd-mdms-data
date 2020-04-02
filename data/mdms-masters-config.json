@@ -527,13 +527,6 @@
         "$.code"
       ]
     },
-    "OccupancyType": {
-      "masterName": "OccupancyType",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
@@ -632,6 +625,13 @@
     },
     "AccessoriesCategory": {
       "masterName": "AccessoriesCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
