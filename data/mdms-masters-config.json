@@ -527,6 +527,13 @@
         "$.code"
       ]
     },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
