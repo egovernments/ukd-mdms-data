@@ -289,6 +289,18 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.SHGM",
+      "uom": "ANML",
+      "applicationDocument": [
+        "AC071",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }

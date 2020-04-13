@@ -805,6 +805,78 @@
       "verificationDocument": [],
       "active": "true",
       "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NH30B",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC033",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NH40B",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC034",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NH50B",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC035",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NHA50",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC036",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.MH50B",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC041",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.MHA50",
+      "uom": "BED",
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC042",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }
