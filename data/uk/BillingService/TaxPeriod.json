@@ -230,8 +230,8 @@
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "FN.PF_transfer_(Accounts)",
-      "code": "FNPFTRANSFER(ACCOUNTS)",
+      "service": "FN.PF_transfer_Accounts",
+      "code": "FNPFTRANSFERACCOUNTS",
       "financialYear": "2014-24"
     },
     {
@@ -430,8 +430,8 @@
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "HL.Plastic/_polythene_Challan",
-      "code": "HLPLASTIC/POLYTHENECHALLAN",
+      "service": "HL.Plastic_polythene_Challan",
+      "code": "HLPLASTICPOLYTHENECHALLAN",
       "financialYear": "2014-24"
     },
     {
