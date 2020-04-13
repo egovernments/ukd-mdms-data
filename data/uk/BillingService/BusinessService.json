@@ -90,7 +90,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "ADMIN Fees.Parking during election",
@@ -104,7 +104,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "ADMIN Fees.Road show",
@@ -118,7 +118,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "ADMIN Fees.other show fee",
@@ -132,7 +132,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "ADMIN Fees.RTI",
@@ -146,7 +146,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "ADMIN Fees.No Due Certificate fees",
@@ -160,7 +160,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Advertisement Tax.Hoardings",
@@ -174,7 +174,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Advertisement Tax.Unipolls",
@@ -188,7 +188,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Advertisement Tax.Wall Paint Advertisement",
@@ -202,7 +202,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Advertisement Tax.Gas Balloon Advertisement",
@@ -216,7 +216,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Challans.Rehri Challan",
@@ -230,7 +230,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Challans.Cattle Challan",
@@ -244,7 +244,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Challans.Dairy Animals Challan",
@@ -258,7 +258,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Leave encashment and gratuity",
@@ -272,7 +272,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Advance Provident Fund",
@@ -286,11 +286,11 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.PF transfer (Accounts)",
-      "code": "FN.PF_transfer_(Accounts)",
+      "businessService": "Finance Fees.PF transfer Accounts",
+      "code": "FN.PF_transfer_Accounts",
       "collectionModesNotAllowed": [
         "CREDIT",
         "DEBIT",
@@ -300,7 +300,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Recovery employee_contractor",
@@ -314,7 +314,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Grants cheque",
@@ -328,7 +328,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.CPF received check",
@@ -342,7 +342,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Tender Form Fee",
@@ -356,7 +356,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Tender Earnest Money Deposit",
@@ -370,7 +370,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Finance Fees.Tender Security Deposit Fee",
@@ -384,7 +384,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
@@ -398,7 +398,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "OTHER.Misc Challans",
@@ -412,7 +412,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "OTHER.Registery and bank loan",
@@ -426,7 +426,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.ULB Shops Rent",
@@ -440,7 +440,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.ULB Land Rent",
@@ -454,7 +454,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Nazool Land Rent",
@@ -468,7 +468,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.ULB  Parking Fee",
@@ -482,7 +482,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Jamin Theka",
@@ -496,7 +496,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Telecom Tower Annual Rent",
@@ -510,7 +510,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Community Centre Booking Fee",
@@ -524,7 +524,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Commercial Use of Municipal Land",
@@ -538,7 +538,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Rents.Street Vendor",
@@ -552,7 +552,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Licence Pure food",
@@ -566,7 +566,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Dead animals contract",
@@ -580,7 +580,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Sanitation Tax",
@@ -594,7 +594,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Birth Registration Fees",
@@ -608,7 +608,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Death Registration Fees",
@@ -622,7 +622,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Dumping garbage Challan",
@@ -636,11 +636,11 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
-      "businessService": "Health.Plastic/ polythene Challan",
-      "code": "HL.Plastic/_polythene_Challan",
+      "businessService": "Health.Plastic polythene Challan",
+      "code": "HL.Plastic_polythene_Challan",
       "collectionModesNotAllowed": [
         "CREDIT",
         "DEBIT",
@@ -650,7 +650,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Dengue Challan",
@@ -664,7 +664,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Littering Challan",
@@ -678,7 +678,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Construction Waste",
@@ -692,7 +692,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Health.Demolition Waste",
@@ -706,7 +706,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Taxes.No Dues Certificate",
@@ -720,7 +720,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Taxes.Mutation Fees",
@@ -734,7 +734,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Taxes.Naqal Fees",
@@ -748,7 +748,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Taxes.Encroachment Challan ",
@@ -762,7 +762,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
@@ -776,7 +776,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Tehbazaari Fee.Challan Under section 156",
@@ -790,7 +790,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     },
     {
       "businessService": "Cess.Cess",
@@ -804,7 +804,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "ADHOC"
+      "type": "Adhoc"
     }
   ]
 }
