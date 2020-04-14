@@ -181,6 +181,18 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.ANML",
+      "uom": "EACH",
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }
