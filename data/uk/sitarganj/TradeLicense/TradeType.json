@@ -301,6 +301,54 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.ALH",
+      "uom": "ANML",
+      "applicationDocument": [
+        "AC071",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.PACQA",
+      "uom": "ANML",
+      "applicationDocument": [
+        "AC071",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.PKSAG",
+      "uom": "ANML",
+      "applicationDocument": [
+        "AC071",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.DKBAC",
+      "uom": "ANML",
+      "applicationDocument": [
+        "AC071",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }
