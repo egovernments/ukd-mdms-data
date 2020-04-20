@@ -6164,7 +6164,8 @@
 			"navigationURL": "integration/dss/ulb-home",
 			"leftIcon": "places:business-center",
 			"rightIcon": ""
-		},{
+		},
+	  {
 			"id": 1865,
 			"name": "Dashboard ULB Overview",
 			"url": "url",
@@ -6178,6 +6179,55 @@
 			"navigationURL": "integration/dss/ulb-overview",
 			"leftIcon": "places:business-center",
 			"rightIcon": ""
-		}
+		},
+	        {
+     "id": 1866,
+    "name": "rainmaker-common-uc",
+    "url": "card",
+    "displayName": "Miscellaneous Collection",
+    "orderNumber": 2,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "code": "",
+    "path": "",
+    "navigationURL": "uc/search",
+    "leftIcon": "image:collections-bookmark",
+    "rightIcon": "",
+    "queryParams": ""
+  },
+	  {
+    "id": 1867,
+    "name": "rainmaker-uc-search",
+    "url": "quickAction",
+    "displayName": "Search Miscellaneous Collection",
+    "orderNumber": 5,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "code": "",
+    "path": "",
+    "navigationURL": "uc/search",
+    "leftIcon": "places:business-center",
+    "rightIcon": "",
+    "queryParams": ""
+  },
+  {
+    "id": 1868,
+    "name": "rainmaker-uc-newcollection",
+    "url": "quickAction",
+    "displayName": "New Miscellaneous Collection",
+    "orderNumber": 5,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "code": "",
+    "path": "",
+    "navigationURL": "uc/newCollection",
+    "leftIcon": "places:business-center",
+    "rightIcon": "",
+    "queryParams": ""
+  },
+	  
   ]
 }
