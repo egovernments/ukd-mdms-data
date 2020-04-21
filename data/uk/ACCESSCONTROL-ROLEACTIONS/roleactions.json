@@ -5895,12 +5895,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 1866
-      "actioncode" : "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 1867,
       "actioncode": "",
       "tenantId": "uk"
@@ -5922,7 +5916,14 @@
       "actionid": 1866,
       "actioncode": "",
       "tenantId": "uk"
-    },{
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1867,
       "actioncode": "",
