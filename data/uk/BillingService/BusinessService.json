@@ -11,7 +11,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": true,
+      "hasOnlinePayment":false
     },
     {
       "businessService": "WaterCharges",
