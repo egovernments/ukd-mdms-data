@@ -139,5 +139,14 @@
 			}
 		  }
 		}
-  }]
+  },
+  "ui-localisation": {
+      "iframe-routes": {
+        "localization": {
+          "routePath": "/ui-localisation",
+          "isOrigin": true
+        }
+      }
+   }
+    }]
 }
