@@ -2,269 +2,291 @@
   "tenantId": "uk.mahuakheraganj",
   "moduleName": "TradeLicense",
   "TradeType": [
-    {
-      "code": "TRADE.LIVESTOCK.MS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.FS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.KACS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.PMS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIQUOR.CLS",
-      "uom": null,
-      "applicationDocument": [
-        "AC024",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIQUOR.FLS",
-      "uom": null,
-      "applicationDocument": [
-        "AC024",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.INDUSTRY.TR36",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.INDUSTRY.BKRYP",
-      "uom": null,
-      "applicationDocument": [
-        "AC028",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.PAAN",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.KATEAS",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.JUST",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.MS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.FS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.KACS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK.PMS",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIQUOR.CLS",
-      "uom": null,
-      "applicationDocument": [
-        "AC024",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIQUOR.FLS",
-      "uom": null,
-      "applicationDocument": [
-        "AC024",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.INDUSTRY.TR36",
-      "uom": null,
-      "applicationDocument": [
-        "AC020",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.INDUSTRY.BKRYP",
-      "uom": null,
-      "applicationDocument": [
-        "AC028",
-        "AADPANCARD",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.PAAN",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.KATEAS",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.JUST",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "AC056",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    }
-  ]
+  {
+    "code": "TRADE.INDUSTRY.TR36",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.BKRYP",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC028",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC028",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.KATEAS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.JUST",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.FS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.KACS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.PMS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC020",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC024",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC024",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC024",
+          "AADPANCARD",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC024",
+          "AADPANCARD",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
 }
