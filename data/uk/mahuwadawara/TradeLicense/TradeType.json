@@ -6,23 +6,9 @@
     "code": "TRADE.SHOP.TR32",
     "uom": null,
     "applicationDocument": [
-      {
-        "applicationType": "NEW",
-        "documentList": [
-          "AC053 ",
-          "AADPANCARD ",
-          "OWNERPHOTO"
-        ]
-      },
-      {
-        "applicationType": "RENEWAL",
-        "documentList": [
-          "AC053 ",
-          "AADPANCARD ",
-          "OWNERPHOTO",
-          "OLDLICENSENO"
-        ]
-      }
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
     ],
     "verificationDocument": [],
     "active": true,
@@ -32,23 +18,9 @@
     "code": "TRADE.TRANSPORT.RITBHW",
     "uom": null,
     "applicationDocument": [
-      {
-        "applicationType": "NEW",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO"
-        ]
-      },
-      {
-        "applicationType": "RENEWAL",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO",
-          "OLDLICENSENO"
-        ]
-      }
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
     ],
     "verificationDocument": [],
     "active": true,
@@ -58,23 +30,9 @@
     "code": "TRADE.SHOP.TR61",
     "uom": null,
     "applicationDocument": [
-      {
-        "applicationType": "NEW",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO"
-        ]
-      },
-      {
-        "applicationType": "RENEWAL",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO",
-          "OLDLICENSENO"
-        ]
-      }
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
     ],
     "verificationDocument": [],
     "active": true,
@@ -84,23 +42,57 @@
     "code": "TRADE.PETROLEUM.PDR",
     "uom": null,
     "applicationDocument": [
-      {
-        "applicationType": "NEW",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO"
-        ]
-      },
-      {
-        "applicationType": "RENEWAL",
-        "documentList": [
-          "AC053",
-          "AADPANCARD ",
-          "OWNERPHOTO",
-          "OLDLICENSENO"
-        ]
-      }
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR32",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RITBHW",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR61",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PDR",
+    "uom": null,
+    "applicationDocument": [
+      "AC053",
+      "AADPANCARD",
+      "OWNERPHOTO"
     ],
     "verificationDocument": [],
     "active": true,
