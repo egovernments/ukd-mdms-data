@@ -2,293 +2,629 @@
   "tenantId": "uk.haridwar",
   "moduleName": "TradeLicense",
   "TradeType": [
-    {
-      "code": "TRADE.HOTELS.HL30B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.HL60B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.HL90B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.HA90B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.3STR",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.5STR",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.NH20B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.NHA20",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.MH20B",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.MHA20",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.PVTH",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.PC",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.XRYC",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.DNTC",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.PVTC",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.AU2S",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "APPLICATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.AU4S",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "APPLICATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.AU7S",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "APPLICATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.MBUS",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "APPLICATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.BUS",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "APPLICATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.TBHW",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAR",
-        "3PSPHOTOS",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.RIKOR",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAR",
-        "3PSPHOTOS",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.RIK",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAR",
-        "3PSPHOTOS",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.TRANSPORT.THELA",
-      "uom": null,
-      "applicationDocument": [
-        "AADHAR",
-        "3PSPHOTOS",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    }
-  ]
+  {
+    "code": "TRADE.HOTELS.HL30B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL60B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL90B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HA90B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.3STR",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.5STR",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NH20B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NHA20",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.MH20B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.MHA20",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PVTH",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.XRYC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.DNTC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PVTC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.AU2S",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.AU4S",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.AU7S",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.MBUS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.BUS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "IDPROOF",
+          "APPLICATION",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.TBHW",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIKOR",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIK",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.THELA",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADHAR",
+          "3PSPHOTOS",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
 }
