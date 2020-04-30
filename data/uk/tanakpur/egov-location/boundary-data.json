@@ -1,0 +1,432 @@
+{
+  "tenantId": "uk.tanakpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tanakpur",
+        "localname": "tanakpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.tanakpur",
+        "children": [
+          {
+            "id": "4f4af1ee-5ee8-4f20-9a2d-32d73a05dd8c",
+            "boundaryNum": 1,
+            "name": "Tanakpur",
+            "localname": "Tanakpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "2da34aa4-63a6-4ca1-aca1-4ce12f6ddfbd",
+                "boundaryNum": 1,
+                "name": "Purana Tahsil Area",
+                "localname": "Purana Tahsil Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17660",
+                "children": [
+                  {
+                    "id": "71190046-9419-43a2-a2cd-58b72d3f9618",
+                    "boundaryNum": 1,
+                    "name": "Sharda Chungi - Purana Tahsil Area",
+                    "localname": "Sharda Chungi - Purana Tahsil Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44c4c3de-081f-4a55-9780-7b0b3da3998f",
+                    "boundaryNum": 1,
+                    "name": "Purana Tahsil Area - Purana Tahsil Area",
+                    "localname": "Purana Tahsil Area - Purana Tahsil Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60096d7e-69a8-4999-8311-43fde2f5a32b",
+                "boundaryNum": 1,
+                "name": "Masjid Area",
+                "localname": "Masjid Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17661",
+                "children": [
+                  {
+                    "id": "dad32f67-03e1-402b-b5e3-805a6b1c3f52",
+                    "boundaryNum": 1,
+                    "name": "Masjid Area - Masjid Area",
+                    "localname": "Masjid Area - Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eeeeace8-1e13-477c-9e48-f9b939c19c6d",
+                    "boundaryNum": 1,
+                    "name": "Sharda colony - Masjid Area",
+                    "localname": "Sharda colony - Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5439e283-8cb9-47fc-88c7-13c6a44f57fb",
+                    "boundaryNum": 1,
+                    "name": "Chand Colony - Masjid Area",
+                    "localname": "Chand Colony - Masjid Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27ac1c56-0e7f-4a32-b467-405be0778ed6",
+                "boundaryNum": 1,
+                "name": "Verma Line",
+                "localname": "Verma Line",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17662",
+                "children": [
+                  {
+                    "id": "2b9e3be4-7b5f-4cd5-8172-108634c9152c",
+                    "boundaryNum": 1,
+                    "name": "Verma Line - Verma Line",
+                    "localname": "Verma Line - Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "855a16f4-3c16-41db-a3c7-2e1087b8847f",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar - Verma Line",
+                    "localname": "Ambedkar Nagar - Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f5e02051-ca52-4e97-905b-c2896834257d",
+                    "boundaryNum": 1,
+                    "name": "Bangali Colony - Verma Line",
+                    "localname": "Bangali Colony - Verma Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9037fa39-4bea-4b48-afff-91f2f2aa9397",
+                "boundaryNum": 1,
+                "name": "Railway Area",
+                "localname": "Railway Area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17663",
+                "children": [
+                  {
+                    "id": "79553404-e032-472d-831f-456a464a2a9f",
+                    "boundaryNum": 1,
+                    "name": "Railway Area - Railway Area",
+                    "localname": "Railway Area - Railway Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2eac907b-558c-4c3b-ab56-a7109c9f9386",
+                    "boundaryNum": 1,
+                    "name": "Nayi Tahsil Area - Railway Area",
+                    "localname": "Nayi Tahsil Area - Railway Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53510f96-c9ec-4dff-98fd-de80ba9b8168",
+                "boundaryNum": 1,
+                "name": "New Town",
+                "localname": "New Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17664",
+                "children": [
+                  {
+                    "id": "544bb8bd-ab07-4a40-80bf-ad3857bc9458",
+                    "boundaryNum": 1,
+                    "name": "New Town - New Town",
+                    "localname": "New Town - New Town",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1283dc8e-9358-486d-8cfb-d5dcbf6896a5",
+                "boundaryNum": 1,
+                "name": "Karmchari Colony",
+                "localname": "Karmchari Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17665",
+                "children": [
+                  {
+                    "id": "a69d066c-ffa9-45b0-8f6f-e789c510555a",
+                    "boundaryNum": 1,
+                    "name": "Karmchari Colony - Karmchari Colony",
+                    "localname": "Karmchari Colony - Karmchari Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7582b75d-66fa-4250-98a2-e9278bb0541a",
+                    "boundaryNum": 1,
+                    "name": "Kumaun warkshop Area - Karmchari Colony",
+                    "localname": "Kumaun warkshop Area - Karmchari Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b9b51f0-653e-490f-95ca-3b6aa770c0f5",
+                "boundaryNum": 1,
+                "name": "Lal Imli Padav",
+                "localname": "Lal Imli Padav",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17666",
+                "children": [
+                  {
+                    "id": "063b8d7a-5dbb-47e2-9de5-c0bb96d0eafe",
+                    "boundaryNum": 1,
+                    "name": "Lal Imli Padav - Lal Imli Padav",
+                    "localname": "Lal Imli Padav - Lal Imli Padav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fba48193-fb1e-48e2-a584-3b977826ca50",
+                    "boundaryNum": 1,
+                    "name": "Shivalay Area - Lal Imli Padav",
+                    "localname": "Shivalay Area - Lal Imli Padav",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20e277f4-ffac-4d59-95a3-ffe785b84f3a",
+                "boundaryNum": 1,
+                "name": "Main Market",
+                "localname": "Main Market",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17667",
+                "children": [
+                  {
+                    "id": "2f3309de-edb2-4440-87f1-81d64e5ff1e7",
+                    "boundaryNum": 1,
+                    "name": "Bada Bajar - Main Market",
+                    "localname": "Bada Bajar - Main Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ee88f4c-2bd6-40b7-b393-876c7d3b1948",
+                "boundaryNum": 1,
+                "name": "Ghasiyara Mandi",
+                "localname": "Ghasiyara Mandi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17668",
+                "children": [
+                  {
+                    "id": "76e841ff-18d5-47e4-8f20-861e4d4f5409",
+                    "boundaryNum": 1,
+                    "name": "Ghasiyara Mandi - Ghasiyara Mandi",
+                    "localname": "Ghasiyara Mandi - Ghasiyara Mandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "55f9d70f-66d9-47be-8d59-c8cb22bbcab3",
+                    "boundaryNum": 1,
+                    "name": "Nayak kheda - Ghasiyara Mandi",
+                    "localname": "Nayak kheda - Ghasiyara Mandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ce7fd76-e7f7-4e10-877a-68ab9356ce8e",
+                "boundaryNum": 1,
+                "name": "Karki Farm",
+                "localname": "Karki Farm",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296577",
+                "children": [
+                  {
+                    "id": "f9911655-7f7f-4b6d-ad07-a20da565fbfd",
+                    "boundaryNum": 1,
+                    "name": "Karki Farm - Karki Farm",
+                    "localname": "Karki Farm - Karki Farm",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "21d391ab-9a83-4ac7-a821-7998bf89658a",
+                    "boundaryNum": 1,
+                    "name": "Van Bibhag Colony - Karki Farm",
+                    "localname": "Van Bibhag Colony - Karki Farm",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60178393-45a0-4407-b5e9-242f333d4219",
+                "boundaryNum": 1,
+                "name": "Vishnupuri Colony",
+                "localname": "Vishnupuri Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296578",
+                "children": [
+                  {
+                    "id": "d8b1f3b3-0e06-4e18-af0c-1082f4f972b7",
+                    "boundaryNum": 1,
+                    "name": "Mohanpur - Vishnupuri Colony",
+                    "localname": "Mohanpur - Vishnupuri Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "132518b3-fae4-4ca2-9eb1-40469ae1b109",
+                    "boundaryNum": 1,
+                    "name": "Vishnupuri Colony - Vishnupuri Colony",
+                    "localname": "Vishnupuri Colony - Vishnupuri Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

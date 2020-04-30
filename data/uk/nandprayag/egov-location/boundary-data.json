@@ -1,0 +1,576 @@
+{
+  "tenantId": "uk.nandprayag",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "nandprayag",
+        "localname": "nandprayag",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.nandprayag",
+        "children": [
+          {
+            "id": "b6277b9e-e845-43a6-891d-391474d27e29",
+            "boundaryNum": 1,
+            "name": "Nandprayag",
+            "localname": "Nandprayag",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "65f45ff2-3b4e-4b32-832c-406dc32ac27f",
+                "boundaryNum": 1,
+                "name": "Muniyali",
+                "localname": "Muniyali",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16094",
+                "children": [
+                  {
+                    "id": "03b64d60-877f-4a40-acef-797cb25119d0",
+                    "boundaryNum": 1,
+                    "name": "Bazaar - Muniyali",
+                    "localname": "Bazaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2627c540-be45-4665-ae48-888c9067a1a2",
+                    "boundaryNum": 1,
+                    "name": "Bhaatkhola - Muniyali",
+                    "localname": "Bhaatkhola - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "932ff929-5951-40b1-a958-a53f84cc1be0",
+                    "boundaryNum": 1,
+                    "name": "Siroli - Muniyali",
+                    "localname": "Siroli - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "442b3977-0094-429f-b698-f8dc516a9828",
+                    "boundaryNum": 1,
+                    "name": "Baldauda - Muniyali",
+                    "localname": "Baldauda - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9eab3c66-d09f-465f-8e90-2a0616a7f7d9",
+                    "boundaryNum": 1,
+                    "name": "Taunidhaar - Muniyali",
+                    "localname": "Taunidhaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9d5a6d90-e198-4368-af32-b4eefa3811d5",
+                    "boundaryNum": 1,
+                    "name": "Bazaar - Muniyali",
+                    "localname": "Bazaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff3ab37a-d823-45d9-a13e-e199e06340bd",
+                    "boundaryNum": 1,
+                    "name": "Bhaatkhola - Muniyali",
+                    "localname": "Bhaatkhola - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da93c20c-65d2-4762-976d-4e5aadf1e794",
+                    "boundaryNum": 1,
+                    "name": "Siroli - Muniyali",
+                    "localname": "Siroli - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d4c91b09-e855-4773-af74-7d50580c63dd",
+                    "boundaryNum": 1,
+                    "name": "Baldauda - Muniyali",
+                    "localname": "Baldauda - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bc7a015-6c33-4609-a586-bb4baf4aa4d4",
+                    "boundaryNum": 1,
+                    "name": "Taunidhaar - Muniyali",
+                    "localname": "Taunidhaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1760a8f-52fd-4bb5-88c1-e54df65c2c27",
+                "boundaryNum": 1,
+                "name": "Shakuntala Bagad",
+                "localname": "Shakuntala Bagad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16095",
+                "children": [
+                  {
+                    "id": "4d849c93-66da-465c-b49c-7aa5b87aaeab",
+                    "boundaryNum": 1,
+                    "name": "Muniyali - Shakuntala Bagad",
+                    "localname": "Muniyali - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f390596-8149-41c2-9156-c159c665bdae",
+                    "boundaryNum": 1,
+                    "name": "Mangroli - Shakuntala Bagad",
+                    "localname": "Mangroli - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e29c84d8-622d-49dc-953d-eb07c3952dca",
+                    "boundaryNum": 1,
+                    "name": "Nandprayag Bagad - Shakuntala Bagad",
+                    "localname": "Nandprayag Bagad - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc4e4efa-9835-4beb-bd09-ae67c662a7af",
+                    "boundaryNum": 1,
+                    "name": "Muniyali - Shakuntala Bagad",
+                    "localname": "Muniyali - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b51c712-a463-4977-a70f-f282ec2a6f4f",
+                    "boundaryNum": 1,
+                    "name": "Mangroli - Shakuntala Bagad",
+                    "localname": "Mangroli - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8083cb62-a33a-4c5e-9801-7892ae6b6d0b",
+                    "boundaryNum": 1,
+                    "name": "Nandprayag Bagad - Shakuntala Bagad",
+                    "localname": "Nandprayag Bagad - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14ef7a12-10ca-4083-9a1b-01b9abfc6953",
+                "boundaryNum": 1,
+                "name": "Upper Bazar",
+                "localname": "Upper Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16096",
+                "children": [
+                  {
+                    "id": "07e8fa01-9938-410d-8d04-acbd9ea24a71",
+                    "boundaryNum": 1,
+                    "name": "Shakuntala Bagad - Upper Bazar",
+                    "localname": "Shakuntala Bagad - Upper Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d1eaf348-1d60-4a6e-960d-37e4bd86567a",
+                    "boundaryNum": 1,
+                    "name": "Sonla - Upper Bazar",
+                    "localname": "Sonla - Upper Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c5cb526-dad7-463c-bc70-fc545add14f0",
+                "boundaryNum": 1,
+                "name": "Chandika Mohalla",
+                "localname": "Chandika Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16097",
+                "children": [
+                  {
+                    "id": "bd17d3c9-5c14-443e-b7d5-9444073a5275",
+                    "boundaryNum": 1,
+                    "name": "Main Bazaar - Chandika Mohalla",
+                    "localname": "Main Bazaar - Chandika Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1380479b-baf8-4bee-9ac3-7ef803e10d6a",
+                    "boundaryNum": 1,
+                    "name": "Pursari - Chandika Mohalla",
+                    "localname": "Pursari - Chandika Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9ba40d77-ad8b-4f90-a556-99f67a699e92",
+                "boundaryNum": 1,
+                "name": "Muniyali",
+                "localname": "Muniyali",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16094",
+                "children": [
+                  {
+                    "id": "03b64d60-877f-4a40-acef-797cb25119d0",
+                    "boundaryNum": 1,
+                    "name": "Bazaar - Muniyali",
+                    "localname": "Bazaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2627c540-be45-4665-ae48-888c9067a1a2",
+                    "boundaryNum": 1,
+                    "name": "Bhaatkhola - Muniyali",
+                    "localname": "Bhaatkhola - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "932ff929-5951-40b1-a958-a53f84cc1be0",
+                    "boundaryNum": 1,
+                    "name": "Siroli - Muniyali",
+                    "localname": "Siroli - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "442b3977-0094-429f-b698-f8dc516a9828",
+                    "boundaryNum": 1,
+                    "name": "Baldauda - Muniyali",
+                    "localname": "Baldauda - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9eab3c66-d09f-465f-8e90-2a0616a7f7d9",
+                    "boundaryNum": 1,
+                    "name": "Taunidhaar - Muniyali",
+                    "localname": "Taunidhaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9d5a6d90-e198-4368-af32-b4eefa3811d5",
+                    "boundaryNum": 1,
+                    "name": "Bazaar - Muniyali",
+                    "localname": "Bazaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff3ab37a-d823-45d9-a13e-e199e06340bd",
+                    "boundaryNum": 1,
+                    "name": "Bhaatkhola - Muniyali",
+                    "localname": "Bhaatkhola - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da93c20c-65d2-4762-976d-4e5aadf1e794",
+                    "boundaryNum": 1,
+                    "name": "Siroli - Muniyali",
+                    "localname": "Siroli - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d4c91b09-e855-4773-af74-7d50580c63dd",
+                    "boundaryNum": 1,
+                    "name": "Baldauda - Muniyali",
+                    "localname": "Baldauda - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bc7a015-6c33-4609-a586-bb4baf4aa4d4",
+                    "boundaryNum": 1,
+                    "name": "Taunidhaar - Muniyali",
+                    "localname": "Taunidhaar - Muniyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58c8eebb-cf85-4898-84f7-2e82bec983f4",
+                "boundaryNum": 1,
+                "name": "Shakuntala Bagad",
+                "localname": "Shakuntala Bagad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16095",
+                "children": [
+                  {
+                    "id": "4d849c93-66da-465c-b49c-7aa5b87aaeab",
+                    "boundaryNum": 1,
+                    "name": "Muniyali - Shakuntala Bagad",
+                    "localname": "Muniyali - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f390596-8149-41c2-9156-c159c665bdae",
+                    "boundaryNum": 1,
+                    "name": "Mangroli - Shakuntala Bagad",
+                    "localname": "Mangroli - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e29c84d8-622d-49dc-953d-eb07c3952dca",
+                    "boundaryNum": 1,
+                    "name": "Nandprayag Bagad - Shakuntala Bagad",
+                    "localname": "Nandprayag Bagad - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc4e4efa-9835-4beb-bd09-ae67c662a7af",
+                    "boundaryNum": 1,
+                    "name": "Muniyali - Shakuntala Bagad",
+                    "localname": "Muniyali - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b51c712-a463-4977-a70f-f282ec2a6f4f",
+                    "boundaryNum": 1,
+                    "name": "Mangroli - Shakuntala Bagad",
+                    "localname": "Mangroli - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8083cb62-a33a-4c5e-9801-7892ae6b6d0b",
+                    "boundaryNum": 1,
+                    "name": "Nandprayag Bagad - Shakuntala Bagad",
+                    "localname": "Nandprayag Bagad - Shakuntala Bagad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9e533187-f388-4ad4-b487-0f3f812cd607",
+                "boundaryNum": 1,
+                "name": "Upper Bazar",
+                "localname": "Upper Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16096",
+                "children": [
+                  {
+                    "id": "07e8fa01-9938-410d-8d04-acbd9ea24a71",
+                    "boundaryNum": 1,
+                    "name": "Shakuntala Bagad - Upper Bazar",
+                    "localname": "Shakuntala Bagad - Upper Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d1eaf348-1d60-4a6e-960d-37e4bd86567a",
+                    "boundaryNum": 1,
+                    "name": "Sonla - Upper Bazar",
+                    "localname": "Sonla - Upper Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

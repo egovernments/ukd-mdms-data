@@ -1,0 +1,780 @@
+{
+  "tenantId": "uk.pauri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "pauri",
+        "localname": "pauri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.pauri",
+        "children": [
+          {
+            "id": "c219bb64-5975-4852-ad89-a6ecab8f56f3",
+            "boundaryNum": 1,
+            "name": "Pauri",
+            "localname": "Pauri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "30212934-e926-4a12-9b85-2388549863e9",
+                "boundaryNum": 1,
+                "name": "Circuit house Mohalla Pauri",
+                "localname": "Circuit house Mohalla Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17490",
+                "children": [
+                  {
+                    "id": "0a029547-2d27-4e76-974d-83e52cf994ac",
+                    "boundaryNum": 1,
+                    "name": "Pitr Mohalla - Circuit house Mohalla Pauri",
+                    "localname": "Pitr Mohalla - Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "80f358cf-a560-4729-ae74-4f811acfcc82",
+                    "boundaryNum": 1,
+                    "name": "New bus station - Circuit house Mohalla Pauri",
+                    "localname": "New bus station - Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d446dbcc-54b3-4168-8f92-57d30a6b1da2",
+                    "boundaryNum": 1,
+                    "name": "Bainjwari - Circuit house Mohalla Pauri",
+                    "localname": "Bainjwari - Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b57534af-6dcf-4002-828c-f8bedc65afd4",
+                    "boundaryNum": 1,
+                    "name": "Circuit house Mohalla - Circuit house Mohalla Pauri",
+                    "localname": "Circuit house Mohalla - Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b45e92e-5d11-4c06-ae47-0970a3423cb2",
+                    "boundaryNum": 1,
+                    "name": "Kankaleshwar Mohalla - Circuit house Mohalla Pauri",
+                    "localname": "Kankaleshwar Mohalla - Circuit house Mohalla Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7514e547-1d54-4256-8f09-60b04d817ebc",
+                "boundaryNum": 1,
+                "name": "Civil line Pauri",
+                "localname": "Civil line Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17491",
+                "children": [
+                  {
+                    "id": "88f6a02a-1c1e-447c-84a0-aebcc4b14622",
+                    "boundaryNum": 1,
+                    "name": "civil line Mohalla - Civil line Pauri",
+                    "localname": "civil line Mohalla - Civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "014774ab-0d70-41d7-bb79-98b73d2c28c4",
+                    "boundaryNum": 1,
+                    "name": "hisriya Mohalla - Civil line Pauri",
+                    "localname": "hisriya Mohalla - Civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "66d70195-f1a3-4be8-8e65-3f5bb6574f10",
+                    "boundaryNum": 1,
+                    "name": "tahsil Mohalla - Civil line Pauri",
+                    "localname": "tahsil Mohalla - Civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bbbc5de-a8f1-4a3f-9a5b-608c76a67f71",
+                    "boundaryNum": 1,
+                    "name": "old Pould house Mohalla - Civil line Pauri",
+                    "localname": "old Pould house Mohalla - Civil line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6c7942b-ca1e-4e7b-9259-181220ba49c6",
+                "boundaryNum": 1,
+                "name": "Kandai gou Pauri",
+                "localname": "Kandai gou Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17492",
+                "children": [
+                  {
+                    "id": "d70680e0-ec1d-42c5-a116-d8610886af9c",
+                    "boundaryNum": 1,
+                    "name": "amla quarter kandai road - Kandai gou Pauri",
+                    "localname": "amla quarter kandai road - Kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f473229-cbb3-4f12-a2ed-678a8987835d",
+                    "boundaryNum": 1,
+                    "name": "kandai gou mohalla - Kandai gou Pauri",
+                    "localname": "kandai gou mohalla - Kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "369b476a-6163-41c5-a779-502a051cff4e",
+                    "boundaryNum": 1,
+                    "name": "chwecha gou mohalla - Kandai gou Pauri",
+                    "localname": "chwecha gou mohalla - Kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "24631122-a151-42a3-b0ab-02569db053d1",
+                    "boundaryNum": 1,
+                    "name": "balmiki colony mohalla - Kandai gou Pauri",
+                    "localname": "balmiki colony mohalla - Kandai gou Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74b3b7c1-556d-4487-a23f-997fe4ccbc53",
+                "boundaryNum": 1,
+                "name": "Thana Pauri",
+                "localname": "Thana Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17493",
+                "children": [
+                  {
+                    "id": "e87dc698-a3c5-433c-abc8-3a970efe2c46",
+                    "boundaryNum": 1,
+                    "name": "thana mohalla - Thana Pauri",
+                    "localname": "thana mohalla - Thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a55c9673-465c-435e-aade-e4be6b88ba32",
+                    "boundaryNum": 1,
+                    "name": "diptydhara mohalla - Thana Pauri",
+                    "localname": "diptydhara mohalla - Thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b2ec6e8f-49b3-4771-995f-ba0f03c2e6c2",
+                    "boundaryNum": 1,
+                    "name": "upper bajar mohalla - Thana Pauri",
+                    "localname": "upper bajar mohalla - Thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "afaab702-2f42-46ad-8b49-b5e1e823905d",
+                    "boundaryNum": 1,
+                    "name": "mall road mohalla - Thana Pauri",
+                    "localname": "mall road mohalla - Thana Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d8cc0fd-15b6-4f76-9872-8cbf1aa6a9a5",
+                "boundaryNum": 1,
+                "name": "Dhara road Pauri",
+                "localname": "Dhara road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17494",
+                "children": [
+                  {
+                    "id": "669c606e-b03a-4d1e-b88f-bf6bfa7216c1",
+                    "boundaryNum": 1,
+                    "name": "dhara road mohalla - Dhara road Pauri",
+                    "localname": "dhara road mohalla - Dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ec79eb9-0e8c-462e-8e22-333c3a9e51b2",
+                    "boundaryNum": 1,
+                    "name": "pnt colony - Dhara road Pauri",
+                    "localname": "pnt colony - Dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbe04f30-0e9d-48ee-9a42-c0ef3499b533",
+                    "boundaryNum": 1,
+                    "name": "lower bajar road mohalla - Dhara road Pauri",
+                    "localname": "lower bajar road mohalla - Dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20b59ce1-939c-49a9-8b74-b555f0e64da4",
+                    "boundaryNum": 1,
+                    "name": "new colony lower bajar mohalla - Dhara road Pauri",
+                    "localname": "new colony lower bajar mohalla - Dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9b83724f-24d4-4f82-abf3-6f10685d8f20",
+                    "boundaryNum": 1,
+                    "name": "pauri gou 1 mohalla - Dhara road Pauri",
+                    "localname": "pauri gou 1 mohalla - Dhara road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0dd2e264-7a2d-4c0a-bf58-a7528e786ca1",
+                "boundaryNum": 1,
+                "name": "Police line Pauri",
+                "localname": "Police line Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17495",
+                "children": [
+                  {
+                    "id": "4c8aad79-2b43-4754-a222-c81716a517af",
+                    "boundaryNum": 1,
+                    "name": "tara lodge mohalla - Police line Pauri",
+                    "localname": "tara lodge mohalla - Police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e45c2df-9c58-4426-a76b-999eb0998674",
+                    "boundaryNum": 1,
+                    "name": "hospital mohalla - Police line Pauri",
+                    "localname": "hospital mohalla - Police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4bd7a7c3-aae5-41e9-a6a9-253cbd961555",
+                    "boundaryNum": 1,
+                    "name": "police line mohalla - Police line Pauri",
+                    "localname": "police line mohalla - Police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "190805c9-f92a-4d19-87d2-38a7f296e0c5",
+                    "boundaryNum": 1,
+                    "name": "kandoliya pnt mohalla - Police line Pauri",
+                    "localname": "kandoliya pnt mohalla - Police line Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f61b6e21-9796-472a-9228-186cdd0a8517",
+                "boundaryNum": 1,
+                "name": "Vikas marg Pauri",
+                "localname": "Vikas marg Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17496",
+                "children": [
+                  {
+                    "id": "3259b480-8bd2-4855-83a2-a68175be8c6e",
+                    "boundaryNum": 1,
+                    "name": "power house mohalla - Vikas marg Pauri",
+                    "localname": "power house mohalla - Vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5f58d12a-f248-4ca6-996e-3d2b4bbacf41",
+                    "boundaryNum": 1,
+                    "name": "vikas marg mohalla - Vikas marg Pauri",
+                    "localname": "vikas marg mohalla - Vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "39fbee5b-16d8-4a9a-b872-7f51846e1f34",
+                    "boundaryNum": 1,
+                    "name": "bus station kotdwar road - Vikas marg Pauri",
+                    "localname": "bus station kotdwar road - Vikas marg Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "146eccb6-c6f6-4ea9-ab69-c730af96ad53",
+                "boundaryNum": 1,
+                "name": "Bus station srinagar road Pauri",
+                "localname": "Bus station srinagar road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17497",
+                "children": [
+                  {
+                    "id": "070ca7e5-b533-4c4e-a1f4-a80e9ebe27ec",
+                    "boundaryNum": 1,
+                    "name": "srinagar road mohalla - Bus station srinagar road Pauri",
+                    "localname": "srinagar road mohalla - Bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b223be9-d926-45f5-a55e-fce7c239e869",
+                    "boundaryNum": 1,
+                    "name": "bus station srinagar road mohalla - Bus station srinagar road Pauri",
+                    "localname": "bus station srinagar road mohalla - Bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0492adc5-b8c6-48ff-92b9-a232355ccb6d",
+                    "boundaryNum": 1,
+                    "name": "laxmi narayan road mohalla - Bus station srinagar road Pauri",
+                    "localname": "laxmi narayan road mohalla - Bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2c2e69a9-ad59-437b-abd6-2f5e6967a692",
+                    "boundaryNum": 1,
+                    "name": "messmore road mohalla - Bus station srinagar road Pauri",
+                    "localname": "messmore road mohalla - Bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ceae7664-e994-4837-b5aa-7ff03482db37",
+                    "boundaryNum": 1,
+                    "name": "turist mohalla - Bus station srinagar road Pauri",
+                    "localname": "turist mohalla - Bus station srinagar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "865f1586-c34e-4222-b769-0758e6953b08",
+                "boundaryNum": 1,
+                "name": "Satpal dharmshala Pauri",
+                "localname": "Satpal dharmshala Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17498",
+                "children": [
+                  {
+                    "id": "b1345613-d003-4972-a1a1-64231fd9a45f",
+                    "boundaryNum": 1,
+                    "name": "pauri gou 2 - Satpal dharmshala Pauri",
+                    "localname": "pauri gou 2 - Satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84230fcc-1e7a-40d3-8b91-4cab85ef7765",
+                    "boundaryNum": 1,
+                    "name": "satpal dharmshala mohalla - Satpal dharmshala Pauri",
+                    "localname": "satpal dharmshala mohalla - Satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ef9db2b-b093-4230-9de7-88d7c9c751ac",
+                    "boundaryNum": 1,
+                    "name": "timli gou mohalla - Satpal dharmshala Pauri",
+                    "localname": "timli gou mohalla - Satpal dharmshala Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6e44dcf5-7537-43c6-945c-d38ebedc68a9",
+                "boundaryNum": 1,
+                "name": "Hanuman mandir Pauri",
+                "localname": "Hanuman mandir Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17499",
+                "children": [
+                  {
+                    "id": "9a8d9f4e-9154-4fb4-9906-65f7476e59fd",
+                    "boundaryNum": 1,
+                    "name": "nagdev mohalla - Hanuman mandir Pauri",
+                    "localname": "nagdev mohalla - Hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b6c1155b-16c5-4d74-acb9-3f79053d1813",
+                    "boundaryNum": 1,
+                    "name": "trening center upper chopra - Hanuman mandir Pauri",
+                    "localname": "trening center upper chopra - Hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84849d07-a371-4483-a421-107c0405d651",
+                    "boundaryNum": 1,
+                    "name": "hanuman mandir mohalla - Hanuman mandir Pauri",
+                    "localname": "hanuman mandir mohalla - Hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa51fe33-b6a7-4786-8ff1-da71abf7941a",
+                    "boundaryNum": 1,
+                    "name": "mission chopra mohalla - Hanuman mandir Pauri",
+                    "localname": "mission chopra mohalla - Hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d6268e85-c2a2-4e09-b8b5-d1002c1f7640",
+                    "boundaryNum": 1,
+                    "name": "lower chopra mohalla - Hanuman mandir Pauri",
+                    "localname": "lower chopra mohalla - Hanuman mandir Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "142a6c68-52f4-482c-8e25-503460b74498",
+                "boundaryNum": 1,
+                "name": "Petrol pum kotdwar road Pauri",
+                "localname": "Petrol pum kotdwar road Pauri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17500",
+                "children": [
+                  {
+                    "id": "a6cfd15e-9209-4eb1-898d-dc28130f5b51",
+                    "boundaryNum": 1,
+                    "name": "petrol pum kotdwar road mohalla - Petrol pum kotdwar road Pauri",
+                    "localname": "petrol pum kotdwar road mohalla - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eea62200-0098-45b4-a32b-1cc5bd28e23d",
+                    "boundaryNum": 1,
+                    "name": "malli rai mohalla - Petrol pum kotdwar road Pauri",
+                    "localname": "malli rai mohalla - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce5075d7-c2d5-463f-8fbf-37a62b8810c2",
+                    "boundaryNum": 1,
+                    "name": "prem nagar mohalla - Petrol pum kotdwar road Pauri",
+                    "localname": "prem nagar mohalla - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0521cc93-908a-4510-a0a8-13e297d2625c",
+                    "boundaryNum": 1,
+                    "name": "bichli rai mohalla - Petrol pum kotdwar road Pauri",
+                    "localname": "bichli rai mohalla - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b84240a8-b724-41b7-8cba-9a4a41597560",
+                    "boundaryNum": 1,
+                    "name": "charn gou - Petrol pum kotdwar road Pauri",
+                    "localname": "charn gou - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a48cf1d3-1872-4e41-bdf3-23dcda24629b",
+                    "boundaryNum": 1,
+                    "name": "gadoli - Petrol pum kotdwar road Pauri",
+                    "localname": "gadoli - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dfb2986e-c88a-434f-82e9-1b95905bc63c",
+                    "boundaryNum": 1,
+                    "name": "vidoli - Petrol pum kotdwar road Pauri",
+                    "localname": "vidoli - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "41d68e7c-aeb2-4499-8261-cd01494e14ed",
+                    "boundaryNum": 1,
+                    "name": "buakhal mandakhal - Petrol pum kotdwar road Pauri",
+                    "localname": "buakhal mandakhal - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ace2703-77d5-47cb-b3e5-5ede175b966a",
+                    "boundaryNum": 1,
+                    "name": "galla godam saint thomas mohalla - Petrol pum kotdwar road Pauri",
+                    "localname": "galla godam saint thomas mohalla - Petrol pum kotdwar road Pauri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "tenantId": "uk.mahuakheraganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mahuakheraganj",
+        "localname": "mahuakheraganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.mahuakheraganj",
+        "children": [
+          {
+            "id": "6d55edf5-6dbe-445e-bfcf-dbe4f08855c7",
+            "boundaryNum": 1,
+            "name": "Mahuakheraganj",
+            "localname": "Mahuakheraganj",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "8b72bb58-8df9-4797-990a-2fb7b042e81f",
+                "boundaryNum": 1,
+                "name": "vijaynagar",
+                "localname": "vijaynagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18510",
+                "children": [
+                  {
+                    "id": "13713aa6-22cb-47f5-9b12-6591733633a5",
+                    "boundaryNum": 1,
+                    "name": "Vijaynagar - vijaynagar",
+                    "localname": "Vijaynagar - vijaynagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c2f50a0-11b7-4024-b646-702a69666dc7",
+                "boundaryNum": 1,
+                "name": "Aharpura",
+                "localname": "Aharpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18511",
+                "children": [
+                  {
+                    "id": "c7a649dc-0886-4a95-85ff-7f22c582b378",
+                    "boundaryNum": 1,
+                    "name": "Aharpura - Aharpura",
+                    "localname": "Aharpura - Aharpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ea157839-7751-4b47-a494-6e65d170f546",
+                "boundaryNum": 1,
+                "name": "Madayadevi",
+                "localname": "Madayadevi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18512",
+                "children": [
+                  {
+                    "id": "583f21cc-f4f7-4022-8677-5ecd0cf85b87",
+                    "boundaryNum": 1,
+                    "name": "Madayadevi - Madayadevi",
+                    "localname": "Madayadevi - Madayadevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8baf997a-1ac4-4bcf-88d8-25e2842ad644",
+                "boundaryNum": 1,
+                "name": "Adarsh Misri Nagar",
+                "localname": "Adarsh Misri Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18513",
+                "children": [
+                  {
+                    "id": "fbc81962-029b-4de4-831a-f8b09a51abef",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Misri Nagar - Adarsh Misri Nagar",
+                    "localname": "Adarsh Misri Nagar - Adarsh Misri Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55dc9df0-bde8-43e8-b234-59e5474a03a9",
+                "boundaryNum": 1,
+                "name": "Ganj",
+                "localname": "Ganj",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18514",
+                "children": [
+                  {
+                    "id": "c0bf5dd9-40f8-4b68-918d-f2f590c00d6c",
+                    "boundaryNum": 1,
+                    "name": "Ganj - Ganj",
+                    "localname": "Ganj - Ganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5db5a72-0235-4055-8f5d-0c7a10d6d17f",
+                "boundaryNum": 1,
+                "name": "Main bazar",
+                "localname": "Main bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18515",
+                "children": [
+                  {
+                    "id": "de84a0a2-6f55-491a-a334-8bc46ffc7dd2",
+                    "boundaryNum": 1,
+                    "name": "Main bazar - Main bazar",
+                    "localname": "Main bazar - Main bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f51cafb5-afa7-4f9a-ad6a-db4126b12929",
+                "boundaryNum": 1,
+                "name": "Jamamasjid Nagar",
+                "localname": "Jamamasjid Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18516",
+                "children": [
+                  {
+                    "id": "7d69c4d9-392e-40a1-83f5-c67c4a7f3c30",
+                    "boundaryNum": 1,
+                    "name": "Jamamasjid Nagar - Jamamasjid Nagar",
+                    "localname": "Jamamasjid Nagar - Jamamasjid Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb1a7963-37b6-4417-abf1-efa5bbbf5a35",
+                "boundaryNum": 1,
+                "name": "Shakti chauraha",
+                "localname": "Shakti chauraha",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296561",
+                "children": [
+                  {
+                    "id": "a7d0fd4d-3bac-4a6a-aa5b-0c41e85586da",
+                    "boundaryNum": 1,
+                    "name": "Shakti chauraha - Shakti chauraha",
+                    "localname": "Shakti chauraha - Shakti chauraha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1bd5406f-0351-4543-8cac-ddd38f6cc223",
+                "boundaryNum": 1,
+                "name": "Hakeemganj",
+                "localname": "Hakeemganj",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296562",
+                "children": [
+                  {
+                    "id": "ca69c55b-e3d8-4152-8cd2-8d7f702df367",
+                    "boundaryNum": 1,
+                    "name": "Hakeemganj - Hakeemganj",
+                    "localname": "Hakeemganj - Hakeemganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "tenantId": "uk.manglaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "manglaur",
+        "localname": "manglaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.manglaur",
+        "children": [
+          {
+            "id": "f9ecbcd2-2951-4c21-9336-c0113c04512d",
+            "boundaryNum": 1,
+            "name": "Manglaur",
+            "localname": "Manglaur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "9a22ba8e-f8f6-433d-9dda-0685ad1e29ae",
+                "boundaryNum": 1,
+                "name": "CHAMARAN KHALSA",
+                "localname": "CHAMARAN KHALSA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11710",
+                "children": [
+                  {
+                    "id": "83e9bf7e-33d0-4d2a-a7a1-6de932ecc34c",
+                    "boundaryNum": 1,
+                    "name": "MALIYAN - CHAMARAN KHALSA",
+                    "localname": "MALIYAN - CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84368436-d223-4411-bfb9-1ea342ef159d",
+                    "boundaryNum": 1,
+                    "name": "KHALSA - CHAMARAN KHALSA",
+                    "localname": "KHALSA - CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "577fc442-fc46-4c7d-8b79-6fadfb124a87",
+                    "boundaryNum": 1,
+                    "name": "MIRDHGAN - CHAMARAN KHALSA",
+                    "localname": "MIRDHGAN - CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca5e0907-647c-43e2-aee5-3ab89db9e1d0",
+                    "boundaryNum": 1,
+                    "name": "OTHER - CHAMARAN KHALSA",
+                    "localname": "OTHER - CHAMARAN KHALSA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42a58e45-7471-4a3a-b150-41a8c53dcca0",
+                "boundaryNum": 1,
+                "name": "MAJBATA",
+                "localname": "MAJBATA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11711",
+                "children": [
+                  {
+                    "id": "3c43e26b-87d9-490a-8851-8e8abfc1645a",
+                    "boundaryNum": 1,
+                    "name": "MAJBATA - MAJBATA",
+                    "localname": "MAJBATA - MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "184b5c4e-1726-46f3-8819-cf7f2cc6d027",
+                    "boundaryNum": 1,
+                    "name": "MALANPURA - MAJBATA",
+                    "localname": "MALANPURA - MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "81eabdc2-1b53-478c-8236-fef0b25d012f",
+                    "boundaryNum": 1,
+                    "name": "OTHER - MAJBATA",
+                    "localname": "OTHER - MAJBATA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "424457a4-4137-47b9-9fad-47fcf013a2e6",
+                "boundaryNum": 1,
+                "name": "MANAK CHOWK",
+                "localname": "MANAK CHOWK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11712",
+                "children": [
+                  {
+                    "id": "5476a337-8922-44b3-b5cb-958c9e3c60a8",
+                    "boundaryNum": 1,
+                    "name": "MANAKCHOWK - MANAK CHOWK",
+                    "localname": "MANAKCHOWK - MANAK CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f030d68-0252-459d-9e32-3e7669892259",
+                    "boundaryNum": 1,
+                    "name": "OTHER - MANAK CHOWK",
+                    "localname": "OTHER - MANAK CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0f46c548-d289-40d8-8ec3-9410d56336c3",
+                "boundaryNum": 1,
+                "name": "MALANPURA",
+                "localname": "MALANPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11713",
+                "children": [
+                  {
+                    "id": "663f7fcb-20ae-4043-bbd4-f9d031716369",
+                    "boundaryNum": 1,
+                    "name": "MALANPURA - MALANPURA",
+                    "localname": "MALANPURA - MALANPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6d718abf-e3eb-4840-9c9d-e161af360ff5",
+                    "boundaryNum": 1,
+                    "name": "OTHER - MALANPURA",
+                    "localname": "OTHER - MALANPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d68a02b2-ffe7-4b15-a3ab-815387e652a7",
+                "boundaryNum": 1,
+                "name": "PATHANPURA 2ND",
+                "localname": "PATHANPURA 2ND",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11714",
+                "children": [
+                  {
+                    "id": "b6ad312d-03b4-41f2-9cdf-c8ec89b1cf39",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - PATHANPURA 2ND",
+                    "localname": "PATHANPURA - PATHANPURA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8cdbfea2-b06b-4b78-93d7-7f0153da71a4",
+                    "boundaryNum": 1,
+                    "name": "OTHER - PATHANPURA 2ND",
+                    "localname": "OTHER - PATHANPURA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c2e9f38-ed5e-41bd-b7a8-dfd0ea948832",
+                "boundaryNum": 1,
+                "name": "PATHANPURA 1ST",
+                "localname": "PATHANPURA 1ST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11715",
+                "children": [
+                  {
+                    "id": "18bd0354-df8a-4dcd-991e-663e6c8d3823",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - PATHANPURA 1ST",
+                    "localname": "PATHANPURA - PATHANPURA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "140af0af-4ce6-40eb-bdbe-7f0c0d8a620f",
+                    "boundaryNum": 1,
+                    "name": "OTHER - PATHANPURA 1ST",
+                    "localname": "OTHER - PATHANPURA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e9f1dee-36e1-450f-92c8-7483fee15209",
+                "boundaryNum": 1,
+                "name": "BANDARTOL",
+                "localname": "BANDARTOL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11716",
+                "children": [
+                  {
+                    "id": "b5554eac-5505-46f7-ab2a-764e94bfe98d",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - BANDARTOL",
+                    "localname": "BANDARTOL - BANDARTOL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1da34e3-0d0b-42e6-affb-67dfa0a47256",
+                    "boundaryNum": 1,
+                    "name": "OTHER - BANDARTOL",
+                    "localname": "OTHER - BANDARTOL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88507cfc-c424-47a6-8748-ca124d7b0a1c",
+                "boundaryNum": 1,
+                "name": "BRAHAMNAN",
+                "localname": "BRAHAMNAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11717",
+                "children": [
+                  {
+                    "id": "76d43c5a-4578-4266-992d-ad817dfe1868",
+                    "boundaryNum": 1,
+                    "name": "BRAHMNAN - BRAHAMNAN",
+                    "localname": "BRAHMNAN - BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cff01158-dac3-4b82-8ac0-aa1ea6250d0d",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - BRAHAMNAN",
+                    "localname": "BANDARTOL - BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40f53b42-f472-4032-9e13-613effab818f",
+                    "boundaryNum": 1,
+                    "name": "OTHER - BRAHAMNAN",
+                    "localname": "OTHER - BRAHAMNAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "733702dd-3869-417d-9614-bebcf1624cfc",
+                "boundaryNum": 1,
+                "name": "HALKA",
+                "localname": "HALKA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11718",
+                "children": [
+                  {
+                    "id": "de52db32-8182-482b-8d87-ca73e43b9bb1",
+                    "boundaryNum": 1,
+                    "name": "HALKA - HALKA",
+                    "localname": "HALKA - HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38ed4bb7-cf4c-4f05-ab2e-03729956604c",
+                    "boundaryNum": 1,
+                    "name": "KILA - HALKA",
+                    "localname": "KILA - HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3052609-adad-4c34-8ee3-6a38b6695684",
+                    "boundaryNum": 1,
+                    "name": "OTHER - HALKA",
+                    "localname": "OTHER - HALKA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e624c621-da41-47ee-9c8c-e193ce8fca61",
+                "boundaryNum": 1,
+                "name": "KATEHRA",
+                "localname": "KATEHRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11719",
+                "children": [
+                  {
+                    "id": "e44172fd-781a-4725-a82d-6b876c1987b8",
+                    "boundaryNum": 1,
+                    "name": "KATAHDA - KATEHRA",
+                    "localname": "KATAHDA - KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42952b0e-2310-4bec-842e-1281eb9328a7",
+                    "boundaryNum": 1,
+                    "name": "LALBADA - KATEHRA",
+                    "localname": "LALBADA - KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "13a3c2c7-d383-4547-8bd7-abab325ff2ba",
+                    "boundaryNum": 1,
+                    "name": "OTHER - KATEHRA",
+                    "localname": "OTHER - KATEHRA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f6b5b7f-1824-453c-807f-1ffc1dd08925",
+                "boundaryNum": 1,
+                "name": "LALBARA",
+                "localname": "LALBARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11720",
+                "children": [
+                  {
+                    "id": "73479267-55bc-4ec6-b822-2ccc90a1e9a0",
+                    "boundaryNum": 1,
+                    "name": "LALBADA - LALBARA",
+                    "localname": "LALBADA - LALBARA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "251732b5-e3e4-49eb-b8a9-b382f7e7ce63",
+                    "boundaryNum": 1,
+                    "name": "OTHER - LALBARA",
+                    "localname": "OTHER - LALBARA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eb1f9f8a-a532-4d89-8420-9f0b949b494f",
+                "boundaryNum": 1,
+                "name": "PEERGHARI",
+                "localname": "PEERGHARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11721",
+                "children": [
+                  {
+                    "id": "53a2d43a-30ff-498a-bf9d-2006c1e32999",
+                    "boundaryNum": 1,
+                    "name": "PEERGARHI - PEERGHARI",
+                    "localname": "PEERGARHI - PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "822dcd5f-bf0c-4b22-952f-03e13035a08b",
+                    "boundaryNum": 1,
+                    "name": "BAHAR KILA - PEERGHARI",
+                    "localname": "BAHAR KILA - PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cba313d9-4d12-4bd6-bb04-c7702b9ea9a7",
+                    "boundaryNum": 1,
+                    "name": "MALAKPURA - PEERGHARI",
+                    "localname": "MALAKPURA - PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e8f751ef-eca2-4783-bb39-f97445824208",
+                    "boundaryNum": 1,
+                    "name": "OTHER - PEERGHARI",
+                    "localname": "OTHER - PEERGHARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "395276e9-c06a-45ce-8a6c-43c8c32789b2",
+                "boundaryNum": 1,
+                "name": "SARAVGYAN",
+                "localname": "SARAVGYAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11722",
+                "children": [
+                  {
+                    "id": "85d8190e-fee7-4485-9a35-f6f17d4bdd5f",
+                    "boundaryNum": 1,
+                    "name": "SARAVGYAN - SARAVGYAN",
+                    "localname": "SARAVGYAN - SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d889112e-c848-409f-bc6a-2d9a2d15bbf7",
+                    "boundaryNum": 1,
+                    "name": "KAYASTHAN - SARAVGYAN",
+                    "localname": "KAYASTHAN - SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "24d01cdf-06af-4ff6-b1c3-a7c442e5dd72",
+                    "boundaryNum": 1,
+                    "name": "OTHER - SARAVGYAN",
+                    "localname": "OTHER - SARAVGYAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b187f91f-7044-4796-9bc5-660871312927",
+                "boundaryNum": 1,
+                "name": "SARAY AJEEJ",
+                "localname": "SARAY AJEEJ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11723",
+                "children": [
+                  {
+                    "id": "753eb0e4-bce2-4213-9cd2-752b64aa05f1",
+                    "boundaryNum": 1,
+                    "name": "SARAY AJEEJ - SARAY AJEEJ",
+                    "localname": "SARAY AJEEJ - SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ee7b16d-8e0d-4c41-8304-c7f9d4a4de3c",
+                    "boundaryNum": 1,
+                    "name": "MIRDHGAN - SARAY AJEEJ",
+                    "localname": "MIRDHGAN - SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "adc797e7-525e-48f8-b356-524c48da48b6",
+                    "boundaryNum": 1,
+                    "name": "OTHER - SARAY AJEEJ",
+                    "localname": "OTHER - SARAY AJEEJ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "462a32bc-e2bf-4d3b-9158-c3015b96a7fe",
+                "boundaryNum": 1,
+                "name": "BAHAR KILA",
+                "localname": "BAHAR KILA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11724",
+                "children": [
+                  {
+                    "id": "caf9ff7f-8a18-4f61-8b88-c89cd3b112bd",
+                    "boundaryNum": 1,
+                    "name": "BAHAR KILA - BAHAR KILA",
+                    "localname": "BAHAR KILA - BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c4a5060-24f7-448f-b3e7-afbb3aa3fb93",
+                    "boundaryNum": 1,
+                    "name": "PATHANPURA - BAHAR KILA",
+                    "localname": "PATHANPURA - BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62bc3c38-ca03-497e-852c-7fb7612932d1",
+                    "boundaryNum": 1,
+                    "name": "PEERGHARI - BAHAR KILA",
+                    "localname": "PEERGHARI - BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "27cc906e-29f8-43d9-99a9-df5e03a80096",
+                    "boundaryNum": 1,
+                    "name": "OTHER - BAHAR KILA",
+                    "localname": "OTHER - BAHAR KILA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ea14f22-9436-4ff2-b4c4-d4e8def8e637",
+                "boundaryNum": 1,
+                "name": "MALAKPURA",
+                "localname": "MALAKPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296788",
+                "children": [
+                  {
+                    "id": "1cb0eacc-f352-4701-a637-aa778eff4767",
+                    "boundaryNum": 1,
+                    "name": "MALAKPURA - MALAKPURA",
+                    "localname": "MALAKPURA - MALAKPURA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "152392f6-6f71-4d52-a44e-452348d7bc1c",
+                "boundaryNum": 1,
+                "name": "KILA 1ST",
+                "localname": "KILA 1ST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296789",
+                "children": [
+                  {
+                    "id": "00b4ca94-16db-4ae3-8121-f1476935e6ca",
+                    "boundaryNum": 1,
+                    "name": "KILA - KILA 1ST",
+                    "localname": "KILA - KILA 1ST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd7e2af2-5b62-428f-bdf2-200f7a8d31da",
+                "boundaryNum": 1,
+                "name": "KILA 2ND",
+                "localname": "KILA 2ND",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296790",
+                "children": [
+                  {
+                    "id": "edf9f2fb-aaba-4be3-ad38-531095eab425",
+                    "boundaryNum": 1,
+                    "name": "KILA - KILA 2ND",
+                    "localname": "KILA - KILA 2ND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a05dea60-1fd6-4f83-8ffa-3e98d909cf38",
+                "boundaryNum": 1,
+                "name": "TOLI",
+                "localname": "TOLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296791",
+                "children": [
+                  {
+                    "id": "2cb9938b-03c7-4c32-8a60-6b9485aa0495",
+                    "boundaryNum": 1,
+                    "name": "TOLI - TOLI",
+                    "localname": "TOLI - TOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "72786541-4539-4f5d-a07f-d758b1976c9e",
+                    "boundaryNum": 1,
+                    "name": "BANDARTOL - TOLI",
+                    "localname": "BANDARTOL - TOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f416f7a0-ede1-4444-a438-9c4728014b74",
+                "boundaryNum": 1,
+                "name": "KILA 3RD",
+                "localname": "KILA 3RD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296792",
+                "children": [
+                  {
+                    "id": "e065e5b7-7e4a-48e0-a70c-eb280f7eac02",
+                    "boundaryNum": 1,
+                    "name": "KILA - KILA 3RD",
+                    "localname": "KILA - KILA 3RD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

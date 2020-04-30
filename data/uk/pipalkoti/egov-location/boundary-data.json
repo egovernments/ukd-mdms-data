@@ -1,0 +1,324 @@
+{
+  "tenantId": "uk.pipalkoti",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "pipalkoti",
+        "localname": "pipalkoti",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.pipalkoti",
+        "children": [
+          {
+            "id": "1f002b4c-3a93-4a22-9a5e-375d287ea44f",
+            "boundaryNum": 1,
+            "name": "Pipalkoti",
+            "localname": "Pipalkoti",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "dbf4bc79-2bd3-4fd3-9f0e-640b7ad3da72",
+                "boundaryNum": 1,
+                "name": "NAURAKH",
+                "localname": "NAURAKH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296617",
+                "children": [
+                  {
+                    "id": "152025d3-8d7f-4eab-834c-d95aa4eb1786",
+                    "boundaryNum": 1,
+                    "name": "NAURAKH GANW - NAURAKH",
+                    "localname": "NAURAKH GANW - NAURAKH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a6d7db67-6139-479a-b916-f983a58bd65f",
+                    "boundaryNum": 1,
+                    "name": "SAUNDHARI - NAURAKH",
+                    "localname": "SAUNDHARI - NAURAKH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28ad1b1b-cebc-4b99-8377-fed592840949",
+                    "boundaryNum": 1,
+                    "name": "BAADE PANI - NAURAKH",
+                    "localname": "BAADE PANI - NAURAKH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee7d5fb1-c86a-465c-bfe1-6abd0f03c15d",
+                    "boundaryNum": 1,
+                    "name": "PIPALKOTI - NAURAKH",
+                    "localname": "PIPALKOTI - NAURAKH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13a5f5c0-c81f-4f23-9d7c-ec8024efaee2",
+                "boundaryNum": 1,
+                "name": "AGTHALA",
+                "localname": "AGTHALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296618",
+                "children": [
+                  {
+                    "id": "da7db44c-5559-46ef-9d67-323673ab0203",
+                    "boundaryNum": 1,
+                    "name": "KISHAN NAGAR - AGTHALA",
+                    "localname": "KISHAN NAGAR - AGTHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43eac458-5d53-4320-90ef-80870b234a0c",
+                    "boundaryNum": 1,
+                    "name": "AJAY NAGAR - AGTHALA",
+                    "localname": "AJAY NAGAR - AGTHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea2edaa0-0dc4-474e-85b7-49c3b45e6bfb",
+                    "boundaryNum": 1,
+                    "name": "MALLA AGTHALA - AGTHALA",
+                    "localname": "MALLA AGTHALA - AGTHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "91c7bff5-e35f-4ddc-8928-99dd5ae5f963",
+                    "boundaryNum": 1,
+                    "name": "TALLA AGTHALA - AGTHALA",
+                    "localname": "TALLA AGTHALA - AGTHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f8c420c-6f97-4181-9ac9-dba6e3aff9e3",
+                    "boundaryNum": 1,
+                    "name": "GADI - AGTHALA",
+                    "localname": "GADI - AGTHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5e3aef6-c444-4bb3-b561-d7e5aa67a6e5",
+                "boundaryNum": 1,
+                "name": "GADORA",
+                "localname": "GADORA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296619",
+                "children": [
+                  {
+                    "id": "c1b0b33a-3f66-458e-869a-010396d2d9fc",
+                    "boundaryNum": 1,
+                    "name": "GADORA BAJAR - GADORA",
+                    "localname": "GADORA BAJAR - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f7c9c14-76e6-4652-b3c5-69fc53343eb0",
+                    "boundaryNum": 1,
+                    "name": "BHIDLAGA GADORA - GADORA",
+                    "localname": "BHIDLAGA GADORA - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c92c4b50-18aa-4d1e-9188-2e12e6a1f8f1",
+                    "boundaryNum": 1,
+                    "name": "DEVSTHAN - GADORA",
+                    "localname": "DEVSTHAN - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0dccec9a-f2ef-40a3-9d60-26e5318772ed",
+                    "boundaryNum": 1,
+                    "name": "BAIRANGNA - GADORA",
+                    "localname": "BAIRANGNA - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f0c28cb-62eb-4065-80b6-8689e8860dfb",
+                    "boundaryNum": 1,
+                    "name": "GADORA GANW - GADORA",
+                    "localname": "GADORA GANW - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5004e151-f6dd-407b-9b04-fd959404cdf2",
+                    "boundaryNum": 1,
+                    "name": "NATOLI - GADORA",
+                    "localname": "NATOLI - GADORA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aaa19e42-90bf-4d4f-9d08-edb976684142",
+                "boundaryNum": 1,
+                "name": "BATULA",
+                "localname": "BATULA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296620",
+                "children": [
+                  {
+                    "id": "a760706a-ab6e-4903-8ed0-7f9a6a227ce9",
+                    "boundaryNum": 1,
+                    "name": "MAYAPUR - BATULA",
+                    "localname": "MAYAPUR - BATULA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c2db8e5-5290-4679-a312-9b7c6fca7064",
+                    "boundaryNum": 1,
+                    "name": "BATULA - BATULA",
+                    "localname": "BATULA - BATULA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "322cedbb-64fd-478d-8a2e-b9455f788c80",
+                    "boundaryNum": 1,
+                    "name": "SHRIKOT - BATULA",
+                    "localname": "SHRIKOT - BATULA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "990c86b9-a41a-4759-9dbc-104fdbc8cf6f",
+                    "boundaryNum": 1,
+                    "name": "KAODIYA - BATULA",
+                    "localname": "KAODIYA - BATULA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5fe7ced-a94f-4da2-b001-02c6397d100d",
+                    "boundaryNum": 1,
+                    "name": "BHAGALPUR - BATULA",
+                    "localname": "BHAGALPUR - BATULA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
