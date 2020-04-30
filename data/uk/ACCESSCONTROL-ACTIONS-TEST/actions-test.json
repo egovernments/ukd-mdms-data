@@ -445,7 +445,7 @@
       "url": "/egov-idgen/id/_generate",
       "displayName": "Generate Number",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.GenerateNumber"
@@ -1346,7 +1346,7 @@
       "url": "/billing-service/demand/_create",
       "displayName": "Create Demand",
       "orderNumber": 4,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.CreateDemand"
@@ -3855,7 +3855,7 @@
       "displayName": "Miscellaneous Receipts",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
@@ -5496,7 +5496,7 @@
       "url": "/billing-service/bill/v2/_fetchbill",
       "displayName": "Fecth Bill",
       "orderNumber": 11,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.FetchBill"
@@ -5520,7 +5520,7 @@
       "displayName": "Payments Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
@@ -5685,7 +5685,7 @@
       "displayName": "BillGenie",
       "orderNumber": 8,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BG",
       "code": "null",
       "navigationURL": "abg/billSearch",
@@ -5719,7 +5719,7 @@
     	"displayName": "Bill Genie",
     	"orderNumber": 8,
     	"parentModule": "",
-    	"enabled": false,
+    	"enabled": true,
     	"serviceCode": "Bill Genie",
     	"code": "null",
     	"path": ""
@@ -5802,7 +5802,7 @@
     {
       "id": 1826,
       "name": "MiscReceiptULB",
-      "url": "url",
+      "url": "/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
       "enabled": true,
@@ -5818,7 +5818,7 @@
       "url": "url",
       "displayName": "Miscellaneous Receipt Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -5831,7 +5831,7 @@
       "url": "url",
       "displayName": "Miscellaneous Collection Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -5845,7 +5845,7 @@
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
       "parentModule": "rainmaker",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "rainmaker",
       "code": "null",
       "path": "Dashboard.MiscellaneousCollections",
@@ -5856,7 +5856,7 @@
     {
       "id": 1841,
       "name": "MiscReceiptULBCancelled",
-      "url": "url",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
       "displayName": "Miscellaneous Cancelled Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -5869,7 +5869,7 @@
     {
       "id": 1842,
       "name": "MiscReceiptULBShort",
-      "url": "url",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
       "enabled": true,
@@ -6164,8 +6164,7 @@
 			"navigationURL": "integration/dss/ulb-home",
 			"leftIcon": "places:business-center",
 			"rightIcon": ""
-		},
-	  {
+		},{
 			"id": 1865,
 			"name": "Dashboard ULB Overview",
 			"url": "url",
@@ -6180,8 +6179,47 @@
 			"leftIcon": "places:business-center",
 			"rightIcon": ""
 		},
-	        {
-     "id": 1866,
+	  
+  {
+    "id": 1868,
+    "name": "Universal Collection",
+    "url": "url",
+    "displayName": "Universal Collection",
+    "orderNumber": 4,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "UC",
+    "code": "null",
+    "navigationURL": "uc/search",
+    "path": "UC",
+    "leftIcon": "image:collections-bookmark"
+  },
+  {
+    "id": 1869,
+    "name": "MiscBusinessServiceCollectionTenant",
+    "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
+    "displayName": "Misc Business Service Collections",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "leftIcon": "action:description",
+    "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
+    "path": "Reports.Misc Business Service Collections"
+  },
+  {
+    "id": 1870,
+    "name": "UCReportMetadata",
+    "url": "/report/rainmaker-uc/metadata/_get",
+    "displayName": "Universal Collection Report metadata",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "UCREPORTS",
+    "code": "null",
+    "path": "UC Collection Metadata "
+  },
+  {
+    "id": 1871,
     "name": "rainmaker-common-uc",
     "url": "card",
     "displayName": "Miscellaneous Collection",
@@ -6196,8 +6234,115 @@
     "rightIcon": "",
     "queryParams": ""
   },
-	  {
-    "id": 1867,
+  {
+    "id": 1875,
+    "name": "Search Collections",
+    "url": "/uc/search",
+    "displayName": "Search Collections",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "Collections",
+    "code": "null",
+    "navigationURL": "uc/search",
+    "path": "Collections.Search Collections"
+  },
+  {
+    "id": 1877,
+    "name": "CollectionRegister",
+    "url": "/report/rainmaker-uc/CollectionRegister/metadata/_get",
+    "displayName": "Collection Register",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "COLLECTIONS",
+    "code": "null",
+    "leftIcon": "action:description",
+    "navigationURL": "report/rainmaker-uc/CollectionRegister",
+    "path": "Reports.Collection Register"
+  },
+  {
+    "id": 1878,
+    "name": "MiscReceiptStateWide",
+    "url": "/report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
+    "displayName": "Miscellaneous Collections",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "leftIcon": "action:description",
+    "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
+    "path": "Reports.Miscellaneous Collection category wise"
+  },
+  {
+    "id": 1879,
+    "name": "MiscReceiptState",
+    "url": "/report/rainmaker-uc/MiscReceiptState/metadata/_get",
+    "displayName": "Misc Receipt Register State",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "leftIcon": "action:description",
+    "navigationURL": "report/rainmaker-uc/MiscReceiptState",
+    "path": "State Reports.UC.Misc Receipts State"
+  },
+  {
+    "id": 1880,
+    "name": "MiscBusinessServiceCollectionTenant",
+    "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
+    "displayName": "Misc Business Service Collections",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "path": "Reports.Misc Business Service Collections"
+  },
+  {
+    "id": 1881,
+    "name": "MiscReceiptStateWide",
+    "url": "/report/rainmaker-uc/MiscReceiptStateWide/_get",
+    "displayName": "Miscellaneous Collections",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "path": "Reports.Miscellaneous Collection category wise"
+  },
+  {
+    "id": 1882,
+    "name": "MiscReceiptULBShort",
+    "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
+    "displayName": "Miscellaneous Consumer Receipts",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "path": "Reports.miscellaneous Receipt Register"
+  },
+  {
+    "id": 1883,
+    "name": "MiscReceiptULBCancelled",
+    "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
+    "displayName": "Miscellaneous Cancelled Receipts",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "path": "Reports.miscellaneous Receipt Register"
+  },
+  {
+    "id": 1884,
+    "name": "MiscReceiptULB",
+    "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
+    "displayName": "Miscellaneous Receipt Register ULB",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "MiscReceipt",
+    "code": "null",
+    "path": "Reports.Miscellaneous Receipt Register"
+  },
+  {
+    "id": 1885,
     "name": "rainmaker-uc-search",
     "url": "quickAction",
     "displayName": "Search Miscellaneous Collection",
@@ -6213,7 +6358,7 @@
     "queryParams": ""
   },
   {
-    "id": 1868,
+    "id": 1886,
     "name": "rainmaker-uc-newcollection",
     "url": "quickAction",
     "displayName": "New Miscellaneous Collection",
@@ -6227,6 +6372,47 @@
     "leftIcon": "places:business-center",
     "rightIcon": "",
     "queryParams": ""
-  }	  
+  },
+  {
+    "id": 1887,
+    "name": "User Event Search",
+    "url": "/egov-user-event/v1/events/_search",
+    "displayName": "User Event Search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "egov-user-event",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 1888,
+    "name": "User Event Notifications",
+    "url": "/egov-user-event/v1/events/notifications/_count",
+    "displayName": "User Event Notifications",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "egov-user-event",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 1889,
+    "name": "rainmaker-localization-screen",
+    "url": "url",
+    "displayName": "Localization",
+    "orderNumber": 5,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "code": "",
+    "path": "Localization",
+    "navigationURL": "integration/ui-localisation/localization",
+    "leftIcon": "places:business-center",
+    "rightIcon": "",
+    "queryParams": ""
+   }
   ]
 }
+
