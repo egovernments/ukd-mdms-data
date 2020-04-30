@@ -1,0 +1,360 @@
+{
+  "tenantId": "uk.rudraprayag",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "rudraprayag",
+        "localname": "rudraprayag",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.rudraprayag",
+        "children": [
+          {
+            "id": "f72e4df7-879c-44fb-8a35-a0043df409c0",
+            "boundaryNum": 1,
+            "name": "Rudraprayag",
+            "localname": "Rudraprayag",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "8a36eb7d-829e-4a18-8ed5-0d9aa96308f3",
+                "boundaryNum": 1,
+                "name": "Amsari",
+                "localname": "Amsari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73006",
+                "children": [
+                  {
+                    "id": "b637e9e1-3ff4-4428-b782-88a97bf4c6d1",
+                    "boundaryNum": 1,
+                    "name": "Amsari - Amsari",
+                    "localname": "Amsari - Amsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ceaa27c-7ea0-4648-be18-37ec37146453",
+                    "boundaryNum": 1,
+                    "name": "Tilni - Amsari",
+                    "localname": "Tilni - Amsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "22e09a5e-685f-4a3a-a14d-eb6d19640dda",
+                    "boundaryNum": 1,
+                    "name": "Sumerpur - Amsari",
+                    "localname": "Sumerpur - Amsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98d10236-85df-448e-832c-457277dfda80",
+                "boundaryNum": 1,
+                "name": "Upar Bazar",
+                "localname": "Upar Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73007",
+                "children": [
+                  {
+                    "id": "cb8b0202-6a08-4463-b9c6-59b6bf06345e",
+                    "boundaryNum": 1,
+                    "name": "Upar bazar - Upar Bazar",
+                    "localname": "Upar bazar - Upar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "59c9fb88-6f8e-4289-a1b2-c5c4466638a4",
+                    "boundaryNum": 1,
+                    "name": "Mukhya bazar ka nichla Hissa - Upar Bazar",
+                    "localname": "Mukhya bazar ka nichla Hissa - Upar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "30db9739-c01c-49d5-8390-a6489d47e42e",
+                "boundaryNum": 1,
+                "name": "Koteshwar",
+                "localname": "Koteshwar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73008",
+                "children": [
+                  {
+                    "id": "024ddaff-7efd-4393-8938-28e7d895b587",
+                    "boundaryNum": 1,
+                    "name": "Koteshwar - Koteshwar",
+                    "localname": "Koteshwar - Koteshwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e9e976d-5716-41d0-b8b3-c2c78b17ada2",
+                    "boundaryNum": 1,
+                    "name": "Bela - Koteshwar",
+                    "localname": "Bela - Koteshwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4fb7aaab-8378-47a7-89ef-213551bf952d",
+                    "boundaryNum": 1,
+                    "name": "Saur - Koteshwar",
+                    "localname": "Saur - Koteshwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f228c3e-b1e9-44c0-bd98-3dc9dc2ca6b8",
+                    "boundaryNum": 1,
+                    "name": "Khurad - Koteshwar",
+                    "localname": "Khurad - Koteshwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c47284e9-ea28-41bd-877c-112e4741a210",
+                "boundaryNum": 1,
+                "name": "Belni",
+                "localname": "Belni",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73009",
+                "children": [
+                  {
+                    "id": "95c66cd9-2c27-42c7-8d13-c41cd7a203a5",
+                    "boundaryNum": 1,
+                    "name": "belni - Belni",
+                    "localname": "belni - Belni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04435b27-a83d-41eb-95cc-50be78378b36",
+                    "boundaryNum": 1,
+                    "name": "Sangam Bazar - Belni",
+                    "localname": "Sangam Bazar - Belni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2c721946-351c-4555-8a2c-139d9191fb7f",
+                    "boundaryNum": 1,
+                    "name": "P.W.D. Calony - Belni",
+                    "localname": "P.W.D. Calony - Belni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a7a515f-5578-46b5-b12a-63fcecd9bd60",
+                "boundaryNum": 1,
+                "name": "Suvidhanagar",
+                "localname": "Suvidhanagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73010",
+                "children": [
+                  {
+                    "id": "4f63cc1c-0749-42b9-9dfc-0188522fb205",
+                    "boundaryNum": 1,
+                    "name": "Sividhanagar - Suvidhanagar",
+                    "localname": "Sividhanagar - Suvidhanagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04c647ac-d29f-4332-a118-4b64578cd4e0",
+                    "boundaryNum": 1,
+                    "name": "sacchidanand nagar - Suvidhanagar",
+                    "localname": "sacchidanand nagar - Suvidhanagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7dc8bac5-7b04-4b77-8e30-f2a714df8906",
+                "boundaryNum": 1,
+                "name": "Punad",
+                "localname": "Punad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73011",
+                "children": [
+                  {
+                    "id": "c0c1e165-cb7c-4bb6-8896-266ebcda29ef",
+                    "boundaryNum": 1,
+                    "name": "Mahadev Mohalla - Punad",
+                    "localname": "Mahadev Mohalla - Punad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9582985a-1f7f-44f8-a53b-9a0d4fd8546c",
+                    "boundaryNum": 1,
+                    "name": "Hitdang - Punad",
+                    "localname": "Hitdang - Punad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77901798-d24c-4fc0-9be0-77d4c8774d4d",
+                    "boundaryNum": 1,
+                    "name": "Punad - Punad",
+                    "localname": "Punad - Punad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7bbaa1b-a877-4165-879c-82265fc41997",
+                "boundaryNum": 1,
+                "name": "Gulabrai",
+                "localname": "Gulabrai",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73012",
+                "children": [
+                  {
+                    "id": "c302d3d6-a37f-4814-84ae-14010d2e4d48",
+                    "boundaryNum": 1,
+                    "name": "Bhanadhar - Gulabrai",
+                    "localname": "Bhanadhar - Gulabrai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbe99be0-0618-4364-8ce2-5d1a0813fff7",
+                    "boundaryNum": 1,
+                    "name": "Gulabrai - Gulabrai",
+                    "localname": "Gulabrai - Gulabrai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d08bfe54-89b3-428c-9a30-e2be20ad3f42",
+                    "boundaryNum": 1,
+                    "name": "Raitoli - Gulabrai",
+                    "localname": "Raitoli - Gulabrai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

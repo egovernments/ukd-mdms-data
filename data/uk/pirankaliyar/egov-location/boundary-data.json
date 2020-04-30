@@ -1,0 +1,252 @@
+{
+  "tenantId": "uk.pirankaliyar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "pirankaliyar",
+        "localname": "pirankaliyar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.pirankaliyar",
+        "children": [
+          {
+            "id": "6de8bdde-b32b-4fe2-bd5a-acf5f3343752",
+            "boundaryNum": 1,
+            "name": "PiranKaliyar",
+            "localname": "PiranKaliyar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "83372a2b-19c4-44cf-a04b-de740adf5893",
+                "boundaryNum": 1,
+                "name": "Misserwala",
+                "localname": "Misserwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296624",
+                "children": [
+                  {
+                    "id": "32110cfb-3336-4cda-a173-4bfa07b62efa",
+                    "boundaryNum": 1,
+                    "name": "Kaliyar I - Misserwala",
+                    "localname": "Kaliyar I - Misserwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba2993e6-49b4-4161-9102-08bc0d5f539d",
+                "boundaryNum": 1,
+                "name": "Arya Nagar",
+                "localname": "Arya Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296625",
+                "children": [
+                  {
+                    "id": "44b18abb-891e-44e3-86c7-214d996576d8",
+                    "boundaryNum": 1,
+                    "name": "Bedpur - Arya Nagar",
+                    "localname": "Bedpur - Arya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc6b602a-3982-4057-8863-973ae7bd6060",
+                "boundaryNum": 1,
+                "name": "Kanharwala",
+                "localname": "Kanharwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296626",
+                "children": [
+                  {
+                    "id": "4fabba0b-428d-49f3-ad91-651e77cf119d",
+                    "boundaryNum": 1,
+                    "name": "Kaliyar II - Kanharwala",
+                    "localname": "Kaliyar II - Kanharwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "610c7db7-26d9-4c65-9930-325ddff26114",
+                "boundaryNum": 1,
+                "name": "Baruwala",
+                "localname": "Baruwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296627",
+                "children": [
+                  {
+                    "id": "2ae38642-6fac-4c4a-9e80-ae712850fe5a",
+                    "boundaryNum": 1,
+                    "name": "Kaliyar III - Baruwala",
+                    "localname": "Kaliyar III - Baruwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78ba3bae-b6ff-45d1-9aa2-00d72846b2da",
+                "boundaryNum": 1,
+                "name": "Bichli Jolly",
+                "localname": "Bichli Jolly",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296628",
+                "children": [
+                  {
+                    "id": "a0c20ab0-9b18-41f8-b387-1e8b4876af37",
+                    "boundaryNum": 1,
+                    "name": "Mukarrabpur I - Bichli Jolly",
+                    "localname": "Mukarrabpur I - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6ab9c6d-4f88-4c03-9959-2c35cf1d49b1",
+                "boundaryNum": 1,
+                "name": "Swami Ramnagar",
+                "localname": "Swami Ramnagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296629",
+                "children": [
+                  {
+                    "id": "5357bd83-a270-4849-815d-de8c1ae46a1b",
+                    "boundaryNum": 1,
+                    "name": "Kaliyar IV - Swami Ramnagar",
+                    "localname": "Kaliyar IV - Swami Ramnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "913b3bfc-3ad8-457a-a65a-63f89b1ca355",
+                "boundaryNum": 1,
+                "name": "Jolly Grant",
+                "localname": "Jolly Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296630",
+                "children": [
+                  {
+                    "id": "a557a148-dada-4ecd-940d-91d6668b60ad",
+                    "boundaryNum": 1,
+                    "name": "Mehmoodpur I - Jolly Grant",
+                    "localname": "Mehmoodpur I - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55a12284-d509-44ba-a64c-84a91d93152f",
+                "boundaryNum": 1,
+                "name": "Athoorwala 1st",
+                "localname": "Athoorwala 1st",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296631",
+                "children": [
+                  {
+                    "id": "1764068a-d09e-4867-bd8c-77fb5ea459f6",
+                    "boundaryNum": 1,
+                    "name": "Mehmoodpur II - Athoorwala 1st",
+                    "localname": "Mehmoodpur II - Athoorwala 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2aff871b-f41b-4722-840f-302d97d39e9a",
+                "boundaryNum": 1,
+                "name": "Athoorwala 2nd",
+                "localname": "Athoorwala 2nd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296632",
+                "children": [
+                  {
+                    "id": "45cec365-ea7f-4dad-8cd9-e521f15e7526",
+                    "boundaryNum": 1,
+                    "name": "Mukarrabpur II - Athoorwala 2nd",
+                    "localname": "Mukarrabpur II - Athoorwala 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

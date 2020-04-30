@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.lalkuan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "lalkuan",
+        "localname": "lalkuan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.lalkuan",
+        "children": [
+          {
+            "id": "ce66ef86-0c08-4d0f-89c4-9a10551df589",
+            "boundaryNum": 1,
+            "name": "Lalkuan",
+            "localname": "Lalkuan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "3cc0a8a1-c33c-4113-b352-f671d40c1884",
+                "boundaryNum": 1,
+                "name": "Ambedkar Nagar",
+                "localname": "Ambedkar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73449",
+                "children": [
+                  {
+                    "id": "79a3a7ba-65ad-4c04-b833-80924d39c539",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar nagar - Ambedkar Nagar",
+                    "localname": "Ambedkar nagar - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be2efa8e-31e7-49b0-a9cd-32c626ad83dc",
+                "boundaryNum": 1,
+                "name": "Gandhi Nagar",
+                "localname": "Gandhi Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73450",
+                "children": [
+                  {
+                    "id": "8ab7cdaf-e543-4923-b186-94ef521e6cb3",
+                    "boundaryNum": 1,
+                    "name": "Gandhi nagar - Gandhi Nagar",
+                    "localname": "Gandhi nagar - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fecd90f-858e-4eea-be47-dd44cf8cf2e5",
+                "boundaryNum": 1,
+                "name": "Jawahar Nagar",
+                "localname": "Jawahar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73451",
+                "children": [
+                  {
+                    "id": "a92f00c5-c70c-4eee-b9f8-82e6b7885ac2",
+                    "boundaryNum": 1,
+                    "name": "jawahar nagar - Jawahar Nagar",
+                    "localname": "jawahar nagar - Jawahar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8003d43c-7836-4f30-bf2e-5e5ec50ac670",
+                "boundaryNum": 1,
+                "name": "Jawahar Nagar",
+                "localname": "Jawahar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73452",
+                "children": [
+                  {
+                    "id": "049a30d8-ebf7-4c8a-8bfa-f15362627d02",
+                    "boundaryNum": 1,
+                    "name": "Aazad nagar - Jawahar Nagar",
+                    "localname": "Aazad nagar - Jawahar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f04a5b9-dd7c-4ded-8a72-27a5bb3d1586",
+                "boundaryNum": 1,
+                "name": "Subhash Nagar",
+                "localname": "Subhash Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73453",
+                "children": [
+                  {
+                    "id": "60989ce2-70f1-4089-aeaa-a4ca3e3c8ccd",
+                    "boundaryNum": 1,
+                    "name": "Subhash nagar - Subhash Nagar",
+                    "localname": "Subhash nagar - Subhash Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21ca6b6a-34a9-4be7-8f00-b2915ce08cb3",
+                "boundaryNum": 1,
+                "name": "Railway Bazar",
+                "localname": "Railway Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73454",
+                "children": [
+                  {
+                    "id": "66296e79-e984-49a7-9f21-914f603e80f3",
+                    "boundaryNum": 1,
+                    "name": "Railway Bazar - Railway Bazar",
+                    "localname": "Railway Bazar - Railway Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bca0065b-6f17-4318-b504-6446428ff5f7",
+                "boundaryNum": 1,
+                "name": "Ward No.7-Railway Colony",
+                "localname": "Ward No.7-Railway Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73455",
+                "children": [
+                  {
+                    "id": "70cd4791-4ef9-4ee9-a4ef-4b48a39b6e60",
+                    "boundaryNum": 1,
+                    "name": "Railway Colony - Ward No.7-Railway Colony",
+                    "localname": "Railway Colony - Ward No.7-Railway Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

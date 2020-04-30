@@ -1,0 +1,360 @@
+{
+  "tenantId": "uk.lohaghat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "lohaghat",
+        "localname": "lohaghat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.lohaghat",
+        "children": [
+          {
+            "id": "28141fbc-b0ef-49d8-80ad-804ae7fd5d9d",
+            "boundaryNum": 1,
+            "name": "Lohaghat",
+            "localname": "Lohaghat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "8590d182-243d-415b-ad27-b1d544889ec6",
+                "boundaryNum": 1,
+                "name": "Sarkitola",
+                "localname": "Sarkitola",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73438",
+                "children": [
+                  {
+                    "id": "fda9b012-bfcf-42dc-a012-8d02c78f0571",
+                    "boundaryNum": 1,
+                    "name": "Gorkha Nagar - Sarkitola",
+                    "localname": "Gorkha Nagar - Sarkitola",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c0bf1a5a-44af-48a0-b35b-46267f9992ee",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Callony - Sarkitola",
+                    "localname": "Adarsh Callony - Sarkitola",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12c86402-5b0b-4d97-bb72-ec3b1cc7b184",
+                "boundaryNum": 1,
+                "name": "Bajrangbali",
+                "localname": "Bajrangbali",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73439",
+                "children": [
+                  {
+                    "id": "756f9eeb-e9a4-467d-869a-9d6b3c80d371",
+                    "boundaryNum": 1,
+                    "name": "Hospital Callony - Bajrangbali",
+                    "localname": "Hospital Callony - Bajrangbali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9ba1990c-309d-451a-80c9-ab3382da6679",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Mandir - Bajrangbali",
+                    "localname": "Hanuman Mandir - Bajrangbali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f53ec63a-9d19-4592-8b5a-1e2f409f26f9",
+                    "boundaryNum": 1,
+                    "name": "Degree Collage Road - Bajrangbali",
+                    "localname": "Degree Collage Road - Bajrangbali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4001e7d3-b29b-4c21-ac06-5d7447f9e7e5",
+                    "boundaryNum": 1,
+                    "name": "Badigad - Bajrangbali",
+                    "localname": "Badigad - Bajrangbali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a8ba026-977e-4992-917c-52d0537b086e",
+                "boundaryNum": 1,
+                "name": "Lohawati",
+                "localname": "Lohawati",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73440",
+                "children": [
+                  {
+                    "id": "df3dae51-4606-4d10-9f9a-e164e0700355",
+                    "boundaryNum": 1,
+                    "name": "Lohawati - Lohawati",
+                    "localname": "Lohawati - Lohawati",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7b63e7a-129d-4ce7-ac16-0eb751e16e80",
+                    "boundaryNum": 1,
+                    "name": "West Market - Lohawati",
+                    "localname": "West Market - Lohawati",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d38ac241-057f-40a7-86f3-9ce5916e178c",
+                    "boundaryNum": 1,
+                    "name": "Motar Station - Lohawati",
+                    "localname": "Motar Station - Lohawati",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3adcbbdd-baef-4739-bd53-a2d4bae61262",
+                "boundaryNum": 1,
+                "name": "Reseshwer",
+                "localname": "Reseshwer",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73441",
+                "children": [
+                  {
+                    "id": "4292aa7c-9d82-4fd1-bc27-e888b4f5cbcb",
+                    "boundaryNum": 1,
+                    "name": "East Market - Reseshwer",
+                    "localname": "East Market - Reseshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a61164a4-bdd5-4921-b473-e95eb15d57c0",
+                    "boundaryNum": 1,
+                    "name": "Mallikarjun collony - Reseshwer",
+                    "localname": "Mallikarjun collony - Reseshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3c3f85f5-da8a-4900-80dd-86cbde5eb1e8",
+                    "boundaryNum": 1,
+                    "name": "Riseshwer - Reseshwer",
+                    "localname": "Riseshwer - Reseshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "698f0581-2c44-4473-afd5-31d34341b510",
+                    "boundaryNum": 1,
+                    "name": "Motar Station - Reseshwer",
+                    "localname": "Motar Station - Reseshwer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a6b989a-5a2a-4aa6-9808-8ee55b143c28",
+                "boundaryNum": 1,
+                "name": "Tharadhunga",
+                "localname": "Tharadhunga",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73442",
+                "children": [
+                  {
+                    "id": "88d3ef17-0555-467f-8016-cf44a25e1fc0",
+                    "boundaryNum": 1,
+                    "name": "Thadadhunga - Tharadhunga",
+                    "localname": "Thadadhunga - Tharadhunga",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e31582f2-22a5-41c4-9288-b0aa480a740d",
+                    "boundaryNum": 1,
+                    "name": "GGIC Collony - Tharadhunga",
+                    "localname": "GGIC Collony - Tharadhunga",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "647ce67c-a01c-4a75-925b-5d6c7905a8f6",
+                "boundaryNum": 1,
+                "name": "Meena Bazar",
+                "localname": "Meena Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73443",
+                "children": [
+                  {
+                    "id": "52288213-c293-43ef-b01a-227aa720adad",
+                    "boundaryNum": 1,
+                    "name": "Meena Bazar - Meena Bazar",
+                    "localname": "Meena Bazar - Meena Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cf25de9a-4311-4cc1-90b5-cfb13b0b0b25",
+                    "boundaryNum": 1,
+                    "name": "Hatharangiya - Meena Bazar",
+                    "localname": "Hatharangiya - Meena Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "653572c7-8427-4980-93fc-41d0d05bcaab",
+                "boundaryNum": 1,
+                "name": "Kachahari",
+                "localname": "Kachahari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73444",
+                "children": [
+                  {
+                    "id": "eed902d6-ee1b-4aad-aa0b-3c66fd952dbe",
+                    "boundaryNum": 1,
+                    "name": "SDM COURT - Kachahari",
+                    "localname": "SDM COURT - Kachahari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c31b31bd-c88f-46d2-8dfc-fada6a688d93",
+                    "boundaryNum": 1,
+                    "name": "PWD COLLONY - Kachahari",
+                    "localname": "PWD COLLONY - Kachahari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f8477695-58ac-45c6-b93f-08d254aaa109",
+                    "boundaryNum": 1,
+                    "name": "Meena Bazar - Kachahari",
+                    "localname": "Meena Bazar - Kachahari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

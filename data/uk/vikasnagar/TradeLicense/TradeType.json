@@ -1,0 +1,198 @@
+{
+  "tenantId": "uk.vikasnagar",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.LIQUOR.FLS",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "AC024",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.CLG",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC024",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.OTH",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTEL.TR10",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.DARYF",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR69",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.INDUSTRY.IF",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.KATEAS",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TEABS",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.PAAN",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.TRANSPORT.RIK",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.BAKE",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.TR32",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.SWSH",
+      "uom": null,
+      "applicationDocument": [
+        "AC056",
+        "AC015",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIVESTOCK.ANML",
+      "uom": "EACH",
+      "applicationDocument": [
+        "AC056",
+        "AADPANCARD",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "tenantId": "uk.tharali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tharali",
+        "localname": "tharali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.tharali",
+        "children": [
+          {
+            "id": "4c10bbd7-901b-4650-a2b8-8360c09f509f",
+            "boundaryNum": 1,
+            "name": "Tharali",
+            "localname": "Tharali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "b7449ff4-1399-4e41-87a7-08b58cfc0b93",
+                "boundaryNum": 1,
+                "name": "Bheta Simalsain",
+                "localname": "Bheta Simalsain",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296641",
+                "children": [
+                  {
+                    "id": "46885e33-930a-4d92-9a8b-8438431ecd13",
+                    "boundaryNum": 1,
+                    "name": "G.P.S.Building in Bheta - Bheta Simalsain",
+                    "localname": "G.P.S.Building in Bheta - Bheta Simalsain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c5f2cad9-d81a-497d-a542-aead62a82ac7",
+                    "boundaryNum": 1,
+                    "name": "Bheta Gaw - Bheta Simalsain",
+                    "localname": "Bheta Gaw - Bheta Simalsain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84a006d9-0a5e-47c5-8338-805935df1cea",
+                    "boundaryNum": 1,
+                    "name": "Jila Panchayat Building - Bheta Simalsain",
+                    "localname": "Jila Panchayat Building - Bheta Simalsain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f28ca3d-71d5-44bc-8ce9-3964921c0cab",
+                    "boundaryNum": 1,
+                    "name": "Post office - Bheta Simalsain",
+                    "localname": "Post office - Bheta Simalsain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a9cd6bdb-ea02-4b38-b669-8f32e5b5c3f9",
+                    "boundaryNum": 1,
+                    "name": "State Bank - Bheta Simalsain",
+                    "localname": "State Bank - Bheta Simalsain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33b32328-b25a-4715-a131-485cfa2a124b",
+                "boundaryNum": 1,
+                "name": "Devrar",
+                "localname": "Devrar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296642",
+                "children": [
+                  {
+                    "id": "1e1c3682-d296-414c-9ec2-f9ecd6552473",
+                    "boundaryNum": 1,
+                    "name": "Panchayat Building - Devrar",
+                    "localname": "Panchayat Building - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26916dc1-a0e4-416b-ae93-559dff378042",
+                    "boundaryNum": 1,
+                    "name": "Kamalagair - Devrar",
+                    "localname": "Kamalagair - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47d9de43-1dd0-4461-b4c3-6ef3bee1bb16",
+                    "boundaryNum": 1,
+                    "name": "Chuyadgad - Devrar",
+                    "localname": "Chuyadgad - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de7a74ea-44f6-4773-ad9c-1e2e604291ee",
+                    "boundaryNum": 1,
+                    "name": "kunatok - Devrar",
+                    "localname": "kunatok - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c04196c-9b38-4681-95b2-c7ef12fc772a",
+                    "boundaryNum": 1,
+                    "name": "Rajrajeswari Temple - Devrar",
+                    "localname": "Rajrajeswari Temple - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "549c12f3-1d73-4ea6-af8f-43d112feda46",
+                    "boundaryNum": 1,
+                    "name": "Pathalkhani tok - Devrar",
+                    "localname": "Pathalkhani tok - Devrar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be63098a-b0b6-4294-958e-84122ae810ca",
+                "boundaryNum": 1,
+                "name": "Tharali Upper Market",
+                "localname": "Tharali Upper Market",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296643",
+                "children": [
+                  {
+                    "id": "95bc78af-1529-44e2-a0ca-ff7cd4f30340",
+                    "boundaryNum": 1,
+                    "name": "G.P.School Devrara - Tharali Upper Market",
+                    "localname": "G.P.School Devrara - Tharali Upper Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e54c52bd-30ea-470b-99bd-b2695674d3fb",
+                    "boundaryNum": 1,
+                    "name": "Indian gas godam - Tharali Upper Market",
+                    "localname": "Indian gas godam - Tharali Upper Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9cac0809-a581-4dc1-9192-5c8ed730b065",
+                    "boundaryNum": 1,
+                    "name": "Masjid market meat - Tharali Upper Market",
+                    "localname": "Masjid market meat - Tharali Upper Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "76c85562-27f2-4f35-9426-1ff63be88f08",
+                    "boundaryNum": 1,
+                    "name": "Samshan Ghat - Tharali Upper Market",
+                    "localname": "Samshan Ghat - Tharali Upper Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "757d36b8-dd8f-49cd-9b1e-50c549a40c6a",
+                    "boundaryNum": 1,
+                    "name": "Hospital - Tharali Upper Market",
+                    "localname": "Hospital - Tharali Upper Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f17974f7-49f4-4592-9e35-2a09519c46f7",
+                "boundaryNum": 1,
+                "name": "Tharali Gaw",
+                "localname": "Tharali Gaw",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296644",
+                "children": [
+                  {
+                    "id": "f3e3c79a-d18e-42c7-abca-4d87fc656428",
+                    "boundaryNum": 1,
+                    "name": "Forest Guest house Reng Radibaga - Tharali Gaw",
+                    "localname": "Forest Guest house Reng Radibaga - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c3bcf5ce-b60a-47fd-9013-96f23ac6b89a",
+                    "boundaryNum": 1,
+                    "name": "Thashil office - Tharali Gaw",
+                    "localname": "Thashil office - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38b76784-6670-49d5-8c88-347cfa29da07",
+                    "boundaryNum": 1,
+                    "name": "Navdeep school Kedarbaga - Tharali Gaw",
+                    "localname": "Navdeep school Kedarbaga - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7a7808c0-67cf-4796-acea-219e8ac8bf96",
+                    "boundaryNum": 1,
+                    "name": "Ung Tok - Tharali Gaw",
+                    "localname": "Ung Tok - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "acb3f651-e270-41af-9f30-21b91138e8ad",
+                    "boundaryNum": 1,
+                    "name": "Khadgola - Tharali Gaw",
+                    "localname": "Khadgola - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a8d463cc-344c-4827-9ef2-d17e05d8de83",
+                    "boundaryNum": 1,
+                    "name": "Pranmati Banja - Tharali Gaw",
+                    "localname": "Pranmati Banja - Tharali Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
