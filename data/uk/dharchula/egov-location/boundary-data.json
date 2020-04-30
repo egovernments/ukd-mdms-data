@@ -1,0 +1,360 @@
+{
+  "tenantId": "uk.dharchula",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "dharchula",
+        "localname": "dharchula",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.dharchula",
+        "children": [
+          {
+            "id": "75c35b8b-2404-430f-8a0d-52ad80e18e3d",
+            "boundaryNum": 1,
+            "name": "Dharchula",
+            "localname": "Dharchula",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "4c433762-7201-429d-8e7e-ffd14c224028",
+                "boundaryNum": 1,
+                "name": "GWAL GAON",
+                "localname": "GWAL GAON",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17570",
+                "children": [
+                  {
+                    "id": "85a1dfce-34e4-42d0-84fc-a16ee03ef1ab",
+                    "boundaryNum": 1,
+                    "name": "Nau Gaon - GWAL GAON",
+                    "localname": "Nau Gaon - GWAL GAON",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5aa18f9f-0e6d-4e61-b08e-b3214446983b",
+                    "boundaryNum": 1,
+                    "name": "Full Basti - GWAL GAON",
+                    "localname": "Full Basti - GWAL GAON",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f2c9741b-af7b-438e-a91e-3544795f6fa4",
+                    "boundaryNum": 1,
+                    "name": "G. I. C. Road - GWAL GAON",
+                    "localname": "G. I. C. Road - GWAL GAON",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "96ffd56f-e87b-49dc-84c1-a1bd5712ad73",
+                    "boundaryNum": 1,
+                    "name": "Gwal Gaon - GWAL GAON",
+                    "localname": "Gwal Gaon - GWAL GAON",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "869f90c5-88c6-4dd3-b563-9754fa8e7851",
+                "boundaryNum": 1,
+                "name": "THASHIL",
+                "localname": "THASHIL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17571",
+                "children": [
+                  {
+                    "id": "6f9d73e8-44f5-4f09-b986-25c01bbafb16",
+                    "boundaryNum": 1,
+                    "name": "Khotila Road - THASHIL",
+                    "localname": "Khotila Road - THASHIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de257d38-bb85-41e4-9349-f4c7c3c91921",
+                    "boundaryNum": 1,
+                    "name": "Thashil Road - THASHIL",
+                    "localname": "Thashil Road - THASHIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f7cf041-17a5-4920-8043-94790ef42554",
+                "boundaryNum": 1,
+                "name": "GHATDHAR",
+                "localname": "GHATDHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17572",
+                "children": [
+                  {
+                    "id": "e0924a6a-1b21-4aca-8fc5-c75816f9aed1",
+                    "boundaryNum": 1,
+                    "name": "Ghatdhar - GHATDHAR",
+                    "localname": "Ghatdhar - GHATDHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2a7b39e-35c8-4d2b-be23-b4abcf017f52",
+                    "boundaryNum": 1,
+                    "name": "Malli Bazar - GHATDHAR",
+                    "localname": "Malli Bazar - GHATDHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "452f24c6-13bd-4151-b320-d3ac60da373a",
+                "boundaryNum": 1,
+                "name": "DAKBANGLA",
+                "localname": "DAKBANGLA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17573",
+                "children": [
+                  {
+                    "id": "e61bbe0b-4991-4b02-bd97-b45feaecee59",
+                    "boundaryNum": 1,
+                    "name": "Dakbangla - DAKBANGLA",
+                    "localname": "Dakbangla - DAKBANGLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "24ae5634-36fd-436a-8fb5-772765866540",
+                    "boundaryNum": 1,
+                    "name": "Hospital Road - DAKBANGLA",
+                    "localname": "Hospital Road - DAKBANGLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a33a992b-83d5-4aab-8428-aac5c92bdbfe",
+                    "boundaryNum": 1,
+                    "name": "Nepal Road - DAKBANGLA",
+                    "localname": "Nepal Road - DAKBANGLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c61bdb2d-9a21-4ac3-8888-ee58c8ca36ee",
+                "boundaryNum": 1,
+                "name": "SHIV MANDIR",
+                "localname": "SHIV MANDIR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17574",
+                "children": [
+                  {
+                    "id": "a3ffea84-f02c-4b46-b8b0-cce145163877",
+                    "boundaryNum": 1,
+                    "name": "Khadi Gali - SHIV MANDIR",
+                    "localname": "Khadi Gali - SHIV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e4a087e-ebdf-4188-845a-c7cbf4a151d6",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - SHIV MANDIR",
+                    "localname": "Shiv Mandir - SHIV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bfecdfaf-65b4-47fb-9db8-e432e9451418",
+                    "boundaryNum": 1,
+                    "name": "Station Road - SHIV MANDIR",
+                    "localname": "Station Road - SHIV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8672772c-85c0-409e-9e07-62517275bca2",
+                "boundaryNum": 1,
+                "name": "VIVEKANAND",
+                "localname": "VIVEKANAND",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17575",
+                "children": [
+                  {
+                    "id": "2f9465c6-e795-4840-81ae-a5deb6245030",
+                    "boundaryNum": 1,
+                    "name": "vivekanand - VIVEKANAND",
+                    "localname": "vivekanand - VIVEKANAND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e2080ab-c153-47aa-9360-678971a0d94d",
+                    "boundaryNum": 1,
+                    "name": "Station Road - VIVEKANAND",
+                    "localname": "Station Road - VIVEKANAND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1a623766-496f-4468-ae53-89dda331ec41",
+                    "boundaryNum": 1,
+                    "name": "G.G.I.C Road - VIVEKANAND",
+                    "localname": "G.G.I.C Road - VIVEKANAND",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c716f028-8cfb-42ca-8389-799a6a7ef1ca",
+                "boundaryNum": 1,
+                "name": "PANCHAYAT GHAR",
+                "localname": "PANCHAYAT GHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17576",
+                "children": [
+                  {
+                    "id": "4ae335d8-cd89-42d4-9eae-82ea3389f3ec",
+                    "boundaryNum": 1,
+                    "name": "Cinema Line - PANCHAYAT GHAR",
+                    "localname": "Cinema Line - PANCHAYAT GHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ad800b8-b330-4368-86eb-28bc89fc6b46",
+                    "boundaryNum": 1,
+                    "name": "Thashil Road - PANCHAYAT GHAR",
+                    "localname": "Thashil Road - PANCHAYAT GHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1274d325-7455-45e5-a8d4-373aa42e6751",
+                    "boundaryNum": 1,
+                    "name": "Panchayat Ghar - PANCHAYAT GHAR",
+                    "localname": "Panchayat Ghar - PANCHAYAT GHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+"tenantId": "uk.kichha",
+"moduleName": "TradeLicense",
+"TradeType":[
+  {
+    "code": "TRADE.HOTELS.KA5STR",
+    "uom": null,
+    "applicationDocument": [
+      "AC046",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL10B",
+    "uom": null,
+    "applicationDocument": [
+      "AC046",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.IF",
+    "uom": null,
+    "applicationDocument": [
+      "AC046",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC020",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC020",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.BS",
+    "uom": null,
+    "applicationDocument": [
+      "AC022",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAFINC",
+    "uom": null,
+    "applicationDocument": [
+      "AC020",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.RIINSC",
+    "uom": null,
+    "applicationDocument": [
+      "AC020",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.GOODS.TRLY",
+    "uom": null,
+    "applicationDocument": [
+      "AC046",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.KA3STR",
+    "uom": null,
+    "applicationDocument": [
+      "AC046",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RLO",
+    "uom": null,
+    "applicationDocument": [
+      "AC008",
+      "AC008",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RLR",
+    "uom": null,
+    "applicationDocument": [
+      "AC008",
+      "AC008",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RITBHW",
+    "uom": null,
+    "applicationDocument": [
+      "AC020",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR34",
+    "uom": null,
+    "applicationDocument": [
+      "AC021",
+      "AC021",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.DNTC",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.MH20B",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NH20B",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.NHA20",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PC",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PVTC",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.RIPVTH",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIAU7S",
+    "uom": null,
+    "applicationDocument": [
+      "AC055",
+      "AC013",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.KAAU2S",
+    "uom": null,
+    "applicationDocument": [
+      "AC055",
+      "AC013",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIAU4S",
+    "uom": null,
+    "applicationDocument": [
+      "AC055",
+      "AC013",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.RIAU7S",
+    "uom": null,
+    "applicationDocument": [
+      "AC055",
+      "AC013",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.MBUS",
+    "uom": null,
+    "applicationDocument": [
+      "AC055",
+      "AC013",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MCS",
+    "uom": null,
+    "applicationDocument": [
+      "AC022",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MS",
+    "uom": null,
+    "applicationDocument": [
+      "AC022",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.TR21",
+    "uom": null,
+    "applicationDocument": [
+      "AC023",
+      "AC016",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
+}

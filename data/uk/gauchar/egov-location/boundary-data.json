@@ -1,0 +1,480 @@
+{
+  "tenantId": "uk.gauchar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gauchar",
+        "localname": "gauchar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gauchar",
+        "children": [
+          {
+            "id": "06481c9f-85d2-4034-b88d-41b5a0df09d9",
+            "boundaryNum": 1,
+            "name": "Gauchar",
+            "localname": "Gauchar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "4ce58221-4215-4146-85e5-f7afdbf1a040",
+                "boundaryNum": 1,
+                "name": "PANAI MALLI",
+                "localname": "PANAI MALLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16104",
+                "children": [
+                  {
+                    "id": "406aff46-36da-4d09-909a-f131ae2f4f97",
+                    "boundaryNum": 1,
+                    "name": "CHAUDHALI - PANAI MALLI",
+                    "localname": "CHAUDHALI - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8bb91a74-37e3-4c41-94b1-658759af90e4",
+                    "boundaryNum": 1,
+                    "name": "GAIRDHAR - PANAI MALLI",
+                    "localname": "GAIRDHAR - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "82dd6492-6dbd-4eea-93e6-6067421a4080",
+                    "boundaryNum": 1,
+                    "name": "PAYODHA, BHERAVMANDIR - PANAI MALLI",
+                    "localname": "PAYODHA, BHERAVMANDIR - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "16462117-ffae-40ef-ad49-b8a5425bb7c9",
+                    "boundaryNum": 1,
+                    "name": "GAYADHI - PANAI MALLI",
+                    "localname": "GAYADHI - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d347ff7-0839-417d-a0d2-047af284d3b9",
+                    "boundaryNum": 1,
+                    "name": "PANAI MALLI - PANAI MALLI",
+                    "localname": "PANAI MALLI - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2bcc3f1c-2a24-4da7-b121-5bda5a0c86d5",
+                    "boundaryNum": 1,
+                    "name": "PANAI TALLI - PANAI MALLI",
+                    "localname": "PANAI TALLI - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e970b366-6c4d-4c66-93b4-cf77c0edf33b",
+                    "boundaryNum": 1,
+                    "name": "BANDRAGAUD-DHARINAGAR - PANAI MALLI",
+                    "localname": "BANDRAGAUD-DHARINAGAR - PANAI MALLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e0ed380-8955-4d77-a818-03058db58b4e",
+                "boundaryNum": 1,
+                "name": "RAWALNAGAR TALLA",
+                "localname": "RAWALNAGAR TALLA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16105",
+                "children": [
+                  {
+                    "id": "8d677a38-a2a8-4225-964c-09fe261d0fb1",
+                    "boundaryNum": 1,
+                    "name": "RAWALNAGAR - RAWALNAGAR TALLA",
+                    "localname": "RAWALNAGAR - RAWALNAGAR TALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3707183-4503-4052-ae6b-c5a467f88a91",
+                    "boundaryNum": 1,
+                    "name": "RAWALNAGAR TALLA - RAWALNAGAR TALLA",
+                    "localname": "RAWALNAGAR TALLA - RAWALNAGAR TALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7dfda3c5-2648-4d89-9b9a-e31192e3715b",
+                    "boundaryNum": 1,
+                    "name": "CHAMYALI - RAWALNAGAR TALLA",
+                    "localname": "CHAMYALI - RAWALNAGAR TALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12669a21-066e-4dac-8209-cb08a38a0e2a",
+                "boundaryNum": 1,
+                "name": "SHAIL BASANTPUR GHALI",
+                "localname": "SHAIL BASANTPUR GHALI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16106",
+                "children": [
+                  {
+                    "id": "2c5923d3-d98a-4c63-b69f-caafb6e75c00",
+                    "boundaryNum": 1,
+                    "name": "SHAIL - SHAIL BASANTPUR GHALI",
+                    "localname": "SHAIL - SHAIL BASANTPUR GHALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0f1f11d7-afc8-447a-b770-8d7c0e047c99",
+                    "boundaryNum": 1,
+                    "name": "BASANTPUR LAGA GHALI - SHAIL BASANTPUR GHALI",
+                    "localname": "BASANTPUR LAGA GHALI - SHAIL BASANTPUR GHALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea3e0599-6003-4950-9f70-d214e154b84a",
+                    "boundaryNum": 1,
+                    "name": "MALPHARIYA - SHAIL BASANTPUR GHALI",
+                    "localname": "MALPHARIYA - SHAIL BASANTPUR GHALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0e174adf-eb94-4b6f-b591-8fa4208f603a",
+                "boundaryNum": 1,
+                "name": "PANAI TALLI PALSARI",
+                "localname": "PANAI TALLI PALSARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16107",
+                "children": [
+                  {
+                    "id": "cc41363f-25d9-4cc1-8525-6ba53cf80de6",
+                    "boundaryNum": 1,
+                    "name": "RAWAT CHAKKI MAIN MARKET LAGA KESHWAS SCHOOL MOHALLA - PANAI TALLI PALSARI",
+                    "localname": "RAWAT CHAKKI MAIN MARKET LAGA KESHWAS SCHOOL MOHALLA - PANAI TALLI PALSARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40d17186-54a3-45e1-97a3-34d743b2246c",
+                    "boundaryNum": 1,
+                    "name": "MISHRA COLONY LAGA KALI MANDIR MARG - PANAI TALLI PALSARI",
+                    "localname": "MISHRA COLONY LAGA KALI MANDIR MARG - PANAI TALLI PALSARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2dc0051-0bf3-4769-8481-6d4b6f911c28",
+                    "boundaryNum": 1,
+                    "name": "PALSARI AAM LOWER MOHALLA - PANAI TALLI PALSARI",
+                    "localname": "PALSARI AAM LOWER MOHALLA - PANAI TALLI PALSARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1d456dd-add6-4681-9e0a-f5db29863962",
+                "boundaryNum": 1,
+                "name": "RAWALNAGAR MALLA",
+                "localname": "RAWALNAGAR MALLA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16108",
+                "children": [
+                  {
+                    "id": "27dab121-0e7e-4003-a258-b04ade18f3be",
+                    "boundaryNum": 1,
+                    "name": "NAIL LAGA LATABAGADH - RAWALNAGAR MALLA",
+                    "localname": "NAIL LAGA LATABAGADH - RAWALNAGAR MALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1bde2c0a-e45c-42d3-a3bf-50a792603010",
+                    "boundaryNum": 1,
+                    "name": "SAKETNAGAR - RAWALNAGAR MALLA",
+                    "localname": "SAKETNAGAR - RAWALNAGAR MALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d3edce4-92f3-49ba-9ddf-5deb213675f6",
+                    "boundaryNum": 1,
+                    "name": "BHATTNAGAR NEAR GREFF - RAWALNAGAR MALLA",
+                    "localname": "BHATTNAGAR NEAR GREFF - RAWALNAGAR MALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ce323a4-ff25-4ab0-94d3-469b1bc8d4e4",
+                    "boundaryNum": 1,
+                    "name": "BHATTNAGAR - RAWALNAGAR MALLA",
+                    "localname": "BHATTNAGAR - RAWALNAGAR MALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ebecaac5-5f68-4841-94e1-ae4616a8a092",
+                "boundaryNum": 1,
+                "name": "MAIN MARKET GAUCHAR",
+                "localname": "MAIN MARKET GAUCHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16109",
+                "children": [
+                  {
+                    "id": "656b2c89-8523-4d4d-8d22-d7a4deda0e9c",
+                    "boundaryNum": 1,
+                    "name": "KHAJUR LAGA SHIVALAY - MAIN MARKET GAUCHAR",
+                    "localname": "KHAJUR LAGA SHIVALAY - MAIN MARKET GAUCHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f97ea65-75f1-4076-8ec2-f4a93272d6e0",
+                    "boundaryNum": 1,
+                    "name": "DHUGALI LAGA GAUDHTIRA MOHALLA - MAIN MARKET GAUCHAR",
+                    "localname": "DHUGALI LAGA GAUDHTIRA MOHALLA - MAIN MARKET GAUCHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f13efe38-8a7a-4b3d-af3e-cbd33fa95731",
+                    "boundaryNum": 1,
+                    "name": "DUBALIYA LAGA AIRSTRIP - MAIN MARKET GAUCHAR",
+                    "localname": "DUBALIYA LAGA AIRSTRIP - MAIN MARKET GAUCHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1dfc492a-e176-4432-aec4-540ea190ac7f",
+                    "boundaryNum": 1,
+                    "name": "BAGWAN AAM LAGA GHALI - MAIN MARKET GAUCHAR",
+                    "localname": "BAGWAN AAM LAGA GHALI - MAIN MARKET GAUCHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9babd435-55e6-4f6a-ab61-ef211ce42cd2",
+                    "boundaryNum": 1,
+                    "name": "BANGADHA NEAR-KESHWAS MOHALLA - MAIN MARKET GAUCHAR",
+                    "localname": "BANGADHA NEAR-KESHWAS MOHALLA - MAIN MARKET GAUCHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e65ccc1d-ac9b-487a-bf7f-9572fc5b75f5",
+                "boundaryNum": 1,
+                "name": "BANDRAKHAND DRONAGIRI",
+                "localname": "BANDRAKHAND DRONAGIRI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16110",
+                "children": [
+                  {
+                    "id": "7b477f24-87a0-493f-9a30-87963a0776a3",
+                    "boundaryNum": 1,
+                    "name": "BANDRAKHAND - BANDRAKHAND DRONAGIRI",
+                    "localname": "BANDRAKHAND - BANDRAKHAND DRONAGIRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28f87280-2a04-4ee9-84e6-138b0459645e",
+                    "boundaryNum": 1,
+                    "name": "DRONAGIRI - BANDRAKHAND DRONAGIRI",
+                    "localname": "DRONAGIRI - BANDRAKHAND DRONAGIRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "378e9786-90e8-4b68-874f-1a493a42712f",
+                    "boundaryNum": 1,
+                    "name": "APHSARMESS - BANDRAKHAND DRONAGIRI",
+                    "localname": "APHSARMESS - BANDRAKHAND DRONAGIRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "12d01e69-b128-4e79-845d-628b5564ba0a",
+                    "boundaryNum": 1,
+                    "name": "PALSARI LAGA DRANAGIRI - BANDRAKHAND DRONAGIRI",
+                    "localname": "PALSARI LAGA DRANAGIRI - BANDRAKHAND DRONAGIRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d8325883-9bc0-424b-b1fd-b5d9ac6959f3",
+                    "boundaryNum": 1,
+                    "name": "UPPER PALSARI MOHALLA - BANDRAKHAND DRONAGIRI",
+                    "localname": "UPPER PALSARI MOHALLA - BANDRAKHAND DRONAGIRI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "tenantId": "uk.bhimtal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bhimtal",
+        "localname": "bhimtal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.bhimtal",
+        "children": [
+          {
+            "id": "ac7034d4-ff79-491a-b0ed-52ad44585151",
+            "boundaryNum": 1,
+            "name": "Bhimtal",
+            "localname": "Bhimtal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c1128b55-f57e-4ee9-b420-87f64476ecdd",
+                "boundaryNum": 1,
+                "name": "Mallital",
+                "localname": "Mallital",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17735",
+                "children": [
+                  {
+                    "id": "317bfcbb-e1b6-4bb6-a856-99a5e39531eb",
+                    "boundaryNum": 1,
+                    "name": "Mallital - Mallital",
+                    "localname": "Mallital - Mallital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bdd76fee-c244-44f8-958d-42b29594a21b",
+                "boundaryNum": 1,
+                "name": "Dak Banglow",
+                "localname": "Dak Banglow",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17736",
+                "children": [
+                  {
+                    "id": "00c7c557-f0f6-42a5-89c2-bef3e9600c58",
+                    "boundaryNum": 1,
+                    "name": "Dak Banglow - Dak Banglow",
+                    "localname": "Dak Banglow - Dak Banglow",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ff719688-88ec-47df-b45b-aee2accd159d",
+                "boundaryNum": 1,
+                "name": "Bilashpur",
+                "localname": "Bilashpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17737",
+                "children": [
+                  {
+                    "id": "bbc88000-0874-488c-96bd-574463e76f61",
+                    "boundaryNum": 1,
+                    "name": "Bilashpur - Bilashpur",
+                    "localname": "Bilashpur - Bilashpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7cf2c225-b664-477d-aab8-0ef893562956",
+                "boundaryNum": 1,
+                "name": "Nakuchiyatal",
+                "localname": "Nakuchiyatal",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17738",
+                "children": [
+                  {
+                    "id": "d28980fc-4f79-4824-afb8-3607a9b4b6ec",
+                    "boundaryNum": 1,
+                    "name": "Nakuchiyatal - Nakuchiyatal",
+                    "localname": "Nakuchiyatal - Nakuchiyatal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5a9b1e6-49de-491e-8daf-8ee2a73fbbd2",
+                "boundaryNum": 1,
+                "name": "Tallital",
+                "localname": "Tallital",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17739",
+                "children": [
+                  {
+                    "id": "b397fdce-2e50-4584-a5f8-40130fadd02d",
+                    "boundaryNum": 1,
+                    "name": "Tallital - Tallital",
+                    "localname": "Tallital - Tallital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e07370a-36c0-4e43-876b-d8aa595ac613",
+                "boundaryNum": 1,
+                "name": "June Estate",
+                "localname": "June Estate",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17740",
+                "children": [
+                  {
+                    "id": "14d33d85-6af1-4100-81c5-6c9cc60540f8",
+                    "boundaryNum": 1,
+                    "name": "June Estate - June Estate",
+                    "localname": "June Estate - June Estate",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9273750c-535e-41a4-8ce7-c4d4546c7057",
+                "boundaryNum": 1,
+                "name": "Kuwa Tall",
+                "localname": "Kuwa Tall",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17741",
+                "children": [
+                  {
+                    "id": "ed9500ee-d3a9-4e50-aa13-1de3a0216a63",
+                    "boundaryNum": 1,
+                    "name": "Kuwa Tall - Kuwa Tall",
+                    "localname": "Kuwa Tall - Kuwa Tall",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5505cb75-43bb-43af-a009-c70bce1278b2",
+                "boundaryNum": 1,
+                "name": "Industrial area",
+                "localname": "Industrial area",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296886",
+                "children": [
+                  {
+                    "id": "4d2b02d0-9b7d-4ddf-b9f6-cada2d59d851",
+                    "boundaryNum": 1,
+                    "name": "Industrial Area - Industrial area",
+                    "localname": "Industrial Area - Industrial area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3570091-5162-433d-a7da-cb870247b612",
+                "boundaryNum": 1,
+                "name": "Mehragoun",
+                "localname": "Mehragoun",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296887",
+                "children": [
+                  {
+                    "id": "9d7824f2-3695-48aa-95f0-5d64ebb98164",
+                    "boundaryNum": 1,
+                    "name": "Mehra Goun - Mehragoun",
+                    "localname": "Mehra Goun - Mehragoun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

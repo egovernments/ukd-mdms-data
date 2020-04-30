@@ -1,0 +1,252 @@
+{
+  "tenantId": "uk.dineshpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "dineshpur",
+        "localname": "dineshpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.dineshpur",
+        "children": [
+          {
+            "id": "fe3c718c-8d3c-4d37-8938-cf1da555388e",
+            "boundaryNum": 1,
+            "name": "Dineshpur",
+            "localname": "Dineshpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "80bb77fd-8bb2-416d-9a7d-f1762f25dff3",
+                "boundaryNum": 1,
+                "name": "Gandhi Nagar",
+                "localname": "Gandhi Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73485",
+                "children": [
+                  {
+                    "id": "3095a796-6533-46ff-888f-a74287c0df7b",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Nagar - Gandhi Nagar",
+                    "localname": "Gandhi Nagar - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b9f6c2f2-e0ff-4d34-9965-76b6083ba77a",
+                "boundaryNum": 1,
+                "name": "MOTIPUR",
+                "localname": "MOTIPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73486",
+                "children": [
+                  {
+                    "id": "3901ff1b-986d-4608-a8ef-7fa0a9b22166",
+                    "boundaryNum": 1,
+                    "name": "MOTIPUR - MOTIPUR",
+                    "localname": "MOTIPUR - MOTIPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8b97e3a5-d006-49fd-9a22-57366a62221b",
+                "boundaryNum": 1,
+                "name": "Chandangarh",
+                "localname": "Chandangarh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73487",
+                "children": [
+                  {
+                    "id": "ec958b06-3ed0-4ffc-a457-8a6ce0df547f",
+                    "boundaryNum": 1,
+                    "name": "Chandangarh - Chandangarh",
+                    "localname": "Chandangarh - Chandangarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3570249-f1dd-46ba-b9a1-9d86b1b9638c",
+                "boundaryNum": 1,
+                "name": "DURGA MANDIR",
+                "localname": "DURGA MANDIR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73488",
+                "children": [
+                  {
+                    "id": "5a80a632-125c-46d3-a5d5-464021324707",
+                    "boundaryNum": 1,
+                    "name": "DURGA MANDIR - DURGA MANDIR",
+                    "localname": "DURGA MANDIR - DURGA MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc718703-dc86-4174-ad6f-5525b55b3da8",
+                "boundaryNum": 1,
+                "name": "HOSPITAL WARD",
+                "localname": "HOSPITAL WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73489",
+                "children": [
+                  {
+                    "id": "25d1ac20-b817-4dc1-8ab0-ffbbe3f64683",
+                    "boundaryNum": 1,
+                    "name": "HOSPITAL WARD - HOSPITAL WARD",
+                    "localname": "HOSPITAL WARD - HOSPITAL WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ae18b9e-2ab0-4b9f-b9fc-05d48db33daf",
+                "boundaryNum": 1,
+                "name": "SHASTRI NAGAR",
+                "localname": "SHASTRI NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73490",
+                "children": [
+                  {
+                    "id": "b4de7d03-b85e-4474-9174-4ba544c22477",
+                    "boundaryNum": 1,
+                    "name": "SHASTRI NAGAR - SHASTRI NAGAR",
+                    "localname": "SHASTRI NAGAR - SHASTRI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "006f7c0a-670a-41a3-abaf-02ba1cb8f313",
+                "boundaryNum": 1,
+                "name": "NETAJI NAGAR",
+                "localname": "NETAJI NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W73491",
+                "children": [
+                  {
+                    "id": "c1ca033f-10d6-402b-b792-0cfa4fffe952",
+                    "boundaryNum": 1,
+                    "name": "NETAJI NAGAR - NETAJI NAGAR",
+                    "localname": "NETAJI NAGAR - NETAJI NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10a79e77-f950-4918-86f7-da2debcc3969",
+                "boundaryNum": 1,
+                "name": "Ravindra Nagar",
+                "localname": "Ravindra Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296888",
+                "children": [
+                  {
+                    "id": "bee3159d-e5cf-4713-91f2-86e3f819f4ae",
+                    "boundaryNum": 1,
+                    "name": "Ravindra Nagar - Ravindra Nagar",
+                    "localname": "Ravindra Nagar - Ravindra Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e894a110-441b-43c3-8051-7d27ee9ecc22",
+                "boundaryNum": 1,
+                "name": "Indra Nagar",
+                "localname": "Indra Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296889",
+                "children": [
+                  {
+                    "id": "2e55c7ca-a13b-4e22-8e2d-2b841194d0ac",
+                    "boundaryNum": 1,
+                    "name": "Indra Nagar - Indra Nagar",
+                    "localname": "Indra Nagar - Indra Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

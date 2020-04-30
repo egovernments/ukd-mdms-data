@@ -1,0 +1,264 @@
+{
+  "tenantId": "uk.kirtinagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kirtinagar",
+        "localname": "kirtinagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.kirtinagar",
+        "children": [
+          {
+            "id": "6ede52f4-7a44-439b-97b8-cafc393667ec",
+            "boundaryNum": 1,
+            "name": "Kirtinagar",
+            "localname": "Kirtinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "2752e9fd-bc74-4fda-8c84-ebcbbbbde0b5",
+                "boundaryNum": 1,
+                "name": "Court & College Colony",
+                "localname": "Court & College Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16115",
+                "children": [
+                  {
+                    "id": "4ecd484f-b631-4daa-9574-0420f7377c4a",
+                    "boundaryNum": 1,
+                    "name": "Painula mohalla - Court & College Colony",
+                    "localname": "Painula mohalla - Court & College Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f55f1e67-e631-4b1b-9d84-2b4c83250b08",
+                    "boundaryNum": 1,
+                    "name": "Court Colony Mohalla - Court & College Colony",
+                    "localname": "Court Colony Mohalla - Court & College Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9de0dcde-f147-4494-8013-007e9f393090",
+                    "boundaryNum": 1,
+                    "name": "Thana colony - Court & College Colony",
+                    "localname": "Thana colony - Court & College Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51a62f44-ce42-4aa5-9395-053bc793aeeb",
+                "boundaryNum": 1,
+                "name": "Black & Sichai Vibhag Colony",
+                "localname": "Black & Sichai Vibhag Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16116",
+                "children": [
+                  {
+                    "id": "5e17c533-1966-439a-9f5e-79230370d7e8",
+                    "boundaryNum": 1,
+                    "name": "Balmiki Colony - Black & Sichai Vibhag Colony",
+                    "localname": "Balmiki Colony - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7c7089cd-a061-4586-ab6b-e911b53aa762",
+                    "boundaryNum": 1,
+                    "name": "Block Colony - Black & Sichai Vibhag Colony",
+                    "localname": "Block Colony - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f814a2b7-dbc3-4a50-abb6-9ff5196ad750",
+                    "boundaryNum": 1,
+                    "name": "Hospital Colony - Black & Sichai Vibhag Colony",
+                    "localname": "Hospital Colony - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f713c70e-2e5d-4d04-bbd3-551d7f0ef200",
+                    "boundaryNum": 1,
+                    "name": "Godiyal Mohalla - Black & Sichai Vibhag Colony",
+                    "localname": "Godiyal Mohalla - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7026436d-fc43-4969-ae03-1a0aeb7a8b2e",
+                    "boundaryNum": 1,
+                    "name": "Sichai Vibhag Colony - Black & Sichai Vibhag Colony",
+                    "localname": "Sichai Vibhag Colony - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ab601c7-d61c-42bb-a517-ed42798e01a0",
+                    "boundaryNum": 1,
+                    "name": "Vakil Colony - Black & Sichai Vibhag Colony",
+                    "localname": "Vakil Colony - Black & Sichai Vibhag Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d9418f7f-0b1d-4721-94c8-06d2fc93fc4f",
+                "boundaryNum": 1,
+                "name": "Nayi Basti Colony",
+                "localname": "Nayi Basti Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16117",
+                "children": [
+                  {
+                    "id": "940b5d25-ac35-4e73-8ce4-63da96765952",
+                    "boundaryNum": 1,
+                    "name": "Bada Bhiter - Nayi Basti Colony",
+                    "localname": "Bada Bhiter - Nayi Basti Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b707810e-5fc8-4f2f-9461-54e884f15e6c",
+                    "boundaryNum": 1,
+                    "name": "Bangari Mohalla - Nayi Basti Colony",
+                    "localname": "Bangari Mohalla - Nayi Basti Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7567bda6-cd50-454f-84d3-b0b8ce73e929",
+                    "boundaryNum": 1,
+                    "name": "Nayi Basti Colony - Nayi Basti Colony",
+                    "localname": "Nayi Basti Colony - Nayi Basti Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c93a3b0-bb7b-41f0-8988-57d25f3de779",
+                "boundaryNum": 1,
+                "name": "Pichhali Bazar Line Colony",
+                "localname": "Pichhali Bazar Line Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16118",
+                "children": [
+                  {
+                    "id": "0a4a8be7-2d96-4301-97f1-d8ff24a515e4",
+                    "boundaryNum": 1,
+                    "name": "PWD Colony - Pichhali Bazar Line Colony",
+                    "localname": "PWD Colony - Pichhali Bazar Line Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "09e44665-d84e-4d2e-a4fe-1b5f692d27aa",
+                    "boundaryNum": 1,
+                    "name": "Dhundprayag mandir mohalla - Pichhali Bazar Line Colony",
+                    "localname": "Dhundprayag mandir mohalla - Pichhali Bazar Line Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c9bda28-86a7-4008-ae37-a4185d6c13ac",
+                    "boundaryNum": 1,
+                    "name": "Pichhali Bazar colony - Pichhali Bazar Line Colony",
+                    "localname": "Pichhali Bazar colony - Pichhali Bazar Line Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

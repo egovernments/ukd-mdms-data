@@ -1,0 +1,732 @@
+{
+  "tenantId": "uk.champawat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "champawat",
+        "localname": "champawat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.champawat",
+        "children": [
+          {
+            "id": "c3e21e16-7fcc-4e8c-828d-69cca31dd3f5",
+            "boundaryNum": 1,
+            "name": "Champawat",
+            "localname": "Champawat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "634573af-2612-427c-b61d-95cf5b9c2d79",
+                "boundaryNum": 1,
+                "name": "Chtaar",
+                "localname": "Chtaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17650",
+                "children": [
+                  {
+                    "id": "0864a186-5f5c-47f2-9cc0-6e9776471d67",
+                    "boundaryNum": 1,
+                    "name": "Chtaar - Chtaar",
+                    "localname": "Chtaar - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eaa07535-7dae-4c7d-b3d4-1edcfd72fad0",
+                    "boundaryNum": 1,
+                    "name": "Puldhouse - Chtaar",
+                    "localname": "Puldhouse - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd8642f2-c158-49bd-ba69-45c7de7531a5",
+                    "boundaryNum": 1,
+                    "name": "kulethi - Chtaar",
+                    "localname": "kulethi - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e747657a-78b3-4b43-a6b3-351ab1d298d0",
+                    "boundaryNum": 1,
+                    "name": "chowki - Chtaar",
+                    "localname": "chowki - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "10b7edb8-ed60-428f-9c56-d73a4b76ac78",
+                    "boundaryNum": 1,
+                    "name": "dadha - Chtaar",
+                    "localname": "dadha - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28fb18f4-9d2f-4d2d-b18b-7bb311f38e84",
+                    "boundaryNum": 1,
+                    "name": "Vikas Bhwan - Chtaar",
+                    "localname": "Vikas Bhwan - Chtaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "621ed4d5-188d-4d0a-b774-0e460c0e9ad1",
+                "boundaryNum": 1,
+                "name": "Talli Madhli",
+                "localname": "Talli Madhli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17651",
+                "children": [
+                  {
+                    "id": "facef736-c954-46f9-83ee-04ceb454a09e",
+                    "boundaryNum": 1,
+                    "name": "talli madhli - Talli Madhli",
+                    "localname": "talli madhli - Talli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c8d8500e-2ac7-44ff-bd2c-6546fcffb3b0",
+                    "boundaryNum": 1,
+                    "name": "Tyar kudha - Talli Madhli",
+                    "localname": "Tyar kudha - Talli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f27e25cc-d498-4a6a-9db3-f542dff760d8",
+                    "boundaryNum": 1,
+                    "name": "maanj gaw - Talli Madhli",
+                    "localname": "maanj gaw - Talli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "589d03da-e8a4-41d0-8936-6784a1408b4e",
+                    "boundaryNum": 1,
+                    "name": "G.I.C. Road - Talli Madhli",
+                    "localname": "G.I.C. Road - Talli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bae6626f-7a25-4ed7-a90c-97ffbb875401",
+                "boundaryNum": 1,
+                "name": "Malli Madhli",
+                "localname": "Malli Madhli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17652",
+                "children": [
+                  {
+                    "id": "6e5ece31-9c07-410a-bb2c-1fbd980765bd",
+                    "boundaryNum": 1,
+                    "name": "Malli madhli - Malli Madhli",
+                    "localname": "Malli madhli - Malli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "791d05e9-62cd-4c4d-bc3b-bff220a39db2",
+                    "boundaryNum": 1,
+                    "name": "Mdhye maanj Gaw - Malli Madhli",
+                    "localname": "Mdhye maanj Gaw - Malli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5a1e8b6c-45b1-4494-88a7-57c483164a83",
+                    "boundaryNum": 1,
+                    "name": "petrol pamp - Malli Madhli",
+                    "localname": "petrol pamp - Malli Madhli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "323ad9c2-62ef-4c84-a3f2-da6932636864",
+                "boundaryNum": 1,
+                "name": "Kanal Gaw",
+                "localname": "Kanal Gaw",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17653",
+                "children": [
+                  {
+                    "id": "fc6091f1-74e4-4664-9302-70801338ee54",
+                    "boundaryNum": 1,
+                    "name": "Kanal Gaw - Kanal Gaw",
+                    "localname": "Kanal Gaw - Kanal Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7b3598d7-37b1-41d5-bab1-54b9136d77dd",
+                    "boundaryNum": 1,
+                    "name": "G.I.C. - Kanal Gaw",
+                    "localname": "G.I.C. - Kanal Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1b72233-d1f4-4cdb-aaa7-43d2c012a991",
+                    "boundaryNum": 1,
+                    "name": "G.I.C. crossing - Kanal Gaw",
+                    "localname": "G.I.C. crossing - Kanal Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4dfad76a-bc06-434c-a03e-5f0c9917003f",
+                    "boundaryNum": 1,
+                    "name": "G.I.C. School - Kanal Gaw",
+                    "localname": "G.I.C. School - Kanal Gaw",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60da5e6c-a276-4db9-9999-9a546c451748",
+                "boundaryNum": 1,
+                "name": "Goral Chodh",
+                "localname": "Goral Chodh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17654",
+                "children": [
+                  {
+                    "id": "98fe9160-aec5-4d5f-bc42-171df34a205d",
+                    "boundaryNum": 1,
+                    "name": "Goral chodh - Goral Chodh",
+                    "localname": "Goral chodh - Goral Chodh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e90549c-843d-4c8a-939c-78459c867558",
+                    "boundaryNum": 1,
+                    "name": "Bhetti Mohalla - Goral Chodh",
+                    "localname": "Bhetti Mohalla - Goral Chodh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dae99da5-d785-46e6-915e-3700c3345e9d",
+                    "boundaryNum": 1,
+                    "name": "T.R.C. - Goral Chodh",
+                    "localname": "T.R.C. - Goral Chodh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7809e24-5bc1-4617-8d29-f378fe85bfc4",
+                    "boundaryNum": 1,
+                    "name": "Motar Stetion - Goral Chodh",
+                    "localname": "Motar Stetion - Goral Chodh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af589602-eebb-4493-95a4-d5df6bf7a8c8",
+                "boundaryNum": 1,
+                "name": "Jup Ward",
+                "localname": "Jup Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17655",
+                "children": [
+                  {
+                    "id": "b2ba58bc-1258-499d-8bfa-27a3b7dc69ce",
+                    "boundaryNum": 1,
+                    "name": "kharkarki - Jup Ward",
+                    "localname": "kharkarki - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63a4de69-bc5b-4b12-a766-c12f055c49e5",
+                    "boundaryNum": 1,
+                    "name": "Jup - Jup Ward",
+                    "localname": "Jup - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa5deeba-cbb0-4132-ad19-cfc892298a44",
+                    "boundaryNum": 1,
+                    "name": "Greef Camp - Jup Ward",
+                    "localname": "Greef Camp - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f4d11255-ee93-4247-93f8-04b881fc2e0a",
+                    "boundaryNum": 1,
+                    "name": "Shaktipur - Jup Ward",
+                    "localname": "Shaktipur - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dc9a9db0-0f6e-4712-be3c-e510600f31e7",
+                    "boundaryNum": 1,
+                    "name": "Police Line - Jup Ward",
+                    "localname": "Police Line - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1965be52-5ae1-49e9-96d6-adaff2935aa1",
+                    "boundaryNum": 1,
+                    "name": "M.E.S. - Jup Ward",
+                    "localname": "M.E.S. - Jup Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "802d6e57-86aa-4dd6-84f1-f87c7016d004",
+                "boundaryNum": 1,
+                "name": "Nagnath",
+                "localname": "Nagnath",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17656",
+                "children": [
+                  {
+                    "id": "8cf16b5b-df6c-4bca-baee-0a327291a8fc",
+                    "boundaryNum": 1,
+                    "name": "Nagnath - Nagnath",
+                    "localname": "Nagnath - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6dcacc93-ee78-4520-b5bd-2936a4fd9225",
+                    "boundaryNum": 1,
+                    "name": "Tellwada - Nagnath",
+                    "localname": "Tellwada - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9fdc7468-15f5-4f9d-a133-b33db3834589",
+                    "boundaryNum": 1,
+                    "name": "Selakhola - Nagnath",
+                    "localname": "Selakhola - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "afaff137-dff7-44a7-8616-cdb32afcf41c",
+                    "boundaryNum": 1,
+                    "name": "Rolyudha - Nagnath",
+                    "localname": "Rolyudha - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8a7f815b-b749-4451-9f6e-da18eaede7f1",
+                    "boundaryNum": 1,
+                    "name": "Nagarjun - Nagnath",
+                    "localname": "Nagarjun - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ff31d11-7c92-43f3-9361-f80436b5b6b4",
+                    "boundaryNum": 1,
+                    "name": "Roopa - Nagnath",
+                    "localname": "Roopa - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1751d47f-cb10-4fa0-afed-062d64740e75",
+                    "boundaryNum": 1,
+                    "name": "Rokhet - Nagnath",
+                    "localname": "Rokhet - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "37d1256c-6d77-4edf-bfbc-e820744b58a6",
+                    "boundaryNum": 1,
+                    "name": "Kharkarki - Nagnath",
+                    "localname": "Kharkarki - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ddc74413-3ac6-44d4-b52b-4f46ff6ff306",
+                    "boundaryNum": 1,
+                    "name": "Gyali Siran - Nagnath",
+                    "localname": "Gyali Siran - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5c8ec604-1fc4-4887-9133-1f6671f11256",
+                    "boundaryNum": 1,
+                    "name": "Narsari - Nagnath",
+                    "localname": "Narsari - Nagnath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fd5c75a0-c6ed-4b9b-8536-e6b134dd5860",
+                "boundaryNum": 1,
+                "name": "Baleswer",
+                "localname": "Baleswer",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296579",
+                "children": [
+                  {
+                    "id": "1ea41ff6-7320-4d90-8ae8-29da6ea5ba44",
+                    "boundaryNum": 1,
+                    "name": "Malli hatt - Baleswer",
+                    "localname": "Malli hatt - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0f2f8d0b-a3a1-4ee0-aae6-baf32930caf8",
+                    "boundaryNum": 1,
+                    "name": "Talli hatt - Baleswer",
+                    "localname": "Talli hatt - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f2d397b-6728-4db0-8fca-f3559dae7603",
+                    "boundaryNum": 1,
+                    "name": "Mellakot - Baleswer",
+                    "localname": "Mellakot - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5f75bb2-d5dd-4ce2-a909-a3fb59ad6f50",
+                    "boundaryNum": 1,
+                    "name": "Pehrudha - Baleswer",
+                    "localname": "Pehrudha - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "729eb63a-67cc-466b-9bd5-88995e79faf7",
+                    "boundaryNum": 1,
+                    "name": "Bhatta pdhos - Baleswer",
+                    "localname": "Bhatta pdhos - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2af569f4-15a9-4ffb-8685-52b5d3294f9f",
+                    "boundaryNum": 1,
+                    "name": "Baleshwar - Baleswer",
+                    "localname": "Baleshwar - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dfe4baa1-b5c7-4774-b097-f766aceb294a",
+                    "boundaryNum": 1,
+                    "name": "Talbunga - Baleswer",
+                    "localname": "Talbunga - Baleswer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd57e097-5269-4790-b4fc-84fb3bb531e5",
+                "boundaryNum": 1,
+                "name": "Bherwa",
+                "localname": "Bherwa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296580",
+                "children": [
+                  {
+                    "id": "c6a02df2-2c6e-4edc-b991-db8c951ab67d",
+                    "boundaryNum": 1,
+                    "name": "Bherwa - Bherwa",
+                    "localname": "Bherwa - Bherwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3158888e-df7e-4d2a-ba67-10ddfca91129",
+                    "boundaryNum": 1,
+                    "name": "Gureli Dunga - Bherwa",
+                    "localname": "Gureli Dunga - Bherwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f25082b6-9c9a-4022-ac42-adfc0d7a1adb",
+                    "boundaryNum": 1,
+                    "name": "Deval - Bherwa",
+                    "localname": "Deval - Bherwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cddf6be5-9bac-48fd-a36d-6bbfae37e96e",
+                    "boundaryNum": 1,
+                    "name": "Beer Shiva School - Bherwa",
+                    "localname": "Beer Shiva School - Bherwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2da23a9a-73cf-46ff-8b5c-d76191225101",
+                    "boundaryNum": 1,
+                    "name": "Roadvej Bus Stop - Bherwa",
+                    "localname": "Roadvej Bus Stop - Bherwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

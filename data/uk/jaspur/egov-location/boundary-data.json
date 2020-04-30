@@ -1,0 +1,599 @@
+{
+  "tenantId": "uk.jaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "jaspur",
+        "localname": "jaspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.jaspur",
+        "children": [
+          {
+            "id": "33a9b985-998c-4251-8a70-43ad27840a41",
+            "boundaryNum": 1,
+            "name": "Jaspur",
+            "localname": "Jaspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "a3ca99f8-c1a4-4639-89f2-b44932f8b577",
+                "boundaryNum": 1,
+                "name": "Dilla Singh",
+                "localname": "Dilla Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18485",
+                "children": [
+                  {
+                    "id": "ddd2952a-8488-4942-8b79-516201e8c46d",
+                    "boundaryNum": 1,
+                    "name": "DILLA SINGH - Dilla Singh",
+                    "localname": "DILLA SINGH - Dilla Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02b6fd77-1d03-456c-9b6d-724648d8b676",
+                "boundaryNum": 1,
+                "name": "Natha Singh Purvi",
+                "localname": "Natha Singh Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18486",
+                "children": [
+                  {
+                    "id": "f94ad4ea-11d8-4787-8e0b-efaac346ff3f",
+                    "boundaryNum": 1,
+                    "name": "NATTHA SINGH - Natha Singh Purvi",
+                    "localname": "NATTHA SINGH - Natha Singh Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ed72bf2d-a474-4e62-8248-0d91c59414b0",
+                "boundaryNum": 1,
+                "name": "Natha Singh Paschami",
+                "localname": "Natha Singh Paschami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18487",
+                "children": [
+                  {
+                    "id": "a0989d5c-016f-4227-88f1-238fcb0f11cf",
+                    "boundaryNum": 1,
+                    "name": "PATTI TEERGARI - Natha Singh Paschami",
+                    "localname": "PATTI TEERGARI - Natha Singh Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bbeae10f-d829-453e-a0c7-dfa9d2b54df2",
+                    "boundaryNum": 1,
+                    "name": "PATTI MANSHA - Natha Singh Paschami",
+                    "localname": "PATTI MANSHA - Natha Singh Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d7732e9-1887-46b5-8f14-881747ed9246",
+                "boundaryNum": 1,
+                "name": "Gujratiyan Uttari",
+                "localname": "Gujratiyan Uttari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18488",
+                "children": [
+                  {
+                    "id": "c8d3bea6-63b7-40f4-b91c-d8804c51be6e",
+                    "boundaryNum": 1,
+                    "name": "GUJRATIYAN - Gujratiyan Uttari",
+                    "localname": "GUJRATIYAN - Gujratiyan Uttari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79d2c2d7-4844-402f-a395-c72abadd9a78",
+                "boundaryNum": 1,
+                "name": "Gujratiyan Dakshini",
+                "localname": "Gujratiyan Dakshini",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18489",
+                "children": [
+                  {
+                    "id": "8dc2d574-dff2-48c6-983e-23f818e60c29",
+                    "boundaryNum": 1,
+                    "name": "PATTI CHAUHAN - Gujratiyan Dakshini",
+                    "localname": "PATTI CHAUHAN - Gujratiyan Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "df78e283-4ef5-46a3-be8b-599cbcf3f6d0",
+                    "boundaryNum": 1,
+                    "name": "PATTI NETRAM - Gujratiyan Dakshini",
+                    "localname": "PATTI NETRAM - Gujratiyan Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac8b0a7f-972d-4f56-a0e3-060eb064aa34",
+                "boundaryNum": 1,
+                "name": "Julahaan Uttari",
+                "localname": "Julahaan Uttari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18490",
+                "children": [
+                  {
+                    "id": "93aaf81b-25ef-4fb6-8f43-068ddbadc99a",
+                    "boundaryNum": 1,
+                    "name": "CHAUHANAN - Julahaan Uttari",
+                    "localname": "CHAUHANAN - Julahaan Uttari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1dd9699-d024-4d8a-a1f6-42cb920061ec",
+                "boundaryNum": 1,
+                "name": "Julahaan Dakshini",
+                "localname": "Julahaan Dakshini",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18491",
+                "children": [
+                  {
+                    "id": "f0a38079-1eed-4ccf-b4a7-318802843fdc",
+                    "boundaryNum": 1,
+                    "name": "JULAHAN - Julahaan Dakshini",
+                    "localname": "JULAHAN - Julahaan Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b8eb3f6-d88e-4e19-aee9-e9e4fdd37d7d",
+                "boundaryNum": 1,
+                "name": "Patti Chauhan Purvi",
+                "localname": "Patti Chauhan Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18492",
+                "children": [
+                  {
+                    "id": "88a205ad-6c2f-4b12-bc59-bd88bfcdd2ff",
+                    "boundaryNum": 1,
+                    "name": "PATTI CHAUHAN - Patti Chauhan Purvi",
+                    "localname": "PATTI CHAUHAN - Patti Chauhan Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8b0d5db-3225-4820-a6ef-319a360ab604",
+                "boundaryNum": 1,
+                "name": "Patti Chauhan Paschami",
+                "localname": "Patti Chauhan Paschami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18493",
+                "children": [
+                  {
+                    "id": "0011295e-61ae-4d99-ad78-5d2b1b84ed47",
+                    "boundaryNum": 1,
+                    "name": "PATTI NETRAM - Patti Chauhan Paschami",
+                    "localname": "PATTI NETRAM - Patti Chauhan Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b4480619-e318-4373-9ebb-02701ab38d7f",
+                    "boundaryNum": 1,
+                    "name": "PATTI MANSHA - Patti Chauhan Paschami",
+                    "localname": "PATTI MANSHA - Patti Chauhan Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "868e34c7-20a7-41d7-bad0-72bd656daed4",
+                "boundaryNum": 1,
+                "name": "Bhoop Singh Dakshini",
+                "localname": "Bhoop Singh Dakshini",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18494",
+                "children": [
+                  {
+                    "id": "56e0effa-a8b3-4abf-87e7-c2ef609b2a3d",
+                    "boundaryNum": 1,
+                    "name": "BHOOP SINGH - Bhoop Singh Dakshini",
+                    "localname": "BHOOP SINGH - Bhoop Singh Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac66ceb5-0579-4997-9730-24db09a3b3aa",
+                "boundaryNum": 1,
+                "name": "Bazaar Bhoop Singh Uttari",
+                "localname": "Bazaar Bhoop Singh Uttari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18495",
+                "children": [
+                  {
+                    "id": "0328310c-477f-48bb-9d72-501de1d423e3",
+                    "boundaryNum": 1,
+                    "name": "BAZAR BHOOP SINGH - Bazaar Bhoop Singh Uttari",
+                    "localname": "BAZAR BHOOP SINGH - Bazaar Bhoop Singh Uttari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "62d9365e-99ef-4aad-bbba-2c664148419b",
+                "boundaryNum": 1,
+                "name": "Chipiyan Purvi",
+                "localname": "Chipiyan Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18496",
+                "children": [
+                  {
+                    "id": "6258085f-4f7b-428a-9147-cfb851f57fcc",
+                    "boundaryNum": 1,
+                    "name": "CHHIPIYAN - Chipiyan Purvi",
+                    "localname": "CHHIPIYAN - Chipiyan Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5c5b69db-0e54-4e23-a79f-12403754a8c1",
+                "boundaryNum": 1,
+                "name": "Chipiyan Paschami",
+                "localname": "Chipiyan Paschami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18497",
+                "children": [
+                  {
+                    "id": "a94fb2bf-68b7-4bda-8121-85ac1efdd9b6",
+                    "boundaryNum": 1,
+                    "name": "NATTHA SINGH - Chipiyan Paschami",
+                    "localname": "NATTHA SINGH - Chipiyan Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "99d55791-3e06-4ace-8b22-69053fba9527",
+                    "boundaryNum": 1,
+                    "name": "CHHIPIYAN - Chipiyan Paschami",
+                    "localname": "CHHIPIYAN - Chipiyan Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2908f9aa-d272-4464-8197-dc70daa42d36",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Purvi",
+                "localname": "Nayi Bashti Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296512",
+                "children": [
+                  {
+                    "id": "02b9a188-4016-473d-972d-0ecf9281e653",
+                    "boundaryNum": 1,
+                    "name": "AMRATPUR - Nayi Bashti Purvi",
+                    "localname": "AMRATPUR - Nayi Bashti Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab222fc5-9753-457a-a10e-fa65aeac4abc",
+                    "boundaryNum": 1,
+                    "name": "AMRATPUR - Nayi Bashti Purvi",
+                    "localname": "AMRATPUR - Nayi Bashti Purvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0404e904-93c6-4673-824b-4a445f029b1a",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Purvi Gaanguwala",
+                "localname": "Nayi Bashti Purvi Gaanguwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296513",
+                "children": [
+                  {
+                    "id": "19c27040-102f-4a2b-a8a9-e44d1e9373dd",
+                    "boundaryNum": 1,
+                    "name": "AMRATPUR - Nayi Bashti Purvi Gaanguwala",
+                    "localname": "AMRATPUR - Nayi Bashti Purvi Gaanguwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49c78ce2-ea61-446e-9e70-8b016f171baf",
+                    "boundaryNum": 1,
+                    "name": "GANGUWALA - Nayi Bashti Purvi Gaanguwala",
+                    "localname": "GANGUWALA - Nayi Bashti Purvi Gaanguwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c13cb12b-9d6d-41ff-be06-d03afea4a30e",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Purvi",
+                "localname": "Nayi Bashti Purvi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296514",
+                "children": []
+              },
+              {
+                "id": "41eb827e-79c6-4282-bf13-b0320f074e20",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Madhyamik Paschami",
+                "localname": "Nayi Bashti Madhyamik Paschami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296515",
+                "children": [
+                  {
+                    "id": "10bb0513-2683-4bfa-9ae9-4a0211896ba0",
+                    "boundaryNum": 1,
+                    "name": "PATTI UTTAM - Nayi Bashti Madhyamik Paschami",
+                    "localname": "PATTI UTTAM - Nayi Bashti Madhyamik Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6efff509-9f29-4d17-a78f-a3c9d6d3b030",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Uttari Paschami",
+                "localname": "Nayi Bashti Uttari Paschami",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296516",
+                "children": [
+                  {
+                    "id": "b5ec1c84-ec19-47e9-b334-2035b9918851",
+                    "boundaryNum": 1,
+                    "name": "PATTI TIRMAL - Nayi Bashti Uttari Paschami",
+                    "localname": "PATTI TIRMAL - Nayi Bashti Uttari Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "34f3bf3f-0347-493c-968b-84ca955b4d1e",
+                    "boundaryNum": 1,
+                    "name": "NAI BASTI - Nayi Bashti Uttari Paschami",
+                    "localname": "NAI BASTI - Nayi Bashti Uttari Paschami",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d2871cd3-78c8-4455-b933-e3c4ae3d1770",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Purvi Dakshini",
+                "localname": "Nayi Bashti Purvi Dakshini",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296517",
+                "children": [
+                  {
+                    "id": "adc54edd-06b4-4272-a7da-b58e357abcd0",
+                    "boundaryNum": 1,
+                    "name": "NAI BASTI - Nayi Bashti Purvi Dakshini",
+                    "localname": "NAI BASTI - Nayi Bashti Purvi Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64642e3c-2d76-4bb1-9cec-d0e6d8a2a231",
+                "boundaryNum": 1,
+                "name": "Nayi Bashti Paschami Dakshini",
+                "localname": "Nayi Bashti Paschami Dakshini",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296518",
+                "children": [
+                  {
+                    "id": "ef6227ed-5c9c-4f20-b002-3e747b5a8620",
+                    "boundaryNum": 1,
+                    "name": "PATTI UTTAM - Nayi Bashti Paschami Dakshini",
+                    "localname": "PATTI UTTAM - Nayi Bashti Paschami Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8f52256a-9686-4779-a81b-0c9e752bc2dc",
+                    "boundaryNum": 1,
+                    "name": "PATTI TIRMAL - Nayi Bashti Paschami Dakshini",
+                    "localname": "PATTI TIRMAL - Nayi Bashti Paschami Dakshini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

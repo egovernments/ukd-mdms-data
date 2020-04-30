@@ -1,0 +1,126 @@
+{
+"tenantId": "uk.jaspur",
+"moduleName": "TradeLicense",
+"TradeType": [
+  {
+    "code": "TRADE.SHOP.SWSH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.FVS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.WORKSHOP.KMDM",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.PETROLEUM.PUMP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.WORKSHOP.WELD",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.POWER.100H",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.TRANSPORT.THELA",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.POWER.10HP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.POWER.20HP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.POWER.50HP",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
+}

@@ -1,0 +1,1176 @@
+{
+  "tenantId": "uk.doiwala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "doiwala",
+        "localname": "doiwala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.doiwala",
+        "children": [
+          {
+            "id": "c7b6b3d5-4c8e-4ca6-a0a9-daa1f606e0e6",
+            "boundaryNum": 1,
+            "name": "Doiwala",
+            "localname": "Doiwala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "0cbb8d2e-a004-4d91-9ee5-781987f4eb88",
+                "boundaryNum": 1,
+                "name": "Misserwala",
+                "localname": "Misserwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17454",
+                "children": [
+                  {
+                    "id": "9343bb73-befa-428e-923f-23876b3409d4",
+                    "boundaryNum": 1,
+                    "name": "Lachiwala - Misserwala",
+                    "localname": "Lachiwala - Misserwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f62f33fc-068e-444a-98b9-897593f7188b",
+                    "boundaryNum": 1,
+                    "name": "Misserwala khurd - Misserwala",
+                    "localname": "Misserwala khurd - Misserwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a6a5ebee-5cef-4a6e-805b-ea844af1212c",
+                    "boundaryNum": 1,
+                    "name": "kotwali kshetr - Misserwala",
+                    "localname": "kotwali kshetr - Misserwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "21a67e9b-0e2f-4ad9-8878-895a1601fdc0",
+                    "boundaryNum": 1,
+                    "name": "kashmiri colony - Misserwala",
+                    "localname": "kashmiri colony - Misserwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "595dac4d-4be9-406b-93e4-4b4a25a5d137",
+                "boundaryNum": 1,
+                "name": "Arya Nagar",
+                "localname": "Arya Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17455",
+                "children": [
+                  {
+                    "id": "d550252d-34f1-489f-bbdb-2634b884bf1a",
+                    "boundaryNum": 1,
+                    "name": "Shaheed durgamal degree college kshetr - Arya Nagar",
+                    "localname": "Shaheed durgamal degree college kshetr - Arya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f37b4e66-4531-46da-9154-a15958e75ff6",
+                    "boundaryNum": 1,
+                    "name": "Arya nagar - Arya Nagar",
+                    "localname": "Arya nagar - Arya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc9018b8-ac87-4862-b0c9-0b389855dbf0",
+                    "boundaryNum": 1,
+                    "name": "Bhaniyawala tiraha bazar - Arya Nagar",
+                    "localname": "Bhaniyawala tiraha bazar - Arya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fc830d13-daf9-4f15-8ee8-1aa8149186c6",
+                    "boundaryNum": 1,
+                    "name": "Sangatiyawala khurd kshetr - Arya Nagar",
+                    "localname": "Sangatiyawala khurd kshetr - Arya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99ba47db-1240-43a2-a066-846ba939aa1f",
+                "boundaryNum": 1,
+                "name": "Kanharwala",
+                "localname": "Kanharwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17456",
+                "children": [
+                  {
+                    "id": "becf8a32-66cb-4a98-b1b7-813494e6dbf8",
+                    "boundaryNum": 1,
+                    "name": "Kanharwala bazar kshetr - Kanharwala",
+                    "localname": "Kanharwala bazar kshetr - Kanharwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "30ebcaf8-3d54-4d14-aa52-3e0f4b8f83f4",
+                    "boundaryNum": 1,
+                    "name": "Majri nahar kshetr - Kanharwala",
+                    "localname": "Majri nahar kshetr - Kanharwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d13bcf9-be5e-4079-8d59-812cf29872f1",
+                    "boundaryNum": 1,
+                    "name": "Thano tiraha - Kanharwala",
+                    "localname": "Thano tiraha - Kanharwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0c4587b-2caa-435c-9608-a02b6588d5f9",
+                    "boundaryNum": 1,
+                    "name": "Durga vihar - Kanharwala",
+                    "localname": "Durga vihar - Kanharwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5c1cc24-3437-4fae-9bf1-61178e43eb54",
+                "boundaryNum": 1,
+                "name": "Baruwala",
+                "localname": "Baruwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17457",
+                "children": [
+                  {
+                    "id": "957e6cce-26d3-4185-876f-9590d82b4747",
+                    "boundaryNum": 1,
+                    "name": "Baruwala - Baruwala",
+                    "localname": "Baruwala - Baruwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "74b77e62-4bc2-44f7-a143-a3f582ce2ede",
+                    "boundaryNum": 1,
+                    "name": "Pal basti - Baruwala",
+                    "localname": "Pal basti - Baruwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9861bb79-c3b1-4fbf-bece-74df4450fe35",
+                    "boundaryNum": 1,
+                    "name": "Tarli jolly paani ki tanki - Baruwala",
+                    "localname": "Tarli jolly paani ki tanki - Baruwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2992142-d0c4-410a-a0b7-e9bc0bb2afac",
+                "boundaryNum": 1,
+                "name": "Bichli Jolly",
+                "localname": "Bichli Jolly",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17458",
+                "children": [
+                  {
+                    "id": "b6ebb889-d8af-43c3-afa2-da64445386c5",
+                    "boundaryNum": 1,
+                    "name": "A.N.M Center kshetr - Bichli Jolly",
+                    "localname": "A.N.M Center kshetr - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "562a8a27-a464-4b7b-b98d-4bc8fc0bafc4",
+                    "boundaryNum": 1,
+                    "name": "Kaudsyal mohalla - Bichli Jolly",
+                    "localname": "Kaudsyal mohalla - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17ed8144-5f4b-49b6-af84-701bea60162e",
+                    "boundaryNum": 1,
+                    "name": "Pal basti - Bichli Jolly",
+                    "localname": "Pal basti - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0ca02f8-c161-495c-add8-a8c0eac407ba",
+                    "boundaryNum": 1,
+                    "name": "Muslim basti - Bichli Jolly",
+                    "localname": "Muslim basti - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "063d1fc7-29b3-4fd4-bba6-f9cf9076af9f",
+                    "boundaryNum": 1,
+                    "name": "Kothari mohalla - Bichli Jolly",
+                    "localname": "Kothari mohalla - Bichli Jolly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02b19b69-e7ee-4b48-9f8a-8d680ecea156",
+                "boundaryNum": 1,
+                "name": "Swami Ramnagar",
+                "localname": "Swami Ramnagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17459",
+                "children": [
+                  {
+                    "id": "35405ad6-cf41-45f7-b610-0513cb79038b",
+                    "boundaryNum": 1,
+                    "name": "Himalayan hospital And campus area - Swami Ramnagar",
+                    "localname": "Himalayan hospital And campus area - Swami Ramnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d10038f5-0f5e-420a-9d24-2756640b2ecf",
+                    "boundaryNum": 1,
+                    "name": "Muslim basti - Swami Ramnagar",
+                    "localname": "Muslim basti - Swami Ramnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9c06ead9-3416-4c96-aaec-0e1800fc26ee",
+                    "boundaryNum": 1,
+                    "name": "Adarsh nagar - Swami Ramnagar",
+                    "localname": "Adarsh nagar - Swami Ramnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c565e4c-a752-4e70-b99b-2353116c0fb4",
+                "boundaryNum": 1,
+                "name": "Jolly Grant",
+                "localname": "Jolly Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17460",
+                "children": [
+                  {
+                    "id": "e26e6e4c-f35f-49e8-a70e-d6b2d6b4fa01",
+                    "boundaryNum": 1,
+                    "name": "Airport area - Jolly Grant",
+                    "localname": "Airport area - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25ec44f9-039d-4e1e-bdbd-b9715cd735e7",
+                    "boundaryNum": 1,
+                    "name": "Baagi gaon - Jolly Grant",
+                    "localname": "Baagi gaon - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1aef647a-fcb6-4601-a55a-b504fae80019",
+                    "boundaryNum": 1,
+                    "name": "Kothari mohalla - Jolly Grant",
+                    "localname": "Kothari mohalla - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d27b81c8-80c2-4ac5-9c8d-cdd500a13d37",
+                    "boundaryNum": 1,
+                    "name": "Athurwala - Jolly Grant",
+                    "localname": "Athurwala - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cfc0cb69-fdf7-48d0-8cf6-d0d483a1edd1",
+                    "boundaryNum": 1,
+                    "name": "Himalayan chowk bazar kshetr - Jolly Grant",
+                    "localname": "Himalayan chowk bazar kshetr - Jolly Grant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c0d3301-d9ac-4561-8375-b22bacbd6d8a",
+                "boundaryNum": 1,
+                "name": "Athoorwala 1st",
+                "localname": "Athoorwala 1st",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296736",
+                "children": [
+                  {
+                    "id": "dc4706db-9948-4260-a2eb-d428f0e590af",
+                    "boundaryNum": 1,
+                    "name": "Athurwala chowk 1 to chowk 6 total area - Athoorwala 1st",
+                    "localname": "Athurwala chowk 1 to chowk 6 total area - Athoorwala 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c36e02e0-6432-4010-b6fa-3b50ddb3aeed",
+                "boundaryNum": 1,
+                "name": "Athoorwala 2nd",
+                "localname": "Athoorwala 2nd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296737",
+                "children": [
+                  {
+                    "id": "6f81f509-ed2a-4ccf-bf91-2dea1830e8f0",
+                    "boundaryNum": 1,
+                    "name": "Athurwala chowk 6 to jivanwala border total area - Athoorwala 2nd",
+                    "localname": "Athurwala chowk 6 to jivanwala border total area - Athoorwala 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a8746f25-5220-4ab2-94da-8777df85c02b",
+                    "boundaryNum": 1,
+                    "name": "Sunargaon - Athoorwala 2nd",
+                    "localname": "Sunargaon - Athoorwala 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba4a8f9a-a20b-4fa3-a1f1-1087b0c6141e",
+                "boundaryNum": 1,
+                "name": "Bhaniyawala",
+                "localname": "Bhaniyawala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296738",
+                "children": [
+                  {
+                    "id": "1f3e2b71-f745-4778-847b-8fece3c953db",
+                    "boundaryNum": 1,
+                    "name": "Bhaniyawala bazar kshetr - Bhaniyawala",
+                    "localname": "Bhaniyawala bazar kshetr - Bhaniyawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab601edb-e6bd-433c-829b-6b462ad7a681",
+                    "boundaryNum": 1,
+                    "name": "Kanharwala bazar kshetr - Bhaniyawala",
+                    "localname": "Kanharwala bazar kshetr - Bhaniyawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b57b9289-671f-4b41-9d5b-36ac84efefae",
+                "boundaryNum": 1,
+                "name": "Keshawpuri",
+                "localname": "Keshawpuri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296739",
+                "children": [
+                  {
+                    "id": "dc84ef0a-cd46-493d-aecd-258535599f14",
+                    "boundaryNum": 1,
+                    "name": "Keshavpuri basti - Keshawpuri",
+                    "localname": "Keshavpuri basti - Keshawpuri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7cc49dd-0bcc-4ee9-94a2-e8ff5f7db2b4",
+                "boundaryNum": 1,
+                "name": "Rajiv Nagar",
+                "localname": "Rajiv Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296740",
+                "children": [
+                  {
+                    "id": "86c33908-6f9d-4710-9b07-8ee5a4ed880d",
+                    "boundaryNum": 1,
+                    "name": "Rajiv nagar - Rajiv Nagar",
+                    "localname": "Rajiv nagar - Rajiv Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca83ae9a-2a6a-4d9f-b05d-365b2f772d25",
+                    "boundaryNum": 1,
+                    "name": "Khatta road - Rajiv Nagar",
+                    "localname": "Khatta road - Rajiv Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a614b8f5-f0b2-47b1-9cf1-5eb0e6a4960e",
+                "boundaryNum": 1,
+                "name": "Trigharat",
+                "localname": "Trigharat",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296741",
+                "children": [
+                  {
+                    "id": "aa4c01ab-af54-45f9-9f97-acfee2196357",
+                    "boundaryNum": 1,
+                    "name": "Gharat Mohalla - Trigharat",
+                    "localname": "Gharat Mohalla - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "03953f96-b476-4d1f-9bb6-cb57497b833a",
+                    "boundaryNum": 1,
+                    "name": "Nathuram Plot - Trigharat",
+                    "localname": "Nathuram Plot - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8d045655-a0a1-4d78-9d5e-6fb3f2d64b50",
+                    "boundaryNum": 1,
+                    "name": "Mill Road - Trigharat",
+                    "localname": "Mill Road - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "10bcf405-2409-42bd-861b-ec5cb224ae18",
+                    "boundaryNum": 1,
+                    "name": "Sugar Mill - Trigharat",
+                    "localname": "Sugar Mill - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e7be7c23-8381-402d-9313-8eafda0428d0",
+                    "boundaryNum": 1,
+                    "name": "Resham Vibhag - Trigharat",
+                    "localname": "Resham Vibhag - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25a225eb-6d12-4e0d-a540-38ee23b92cc7",
+                    "boundaryNum": 1,
+                    "name": "Garden Colony Partial - Trigharat",
+                    "localname": "Garden Colony Partial - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20e57115-6ccb-4ade-99e8-561cd7a62b0a",
+                    "boundaryNum": 1,
+                    "name": "Daji Mohalla - Trigharat",
+                    "localname": "Daji Mohalla - Trigharat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95759317-9205-4e9b-b0fa-b6e3181d1431",
+                "boundaryNum": 1,
+                "name": "Khatta",
+                "localname": "Khatta",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296742",
+                "children": [
+                  {
+                    "id": "ddc8c9c3-4b7b-454b-90aa-f94809d7ce69",
+                    "boundaryNum": 1,
+                    "name": "Khatta - Khatta",
+                    "localname": "Khatta - Khatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4970b51a-7f9e-408f-abe2-31193fe254d0",
+                    "boundaryNum": 1,
+                    "name": "Garden Colony Partial - Khatta",
+                    "localname": "Garden Colony Partial - Khatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2aaa035e-af22-4bdc-a019-5030cd30c1b4",
+                "boundaryNum": 1,
+                "name": "Niyamwala",
+                "localname": "Niyamwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296743",
+                "children": [
+                  {
+                    "id": "222a3548-6df9-4304-abfb-bd636d95bffd",
+                    "boundaryNum": 1,
+                    "name": "Niyamwala - Niyamwala",
+                    "localname": "Niyamwala - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e55aaa3-557f-4ec3-a00f-4a71404f85f2",
+                    "boundaryNum": 1,
+                    "name": "Chidammiwala Partial - Niyamwala",
+                    "localname": "Chidammiwala Partial - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "03650155-02f1-4b88-8acb-c46dc563f227",
+                    "boundaryNum": 1,
+                    "name": "Telliwala Partial - Niyamwala",
+                    "localname": "Telliwala Partial - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b8ac3e8f-b2a0-495e-8e9a-58758e6370cc",
+                    "boundaryNum": 1,
+                    "name": "Bajawala Partial - Niyamwala",
+                    "localname": "Bajawala Partial - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9654129c-1701-4190-a0a0-e5d62f7a8244",
+                    "boundaryNum": 1,
+                    "name": "Kurkawala Parital - Niyamwala",
+                    "localname": "Kurkawala Parital - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "65f99009-2bc8-483e-b5fe-db75b1251e33",
+                    "boundaryNum": 1,
+                    "name": "Panchwati Colony - Niyamwala",
+                    "localname": "Panchwati Colony - Niyamwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e97800b0-eeed-4ca8-b520-35cc0985a185",
+                "boundaryNum": 1,
+                "name": "Telliwala",
+                "localname": "Telliwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296744",
+                "children": [
+                  {
+                    "id": "044bbee4-f33b-493a-a1a7-2518bf7f1cda",
+                    "boundaryNum": 1,
+                    "name": "Kurkawala - Telliwala",
+                    "localname": "Kurkawala - Telliwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe7d0066-ecf3-4269-adbe-9d6f38bc8809",
+                    "boundaryNum": 1,
+                    "name": "Telliwala Partial - Telliwala",
+                    "localname": "Telliwala Partial - Telliwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "78679389-e2a0-4e38-8781-23274c0690ae",
+                    "boundaryNum": 1,
+                    "name": "Kurkawala Parital - Telliwala",
+                    "localname": "Kurkawala Parital - Telliwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1568d571-197c-4595-9ed2-1d99343275d8",
+                "boundaryNum": 1,
+                "name": "Kurkawala",
+                "localname": "Kurkawala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296745",
+                "children": [
+                  {
+                    "id": "a0f09d1f-885f-4aa9-8004-44de93b9a92d",
+                    "boundaryNum": 1,
+                    "name": "Kurkawala Parital - Kurkawala",
+                    "localname": "Kurkawala Parital - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f4519e0-427d-4447-91cc-409432c2f774",
+                    "boundaryNum": 1,
+                    "name": "Hansuwala - Kurkawala",
+                    "localname": "Hansuwala - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f3536010-ce4e-4816-b6c3-03e35896d874",
+                    "boundaryNum": 1,
+                    "name": "Madhonwala, B.S.F area - Kurkawala",
+                    "localname": "Madhonwala, B.S.F area - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1b8763bd-93e5-4bd7-8210-62dc38c6d7d1",
+                    "boundaryNum": 1,
+                    "name": "Sattiwala - Kurkawala",
+                    "localname": "Sattiwala - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4aec783c-e296-4475-a215-594671e61b1d",
+                    "boundaryNum": 1,
+                    "name": "Premnagar Partial - Kurkawala",
+                    "localname": "Premnagar Partial - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da4d807e-4168-4d0a-832e-3e508aee6119",
+                    "boundaryNum": 1,
+                    "name": "Chandmari Partial - Kurkawala",
+                    "localname": "Chandmari Partial - Kurkawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82c991c6-a2ba-4a10-8773-6d663af139bd",
+                "boundaryNum": 1,
+                "name": "Premnagar",
+                "localname": "Premnagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296746",
+                "children": [
+                  {
+                    "id": "13822a58-2824-4e3d-8d25-a54470e98e27",
+                    "boundaryNum": 1,
+                    "name": "Premnagar - Premnagar",
+                    "localname": "Premnagar - Premnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2657b86c-94f2-4d76-ad00-092134667734",
+                    "boundaryNum": 1,
+                    "name": "Ekta Vihar - Premnagar",
+                    "localname": "Ekta Vihar - Premnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "736837f3-3a40-4600-8519-5fb987839e90",
+                    "boundaryNum": 1,
+                    "name": "Gyan Vihar - Premnagar",
+                    "localname": "Gyan Vihar - Premnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0063",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62beec6f-d05b-417d-8ec3-062996dbbc01",
+                    "boundaryNum": 1,
+                    "name": "Teacher Colony Partial - Premnagar",
+                    "localname": "Teacher Colony Partial - Premnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0064",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38de6412-c47e-4f59-8e5f-738d242c8ff5",
+                    "boundaryNum": 1,
+                    "name": "Chandmari Partial - Premnagar",
+                    "localname": "Chandmari Partial - Premnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0065",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "03578186-586a-42c7-bcac-0b1657d49e26",
+                "boundaryNum": 1,
+                "name": "Chandmari",
+                "localname": "Chandmari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296747",
+                "children": [
+                  {
+                    "id": "b7cef32c-46bf-41f5-9525-0de2e978f7ce",
+                    "boundaryNum": 1,
+                    "name": "Muslim Colony - Chandmari",
+                    "localname": "Muslim Colony - Chandmari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0066",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a172a866-53d2-4df2-b297-9e4c3b2a15f1",
+                    "boundaryNum": 1,
+                    "name": "Teacher Colony Partial - Chandmari",
+                    "localname": "Teacher Colony Partial - Chandmari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0067",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9c143508-f04b-4594-8613-79f9b584c02a",
+                    "boundaryNum": 1,
+                    "name": "Chandmari Partial - Chandmari",
+                    "localname": "Chandmari Partial - Chandmari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0068",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7a89d6b6-15c4-4f40-add7-50ef1c238ffb",
+                    "boundaryNum": 1,
+                    "name": "Rambagh - Chandmari",
+                    "localname": "Rambagh - Chandmari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0069",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ba9074e-82ed-44bf-9a88-b1c3961705dc",
+                "boundaryNum": 1,
+                "name": "Ambedkar Nagar",
+                "localname": "Ambedkar Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296748",
+                "children": [
+                  {
+                    "id": "4bcbc13c-c894-4b0d-b809-9f4956bbcdf9",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar - Ambedkar Nagar",
+                    "localname": "Ambedkar Nagar - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0070",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20da5b99-07e1-4ec4-ba7f-6f0d5eac4710",
+                    "boundaryNum": 1,
+                    "name": "Misserwala Kala - Ambedkar Nagar",
+                    "localname": "Misserwala Kala - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0071",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fbc9ae2-2cd1-4bb1-a811-d9949e8628ad",
+                    "boundaryNum": 1,
+                    "name": "Rambagh - Ambedkar Nagar",
+                    "localname": "Rambagh - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0072",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "254ca05a-b97d-4a3f-8f29-051a3d171420",
+                    "boundaryNum": 1,
+                    "name": "Bhagirathi Enclave - Ambedkar Nagar",
+                    "localname": "Bhagirathi Enclave - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0073",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eeefe024-9999-4145-8fd9-3f80989d8a8f",
+                    "boundaryNum": 1,
+                    "name": "Tongiya - Ambedkar Nagar",
+                    "localname": "Tongiya - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0074",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9a69272f-d728-497f-a31c-547a4b0bde96",
+                    "boundaryNum": 1,
+                    "name": "Lachiwala - Ambedkar Nagar",
+                    "localname": "Lachiwala - Ambedkar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0075",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

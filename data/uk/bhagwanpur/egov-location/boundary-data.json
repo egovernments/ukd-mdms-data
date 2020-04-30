@@ -1,0 +1,480 @@
+{
+  "tenantId": "uk.bhagwanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bhagwanpur",
+        "localname": "bhagwanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.bhagwanpur",
+        "children": [
+          {
+            "id": "6e253db4-ab50-4277-a61f-cb0c5ba32fac",
+            "boundaryNum": 1,
+            "name": "Bhagwanpur",
+            "localname": "Bhagwanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c8623620-863f-467a-85ac-5ef43a45c238",
+                "boundaryNum": 1,
+                "name": "khanpur",
+                "localname": "khanpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297029",
+                "children": [
+                  {
+                    "id": "b7ca24bc-d43e-4e97-86ce-fb739c6b2fa2",
+                    "boundaryNum": 1,
+                    "name": "khanpur - khanpur",
+                    "localname": "khanpur - khanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0f4d704-0e86-406d-a3c9-19b26f751da1",
+                    "boundaryNum": 1,
+                    "name": "Eid gha colony khanpur - khanpur",
+                    "localname": "Eid gha colony khanpur - khanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d682caf1-5d78-4527-9acc-2d7cb8abce06",
+                "boundaryNum": 1,
+                "name": "shahpur 1st",
+                "localname": "shahpur 1st",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297030",
+                "children": [
+                  {
+                    "id": "04378444-a9fa-4366-b24b-e0c8d63322c9",
+                    "boundaryNum": 1,
+                    "name": "purani sabzi mandi, shahpur - shahpur 1st",
+                    "localname": "purani sabzi mandi, shahpur - shahpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1f7605a-795e-48b1-a351-0ae8047b6de8",
+                    "boundaryNum": 1,
+                    "name": "sharma or tomar market, shahpur - shahpur 1st",
+                    "localname": "sharma or tomar market, shahpur - shahpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "370a2dae-d33b-42ea-b61e-8fd3e5e0c647",
+                    "boundaryNum": 1,
+                    "name": "New market, shahpur - shahpur 1st",
+                    "localname": "New market, shahpur - shahpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f6b14250-5045-4323-92fd-883340121fc6",
+                    "boundaryNum": 1,
+                    "name": "sikhroda, shahpur - shahpur 1st",
+                    "localname": "sikhroda, shahpur - shahpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b06060bd-e7b6-45fa-b328-1b072d56b583",
+                "boundaryNum": 1,
+                "name": "bhagwanpur 1st",
+                "localname": "bhagwanpur 1st",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297031",
+                "children": [
+                  {
+                    "id": "5e4583d7-562c-4176-b979-07937303bb63",
+                    "boundaryNum": 1,
+                    "name": "main bazar - bhagwanpur 1st",
+                    "localname": "main bazar - bhagwanpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "90d1d9e6-9414-4794-8201-2eda30a07c85",
+                    "boundaryNum": 1,
+                    "name": "Gas plant ke samne - bhagwanpur 1st",
+                    "localname": "Gas plant ke samne - bhagwanpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f4fccb9c-005e-4c6f-b902-126dc9e20d2f",
+                    "boundaryNum": 1,
+                    "name": "Samrat colony bhagwanpur - bhagwanpur 1st",
+                    "localname": "Samrat colony bhagwanpur - bhagwanpur 1st",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "659888fc-a0fa-45e6-b1e4-955cd6e9e7fc",
+                "boundaryNum": 1,
+                "name": "shahpur 2nd",
+                "localname": "shahpur 2nd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297032",
+                "children": [
+                  {
+                    "id": "35d64f68-38dd-4178-9d99-5406fc24d43c",
+                    "boundaryNum": 1,
+                    "name": "raypur road chudiya shahpur - shahpur 2nd",
+                    "localname": "raypur road chudiya shahpur - shahpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a85d7e03-cccc-4a4b-9aad-6213d32f87a5",
+                    "boundaryNum": 1,
+                    "name": "Aandbihar Colony shahpur - shahpur 2nd",
+                    "localname": "Aandbihar Colony shahpur - shahpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec96d098-3101-4e23-8806-195465b21709",
+                    "boundaryNum": 1,
+                    "name": "markaj market, shahpur - shahpur 2nd",
+                    "localname": "markaj market, shahpur - shahpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bc5bb383-cfa5-4c26-bc9a-73619c9ebd03",
+                    "boundaryNum": 1,
+                    "name": "devi market, shahpur - shahpur 2nd",
+                    "localname": "devi market, shahpur - shahpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c697dd5c-77a1-4c54-9af0-2100b7e71c7b",
+                    "boundaryNum": 1,
+                    "name": "bnjarn market, shahpur - shahpur 2nd",
+                    "localname": "bnjarn market, shahpur - shahpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23d972ba-ebac-46a4-b052-5a4e831c986a",
+                "boundaryNum": 1,
+                "name": "shahpur 3rd",
+                "localname": "shahpur 3rd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297033",
+                "children": [
+                  {
+                    "id": "8a977dc4-b2b8-4483-995b-04bad337b339",
+                    "boundaryNum": 1,
+                    "name": "uttam colony, shahpur - shahpur 3rd",
+                    "localname": "uttam colony, shahpur - shahpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2937c340-6738-4f86-8060-d7b668d48240",
+                    "boundaryNum": 1,
+                    "name": "aayesha colony shahpur - shahpur 3rd",
+                    "localname": "aayesha colony shahpur - shahpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "183012bc-80aa-4f8f-ae87-3a1bfd39bae4",
+                    "boundaryNum": 1,
+                    "name": "bila masjid colony, shahpur - shahpur 3rd",
+                    "localname": "bila masjid colony, shahpur - shahpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36517cd4-e3bd-42ae-90c3-4bb8b0db5dd5",
+                    "boundaryNum": 1,
+                    "name": "amber colony shahpur - shahpur 3rd",
+                    "localname": "amber colony shahpur - shahpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c26f39b7-7735-4899-a3eb-52837fdb0ee0",
+                "boundaryNum": 1,
+                "name": "bhagwanpur 2nd",
+                "localname": "bhagwanpur 2nd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297034",
+                "children": [
+                  {
+                    "id": "37e71dd9-0ba9-4369-8d3c-42416118f2cb",
+                    "boundaryNum": 1,
+                    "name": "Main bazar - bhagwanpur 2nd",
+                    "localname": "Main bazar - bhagwanpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8764a7eb-3420-4b32-8965-10f3bdbc4490",
+                    "boundaryNum": 1,
+                    "name": "Cheepiyan mohalla - bhagwanpur 2nd",
+                    "localname": "Cheepiyan mohalla - bhagwanpur 2nd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84e94d5c-fd61-4bb9-aec4-f2773d153196",
+                "boundaryNum": 1,
+                "name": "mkhanpur mhmood alam",
+                "localname": "mkhanpur mhmood alam",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297035",
+                "children": [
+                  {
+                    "id": "25bb4db5-a235-4423-a8b3-17b405d3d892",
+                    "boundaryNum": 1,
+                    "name": "Dheradun road mkhanpur - mkhanpur mhmood alam",
+                    "localname": "Dheradun road mkhanpur - mkhanpur mhmood alam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8bde1bee-9449-4108-ab0c-466c51851065",
+                "boundaryNum": 1,
+                "name": "bhagwanpur 3rd",
+                "localname": "bhagwanpur 3rd",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297036",
+                "children": [
+                  {
+                    "id": "c7e3d1e5-d305-4a9e-8cf1-e01fe16018f3",
+                    "boundaryNum": 1,
+                    "name": "Ravidas mandir colony - bhagwanpur 3rd",
+                    "localname": "Ravidas mandir colony - bhagwanpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "596de73a-2b0e-4ca6-ad6d-bed9c3f893ef",
+                    "boundaryNum": 1,
+                    "name": "balmiki colony - bhagwanpur 3rd",
+                    "localname": "balmiki colony - bhagwanpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fee21a58-a86b-4c7a-a262-f2e64953926a",
+                    "boundaryNum": 1,
+                    "name": "imli Road market - bhagwanpur 3rd",
+                    "localname": "imli Road market - bhagwanpur 3rd",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5603f5f7-90c6-4250-8403-59e1d7e678a3",
+                "boundaryNum": 1,
+                "name": "bhagwanpur 4th",
+                "localname": "bhagwanpur 4th",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297037",
+                "children": [
+                  {
+                    "id": "b1527188-8ed0-4160-b979-2f64c9c73e51",
+                    "boundaryNum": 1,
+                    "name": "bhagwanpur - bhagwanpur 4th",
+                    "localname": "bhagwanpur - bhagwanpur 4th",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "508c714e-5018-4472-9786-23dbb6640ce9",
+                    "boundaryNum": 1,
+                    "name": "Rhamad colony - bhagwanpur 4th",
+                    "localname": "Rhamad colony - bhagwanpur 4th",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c98922e-cd2b-4563-a718-249f950fa5b1",
+                    "boundaryNum": 1,
+                    "name": "Kanto vali Colony - bhagwanpur 4th",
+                    "localname": "Kanto vali Colony - bhagwanpur 4th",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4448b578-f0a6-4c58-b81e-20c54c870ec5",
+                    "boundaryNum": 1,
+                    "name": "Pandto vali colony - bhagwanpur 4th",
+                    "localname": "Pandto vali colony - bhagwanpur 4th",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
