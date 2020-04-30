@@ -1,0 +1,612 @@
+{
+  "tenantId": "uk.didihat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "didihat",
+        "localname": "didihat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.didihat",
+        "children": [
+          {
+            "id": "04469599-5035-4825-bf08-596a9ceb1d02",
+            "boundaryNum": 1,
+            "name": "Didihat",
+            "localname": "Didihat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "6dddbce7-41be-45bf-ae77-70e2ee789869",
+                "boundaryNum": 1,
+                "name": "Post Office",
+                "localname": "Post Office",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17580",
+                "children": [
+                  {
+                    "id": "954541ea-3514-4724-8131-ba509f596e0d",
+                    "boundaryNum": 1,
+                    "name": "Upreti to Lohargaon Marg mohalla - Post Office",
+                    "localname": "Upreti to Lohargaon Marg mohalla - Post Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d752f1a3-4c66-4e21-9af7-ad87e229ccf9",
+                    "boundaryNum": 1,
+                    "name": "NAYA BASTI MOHALLA - Post Office",
+                    "localname": "NAYA BASTI MOHALLA - Post Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20643654-5c35-41d7-a533-d3c6cb0c6769",
+                    "boundaryNum": 1,
+                    "name": "Post Office Mohalla - Post Office",
+                    "localname": "Post Office Mohalla - Post Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "59c6ef98-ab5b-49f2-8aa5-955c9637a51d",
+                    "boundaryNum": 1,
+                    "name": "Motidhara Mohalla - Post Office",
+                    "localname": "Motidhara Mohalla - Post Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e21ce509-4340-4e60-a377-3b68ef508619",
+                    "boundaryNum": 1,
+                    "name": "Polytechnic Mohalla - Post Office",
+                    "localname": "Polytechnic Mohalla - Post Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ccf52d3-933c-4009-a4ac-081edf0a56d8",
+                "boundaryNum": 1,
+                "name": "GIC",
+                "localname": "GIC",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17581",
+                "children": [
+                  {
+                    "id": "e287a054-dc48-45ec-bb50-47e37d2eea45",
+                    "boundaryNum": 1,
+                    "name": "Resham Farm Colony - GIC",
+                    "localname": "Resham Farm Colony - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "16b0247d-ba4e-42f6-8e43-4fdfbf500b23",
+                    "boundaryNum": 1,
+                    "name": "Naya Basti Colony - GIC",
+                    "localname": "Naya Basti Colony - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab67abce-774e-42de-808f-d50e8b0a7622",
+                    "boundaryNum": 1,
+                    "name": "Near GiC Mohalla - GIC",
+                    "localname": "Near GiC Mohalla - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5a85831-5518-4110-971a-f45efb368857",
+                    "boundaryNum": 1,
+                    "name": "Jai Hind Colony - GIC",
+                    "localname": "Jai Hind Colony - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3f773b1-118d-4cdf-ac17-7f90f189b364",
+                    "boundaryNum": 1,
+                    "name": "Near Normal Mohalla - GIC",
+                    "localname": "Near Normal Mohalla - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "78aba1a7-783c-4ae4-9f50-d5a5ce27d238",
+                    "boundaryNum": 1,
+                    "name": "Rawat Colony Mohalla - GIC",
+                    "localname": "Rawat Colony Mohalla - GIC",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc44dc61-e907-4ac9-800b-d7494434b963",
+                "boundaryNum": 1,
+                "name": "Ambedkar",
+                "localname": "Ambedkar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17582",
+                "children": [
+                  {
+                    "id": "036bf091-e072-4915-8ade-6c252692338d",
+                    "boundaryNum": 1,
+                    "name": "Primary School Mohalla - Ambedkar",
+                    "localname": "Primary School Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dee85a5c-8cc8-4faf-bac9-92e27645dc38",
+                    "boundaryNum": 1,
+                    "name": "Pamsyari Road Mohalla - Ambedkar",
+                    "localname": "Pamsyari Road Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "54dc5608-f891-4723-90c3-be05537a2ccb",
+                    "boundaryNum": 1,
+                    "name": "Udhyog Kendra Mohalla - Ambedkar",
+                    "localname": "Udhyog Kendra Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "627b567e-709f-4057-b2d8-afaad2e3c2ce",
+                    "boundaryNum": 1,
+                    "name": "Near Pangtey Pushtak Bhandar - Ambedkar",
+                    "localname": "Near Pangtey Pushtak Bhandar - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5fc7bb92-878f-4ec7-81bb-fcf74923ce34",
+                    "boundaryNum": 1,
+                    "name": "Pamsyari CC Marg Mohalla - Ambedkar",
+                    "localname": "Pamsyari CC Marg Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d4d9c792-38fd-43f0-8608-d78489ae99cf",
+                    "boundaryNum": 1,
+                    "name": "Lotpatta Mohalla - Ambedkar",
+                    "localname": "Lotpatta Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84ab72b1-e78c-4120-ab2f-b20dafb64604",
+                    "boundaryNum": 1,
+                    "name": "Gas Godam Mohalla - Ambedkar",
+                    "localname": "Gas Godam Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c7d96133-f757-4348-836d-8635f23d12b9",
+                    "boundaryNum": 1,
+                    "name": "CHC Mohalla - Ambedkar",
+                    "localname": "CHC Mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "df6635d9-778e-47bb-bd4b-ce1dc0e222df",
+                "boundaryNum": 1,
+                "name": "Tehsil",
+                "localname": "Tehsil",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17583",
+                "children": [
+                  {
+                    "id": "7ca12a7c-75a0-4f09-9abe-9d407a07fd16",
+                    "boundaryNum": 1,
+                    "name": "Near Ramleela Maidan Mohalla - Tehsil",
+                    "localname": "Near Ramleela Maidan Mohalla - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f677efe7-c958-4a97-a524-4b880fdaeac2",
+                    "boundaryNum": 1,
+                    "name": "Near State bank mohalla - Tehsil",
+                    "localname": "Near State bank mohalla - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1f151d62-559d-403e-ad95-ab828a757bb5",
+                    "boundaryNum": 1,
+                    "name": "Near Negi Mishthan Bhandar Mohalla - Tehsil",
+                    "localname": "Near Negi Mishthan Bhandar Mohalla - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7ea37eed-44d2-43a2-942d-7d056c9f7200",
+                    "boundaryNum": 1,
+                    "name": "Near Nagar Palika Colony - Tehsil",
+                    "localname": "Near Nagar Palika Colony - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "07b0f31c-4ca9-41b2-a643-51cb73e93b6a",
+                    "boundaryNum": 1,
+                    "name": "Near Shishu mandir Colony - Tehsil",
+                    "localname": "Near Shishu mandir Colony - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea8e5ea4-39a4-4ba7-9bca-0401f2911488",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Colony Mohalla - Tehsil",
+                    "localname": "Tehsil Colony Mohalla - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "466cba8b-4ebf-44ce-b13e-1b8157f0a439",
+                    "boundaryNum": 1,
+                    "name": "Jal Nigam Colony - Tehsil",
+                    "localname": "Jal Nigam Colony - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bfff01d3-066d-4dec-a8d3-f9f209fc6e42",
+                    "boundaryNum": 1,
+                    "name": "Block Colony - Tehsil",
+                    "localname": "Block Colony - Tehsil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ad28e6a-f62f-40ad-84c3-8032232214b6",
+                "boundaryNum": 1,
+                "name": "Shiv Mandir",
+                "localname": "Shiv Mandir",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296733",
+                "children": [
+                  {
+                    "id": "2a022c0f-601b-4857-954b-3ec2b9e91486",
+                    "boundaryNum": 1,
+                    "name": "Pithoragarh Road Mohalla - Shiv Mandir",
+                    "localname": "Pithoragarh Road Mohalla - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "011453da-b9d0-427b-aec8-05e82b10e6bc",
+                    "boundaryNum": 1,
+                    "name": "Near TRC Mohalla - Shiv Mandir",
+                    "localname": "Near TRC Mohalla - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0057bbb8-d551-423f-b1da-125a80b23efc",
+                    "boundaryNum": 1,
+                    "name": "Verma Colony Mohalla - Shiv Mandir",
+                    "localname": "Verma Colony Mohalla - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "33495b8c-53df-458c-ad26-06a20ddbafc7",
+                    "boundaryNum": 1,
+                    "name": "Near Thana Mohalla - Shiv Mandir",
+                    "localname": "Near Thana Mohalla - Shiv Mandir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94c104df-98c8-4a5b-a689-0984ea3d6e10",
+                "boundaryNum": 1,
+                "name": "Shimla",
+                "localname": "Shimla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296734",
+                "children": [
+                  {
+                    "id": "0c8d1c7f-b1f9-4948-b1ed-a82a821e21df",
+                    "boundaryNum": 1,
+                    "name": "Shimla Colony Mohalla - Shimla",
+                    "localname": "Shimla Colony Mohalla - Shimla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e314599-af2b-4ff2-976b-80a01177d95e",
+                    "boundaryNum": 1,
+                    "name": "Gramin Bank Mohalla - Shimla",
+                    "localname": "Gramin Bank Mohalla - Shimla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44df9092-9a60-4781-9550-2f9aa3356b39",
+                    "boundaryNum": 1,
+                    "name": "Opp. Vyom Restaurant Mohalla - Shimla",
+                    "localname": "Opp. Vyom Restaurant Mohalla - Shimla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "98f32ee0-20e5-417e-aa96-025b813b9309",
+                    "boundaryNum": 1,
+                    "name": "Opp. Shah Restaurant Mohalla - Shimla",
+                    "localname": "Opp. Shah Restaurant Mohalla - Shimla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2bf60483-2564-47b1-a8df-7406390964b6",
+                    "boundaryNum": 1,
+                    "name": "Primary School Mohalla - Shimla",
+                    "localname": "Primary School Mohalla - Shimla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "545a0b4d-85a8-48b3-a68e-350da7152b79",
+                "boundaryNum": 1,
+                "name": "Subhash Chandra Bose",
+                "localname": "Subhash Chandra Bose",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296735",
+                "children": [
+                  {
+                    "id": "63c3d278-5370-4182-aaed-b2118a1cdf3a",
+                    "boundaryNum": 1,
+                    "name": "Near Diet Mohalla - Subhash Chandra Bose",
+                    "localname": "Near Diet Mohalla - Subhash Chandra Bose",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0e7ae1c-ffd7-47e4-830b-2a2f64e331d0",
+                    "boundaryNum": 1,
+                    "name": "Mukund Vihar Mohalla - Subhash Chandra Bose",
+                    "localname": "Mukund Vihar Mohalla - Subhash Chandra Bose",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "74dddcbe-959e-485a-bb26-863a8a7ff436",
+                    "boundaryNum": 1,
+                    "name": "Budkafal Mohalla - Subhash Chandra Bose",
+                    "localname": "Budkafal Mohalla - Subhash Chandra Bose",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "13cc97a9-7fa8-42d9-96e9-531fbe78c52e",
+                    "boundaryNum": 1,
+                    "name": "Hydel Mohalla - Subhash Chandra Bose",
+                    "localname": "Hydel Mohalla - Subhash Chandra Bose",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b8b2b699-9ad6-4fc1-aa46-2c72955082b5",
+                    "boundaryNum": 1,
+                    "name": "Jal Sansthan Mohalla - Subhash Chandra Bose",
+                    "localname": "Jal Sansthan Mohalla - Subhash Chandra Bose",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

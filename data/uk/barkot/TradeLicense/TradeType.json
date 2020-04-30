@@ -1,0 +1,306 @@
+{
+"tenantId": "uk.barkot",
+"moduleName": "TradeLicense",
+"TradeType":[
+  {
+    "code": "TRADE.HOTELS.HL10B",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.PC",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR34",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR43",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.ELEI",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TENT",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BPS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.GMS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR50",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR53",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR79",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.FIRM.TR60",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MCS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.KATEAS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WCRS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.OTH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.SWSH",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.FVS",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR70",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BANG",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.FIRM.TR82",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.DHAB",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRA",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC056",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+ ]
+}

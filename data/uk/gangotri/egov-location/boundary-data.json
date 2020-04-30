@@ -1,0 +1,132 @@
+{
+  "tenantId": "uk.gangotri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gangotri",
+        "localname": "gangotri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gangotri",
+        "children": [
+          {
+            "id": "ebe96f44-d9ef-4933-acaa-0fb4417fbfc2",
+            "boundaryNum": 1,
+            "name": "Gangotri",
+            "localname": "Gangotri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "6ae74601-92f9-48d4-8e3e-7e0c80bd928e",
+                "boundaryNum": 1,
+                "name": "Ganga Nagar",
+                "localname": "Ganga Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16032",
+                "children": [
+                  {
+                    "id": "a61337b8-6c8b-4f44-8b52-9a5241706c0b",
+                    "boundaryNum": 1,
+                    "name": "CHAUDHALI - Ganga Nagar",
+                    "localname": "CHAUDHALI - Ganga Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "484263bc-0d2e-4d82-873c-8ddc51aa9e9f",
+                "boundaryNum": 1,
+                "name": "Bhagirath Nagar",
+                "localname": "Bhagirath Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16033",
+                "children": [
+                  {
+                    "id": "c75447cc-a1fd-48a4-8a14-adaa136ba4e5",
+                    "boundaryNum": 1,
+                    "name": "GAIRDHAR - Bhagirath Nagar",
+                    "localname": "GAIRDHAR - Bhagirath Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "823a8540-2aa8-4051-bd5b-4d548e214d8b",
+                "boundaryNum": 1,
+                "name": "Pandav Nagar",
+                "localname": "Pandav Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16034",
+                "children": [
+                  {
+                    "id": "6dff0b2c-5907-44d0-8cda-ffa0021da8d9",
+                    "boundaryNum": 1,
+                    "name": "PAYODHA, BHERAVMANDIR - Pandav Nagar",
+                    "localname": "PAYODHA, BHERAVMANDIR - Pandav Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eeee6f89-2084-49d4-856e-613f1ddc6edc",
+                "boundaryNum": 1,
+                "name": "Purohit Nagar",
+                "localname": "Purohit Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16035",
+                "children": [
+                  {
+                    "id": "6ff62bba-f880-488f-802e-a6086f0d2175",
+                    "boundaryNum": 1,
+                    "name": "GAYADHI - Purohit Nagar",
+                    "localname": "GAYADHI - Purohit Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.barkot",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "barkot",
+        "localname": "barkot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.barkot",
+        "children": [
+          {
+            "id": "40e0cffd-821e-4f47-a09d-6fb17a60d939",
+            "boundaryNum": 1,
+            "name": "Barkot",
+            "localname": "Barkot",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "f78a5be6-07d1-4023-9e75-413d5459e3d1",
+                "boundaryNum": 1,
+                "name": "Gandhi Nagar",
+                "localname": "Gandhi Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15629",
+                "children": [
+                  {
+                    "id": "1a0d9769-0a45-447d-a53a-4d756bc0b1d2",
+                    "boundaryNum": 1,
+                    "name": "G.P.S.Building in Bheta - Gandhi Nagar",
+                    "localname": "G.P.S.Building in Bheta - Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3363eaf-5b60-4ee7-9e44-38e9efbbd0fc",
+                "boundaryNum": 1,
+                "name": "Govind Nagar",
+                "localname": "Govind Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15630",
+                "children": [
+                  {
+                    "id": "6e93f398-7f3d-475f-bacc-9117e279345d",
+                    "boundaryNum": 1,
+                    "name": "Bheta Gaw - Govind Nagar",
+                    "localname": "Bheta Gaw - Govind Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "01513b0a-8eb2-446f-9f42-cffce4ac0b76",
+                "boundaryNum": 1,
+                "name": "Patel Nagar , Nathu Mohlla",
+                "localname": "Patel Nagar , Nathu Mohlla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15631",
+                "children": [
+                  {
+                    "id": "c412fbbf-59c4-49c5-bb1d-7d714ac38ece",
+                    "boundaryNum": 1,
+                    "name": "Jila Panchayat Building - Patel Nagar , Nathu Mohlla",
+                    "localname": "Jila Panchayat Building - Patel Nagar , Nathu Mohlla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d66747ad-3c24-4b44-bcc3-1d2c9178a4d2",
+                "boundaryNum": 1,
+                "name": "Subhash Nagar",
+                "localname": "Subhash Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15632",
+                "children": [
+                  {
+                    "id": "e8f2cb61-da0f-4375-8c6f-0f30f892cfb9",
+                    "boundaryNum": 1,
+                    "name": "Post office - Subhash Nagar",
+                    "localname": "Post office - Subhash Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95602812-b344-48e9-bb5b-222842d0e06f",
+                "boundaryNum": 1,
+                "name": "Pant Nagar",
+                "localname": "Pant Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15633",
+                "children": [
+                  {
+                    "id": "76b703f3-9192-4c65-a2cc-35af5432fe20",
+                    "boundaryNum": 1,
+                    "name": "State Bank - Pant Nagar",
+                    "localname": "State Bank - Pant Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ea813e7e-5384-4933-aae8-0ca1b92d3de4",
+                "boundaryNum": 1,
+                "name": "Sastri Nagar",
+                "localname": "Sastri Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16002",
+                "children": [
+                  {
+                    "id": "49e778a7-59e7-4b13-b96a-2a930f952c8b",
+                    "boundaryNum": 1,
+                    "name": "Panchayat Building - Sastri Nagar",
+                    "localname": "Panchayat Building - Sastri Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae7e6212-7a96-4a93-994b-99dfd4a6a853",
+                "boundaryNum": 1,
+                "name": "Suman Nagar, Bhadri Mohlla",
+                "localname": "Suman Nagar, Bhadri Mohlla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16003",
+                "children": [
+                  {
+                    "id": "9d6d07b3-5900-4561-9060-bead0e9f581c",
+                    "boundaryNum": 1,
+                    "name": "Kamalagair - Suman Nagar, Bhadri Mohlla",
+                    "localname": "Kamalagair - Suman Nagar, Bhadri Mohlla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

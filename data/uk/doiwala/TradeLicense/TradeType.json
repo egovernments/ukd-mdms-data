@@ -1,0 +1,43 @@
+  
+{
+  "tenantId": "uk.doiwala",
+  "moduleName": "TradeLicense",
+  "TradeType":[
+  {
+    "code": "TRADE.LIQUOR.CLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC016",
+      "EXCISELICENSE",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      "AC016",
+      "EXCISELICENSE",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.HW",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC043",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
+]
+}

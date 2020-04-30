@@ -1,0 +1,204 @@
+{
+  "tenantId": "uk.banbasa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "banbasa",
+        "localname": "banbasa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.banbasa",
+        "children": [
+          {
+            "id": "13100e87-c0d3-4eaa-809e-a1a615776d2e",
+            "boundaryNum": 1,
+            "name": "Banbasa",
+            "localname": "Banbasa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "5fce9567-cb83-4c28-9374-d8657397c611",
+                "boundaryNum": 1,
+                "name": "Purnagiri",
+                "localname": "Purnagiri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296999",
+                "children": [
+                  {
+                    "id": "b92f3fdb-9f17-48f1-a32e-e0f2399eb2f6",
+                    "boundaryNum": 1,
+                    "name": "Purnagiri - Purnagiri",
+                    "localname": "Purnagiri - Purnagiri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bb52b16-10dc-46c8-8054-e70edfe75b31",
+                "boundaryNum": 1,
+                "name": "Indra Colony",
+                "localname": "Indra Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297000",
+                "children": [
+                  {
+                    "id": "90754baa-788c-4b70-90a9-bc732e55004b",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - Indra Colony",
+                    "localname": "Indra Colony - Indra Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0b54c796-9cd9-468f-ada6-e5c74c1d1cd9",
+                "boundaryNum": 1,
+                "name": "Chand Market",
+                "localname": "Chand Market",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297001",
+                "children": [
+                  {
+                    "id": "a473633d-d263-4ded-8b42-4f01c8f986be",
+                    "boundaryNum": 1,
+                    "name": "Chand Market - Chand Market",
+                    "localname": "Chand Market - Chand Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "266570eb-4fe7-48de-b582-2e130707d338",
+                "boundaryNum": 1,
+                "name": "Main Market",
+                "localname": "Main Market",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297002",
+                "children": [
+                  {
+                    "id": "76190893-01a0-4871-8fae-abde2e20fd64",
+                    "boundaryNum": 1,
+                    "name": "Main Market - Main Market",
+                    "localname": "Main Market - Main Market",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "547ba6f5-3ac7-456d-8497-11b9bb758c20",
+                "boundaryNum": 1,
+                "name": "Nayi Basti",
+                "localname": "Nayi Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297003",
+                "children": [
+                  {
+                    "id": "d5c893c8-ef24-4d61-8838-9e5f72ff264d",
+                    "boundaryNum": 1,
+                    "name": "Nayi Basti - Nayi Basti",
+                    "localname": "Nayi Basti - Nayi Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29041aff-e540-402c-92d9-131e15c68a5f",
+                "boundaryNum": 1,
+                "name": "Meena Bazar",
+                "localname": "Meena Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297004",
+                "children": [
+                  {
+                    "id": "63c4ac1c-884d-45e9-92ce-521542b57896",
+                    "boundaryNum": 1,
+                    "name": "Meena Bazar - Meena Bazar",
+                    "localname": "Meena Bazar - Meena Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d80c288-3744-41ff-989a-aff5145ab87e",
+                "boundaryNum": 1,
+                "name": "Dharmshala",
+                "localname": "Dharmshala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297005",
+                "children": [
+                  {
+                    "id": "a0f9c156-c666-4bbd-987b-aadb1557aa2e",
+                    "boundaryNum": 1,
+                    "name": "Dharmshala - Dharmshala",
+                    "localname": "Dharmshala - Dharmshala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
