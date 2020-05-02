@@ -5810,7 +5810,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
-      "path": "Reports.Miscellaneous Receipt Register"
+      "path": "Miscellaneous Collection.Reports.Miscellaneous Receipt Register"
     },
     {
       "id": 1836,
@@ -5845,7 +5845,7 @@
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
       "parentModule": "rainmaker",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "rainmaker",
       "code": "null",
       "path": "Dashboard.MiscellaneousCollections",
@@ -6228,7 +6228,7 @@
     "enabled": true,
     "serviceCode": "",
     "code": "",
-    "path": "",
+    "path": "Miscellaneous Collection.Search Miscellaneous Collection",
     "navigationURL": "uc/search",
     "leftIcon": "image:collections-bookmark",
     "rightIcon": "",
