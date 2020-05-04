@@ -86,18 +86,32 @@
       "active": true,
       "type": "TL"
     },
-    {
-      "code": "TRADE.MEDICAL.NHA20",
-      "uom": null,
-      "applicationDocument": [
-        "PTREGISTRY",
-        "HOUSETAXRCPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
+     {
+    "code": "TRADE.MEDICAL.NHA20",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "PTREGISTRY",
+          "HOUSETAXRCPT",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
     {
       "code": "TRADE.MEDICAL.MH20B",
       "uom": null,
