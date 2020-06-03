@@ -1,0 +1,996 @@
+{
+  "tenantId": "uk.shivalik nagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "shivalik nagar",
+        "localname": "shivalik nagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.shivalik nagar",
+        "children": [
+          {
+            "id": "bea61785-45b8-465f-905a-1a8d6ddb7368",
+            "boundaryNum": 1,
+            "name": "Shivalik Nagar",
+            "localname": "Shivalik Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "9ac3739e-f1ff-44c8-b226-b6835556279d",
+                "boundaryNum": 1,
+                "name": "Shivalik Nagar Cluster P.K. and J.",
+                "localname": "Shivalik Nagar Cluster P.K. and J.",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296850",
+                "children": [
+                  {
+                    "id": "0880a803-06d2-45ce-b8df-0d44f916690d",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster T - Shivalik Nagar Cluster P.K. and J.",
+                    "localname": "Shivaliknagar Cluster T - Shivalik Nagar Cluster P.K. and J.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "85f0c97e-bf96-44da-ae61-3cf2ed21ad1a",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster K - Shivalik Nagar Cluster P.K. and J.",
+                    "localname": "Shivaliknagar Cluster K - Shivalik Nagar Cluster P.K. and J.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2947b52-1caa-46f8-9362-e45c35789fc1",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster J - Shivalik Nagar Cluster P.K. and J.",
+                    "localname": "Shivaliknagar Cluster J - Shivalik Nagar Cluster P.K. and J.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "244f3082-e402-4667-9f2c-bdd795208c61",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster H - Shivalik Nagar Cluster P.K. and J.",
+                    "localname": "Shivaliknagar Cluster H - Shivalik Nagar Cluster P.K. and J.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e31bdf9d-421b-4c50-aece-cf288ef2b7c5",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster P - Shivalik Nagar Cluster P.K. and J.",
+                    "localname": "Shivaliknagar Cluster P - Shivalik Nagar Cluster P.K. and J.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f86e871-c1db-4410-a93c-f9e2524e0bfa",
+                "boundaryNum": 1,
+                "name": "Shivalik Nagar Cluster L. and S",
+                "localname": "Shivalik Nagar Cluster L. and S",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296851",
+                "children": [
+                  {
+                    "id": "834ab618-697e-434a-a059-8473781e5762",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster L - Shivalik Nagar Cluster L. and S",
+                    "localname": "Shivaliknagar Cluster L - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7933dcb1-440a-46b4-8798-8d16290f0488",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster S - Shivalik Nagar Cluster L. and S",
+                    "localname": "Shivaliknagar Cluster S - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9da0f698-1a62-4cc9-916b-e446a533aea9",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster B - Shivalik Nagar Cluster L. and S",
+                    "localname": "Shivaliknagar Cluster B - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5163b4e2-3ba3-4e26-9269-c64bc260c92c",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster C - Shivalik Nagar Cluster L. and S",
+                    "localname": "Shivaliknagar Cluster C - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee836f06-4e85-4005-8986-c5a8802ceb55",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster D - Shivalik Nagar Cluster L. and S",
+                    "localname": "Shivaliknagar Cluster D - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "be7bfef3-81c1-4f42-baab-bdd93a98413b",
+                    "boundaryNum": 1,
+                    "name": "Indralok Residential Colony - Shivalik Nagar Cluster L. and S",
+                    "localname": "Indralok Residential Colony - Shivalik Nagar Cluster L. and S",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "def6a885-431a-4c87-8fe7-170f22df8e3e",
+                "boundaryNum": 1,
+                "name": "Shivaliknagar Phase 03 and 04",
+                "localname": "Shivaliknagar Phase 03 and 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296852",
+                "children": [
+                  {
+                    "id": "ffec9068-8886-43b1-8cf1-c516abd1c80b",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster N - Shivaliknagar Phase 03 and 04",
+                    "localname": "Shivaliknagar Cluster N - Shivaliknagar Phase 03 and 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c84e6459-7bf6-424a-9b25-6623be74c6ff",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster P - Shivaliknagar Phase 03 and 04",
+                    "localname": "Shivaliknagar Cluster P - Shivaliknagar Phase 03 and 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e85b8a6-c7be-4105-8c42-f1ca105d986a",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster N - Shivaliknagar Phase 03 and 04",
+                    "localname": "Shivaliknagar Cluster N - Shivaliknagar Phase 03 and 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0e7515c-4508-41bd-bfa4-5befd8d7e249",
+                    "boundaryNum": 1,
+                    "name": "Ganga Nagri industrial colony - Shivaliknagar Phase 03 and 04",
+                    "localname": "Ganga Nagri industrial colony - Shivaliknagar Phase 03 and 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c6b22947-8a93-4e2f-92f9-907e958ff9dc",
+                "boundaryNum": 1,
+                "name": "Shivalik Nagar Cluster S.",
+                "localname": "Shivalik Nagar Cluster S.",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296853",
+                "children": [
+                  {
+                    "id": "54c6e440-8124-48ea-8023-1359d6e3a636",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster S - Shivalik Nagar Cluster S.",
+                    "localname": "Shivaliknagar Cluster S - Shivalik Nagar Cluster S.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cb144611-b110-40c7-84b3-320165e7af48",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster R - Shivalik Nagar Cluster S.",
+                    "localname": "Shivaliknagar Cluster R - Shivalik Nagar Cluster S.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "72e6e73d-230b-464f-8077-225098537184",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster Q - Shivalik Nagar Cluster S.",
+                    "localname": "Shivaliknagar Cluster Q - Shivalik Nagar Cluster S.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3aa954fd-94d2-47e5-9ddc-19cce6054e0b",
+                "boundaryNum": 1,
+                "name": "New Shivaliknagar",
+                "localname": "New Shivaliknagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296854",
+                "children": [
+                  {
+                    "id": "b06bc37e-7f7f-4626-9a77-d20974e9c75b",
+                    "boundaryNum": 1,
+                    "name": "Tehri visthapit Colony - New Shivaliknagar",
+                    "localname": "Tehri visthapit Colony - New Shivaliknagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8eaf0815-c558-4f12-ace9-39f48c791230",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Cluster S - New Shivaliknagar",
+                    "localname": "Shivaliknagar Cluster S - New Shivaliknagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4522e4cc-7b5c-4e98-9e4f-0c11e7812497",
+                "boundaryNum": 1,
+                "name": "New Tehri Vishthapit",
+                "localname": "New Tehri Vishthapit",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296855",
+                "children": [
+                  {
+                    "id": "d6ef65c8-d7cb-4911-9251-578016e14fc9",
+                    "boundaryNum": 1,
+                    "name": "Tehri visthapit Colony - New Tehri Vishthapit",
+                    "localname": "Tehri visthapit Colony - New Tehri Vishthapit",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e792eb08-57f4-4f7b-9fd8-6a79cf1de801",
+                    "boundaryNum": 1,
+                    "name": "Tehri visthapit Colony Sriram Mandir - New Tehri Vishthapit",
+                    "localname": "Tehri visthapit Colony Sriram Mandir - New Tehri Vishthapit",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "87885560-3dd4-405f-acb7-a943223885a3",
+                    "boundaryNum": 1,
+                    "name": "P A C Campus - New Tehri Vishthapit",
+                    "localname": "P A C Campus - New Tehri Vishthapit",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5a4d75c-d36c-4e86-a54d-78e81e45fc33",
+                "boundaryNum": 1,
+                "name": "Tehri Vishthapit South Colony",
+                "localname": "Tehri Vishthapit South Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296856",
+                "children": [
+                  {
+                    "id": "e8478771-3162-4863-95da-a1745ff89bc1",
+                    "boundaryNum": 1,
+                    "name": "Tehri visthapit Colony - Tehri Vishthapit South Colony",
+                    "localname": "Tehri visthapit Colony - Tehri Vishthapit South Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d58b336a-04a9-4eab-aa58-5906a13772a2",
+                    "boundaryNum": 1,
+                    "name": "Vena Enclave - Tehri Vishthapit South Colony",
+                    "localname": "Vena Enclave - Tehri Vishthapit South Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e0c4fd76-d575-42c5-ac84-eb4b34c2b6dd",
+                "boundaryNum": 1,
+                "name": "Subhas Nagar WEST",
+                "localname": "Subhas Nagar WEST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296857",
+                "children": [
+                  {
+                    "id": "94c7be93-2e3f-4301-adb0-84fcb2d24006",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B9 - Subhas Nagar WEST",
+                    "localname": "Subashnagar gully Number B9 - Subhas Nagar WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e3fe4e1-ce29-4d92-aa8e-6bee3c2813a7",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number D10 - Subhas Nagar WEST",
+                    "localname": "Subashnagar gully Number D10 - Subhas Nagar WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4676172c-bd41-4241-a088-59df2eefe116",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number D11 - Subhas Nagar WEST",
+                    "localname": "Subashnagar gully Number D11 - Subhas Nagar WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6a3f53fe-a02a-42df-b72f-808332d3e855",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number D1 - Subhas Nagar WEST",
+                    "localname": "Subashnagar gully Number D1 - Subhas Nagar WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a23e3642-1b46-450b-b278-8d59e27a363d",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number D2 - Subhas Nagar WEST",
+                    "localname": "Subashnagar gully Number D2 - Subhas Nagar WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3d0d3ba4-4ac3-489c-afa3-fde488871838",
+                "boundaryNum": 1,
+                "name": "Subhas Nagar WEST- EAST",
+                "localname": "Subhas Nagar WEST- EAST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296858",
+                "children": [
+                  {
+                    "id": "6e960df3-1091-4120-a143-8dc1b0581177",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B1 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B1 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d9e55533-8ca0-468b-a74a-900dbad8595e",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B2 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B2 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cf9f0ace-875d-436e-b549-87da2e530f2f",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B3 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B3 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "636f64b3-904a-4949-9a77-ff8849b3b6c0",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B4 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B4 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7b6fc1e-afc7-4d01-bc89-32f6e92d0b82",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B5 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B5 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9790a6a6-bbfb-4b1c-8385-e8aca7df697f",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B6 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B6 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17e8cac8-fedc-4c65-a7ce-8997caae5755",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B7 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B7 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd70c2c7-2f04-43f2-b273-89770dee5cdc",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number B8 - Subhas Nagar WEST- EAST",
+                    "localname": "Subashnagar gully Number B8 - Subhas Nagar WEST- EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4bbd6a2-4cd7-4ce3-88a0-5e9b941ca152",
+                "boundaryNum": 1,
+                "name": "Subhas Nagar Central",
+                "localname": "Subhas Nagar Central",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296859",
+                "children": [
+                  {
+                    "id": "95765194-6cb8-4184-9fe5-85ed0626112c",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A1 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A1 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0f60f551-4cb8-4ded-8fc1-744c7bc103b8",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A2 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A2 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7058a5b0-26ed-45bf-bbc5-ec6a5a3c0474",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A3 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A3 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7ee03ac-a590-4c1b-acda-0269e0463c6b",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A4 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A4 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c4863dd8-2aa3-4508-b5a3-951f58a42e85",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A5 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A5 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "67b41362-f74e-4419-ad9e-c46f252ea0b4",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A6 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A6 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c7f6d00-c88a-4a27-843b-757f83d31374",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A7 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A7 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "430cebd6-c34b-4e69-a292-16abd0f34c66",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A8 - Subhas Nagar Central",
+                    "localname": "Subashnagar gully Number A8 - Subhas Nagar Central",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a03d7b03-ef2a-462e-b9c4-fa12261523ff",
+                "boundaryNum": 1,
+                "name": "Subhas Nagar East",
+                "localname": "Subhas Nagar East",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296860",
+                "children": [
+                  {
+                    "id": "13048e2c-7e43-401d-a2a7-8c0b9003d477",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A9 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A9 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0d8534e2-043d-447b-affc-5e49bf315a9c",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A10 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A10 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b92bc8bf-f21a-4b60-b737-606d00bb7fa1",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A11 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A11 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "27e5a84e-c9b5-41f1-9bce-d209b48c3636",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A12 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A12 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0da82984-2b05-48fb-80de-d1075dcb9482",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A13 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A13 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01eb8890-6ea1-4431-8b5f-01034abb9342",
+                    "boundaryNum": 1,
+                    "name": "Subashnagar gully Number A14 - Subhas Nagar East",
+                    "localname": "Subashnagar gully Number A14 - Subhas Nagar East",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "366104d9-7467-4009-b2bf-7cc702579e84",
+                "boundaryNum": 1,
+                "name": "Ramdhaam Colony",
+                "localname": "Ramdhaam Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296861",
+                "children": [
+                  {
+                    "id": "2c57b12f-bb83-4d7a-bf45-bec123fb7240",
+                    "boundaryNum": 1,
+                    "name": "Dev Nagar - Ramdhaam Colony",
+                    "localname": "Dev Nagar - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c921c90d-c32b-4a4f-bbf9-2fd0298ffab8",
+                    "boundaryNum": 1,
+                    "name": "Ramdham Colony - Ramdhaam Colony",
+                    "localname": "Ramdham Colony - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e17751b3-1dab-49a2-b21b-45e21436ff3e",
+                    "boundaryNum": 1,
+                    "name": "Friends Colony - Ramdhaam Colony",
+                    "localname": "Friends Colony - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9037f3e6-b9db-4137-a790-eef22bf1d84c",
+                    "boundaryNum": 1,
+                    "name": "Nehru Nagar - Ramdhaam Colony",
+                    "localname": "Nehru Nagar - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42e48757-e7a2-491d-979a-c5ef647a346e",
+                    "boundaryNum": 1,
+                    "name": "Dharshan Nagar - Ramdhaam Colony",
+                    "localname": "Dharshan Nagar - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e00ff71-5952-423f-bd5a-243fd1f71b4b",
+                    "boundaryNum": 1,
+                    "name": "Kripal Nagar - Ramdhaam Colony",
+                    "localname": "Kripal Nagar - Ramdhaam Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "496e7131-d617-4f53-b113-a76d2347a4f0",
+                "boundaryNum": 1,
+                "name": "Navodya Nagar",
+                "localname": "Navodya Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296862",
+                "children": [
+                  {
+                    "id": "a57ac636-a262-492c-9620-4cf88d2ac121",
+                    "boundaryNum": 1,
+                    "name": "Navodaya Nagar - Navodya Nagar",
+                    "localname": "Navodaya Nagar - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1446fb1-37ce-40bc-9527-9ab4cfa9f05b",
+                    "boundaryNum": 1,
+                    "name": "Khalsa Nagar - Navodya Nagar",
+                    "localname": "Khalsa Nagar - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "009eca8d-a769-42bb-b935-1d382796ce82",
+                    "boundaryNum": 1,
+                    "name": "Shivratan City - Navodya Nagar",
+                    "localname": "Shivratan City - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1b69fa5a-2310-4078-8cbc-729d2771970b",
+                    "boundaryNum": 1,
+                    "name": "Manu Green - Navodya Nagar",
+                    "localname": "Manu Green - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9c3d4a2-f3b9-4d5b-b5e9-8ecf86011d01",
+                    "boundaryNum": 1,
+                    "name": "Deep Ganga Apartment - Navodya Nagar",
+                    "localname": "Deep Ganga Apartment - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0063",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6696a285-1bc4-4232-910c-3563d2125af9",
+                    "boundaryNum": 1,
+                    "name": "Judges colony - Navodya Nagar",
+                    "localname": "Judges colony - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0064",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d86d9c99-0a62-414a-a170-c5d32093771f",
+                    "boundaryNum": 1,
+                    "name": "Pooled Residential Colony - Navodya Nagar",
+                    "localname": "Pooled Residential Colony - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0065",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cbaa2203-966f-4c39-a241-b4b7e53f1b6b",
+                    "boundaryNum": 1,
+                    "name": "Police Line - Navodya Nagar",
+                    "localname": "Police Line - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0066",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fe5c36a-8d05-4297-bc36-9c92ee4a34e1",
+                    "boundaryNum": 1,
+                    "name": "Shivaliknagar Ganga Vihar - Navodya Nagar",
+                    "localname": "Shivaliknagar Ganga Vihar - Navodya Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0067",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
