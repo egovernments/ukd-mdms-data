@@ -1,0 +1,240 @@
+{
+  "tenantId": "uk.ranikhetchiliyanaula",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ranikhetchiliyanaula",
+        "localname": "ranikhetchiliyanaula",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.ranikhetchiliyanaula",
+        "children": [
+          {
+            "id": "199213d1-2782-468e-b288-a53e4fc608f2",
+            "boundaryNum": 1,
+            "name": "Ranikhetchiliyanaula",
+            "localname": "Ranikhetchiliyanaula",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "15d0a3b0-3463-4d9c-8df7-73df4772e994",
+                "boundaryNum": 1,
+                "name": "Industrial Ward",
+                "localname": "Industrial Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297174",
+                "children": [
+                  {
+                    "id": "7340f642-dca6-4226-9257-ce84427624ac",
+                    "boundaryNum": 1,
+                    "name": "Industrial Ward - Industrial Ward",
+                    "localname": "Industrial Ward - Industrial Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "50925446-0d7a-482a-8644-e54c542fd019",
+                    "boundaryNum": 1,
+                    "name": "BRONZE FACTORY - Industrial Ward",
+                    "localname": "BRONZE FACTORY - Industrial Ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "082772ca-6b28-46ca-8525-32b3cbba2d33",
+                "boundaryNum": 1,
+                "name": "Purana Bazar",
+                "localname": "Purana Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297175",
+                "children": [
+                  {
+                    "id": "f7c357ba-40e3-499f-9c04-4133dfafe159",
+                    "boundaryNum": 1,
+                    "name": "purana Bazar - Purana Bazar",
+                    "localname": "purana Bazar - Purana Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77662de1-e598-4bee-bbba-746af3d23546",
+                    "boundaryNum": 1,
+                    "name": "Jal Santhan - Purana Bazar",
+                    "localname": "Jal Santhan - Purana Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b942ccef-c41b-413c-b269-0188b8277431",
+                "boundaryNum": 1,
+                "name": "Chiliyanula Bazar",
+                "localname": "Chiliyanula Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297176",
+                "children": [
+                  {
+                    "id": "08f538d5-3453-4138-875a-b1b89fcbb639",
+                    "boundaryNum": 1,
+                    "name": "Chiliyanaula Bazar - Chiliyanula Bazar",
+                    "localname": "Chiliyanaula Bazar - Chiliyanula Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e25d2eb4-a0e9-460c-9384-5f5cd125e7bc",
+                "boundaryNum": 1,
+                "name": "Naya Bazar",
+                "localname": "Naya Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297177",
+                "children": [
+                  {
+                    "id": "373144dd-5625-480f-b0bd-dac9ed8d4827",
+                    "boundaryNum": 1,
+                    "name": "Naya Bazar - Naya Bazar",
+                    "localname": "Naya Bazar - Naya Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7fe6908a-a32e-4e93-b11c-7fb3b35afb70",
+                "boundaryNum": 1,
+                "name": "Vatika ward",
+                "localname": "Vatika ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297178",
+                "children": [
+                  {
+                    "id": "7ac0e0c9-8614-4b4c-83bc-c8f16345b7d2",
+                    "boundaryNum": 1,
+                    "name": "vatika Ward - Vatika ward",
+                    "localname": "vatika Ward - Vatika ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd71d07d-e9d9-4a18-adfa-c59f52af40c4",
+                "boundaryNum": 1,
+                "name": "Hedakhan ward",
+                "localname": "Hedakhan ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297179",
+                "children": [
+                  {
+                    "id": "5c0fd6eb-cc20-449e-9c28-ca349856b80e",
+                    "boundaryNum": 1,
+                    "name": "Hedakhan ward - Hedakhan ward",
+                    "localname": "Hedakhan ward - Hedakhan ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5eec797a-5142-413c-b093-0905807d2d7f",
+                    "boundaryNum": 1,
+                    "name": "Hedakhan Aasram - Hedakhan ward",
+                    "localname": "Hedakhan Aasram - Hedakhan ward",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70e4dc2b-b7da-4f8b-a1d8-6b678216c0b2",
+                "boundaryNum": 1,
+                "name": "Adarsh colony",
+                "localname": "Adarsh colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297180",
+                "children": [
+                  {
+                    "id": "172d5318-6bca-45ff-950b-88091bd0c224",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Ariya - Adarsh colony",
+                    "localname": "Adarsh Ariya - Adarsh colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
