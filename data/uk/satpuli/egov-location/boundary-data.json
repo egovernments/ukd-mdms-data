@@ -1,0 +1,276 @@
+{
+  "tenantId": "uk.satpuli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "satpuli",
+        "localname": "satpuli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.satpuli",
+        "children": [
+          {
+            "id": "e2aab340-ae1c-407a-b589-fea673372385",
+            "boundaryNum": 1,
+            "name": "Satpuli",
+            "localname": "Satpuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "ac974377-db20-4aaf-8b54-6b93fe1818a1",
+                "boundaryNum": 1,
+                "name": "Vikash mohalla",
+                "localname": "Vikash mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296633",
+                "children": [
+                  {
+                    "id": "03fb6cb5-65f5-4003-b5d6-c716ff1b18a3",
+                    "boundaryNum": 1,
+                    "name": "Patvari chwoki mohalla - Vikash mohalla",
+                    "localname": "Patvari chwoki mohalla - Vikash mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "500daa93-bbb3-4884-b8c1-6031c6ae2440",
+                    "boundaryNum": 1,
+                    "name": "Dudharkhal raod ke upar mohalla - Vikash mohalla",
+                    "localname": "Dudharkhal raod ke upar mohalla - Vikash mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9c98fc6f-027b-4a1c-a492-623e63d1041d",
+                    "boundaryNum": 1,
+                    "name": "Gadbadyu tok mohalla - Vikash mohalla",
+                    "localname": "Gadbadyu tok mohalla - Vikash mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1be7e3e2-df1e-407b-aeac-1f4a7501b055",
+                    "boundaryNum": 1,
+                    "name": "Vikash mohalla - Vikash mohalla",
+                    "localname": "Vikash mohalla - Vikash mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46e935a9-bc8a-470d-8da4-ee26f1b68a3c",
+                "boundaryNum": 1,
+                "name": "Saint paul Hospital",
+                "localname": "Saint paul Hospital",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296634",
+                "children": [
+                  {
+                    "id": "52208d73-7ca6-4d3b-b754-f7c952a3ceff",
+                    "boundaryNum": 1,
+                    "name": "JMO Office se Jilla Sahkari Bank Satpuli - Saint paul Hospital",
+                    "localname": "JMO Office se Jilla Sahkari Bank Satpuli - Saint paul Hospital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "67119594-cf82-4660-95db-db2fb11baf88",
+                    "boundaryNum": 1,
+                    "name": "Sait paul Hospital - Saint paul Hospital",
+                    "localname": "Sait paul Hospital - Saint paul Hospital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7cd59a7-e498-45ce-b5fd-68aebe61c4df",
+                    "boundaryNum": 1,
+                    "name": "Dudharkhal Moter marg ke nich mohalla - Saint paul Hospital",
+                    "localname": "Dudharkhal Moter marg ke nich mohalla - Saint paul Hospital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9ccb2755-921d-4995-a325-0ac4af56d22c",
+                    "boundaryNum": 1,
+                    "name": "Petrol pump se tirahe tak - Saint paul Hospital",
+                    "localname": "Petrol pump se tirahe tak - Saint paul Hospital",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78baa0e9-68ff-4194-baac-9e9a11998348",
+                "boundaryNum": 1,
+                "name": "Bus adda",
+                "localname": "Bus adda",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296635",
+                "children": [
+                  {
+                    "id": "53ee5249-4fbc-4ab1-8ec6-e5d4fca675ea",
+                    "boundaryNum": 1,
+                    "name": "Satpuli Bazar Moter marg se GGHS - Bus adda",
+                    "localname": "Satpuli Bazar Moter marg se GGHS - Bus adda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69b56957-18cd-4466-a0cc-9f1bae097690",
+                    "boundaryNum": 1,
+                    "name": "Post office Mohalla - Bus adda",
+                    "localname": "Post office Mohalla - Bus adda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbb4869c-8216-40ed-a171-0d9771fba78f",
+                    "boundaryNum": 1,
+                    "name": "Bhartiya state Bank Mohalla - Bus adda",
+                    "localname": "Bhartiya state Bank Mohalla - Bus adda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3684bf3-aaca-4213-9111-df73e0b6b0aa",
+                    "boundaryNum": 1,
+                    "name": "Shiri Radha Krishan Mandir Thana Mohalla - Bus adda",
+                    "localname": "Shiri Radha Krishan Mandir Thana Mohalla - Bus adda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1d2028c8-b105-4fd1-8051-df2c2214cf14",
+                    "boundaryNum": 1,
+                    "name": "Rajkiya Vidhyalay - Bus adda",
+                    "localname": "Rajkiya Vidhyalay - Bus adda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87d021ad-cdb5-4168-89dc-a9e25d181e3a",
+                "boundaryNum": 1,
+                "name": "Satpuli Malli",
+                "localname": "Satpuli Malli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296636",
+                "children": [
+                  {
+                    "id": "c2dd6b6a-1b80-4e99-9c6a-f7f2e85efa93",
+                    "boundaryNum": 1,
+                    "name": "Satpuli malli - Satpuli Malli",
+                    "localname": "Satpuli malli - Satpuli Malli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3dbe2ddc-8655-4ec2-add8-6fcc1e1ad9c6",
+                    "boundaryNum": 1,
+                    "name": "Van Vibhagh - Satpuli Malli",
+                    "localname": "Van Vibhagh - Satpuli Malli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eb1695ab-6cd8-4302-ba58-b35eeb268393",
+                    "boundaryNum": 1,
+                    "name": "Dhontiyar tok - Satpuli Malli",
+                    "localname": "Dhontiyar tok - Satpuli Malli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
