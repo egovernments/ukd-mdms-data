@@ -4910,7 +4910,7 @@
     {
       "id": 1784,
       "name": "Cancelled Receipt Register",
-      "url": "url",
+      "url": "/report/rainmaker-tl/StateCancelledRegistryReport/metadata/_get",
       "displayName": "Cancelled Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
@@ -4925,7 +4925,7 @@
     {
       "id": 1785,
       "name": "Cancelled Receipt Register",
-      "url": "url",
+      "url": "/report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport/metadata/_get",
       "displayName": "Cancelled Receipt Register",
       "orderNumber": 2,
       "queryParams": "",
@@ -6413,6 +6413,36 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
-    }
+    },
+    {
+      "id": 1890,
+      "name": "Cancelled Receipt Register",
+      "url": "/report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport/_get",
+      "displayName": "Cancelled Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "State Reports.TL.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1891,
+      "name": "Cancelled Receipt Register",
+      "url": "/report/rainmaker-tl/StateCancelledRegistryReport/_get",
+      "displayName": "Cancelled Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "State Reports.TL.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
   ]
 }
