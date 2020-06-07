@@ -45,8 +45,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "WaterCharges.NonMetered",
@@ -57,8 +56,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "ADMIN Fees.Election rally fees",
