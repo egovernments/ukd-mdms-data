@@ -4,7 +4,7 @@
   "BusinessService": [
     {
       "businessService": "PropertyTax",
-      "code":"PT",
+      "code": "PT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -12,11 +12,11 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-       "hasOnlinePayment":true
+      "hasOnlinePayment": true
     },
     {
       "businessService": "WaterCharges",
-      "code":"WC",
+      "code": "WC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -27,7 +27,7 @@
     },
     {
       "businessService": "TradeLicense",
-      "code":"TL",
+      "code": "TL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -38,7 +38,7 @@
     },
     {
       "businessService": "WaterCharges.Metered",
-      "code":"WaterCharges.Metered",
+      "code": "WaterCharges.Metered",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -49,7 +49,7 @@
     },
     {
       "businessService": "WaterCharges.NonMetered",
-      "code":"WaterCharges.NonMetered",
+      "code": "WaterCharges.NonMetered",
       "collectionModesNotAllowed": [
         "DD"
       ],
