@@ -3,7 +3,7 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.SHOP.DRYC",
+      "code": "TRADE.SHOP.RDRDRYC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -75,7 +75,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.BANK.FINC",
+      "code": "TRADE.BANK.RDRFINC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -87,7 +87,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIQUOR.FLS",
+      "code": "TRADE.LIQUOR.RDRFLS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -99,7 +99,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIQUOR.CLG",
+      "code": "TRADE.LIQUOR.RDRCLG",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -123,7 +123,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.TEAS",
+      "code": "TRADE.STREETVENDOR.RDRTEAS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -171,7 +171,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.BANK.INSC",
+      "code": "TRADE.BANK.RDRINSC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
