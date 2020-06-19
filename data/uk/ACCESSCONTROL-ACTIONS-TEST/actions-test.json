@@ -6443,6 +6443,21 @@
       "navigationURL": "report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1892,
+      "name": "property",
+      "url": "url",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.property",
+      "navigationURL": "integration/dashboard/property",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
