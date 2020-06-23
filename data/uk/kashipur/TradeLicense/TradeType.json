@@ -315,7 +315,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.GOODS.WODT",
+      "code": "TRADE.SHOP.WODT",
       "uom": null,
       "applicationDocument": [
         {
@@ -1668,6 +1668,58 @@
     },
     {
       "code": "TRADE.SHOP.FVS",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.OPOS",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.HL50B",
       "uom": null,
       "applicationDocument": [
         {
