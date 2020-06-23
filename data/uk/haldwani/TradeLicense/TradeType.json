@@ -13403,58 +13403,6 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "IDPROOF",
-            "OTHR-PC",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "IDPROOF",
-            "OTHR-PC",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIVESTOCK",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "IDPROOF",
-            "OTHR-PC",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "IDPROOF",
-            "OTHR-PC",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
       "code": "TRADE.FIRM.TR86",
       "uom": null,
       "applicationDocument": [
