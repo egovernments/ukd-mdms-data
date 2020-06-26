@@ -1,0 +1,756 @@
+{
+  "tenantId": "uk.vikasnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "vikasnagar",
+        "localname": "vikasnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.vikasnagar",
+        "children": [
+          {
+            "id": "c7b84326-77f3-468f-ad9a-ed51d2f5f5f0",
+            "boundaryNum": 1,
+            "name": "Vikasnagar",
+            "localname": "Vikasnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "eb8cbdf3-2df2-47ee-bfe0-b45b79ef7f42",
+                "boundaryNum": 1,
+                "name": "Rasoolpur",
+                "localname": "Rasoolpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17392",
+                "children": [
+                  {
+                    "id": "5ce283fe-d8cb-4080-bfcb-bb2dcc7e7547",
+                    "boundaryNum": 1,
+                    "name": "Laxmanpur - Rasoolpur",
+                    "localname": "Laxmanpur - Rasoolpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ab5d27f-cdc2-4b09-b280-2d807bba6016",
+                    "boundaryNum": 1,
+                    "name": "Basantpur - Rasoolpur",
+                    "localname": "Basantpur - Rasoolpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "acc80e8f-417a-4737-b372-021306eafe52",
+                    "boundaryNum": 1,
+                    "name": "Durga colony - Rasoolpur",
+                    "localname": "Durga colony - Rasoolpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2062d57b-c4bb-4c3b-857f-47e3ce5c2667",
+                    "boundaryNum": 1,
+                    "name": "canal road - Rasoolpur",
+                    "localname": "canal road - Rasoolpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a779a9a-22f8-4ea2-bf51-1f2e05e83fd6",
+                "boundaryNum": 1,
+                "name": "Vidhyapeeth",
+                "localname": "Vidhyapeeth",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17393",
+                "children": [
+                  {
+                    "id": "dbf7ccb2-14e6-4b9f-ab90-db84ebac0435",
+                    "boundaryNum": 1,
+                    "name": "Singra colony - Vidhyapeeth",
+                    "localname": "Singra colony - Vidhyapeeth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "76da8caf-8199-479d-bb17-9d32a3f30b51",
+                    "boundaryNum": 1,
+                    "name": "Vidyapeeth Marg - Vidhyapeeth",
+                    "localname": "Vidyapeeth Marg - Vidhyapeeth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "574d8f3c-be13-4668-9121-a19661604e07",
+                    "boundaryNum": 1,
+                    "name": "Muslium basti - Vidhyapeeth",
+                    "localname": "Muslium basti - Vidhyapeeth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a461a7ee-7c2b-4d9d-b891-c7042790ea0c",
+                    "boundaryNum": 1,
+                    "name": "Purna Post Office - Vidhyapeeth",
+                    "localname": "Purna Post Office - Vidhyapeeth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aab4271d-c4e9-476e-a785-c18f8d81a9bc",
+                "boundaryNum": 1,
+                "name": "Araysamaj",
+                "localname": "Araysamaj",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17394",
+                "children": [
+                  {
+                    "id": "ee46f6bb-768f-4587-afce-5b988677f396",
+                    "boundaryNum": 1,
+                    "name": "Muslium basti - Araysamaj",
+                    "localname": "Muslium basti - Araysamaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8e03918e-befd-4b78-b5d3-76198dab208b",
+                    "boundaryNum": 1,
+                    "name": "Arya samaj - Araysamaj",
+                    "localname": "Arya samaj - Araysamaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1a7f5b9-be3a-4dd9-b31a-ed5022cdf67c",
+                    "boundaryNum": 1,
+                    "name": "gurudwara - Araysamaj",
+                    "localname": "gurudwara - Araysamaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6abaab1e-bac5-4d95-9c6c-02735a3a1ae9",
+                    "boundaryNum": 1,
+                    "name": "Pahadhi gali - Araysamaj",
+                    "localname": "Pahadhi gali - Araysamaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4de8da06-9dac-46c3-b4cf-3bac3f8b07e0",
+                    "boundaryNum": 1,
+                    "name": "Jaunsari basti - Araysamaj",
+                    "localname": "Jaunsari basti - Araysamaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4cbccd5-3dc7-44cc-b1a7-957343b20084",
+                "boundaryNum": 1,
+                "name": "Ambedkar",
+                "localname": "Ambedkar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17395",
+                "children": [
+                  {
+                    "id": "e584cee6-9c5c-4371-af1f-6eb79ab60112",
+                    "boundaryNum": 1,
+                    "name": "harijan basti - Ambedkar",
+                    "localname": "harijan basti - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc91dba9-b5b2-421e-b048-879d42523f5f",
+                    "boundaryNum": 1,
+                    "name": "dasmesh mohalla - Ambedkar",
+                    "localname": "dasmesh mohalla - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ffd7672-8877-49be-b447-09d10cc4d3d3",
+                    "boundaryNum": 1,
+                    "name": "Isasi Basti - Ambedkar",
+                    "localname": "Isasi Basti - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47f74b73-0343-4ff6-a23b-623f6dad9dde",
+                    "boundaryNum": 1,
+                    "name": "Bhimawala road - Ambedkar",
+                    "localname": "Bhimawala road - Ambedkar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "412d8995-03f8-452a-90e5-a2a79a15ec79",
+                "boundaryNum": 1,
+                "name": "Kaisarbagh",
+                "localname": "Kaisarbagh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17396",
+                "children": [
+                  {
+                    "id": "3b7a02d7-edf1-4c72-a18f-1c478e97c320",
+                    "boundaryNum": 1,
+                    "name": "Ajeet nagar - Kaisarbagh",
+                    "localname": "Ajeet nagar - Kaisarbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cf6d45ba-92f0-40ad-a5d3-b21f5e2047fa",
+                    "boundaryNum": 1,
+                    "name": "Shivlok Colony - Kaisarbagh",
+                    "localname": "Shivlok Colony - Kaisarbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "02c433c5-68d7-4434-a8e9-3b13551606a3",
+                    "boundaryNum": 1,
+                    "name": "Kesarbargh - Kaisarbagh",
+                    "localname": "Kesarbargh - Kaisarbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "299dcd4b-9e09-477a-b84f-b5f77ebaeeb9",
+                    "boundaryNum": 1,
+                    "name": "Badrish colony - Kaisarbagh",
+                    "localname": "Badrish colony - Kaisarbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "93ffc16b-e0ca-40af-bdd0-2a1de5328263",
+                    "boundaryNum": 1,
+                    "name": "Sarswati school road - Kaisarbagh",
+                    "localname": "Sarswati school road - Kaisarbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a6ba8fc-40a6-41a7-9bc0-deba8279b500",
+                "boundaryNum": 1,
+                "name": "Babugarh",
+                "localname": "Babugarh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17397",
+                "children": [
+                  {
+                    "id": "590316a3-e162-408f-b3ba-6299322ff0e4",
+                    "boundaryNum": 1,
+                    "name": "babugarh - Babugarh",
+                    "localname": "babugarh - Babugarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "743fd611-d5a6-4eb4-a61b-ff1dc6ac0f7b",
+                    "boundaryNum": 1,
+                    "name": "Kothiyal Marg - Babugarh",
+                    "localname": "Kothiyal Marg - Babugarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a52b7864-efb4-465d-98f2-b37e4d6119ea",
+                    "boundaryNum": 1,
+                    "name": "Kothwali bypas marg - Babugarh",
+                    "localname": "Kothwali bypas marg - Babugarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7987138b-7659-4e5b-98ec-253280d45c1b",
+                "boundaryNum": 1,
+                "name": "kalyanpur",
+                "localname": "kalyanpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17398",
+                "children": [
+                  {
+                    "id": "bb12c3ae-ec2e-4e77-8cf7-41cde7ef6462",
+                    "boundaryNum": 1,
+                    "name": "Friends colony - kalyanpur",
+                    "localname": "Friends colony - kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89fe55d0-5e3e-4690-b816-0d0014830d21",
+                    "boundaryNum": 1,
+                    "name": "Ravidas - kalyanpur",
+                    "localname": "Ravidas - kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ca4ecec-efdc-4334-861c-b12f63093fa1",
+                    "boundaryNum": 1,
+                    "name": "Kalyanpur - kalyanpur",
+                    "localname": "Kalyanpur - kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "111ddf1d-0744-4ddc-b822-60b0f4473f92",
+                    "boundaryNum": 1,
+                    "name": "Mandi - kalyanpur",
+                    "localname": "Mandi - kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f1d26ad2-1093-411e-80ae-9054eccb613a",
+                    "boundaryNum": 1,
+                    "name": "Geetabhawan Road - kalyanpur",
+                    "localname": "Geetabhawan Road - kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3209ff99-d6b1-4771-b44c-5080a8f1e95c",
+                "boundaryNum": 1,
+                "name": "Dharmshala",
+                "localname": "Dharmshala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17399",
+                "children": [
+                  {
+                    "id": "e2d2d437-c805-4f36-b356-5af428fdfa29",
+                    "boundaryNum": 1,
+                    "name": "Geetabhawan Road - Dharmshala",
+                    "localname": "Geetabhawan Road - Dharmshala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d08c7cdf-e338-4568-a804-cdbb04220c64",
+                    "boundaryNum": 1,
+                    "name": "Panjabi colony - Dharmshala",
+                    "localname": "Panjabi colony - Dharmshala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5db0072-d4fe-47a4-8c8c-e5f7164aaf0c",
+                    "boundaryNum": 1,
+                    "name": "Church road - Dharmshala",
+                    "localname": "Church road - Dharmshala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f0de07a7-5c93-4874-930e-d264e6b611a9",
+                    "boundaryNum": 1,
+                    "name": "Ganpati Vihar - Dharmshala",
+                    "localname": "Ganpati Vihar - Dharmshala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b20bfbec-83d7-4bcb-ab5d-162e72de7177",
+                "boundaryNum": 1,
+                "name": "Trishaladevi",
+                "localname": "Trishaladevi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17400",
+                "children": [
+                  {
+                    "id": "6f617855-51fa-45e9-971f-bb8edcb9946a",
+                    "boundaryNum": 1,
+                    "name": "Cinema gali - Trishaladevi",
+                    "localname": "Cinema gali - Trishaladevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d476e6bd-7216-4127-bf55-572af60704af",
+                    "boundaryNum": 1,
+                    "name": "Trishala devi - Trishaladevi",
+                    "localname": "Trishala devi - Trishaladevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c163176a-76b7-418b-bce9-6ee76835dc7e",
+                    "boundaryNum": 1,
+                    "name": "Purbiya basti - Trishaladevi",
+                    "localname": "Purbiya basti - Trishaladevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f0024609-d6eb-4125-80dc-48e2d1ab6afd",
+                    "boundaryNum": 1,
+                    "name": "Gorkha bagh - Trishaladevi",
+                    "localname": "Gorkha bagh - Trishaladevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "51ecd608-7cda-4af0-bc48-db60ecef9072",
+                    "boundaryNum": 1,
+                    "name": "Indira udyan - Trishaladevi",
+                    "localname": "Indira udyan - Trishaladevi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f5f3378-ce71-4b09-b05d-44ec399a13e2",
+                "boundaryNum": 1,
+                "name": "Dinkarvihar",
+                "localname": "Dinkarvihar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297011",
+                "children": [
+                  {
+                    "id": "dd1fa614-faaa-488c-ba02-922da99dcee2",
+                    "boundaryNum": 1,
+                    "name": "uttarakhand colony - Dinkarvihar",
+                    "localname": "uttarakhand colony - Dinkarvihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8fae8233-698d-483a-8f6d-b74e1ce94e8f",
+                    "boundaryNum": 1,
+                    "name": "Bank colony - Dinkarvihar",
+                    "localname": "Bank colony - Dinkarvihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "06d22d2c-f255-4e8c-a021-4ee80b7751ae",
+                    "boundaryNum": 1,
+                    "name": "Dinkar vihar - Dinkarvihar",
+                    "localname": "Dinkar vihar - Dinkarvihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1c473e40-7a8b-40cd-94e2-94832e4e7c13",
+                    "boundaryNum": 1,
+                    "name": "Garhwal sabha - Dinkarvihar",
+                    "localname": "Garhwal sabha - Dinkarvihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1b50bf5-97e7-492e-ac25-4d1a2bb3bc15",
+                    "boundaryNum": 1,
+                    "name": "hanumatdham road - Dinkarvihar",
+                    "localname": "hanumatdham road - Dinkarvihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55bb81af-37ea-43d0-8250-c8a73219d38c",
+                "boundaryNum": 1,
+                "name": "Indira udyan",
+                "localname": "Indira udyan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297012",
+                "children": [
+                  {
+                    "id": "6c44dce6-10ab-40f4-983e-63ad7dbcbcf5",
+                    "boundaryNum": 1,
+                    "name": "Saket Vihar - Indira udyan",
+                    "localname": "Saket Vihar - Indira udyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "21facc93-0557-4829-8099-6069a0a84e82",
+                    "boundaryNum": 1,
+                    "name": "Durga Mandir - Indira udyan",
+                    "localname": "Durga Mandir - Indira udyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "07381450-4d87-411e-ac93-b8bd28c2fc87",
+                    "boundaryNum": 1,
+                    "name": "Shikshak colony - Indira udyan",
+                    "localname": "Shikshak colony - Indira udyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db1e9111-e9a4-42d1-a5dd-c1e6e5133414",
+                    "boundaryNum": 1,
+                    "name": "telephone exchange - Indira udyan",
+                    "localname": "telephone exchange - Indira udyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62da2dd0-1e38-492d-946f-46122ff6ead8",
+                    "boundaryNum": 1,
+                    "name": "sayad Road - Indira udyan",
+                    "localname": "sayad Road - Indira udyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
