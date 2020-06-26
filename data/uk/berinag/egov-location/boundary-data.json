@@ -1,0 +1,540 @@
+{
+  "tenantId": "uk.berinag",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "berinag",
+        "localname": "berinag",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.berinag",
+        "children": [
+          {
+            "id": "d5d71883-bd64-49d0-9b4f-0f43e82cac55",
+            "boundaryNum": 1,
+            "name": "Berinag",
+            "localname": "Berinag",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "c105dfa8-7937-49f2-94ce-b32301ba6ff8",
+                "boundaryNum": 1,
+                "name": "KHITOLI",
+                "localname": "KHITOLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296897",
+                "children": [
+                  {
+                    "id": "88e7b5f9-1698-4890-83f1-f4eb9bea0bb9",
+                    "boundaryNum": 1,
+                    "name": "BHARADI - KHITOLI",
+                    "localname": "BHARADI - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7d395887-1a95-4e56-b9b7-e017c859733d",
+                    "boundaryNum": 1,
+                    "name": "BORAKHET - KHITOLI",
+                    "localname": "BORAKHET - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c21de155-7aba-461f-928f-7bf30dcb4e3c",
+                    "boundaryNum": 1,
+                    "name": "KHITOLI - KHITOLI",
+                    "localname": "KHITOLI - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42143f62-aeee-41eb-87e3-d8985a2c2541",
+                    "boundaryNum": 1,
+                    "name": "RIKHANI - KHITOLI",
+                    "localname": "RIKHANI - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "75ee6c0d-5fc9-44e3-8006-820f9564461d",
+                    "boundaryNum": 1,
+                    "name": "GANESH CHOKE - KHITOLI",
+                    "localname": "GANESH CHOKE - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "16e69c95-1ef2-4adb-bef3-761374aa2ed5",
+                    "boundaryNum": 1,
+                    "name": "TAHSIL ARIA - KHITOLI",
+                    "localname": "TAHSIL ARIA - KHITOLI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbf9eb33-e1fe-4332-8e10-6604b7acfc3c",
+                "boundaryNum": 1,
+                "name": "BANA",
+                "localname": "BANA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296898",
+                "children": [
+                  {
+                    "id": "d32df27b-1aaa-47fc-ba1a-412b20e57643",
+                    "boundaryNum": 1,
+                    "name": "BANA - BANA",
+                    "localname": "BANA - BANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "885278f7-5874-4242-a8d0-8d2a22004398",
+                    "boundaryNum": 1,
+                    "name": "HASUDI - BANA",
+                    "localname": "HASUDI - BANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8286ca2b-32fc-4121-9484-936414c0d8ca",
+                    "boundaryNum": 1,
+                    "name": "NADULIGADA - BANA",
+                    "localname": "NADULIGADA - BANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de930acd-5629-4cc2-a5fc-dddb396b9c75",
+                    "boundaryNum": 1,
+                    "name": "BUJERA - BANA",
+                    "localname": "BUJERA - BANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da8ace5a-4154-4997-be4a-513b7d013962",
+                    "boundaryNum": 1,
+                    "name": "JAMUNA NAGAR - BANA",
+                    "localname": "JAMUNA NAGAR - BANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7737e970-28c7-4136-b764-836762f88ae3",
+                "boundaryNum": 1,
+                "name": "BHATTIGAWAN",
+                "localname": "BHATTIGAWAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296899",
+                "children": [
+                  {
+                    "id": "300d8d54-0afa-4e5b-a784-2a820df3fcad",
+                    "boundaryNum": 1,
+                    "name": "KANEGAIR - BHATTIGAWAN",
+                    "localname": "KANEGAIR - BHATTIGAWAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6bda9d8c-c1e1-427c-b21c-7dbe76a8c87d",
+                    "boundaryNum": 1,
+                    "name": "LAMPATA - BHATTIGAWAN",
+                    "localname": "LAMPATA - BHATTIGAWAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1cc181a8-a2ce-426b-9ad8-9114f3c65a19",
+                    "boundaryNum": 1,
+                    "name": "PATHARADI - BHATTIGAWAN",
+                    "localname": "PATHARADI - BHATTIGAWAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "37897ad6-ef12-48d3-a9f6-272ee57ad978",
+                    "boundaryNum": 1,
+                    "name": "JAMUNA NAGAR - BHATTIGAWAN",
+                    "localname": "JAMUNA NAGAR - BHATTIGAWAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85d19e2f-c710-404d-a509-27326b8994ac",
+                "boundaryNum": 1,
+                "name": "NAGDEV MANDIR",
+                "localname": "NAGDEV MANDIR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296900",
+                "children": [
+                  {
+                    "id": "5ed79b6e-928f-4748-804d-8f39decde756",
+                    "boundaryNum": 1,
+                    "name": "EKATA KALONI - NAGDEV MANDIR",
+                    "localname": "EKATA KALONI - NAGDEV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ecc90fa-029a-4ddc-a77d-96a05637dcf1",
+                    "boundaryNum": 1,
+                    "name": "DIGRI COLLAGE - NAGDEV MANDIR",
+                    "localname": "DIGRI COLLAGE - NAGDEV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9c1e8206-d4c3-43c0-9667-718655e6589d",
+                    "boundaryNum": 1,
+                    "name": "P W D KALONI - NAGDEV MANDIR",
+                    "localname": "P W D KALONI - NAGDEV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "68ce2604-d435-415d-9feb-fa5bb14ab5e4",
+                    "boundaryNum": 1,
+                    "name": "HATADANA - NAGDEV MANDIR",
+                    "localname": "HATADANA - NAGDEV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62f5797d-192d-4e5b-9f9e-fbbeb462d965",
+                    "boundaryNum": 1,
+                    "name": "NAYI BASTI - NAGDEV MANDIR",
+                    "localname": "NAYI BASTI - NAGDEV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7840771a-b6a5-4a3f-9cee-2cb89207a630",
+                "boundaryNum": 1,
+                "name": "SAHID CHOCK",
+                "localname": "SAHID CHOCK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296901",
+                "children": [
+                  {
+                    "id": "9966e116-358e-451d-bfb7-32ebec349a4f",
+                    "boundaryNum": 1,
+                    "name": "NAYA BAZAR - SAHID CHOCK",
+                    "localname": "NAYA BAZAR - SAHID CHOCK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2d6cf71-3554-4450-b2e0-be3be379f7df",
+                    "boundaryNum": 1,
+                    "name": "PURANA BAZAR - SAHID CHOCK",
+                    "localname": "PURANA BAZAR - SAHID CHOCK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "197d1d7b-ed61-40e1-96a4-4a1924284651",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZAR - SAHID CHOCK",
+                    "localname": "MAIN BAZAR - SAHID CHOCK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "afa7333f-1607-49ef-b3b5-f5bd839c6e19",
+                    "boundaryNum": 1,
+                    "name": "KHAMA NAGAR - SAHID CHOCK",
+                    "localname": "KHAMA NAGAR - SAHID CHOCK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "373a3508-f8af-4287-9ac3-1d1f309fb241",
+                    "boundaryNum": 1,
+                    "name": "JAGADAMBA KALONI - SAHID CHOCK",
+                    "localname": "JAGADAMBA KALONI - SAHID CHOCK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3593c773-ceaf-4af6-ab59-724fb9eba5f0",
+                "boundaryNum": 1,
+                "name": "DHANOLIPANT",
+                "localname": "DHANOLIPANT",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296902",
+                "children": [
+                  {
+                    "id": "ee13864e-59d4-4a2b-9d9e-e6e2166e721d",
+                    "boundaryNum": 1,
+                    "name": "SANGAR - DHANOLIPANT",
+                    "localname": "SANGAR - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6b5e031-6593-416a-987c-db783f535475",
+                    "boundaryNum": 1,
+                    "name": "DHANOLIPANT - DHANOLIPANT",
+                    "localname": "DHANOLIPANT - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "99fd9ff2-f8b2-4905-95eb-4c4eeb3689de",
+                    "boundaryNum": 1,
+                    "name": "BAGICHA - DHANOLIPANT",
+                    "localname": "BAGICHA - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2da2a17-bf9f-4ee6-83b9-9b3345c53623",
+                    "boundaryNum": 1,
+                    "name": "TREASERY LINE - DHANOLIPANT",
+                    "localname": "TREASERY LINE - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fbab3f6e-2ae2-4dad-b912-c4643cacedf0",
+                    "boundaryNum": 1,
+                    "name": "JAWAHAR CHOKE - DHANOLIPANT",
+                    "localname": "JAWAHAR CHOKE - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "30d40996-54a7-47af-91ae-ba1682a07d2f",
+                    "boundaryNum": 1,
+                    "name": "KALUWAKHAN - DHANOLIPANT",
+                    "localname": "KALUWAKHAN - DHANOLIPANT",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7aabee7c-13a4-4cef-aeef-62e033178c38",
+                "boundaryNum": 1,
+                "name": "SARSWATI VIHAR",
+                "localname": "SARSWATI VIHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296903",
+                "children": [
+                  {
+                    "id": "58ff8890-87ca-482c-8a7c-b6d550dee703",
+                    "boundaryNum": 1,
+                    "name": "SARSWATI VIHAR - SARSWATI VIHAR",
+                    "localname": "SARSWATI VIHAR - SARSWATI VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b2053071-519c-4796-925d-9757c602506c",
+                    "boundaryNum": 1,
+                    "name": "TEA STATE - SARSWATI VIHAR",
+                    "localname": "TEA STATE - SARSWATI VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "df7d608b-eecd-429c-b1a4-c88712e99cfd",
+                    "boundaryNum": 1,
+                    "name": "SANTI KUNGE - SARSWATI VIHAR",
+                    "localname": "SANTI KUNGE - SARSWATI VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "617f72ee-d5a3-4e7b-be86-739c93ce9828",
+                    "boundaryNum": 1,
+                    "name": "CHINIYA DHARA - SARSWATI VIHAR",
+                    "localname": "CHINIYA DHARA - SARSWATI VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

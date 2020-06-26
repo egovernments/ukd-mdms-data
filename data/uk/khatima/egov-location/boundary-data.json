@@ -1,0 +1,1020 @@
+{
+  "tenantId": "uk.khatima",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "khatima",
+        "localname": "khatima",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.khatima",
+        "children": [
+          {
+            "id": "51f26495-60c8-4f10-88fa-92591527aa26",
+            "boundaryNum": 1,
+            "name": "Khatima",
+            "localname": "Khatima",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "7f49b2c1-e642-4328-b490-eee42b7ac777",
+                "boundaryNum": 1,
+                "name": "KANJABAG",
+                "localname": "KANJABAG",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11648",
+                "children": [
+                  {
+                    "id": "495d846e-dce1-4048-b92e-a3cac465fbb0",
+                    "boundaryNum": 1,
+                    "name": "MADINA MASJID - KANJABAG",
+                    "localname": "MADINA MASJID - KANJABAG",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "143d2e66-d2f6-4806-8a34-bb05f21a4f87",
+                "boundaryNum": 1,
+                "name": "IDGAH",
+                "localname": "IDGAH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11649",
+                "children": [
+                  {
+                    "id": "3a02d766-f225-4697-b59c-7ae5b8fe75ef",
+                    "boundaryNum": 1,
+                    "name": "IDGAH - IDGAH",
+                    "localname": "IDGAH - IDGAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23d80456-cc95-4a6f-b944-26ad1826b85f",
+                "boundaryNum": 1,
+                "name": "RAZA MASJID",
+                "localname": "RAZA MASJID",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11650",
+                "children": [
+                  {
+                    "id": "27296394-6bea-41e5-958f-0dbb63e3efaf",
+                    "boundaryNum": 1,
+                    "name": "RAZA MASJID - RAZA MASJID",
+                    "localname": "RAZA MASJID - RAZA MASJID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "081d7915-2ab9-4df0-8685-a15ee7112e7e",
+                "boundaryNum": 1,
+                "name": "ISLAM NAGAR",
+                "localname": "ISLAM NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11651",
+                "children": [
+                  {
+                    "id": "328535ac-5769-44c8-8f91-4c5378a1807d",
+                    "boundaryNum": 1,
+                    "name": "JANKI MANDAP - ISLAM NAGAR",
+                    "localname": "JANKI MANDAP - ISLAM NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "90bf2d0b-acfa-4047-8108-61d06c22d8d4",
+                    "boundaryNum": 1,
+                    "name": "KHANKHA MAJAR - ISLAM NAGAR",
+                    "localname": "KHANKHA MAJAR - ISLAM NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c7846b8c-d3d0-4efb-b461-53e52fe7a28e",
+                "boundaryNum": 1,
+                "name": "KURAISHI MASJID",
+                "localname": "KURAISHI MASJID",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11652",
+                "children": [
+                  {
+                    "id": "e5f39b2c-e26f-4040-9447-56e23e4ab03d",
+                    "boundaryNum": 1,
+                    "name": "NOORI MASJID - KURAISHI MASJID",
+                    "localname": "NOORI MASJID - KURAISHI MASJID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "85cb6356-d135-4890-8782-93a0b2ed20f8",
+                    "boundaryNum": 1,
+                    "name": "KURAISHI MASJID - KURAISHI MASJID",
+                    "localname": "KURAISHI MASJID - KURAISHI MASJID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38eaa5f9-f085-4da7-ab9a-dfad5bbebc53",
+                    "boundaryNum": 1,
+                    "name": "GUPS ISLAM NAGAR - KURAISHI MASJID",
+                    "localname": "GUPS ISLAM NAGAR - KURAISHI MASJID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d2bd117-89a8-4bff-8c11-cdd2d42cf8b0",
+                "boundaryNum": 1,
+                "name": "GAUTIYA",
+                "localname": "GAUTIYA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11653",
+                "children": [
+                  {
+                    "id": "98917260-c9e1-4ce8-93e8-43c3381862d6",
+                    "boundaryNum": 1,
+                    "name": "GOVT ASHRAM PADHTI SCHOOL - GAUTIYA",
+                    "localname": "GOVT ASHRAM PADHTI SCHOOL - GAUTIYA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "012410a9-49b3-4826-8f80-38a136a193de",
+                    "boundaryNum": 1,
+                    "name": "SHAFI NURSARI SCHOOL - GAUTIYA",
+                    "localname": "SHAFI NURSARI SCHOOL - GAUTIYA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6c5ca24-886e-4b51-ae78-40169292d33a",
+                "boundaryNum": 1,
+                "name": "PURNAGIRI COLONY",
+                "localname": "PURNAGIRI COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11654",
+                "children": [
+                  {
+                    "id": "3e562b98-8c59-4fcb-a800-0faae0828e62",
+                    "boundaryNum": 1,
+                    "name": "FLOUR MILL - PURNAGIRI COLONY",
+                    "localname": "FLOUR MILL - PURNAGIRI COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "98814fb4-980e-42f5-bcc6-49aac51e38a4",
+                    "boundaryNum": 1,
+                    "name": "PRAYAS ASPATAL - PURNAGIRI COLONY",
+                    "localname": "PRAYAS ASPATAL - PURNAGIRI COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ab629998-0702-4eb3-bfb2-ce50165305b0",
+                    "boundaryNum": 1,
+                    "name": "SAURABH ASPATAL - PURNAGIRI COLONY",
+                    "localname": "SAURABH ASPATAL - PURNAGIRI COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "90ef7a94-0213-4f62-9d7c-e2a71f7a50c8",
+                    "boundaryNum": 1,
+                    "name": "PURNAGIRI MANDIR - PURNAGIRI COLONY",
+                    "localname": "PURNAGIRI MANDIR - PURNAGIRI COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5cb2ae40-6080-4e58-b940-d7516f640e9d",
+                    "boundaryNum": 1,
+                    "name": "ALAKSHYA PUBLIC SCHOOL - PURNAGIRI COLONY",
+                    "localname": "ALAKSHYA PUBLIC SCHOOL - PURNAGIRI COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "01e224ee-288c-4165-a4cd-4edaee76662f",
+                "boundaryNum": 1,
+                "name": "PANCHSHEEL COLONY",
+                "localname": "PANCHSHEEL COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11655",
+                "children": [
+                  {
+                    "id": "82db2dfb-01e0-4205-a331-4cde4633abea",
+                    "boundaryNum": 1,
+                    "name": "RANGOLI MANDAP - PANCHSHEEL COLONY",
+                    "localname": "RANGOLI MANDAP - PANCHSHEEL COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b33f3c3-dc95-4e07-a88e-2cc5831257bc",
+                    "boundaryNum": 1,
+                    "name": "SWASTIK ASPATAL - PANCHSHEEL COLONY",
+                    "localname": "SWASTIK ASPATAL - PANCHSHEEL COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "857e87f3-a8c4-4dd3-aea3-baf2812e028c",
+                    "boundaryNum": 1,
+                    "name": "OM ASPATAL - PANCHSHEEL COLONY",
+                    "localname": "OM ASPATAL - PANCHSHEEL COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3bdfb994-03e2-47f3-a32f-1af299801594",
+                    "boundaryNum": 1,
+                    "name": "RATURI ASPATAL - PANCHSHEEL COLONY",
+                    "localname": "RATURI ASPATAL - PANCHSHEEL COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aad44a8f-596a-4844-a090-13d624e400f6",
+                    "boundaryNum": 1,
+                    "name": "SHIV MANDIR - PANCHSHEEL COLONY",
+                    "localname": "SHIV MANDIR - PANCHSHEEL COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27e1ddb1-fd18-4c8f-890a-d9130eb633c4",
+                "boundaryNum": 1,
+                "name": "AMAUN MAYUR VIHAR",
+                "localname": "AMAUN MAYUR VIHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11656",
+                "children": [
+                  {
+                    "id": "bcea307e-6234-44fe-8468-19ff341c144e",
+                    "boundaryNum": 1,
+                    "name": "POLYPLEX - AMAUN MAYUR VIHAR",
+                    "localname": "POLYPLEX - AMAUN MAYUR VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c363bc18-21a3-454b-80e5-b85c465b5f88",
+                    "boundaryNum": 1,
+                    "name": "KHATIMA PAPER MILL - AMAUN MAYUR VIHAR",
+                    "localname": "KHATIMA PAPER MILL - AMAUN MAYUR VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec619a56-5f5d-4986-a0be-ce183c0c7f56",
+                    "boundaryNum": 1,
+                    "name": "BALIKA ASHRAM PADHTI VIDHYALAY - AMAUN MAYUR VIHAR",
+                    "localname": "BALIKA ASHRAM PADHTI VIDHYALAY - AMAUN MAYUR VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee16dde5-7d06-4e84-9a94-50ad662611ff",
+                    "boundaryNum": 1,
+                    "name": "GPS AMAUN - AMAUN MAYUR VIHAR",
+                    "localname": "GPS AMAUN - AMAUN MAYUR VIHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d589dc6-8b28-491e-b8db-543e49658318",
+                "boundaryNum": 1,
+                "name": "JHHANKAIYA",
+                "localname": "JHHANKAIYA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296519",
+                "children": [
+                  {
+                    "id": "097bbcaf-1b78-404a-8028-1e4e39a7da66",
+                    "boundaryNum": 1,
+                    "name": "GPS PAKADIYA - JHHANKAIYA",
+                    "localname": "GPS PAKADIYA - JHHANKAIYA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d8a6a47-ea4e-4b6e-8e5a-5e1d8dbc6ed2",
+                "boundaryNum": 1,
+                "name": "AWAS VIKAS COLONY",
+                "localname": "AWAS VIKAS COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296520",
+                "children": [
+                  {
+                    "id": "e0a090e8-e24a-4c15-88b6-7456d0762f0f",
+                    "boundaryNum": 1,
+                    "name": "AWAS VIKAS COLONY - AWAS VIKAS COLONY",
+                    "localname": "AWAS VIKAS COLONY - AWAS VIKAS COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b0017bb-71ac-489c-b3c9-498a8fd952fe",
+                "boundaryNum": 1,
+                "name": "KHETAL SANDA",
+                "localname": "KHETAL SANDA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296521",
+                "children": [
+                  {
+                    "id": "0596e42b-f2fb-46b6-9548-59606a7cded3",
+                    "boundaryNum": 1,
+                    "name": "MANDI SAMITI - KHETAL SANDA",
+                    "localname": "MANDI SAMITI - KHETAL SANDA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9600758e-132e-436f-b5f0-28cbfd007bef",
+                    "boundaryNum": 1,
+                    "name": "SARASWATI MANDIR PUBLIC SCHOOL - KHETAL SANDA",
+                    "localname": "SARASWATI MANDIR PUBLIC SCHOOL - KHETAL SANDA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62cc4906-dd40-4333-89ff-af89426dca60",
+                    "boundaryNum": 1,
+                    "name": "RADHA SWAMI SATSANG BHAWAN - KHETAL SANDA",
+                    "localname": "RADHA SWAMI SATSANG BHAWAN - KHETAL SANDA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0029",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35a17b86-6239-4749-ab9d-20fe3b908172",
+                "boundaryNum": 1,
+                "name": "HANUMAN MANDIR",
+                "localname": "HANUMAN MANDIR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296522",
+                "children": [
+                  {
+                    "id": "c62cddbf-199b-44bb-a84d-d1e38c5b6623",
+                    "boundaryNum": 1,
+                    "name": "PWD - HANUMAN MANDIR",
+                    "localname": "PWD - HANUMAN MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0030",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e051c603-0271-4f0f-99b2-7e008a225027",
+                    "boundaryNum": 1,
+                    "name": "RADHA RAMAN DHARAMSHALA - HANUMAN MANDIR",
+                    "localname": "RADHA RAMAN DHARAMSHALA - HANUMAN MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0031",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "55e56cf1-c464-45d4-be54-28676f8d1ad0",
+                    "boundaryNum": 1,
+                    "name": "PASHU CHIKITSHALAY - HANUMAN MANDIR",
+                    "localname": "PASHU CHIKITSHALAY - HANUMAN MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0032",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2feb3f34-74e4-4f4d-a5b1-c6377326de94",
+                    "boundaryNum": 1,
+                    "name": "HANUMAN MANDIR - HANUMAN MANDIR",
+                    "localname": "HANUMAN MANDIR - HANUMAN MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0033",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1d5df37c-1951-4261-aa38-d4927787449b",
+                    "boundaryNum": 1,
+                    "name": "BRC - HANUMAN MANDIR",
+                    "localname": "BRC - HANUMAN MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0034",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "010c2f16-d4f0-4897-bf22-0366dea175e4",
+                "boundaryNum": 1,
+                "name": "SANATAN DHARAM SHALA",
+                "localname": "SANATAN DHARAM SHALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296523",
+                "children": [
+                  {
+                    "id": "966e76d7-4b2f-4961-9f05-6b2d0479a98e",
+                    "boundaryNum": 1,
+                    "name": "PURANAGIRI HOTEL - SANATAN DHARAM SHALA",
+                    "localname": "PURANAGIRI HOTEL - SANATAN DHARAM SHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0035",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cfb58e3c-bb10-4b38-9a2e-824d5adbb48e",
+                    "boundaryNum": 1,
+                    "name": "JAMA MASJID - SANATAN DHARAM SHALA",
+                    "localname": "JAMA MASJID - SANATAN DHARAM SHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0036",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "25b293e2-c5af-4aab-ba64-481456da1ced",
+                    "boundaryNum": 1,
+                    "name": "HOTEL BEST VIEW - SANATAN DHARAM SHALA",
+                    "localname": "HOTEL BEST VIEW - SANATAN DHARAM SHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0037",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "848333ab-2f1d-4690-ba44-b8bcbb8bb9ad",
+                    "boundaryNum": 1,
+                    "name": "SANATAN DHARAMSHALA - SANATAN DHARAM SHALA",
+                    "localname": "SANATAN DHARAMSHALA - SANATAN DHARAM SHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9fceadbd-90b0-4840-9d7f-a83f1167f524",
+                    "boundaryNum": 1,
+                    "name": "RANA PRATAP INTER COLLEGE - SANATAN DHARAM SHALA",
+                    "localname": "RANA PRATAP INTER COLLEGE - SANATAN DHARAM SHALA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0039",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51809d97-5544-4028-95e1-0e3d05effe7e",
+                "boundaryNum": 1,
+                "name": "THARU GOVT I COLLEGE",
+                "localname": "THARU GOVT I COLLEGE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296524",
+                "children": [
+                  {
+                    "id": "10550e5e-f399-4ed4-bef9-c53549e364f4",
+                    "boundaryNum": 1,
+                    "name": "THARU GOVT INTER COLLEGE - THARU GOVT I COLLEGE",
+                    "localname": "THARU GOVT INTER COLLEGE - THARU GOVT I COLLEGE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0040",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fde3cc1e-2b8e-472b-b0af-ad1c3956d3a5",
+                    "boundaryNum": 1,
+                    "name": "ACHARYA NARENDRA DEV VIDHYALAY - THARU GOVT I COLLEGE",
+                    "localname": "ACHARYA NARENDRA DEV VIDHYALAY - THARU GOVT I COLLEGE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0041",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "69ea63c4-7f62-4a0b-9443-9e7babc41c8b",
+                    "boundaryNum": 1,
+                    "name": "YOGASHRAM - THARU GOVT I COLLEGE",
+                    "localname": "YOGASHRAM - THARU GOVT I COLLEGE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0042",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c797c9b5-77ed-42e7-b66e-39ef9e4013da",
+                "boundaryNum": 1,
+                "name": "AMBEDKAR NAGAR",
+                "localname": "AMBEDKAR NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296525",
+                "children": [
+                  {
+                    "id": "8c39939d-aec0-46a7-a5f1-561c2b255b2e",
+                    "boundaryNum": 1,
+                    "name": "OLD TAHSIL - AMBEDKAR NAGAR",
+                    "localname": "OLD TAHSIL - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0043",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b583194e-15b0-4d75-9256-8dccd04d819e",
+                    "boundaryNum": 1,
+                    "name": "JAL SANSTHAN - AMBEDKAR NAGAR",
+                    "localname": "JAL SANSTHAN - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0044",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e7c6b79c-b66a-4bb9-bd1d-61c68cdfa56d",
+                    "boundaryNum": 1,
+                    "name": "KOTWALI - AMBEDKAR NAGAR",
+                    "localname": "KOTWALI - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0045",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1f3b297c-5e25-4978-b63b-651dd8e50787",
+                    "boundaryNum": 1,
+                    "name": "POST OFFICE - AMBEDKAR NAGAR",
+                    "localname": "POST OFFICE - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0046",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "21f49ceb-1c70-44ce-bba9-3639b6707455",
+                    "boundaryNum": 1,
+                    "name": "BANK OF BARODA - AMBEDKAR NAGAR",
+                    "localname": "BANK OF BARODA - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0047",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e45bc9e3-063c-4296-a6b9-d175ac2b2a5f",
+                "boundaryNum": 1,
+                "name": "SHIV COLONY",
+                "localname": "SHIV COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296526",
+                "children": [
+                  {
+                    "id": "93c04e9f-8997-4e0f-92b3-c9f3decc8329",
+                    "boundaryNum": 1,
+                    "name": "HOTEL S2S - SHIV COLONY",
+                    "localname": "HOTEL S2S - SHIV COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0048",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ff15e2f-0740-4d1f-a3b7-cb5b222391d0",
+                    "boundaryNum": 1,
+                    "name": "SHIV COLONY - SHIV COLONY",
+                    "localname": "SHIV COLONY - SHIV COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0049",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b1e44642-ad00-457a-87b3-0aca50c58c38",
+                    "boundaryNum": 1,
+                    "name": "ILAHABAD BANK - SHIV COLONY",
+                    "localname": "ILAHABAD BANK - SHIV COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0050",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8eb76777-2f73-42d3-83b6-a8ba8c79bafe",
+                "boundaryNum": 1,
+                "name": "VIKAS KHAND KHATIMA",
+                "localname": "VIKAS KHAND KHATIMA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296527",
+                "children": [
+                  {
+                    "id": "5a8af366-5bbf-4c9f-8fa4-c0340f25b2c7",
+                    "boundaryNum": 1,
+                    "name": "OLD ASPATAL - VIKAS KHAND KHATIMA",
+                    "localname": "OLD ASPATAL - VIKAS KHAND KHATIMA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0051",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5c49650c-15fb-4b3f-a565-3a3af978f680",
+                    "boundaryNum": 1,
+                    "name": "VIKASKHAND KARYALAY - VIKAS KHAND KHATIMA",
+                    "localname": "VIKASKHAND KARYALAY - VIKAS KHAND KHATIMA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0052",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "be22d5d7-cd6b-454b-9b2d-efa72fde4550",
+                    "boundaryNum": 1,
+                    "name": "MAHAVIDHYALAY - VIKAS KHAND KHATIMA",
+                    "localname": "MAHAVIDHYALAY - VIKAS KHAND KHATIMA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0053",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8955da7b-dccf-4343-bbbb-fd8bfd79be61",
+                    "boundaryNum": 1,
+                    "name": "SICHAI DAK BANGLA - VIKAS KHAND KHATIMA",
+                    "localname": "SICHAI DAK BANGLA - VIKAS KHAND KHATIMA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0054",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38406575-6203-4999-9da2-bd5c79a6b79b",
+                "boundaryNum": 1,
+                "name": "AADARSH COLONY",
+                "localname": "AADARSH COLONY",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296528",
+                "children": [
+                  {
+                    "id": "6a677976-157e-4d2f-85d2-d7730d38a5f9",
+                    "boundaryNum": 1,
+                    "name": "PETROL PUMP - AADARSH COLONY",
+                    "localname": "PETROL PUMP - AADARSH COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0055",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8d39b80e-3bc2-40c8-93dd-6d062d45630b",
+                    "boundaryNum": 1,
+                    "name": "UNION BANK - AADARSH COLONY",
+                    "localname": "UNION BANK - AADARSH COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0056",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0b680cb1-41cb-491c-898a-8885c06b737e",
+                    "boundaryNum": 1,
+                    "name": "GPS SCHOOL - AADARSH COLONY",
+                    "localname": "GPS SCHOOL - AADARSH COLONY",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0057",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f2ca8797-898d-49fc-b9af-d02e825181e4",
+                "boundaryNum": 1,
+                "name": "NEW TAHSIL",
+                "localname": "NEW TAHSIL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1296529",
+                "children": [
+                  {
+                    "id": "766bcbf1-8f88-4d53-9d4b-6a2a97e6e60c",
+                    "boundaryNum": 1,
+                    "name": "TAPAN ASPATAL - NEW TAHSIL",
+                    "localname": "TAPAN ASPATAL - NEW TAHSIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0058",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "090f4317-8bb5-40f8-aa03-d82127645dda",
+                    "boundaryNum": 1,
+                    "name": "NEW TAHSIL - NEW TAHSIL",
+                    "localname": "NEW TAHSIL - NEW TAHSIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0059",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b40fe21-d4af-4302-bc83-56af8518514c",
+                    "boundaryNum": 1,
+                    "name": "MUNSIF COURT - NEW TAHSIL",
+                    "localname": "MUNSIF COURT - NEW TAHSIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0060",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1bf3093-eee7-47d3-933f-67d04cae0a4b",
+                    "boundaryNum": 1,
+                    "name": "VANIJYA KARYALAY - NEW TAHSIL",
+                    "localname": "VANIJYA KARYALAY - NEW TAHSIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0061",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "785bc070-86c6-4265-a204-dc95be8b77ff",
+                    "boundaryNum": 1,
+                    "name": "UPKOSHAGAR - NEW TAHSIL",
+                    "localname": "UPKOSHAGAR - NEW TAHSIL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0062",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

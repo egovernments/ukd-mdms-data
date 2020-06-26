@@ -1,0 +1,132 @@
+{
+  "tenantId": "uk.badrinath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "badrinath",
+        "localname": "badrinath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.badrinath",
+        "children": [
+          {
+            "id": "507f6d01-c212-410d-99f2-585c57eb49f8",
+            "boundaryNum": 1,
+            "name": "Badrinath",
+            "localname": "Badrinath",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "2951fe84-ce7a-4a95-92c0-0c51a4069515",
+                "boundaryNum": 1,
+                "name": "Ward No.1 - Badrikashram",
+                "localname": "Ward No.1 - Badrikashram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16042",
+                "children": [
+                  {
+                    "id": "9f3c4509-2526-48c7-96ad-f512239b43b0",
+                    "boundaryNum": 1,
+                    "name": "Badrikashram - Ward No.1 - Badrikashram",
+                    "localname": "Badrikashram - Ward No.1 - Badrikashram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4199b09c-bc93-4043-8ed6-b9276a5ea60a",
+                "boundaryNum": 1,
+                "name": "Ward No.2 - Urvashi",
+                "localname": "Ward No.2 - Urvashi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16043",
+                "children": [
+                  {
+                    "id": "ebeab8a0-d0b3-4c92-a469-ee00ce865000",
+                    "boundaryNum": 1,
+                    "name": "Urvashi - Ward No.2 - Urvashi",
+                    "localname": "Urvashi - Ward No.2 - Urvashi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe99ed41-28d1-4591-a8c9-ca0b76062bb7",
+                "boundaryNum": 1,
+                "name": "Ward No.3 - Narpuri",
+                "localname": "Ward No.3 - Narpuri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297006",
+                "children": [
+                  {
+                    "id": "0489c334-6865-45ff-8fb9-87b96bd931d8",
+                    "boundaryNum": 1,
+                    "name": "Narpuri - Ward No.3 - Narpuri",
+                    "localname": "Narpuri - Ward No.3 - Narpuri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f60f7e88-fac9-4c25-a7f2-6eb8a6279e7b",
+                "boundaryNum": 1,
+                "name": "Ward No.4 - Sheshnetra",
+                "localname": "Ward No.4 - Sheshnetra",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1297007",
+                "children": [
+                  {
+                    "id": "cc6f2eb5-7326-4258-a32f-f409c68caef5",
+                    "boundaryNum": 1,
+                    "name": "Sheshnetra - Ward No.4 - Sheshnetra",
+                    "localname": "Sheshnetra - Ward No.4 - Sheshnetra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

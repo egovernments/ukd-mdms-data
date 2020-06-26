@@ -1,0 +1,294 @@
+{
+  "tenantId": "uk.testing",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.SHOP.RDRDRYC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.WORKSHOP.FAB",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.OTH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.RESTS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "FOODLICENSE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.FTVEG",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-FOODLICENSE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.POWER.100H",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.BANK.RDRFINC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.RDRFLS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.RDRCLG",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.BAC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "EXCISELICENSE-FOODLICENSE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.RDRTEAS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.NH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.RDRPC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.MRGH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.BANK.RDRINSC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.RDRXRYC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.SHOP.WASH",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.POWER.10HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.POWER.20HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.POWER.50HP",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "GSTREGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.RDRPVTC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.RDRDNTC",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.PH20B",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.PHA20",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "APPLLTTR-RLVNTDEGR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}

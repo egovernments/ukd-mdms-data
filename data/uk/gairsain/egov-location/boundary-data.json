@@ -1,0 +1,408 @@
+{
+  "tenantId": "uk.gairsain",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gairsain",
+        "localname": "gairsain",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.gairsain",
+        "children": [
+          {
+            "id": "664f5777-2e72-46b5-9236-4aa250183279",
+            "boundaryNum": 1,
+            "name": "Gairsain",
+            "localname": "Gairsain",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "375a4593-87a8-43e5-8b4f-093215f0dae9",
+                "boundaryNum": 1,
+                "name": "SALIYANA",
+                "localname": "SALIYANA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927746",
+                "children": [
+                  {
+                    "id": "a94f0deb-08fe-424a-92cd-78c2fe361a78",
+                    "boundaryNum": 1,
+                    "name": "DANGIDHAR - SALIYANA",
+                    "localname": "DANGIDHAR - SALIYANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0014acb1-f325-418e-90f3-da74f78287ab",
+                    "boundaryNum": 1,
+                    "name": "SALIYANA BEND - SALIYANA",
+                    "localname": "SALIYANA BEND - SALIYANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5bf03a5d-67ff-425e-a022-9f8d937fce08",
+                    "boundaryNum": 1,
+                    "name": "SALIYANA - SALIYANA",
+                    "localname": "SALIYANA - SALIYANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bbd7c365-1261-4689-8f9d-191aef8056b3",
+                    "boundaryNum": 1,
+                    "name": "GWAR TALLA - SALIYANA",
+                    "localname": "GWAR TALLA - SALIYANA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d1dc61b-29a6-4eb3-a732-6960d760bc12",
+                "boundaryNum": 1,
+                "name": "GAID",
+                "localname": "GAID",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927747",
+                "children": [
+                  {
+                    "id": "3e199892-fcbe-4ebe-954f-513b06943a90",
+                    "boundaryNum": 1,
+                    "name": "GWAR MALLA - GAID",
+                    "localname": "GWAR MALLA - GAID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "912f0b43-4b5d-440f-8232-0b10bf17a78f",
+                    "boundaryNum": 1,
+                    "name": "PATORI - GAID",
+                    "localname": "PATORI - GAID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7d0f78f7-539d-436f-9c13-1014716c471d",
+                    "boundaryNum": 1,
+                    "name": "GAIR - GAID",
+                    "localname": "GAIR - GAID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "309a1e29-e425-4e00-ae35-a670c2a3c12d",
+                    "boundaryNum": 1,
+                    "name": "SUNAR GANW - GAID",
+                    "localname": "SUNAR GANW - GAID",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e53eba73-c5ec-4fb2-9e95-4ce5d3b8629a",
+                "boundaryNum": 1,
+                "name": "GAIRSAIN EAST",
+                "localname": "GAIRSAIN EAST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927748",
+                "children": [
+                  {
+                    "id": "3b0fc2eb-0772-4007-a4b2-ee77dc855542",
+                    "boundaryNum": 1,
+                    "name": "DHARGAIR - GAIRSAIN EAST",
+                    "localname": "DHARGAIR - GAIRSAIN EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c417fe09-15c9-4f75-87aa-209b6a2a8fff",
+                    "boundaryNum": 1,
+                    "name": "PANT NAGARI - GAIRSAIN EAST",
+                    "localname": "PANT NAGARI - GAIRSAIN EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "53993fa2-2d0e-43d5-a2c2-bd495cdbb383",
+                    "boundaryNum": 1,
+                    "name": "SAINIK COLONY - GAIRSAIN EAST",
+                    "localname": "SAINIK COLONY - GAIRSAIN EAST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1625540e-9c5a-46f6-a633-7088fd58cc79",
+                "boundaryNum": 1,
+                "name": "GAIRSAIN WEST",
+                "localname": "GAIRSAIN WEST",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927749",
+                "children": [
+                  {
+                    "id": "44e9e611-b061-4641-b736-024d5e8fd91b",
+                    "boundaryNum": 1,
+                    "name": "TEHSIL - GAIRSAIN WEST",
+                    "localname": "TEHSIL - GAIRSAIN WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9944a7ea-96d1-4366-be57-db25d0007b59",
+                    "boundaryNum": 1,
+                    "name": "LANKA DHAR - GAIRSAIN WEST",
+                    "localname": "LANKA DHAR - GAIRSAIN WEST",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6cf6278b-16c3-44bd-94a6-a0908bd0cd06",
+                "boundaryNum": 1,
+                "name": "KOLIYANA WALD NO-05",
+                "localname": "KOLIYANA WALD NO-05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927750",
+                "children": [
+                  {
+                    "id": "fa319db5-da1c-43f6-af92-6d595388172b",
+                    "boundaryNum": 1,
+                    "name": "KOLIYANA - KOLIYANA WALD NO-05",
+                    "localname": "KOLIYANA - KOLIYANA WALD NO-05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e6302487-183e-4093-9f05-db83554e8e96",
+                    "boundaryNum": 1,
+                    "name": "RIKHOLI - KOLIYANA WALD NO-05",
+                    "localname": "RIKHOLI - KOLIYANA WALD NO-05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4b691e26-b5ea-4b44-afa5-e8cecb7ca53b",
+                "boundaryNum": 1,
+                "name": "GANWALI WALD NO-06",
+                "localname": "GANWALI WALD NO-06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927751",
+                "children": [
+                  {
+                    "id": "957daaae-2018-4653-82fa-c0d0786dd619",
+                    "boundaryNum": 1,
+                    "name": "GANWALI - GANWALI WALD NO-06",
+                    "localname": "GANWALI - GANWALI WALD NO-06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a13b7087-089a-4004-86fc-16407a4f39ba",
+                    "boundaryNum": 1,
+                    "name": "SONIYANA - GANWALI WALD NO-06",
+                    "localname": "SONIYANA - GANWALI WALD NO-06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "39f9fa8d-8572-440f-ac65-d0145886c0ef",
+                    "boundaryNum": 1,
+                    "name": "KHATRIYANA - GANWALI WALD NO-06",
+                    "localname": "KHATRIYANA - GANWALI WALD NO-06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9845ae5c-5561-4e99-bf01-9cf6874784ea",
+                    "boundaryNum": 1,
+                    "name": "DUNARGHAT - GANWALI WALD NO-06",
+                    "localname": "DUNARGHAT - GANWALI WALD NO-06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "14c4837e-9802-456f-aab7-2fabda76e5ca",
+                    "boundaryNum": 1,
+                    "name": "GADOLI - GANWALI WALD NO-06",
+                    "localname": "GADOLI - GANWALI WALD NO-06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fc4a21c-a0bd-4ce3-93bf-a862031edf3c",
+                "boundaryNum": 1,
+                "name": "SAINJI WALD NO-07",
+                "localname": "SAINJI WALD NO-07",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W927752",
+                "children": [
+                  {
+                    "id": "0c1e5beb-003f-4224-a287-473f40bc67af",
+                    "boundaryNum": 1,
+                    "name": "SAINJI - SAINJI WALD NO-07",
+                    "localname": "SAINJI - SAINJI WALD NO-07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "60cce821-fd3e-4769-93f6-a051e5525e82",
+                    "boundaryNum": 1,
+                    "name": "BHATIDHAR - SAINJI WALD NO-07",
+                    "localname": "BHATIDHAR - SAINJI WALD NO-07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49e86fb6-b7dc-4ee9-bc18-0f3667338be5",
+                    "boundaryNum": 1,
+                    "name": "SILANGI - SAINJI WALD NO-07",
+                    "localname": "SILANGI - SAINJI WALD NO-07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aa7e53d7-e505-4212-8f3a-f2b9cae972c0",
+                    "boundaryNum": 1,
+                    "name": "DALIMDALI - SAINJI WALD NO-07",
+                    "localname": "DALIMDALI - SAINJI WALD NO-07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
