@@ -3,7 +3,7 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.MEDICAL.NH20B",
+      "code": "TRADE.MEDICAL.KANH20B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -27,7 +27,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.MH20B",
+      "code": "TRADE.MEDICAL.KAMH20B",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -51,7 +51,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.PC",
+      "code": "TRADE.MEDICAL.KAPC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -63,7 +63,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.XRYC",
+      "code": "TRADE.MEDICAL.KAXRYC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -75,7 +75,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.DNTC",
+      "code": "TRADE.MEDICAL.KADNTC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -87,7 +87,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.PVTC",
+      "code": "TRADE.MEDICAL.KAPVTC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -99,7 +99,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.MEDICAL.PVTH",
+      "code": "TRADE.MEDICAL.KAPVTH",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -123,7 +123,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.HOTELS.3STR",
+      "code": "TRADE.HOTELS.KA3STR",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -135,7 +135,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.HOTELS.5STR",
+      "code": "TRADE.HOTELS.KA5STR",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -147,7 +147,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.GOODS.WODT",
+      "code": "TRADE.SHOP.WODT",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -171,7 +171,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU2S",
+      "code": "TRADE.TRANSPORT.KAAU2S",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -183,7 +183,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU4S",
+      "code": "TRADE.TRANSPORT.KAAU4S",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -195,7 +195,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.AU7S",
+      "code": "TRADE.TRANSPORT.KAAU7S",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -207,7 +207,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.TBHW",
+      "code": "TRADE.TRANSPORT.KATBHW",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -219,7 +219,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.TRANSPORT.OTH",
+      "code": "TRADE.TRANSPORT.KAOTH",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -291,7 +291,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.FM",
+      "code": "TRADE.INDUSTRY.KAFM",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -315,7 +315,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.BS",
+      "code": "TRADE.INDUSTRY.KABS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -447,7 +447,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.WORKSHOP.FAB",
+      "code": "TRADE.WORKSHOP.KAFAB",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -471,7 +471,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.BANK.FINC",
+      "code": "TRADE.BANK.KAFINC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -483,7 +483,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.BANK.INSC",
+      "code": "TRADE.BANK.KAINSC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -507,7 +507,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIVESTOCK.BS",
+      "code": "TRADE.LIVESTOCK.KABS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -519,7 +519,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIVESTOCK.CS",
+      "code": "TRADE.LIVESTOCK.KACS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -591,7 +591,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.TEAS",
+      "code": "TRADE.STREETVENDOR.KATEAS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -627,7 +627,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.STREETVENDOR.TSIF",
+      "code": "TRADE.STREETVENDOR.KATSIF",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -723,7 +723,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.COAL",
+      "code": "TRADE.SHOP.KACOAL",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -735,7 +735,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.DRYC",
+      "code": "TRADE.SHOP.KADRYC",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
@@ -772,6 +772,30 @@
     },
     {
       "code": "TRADE.SHOP.FVS",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "PANCARD-REGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.KAHL50B",
+      "uom": null,
+      "applicationDocument": [
+        "IDPROOF",
+        "PANCARD-REGISTRATION",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.OPOS",
       "uom": null,
       "applicationDocument": [
         "IDPROOF",
