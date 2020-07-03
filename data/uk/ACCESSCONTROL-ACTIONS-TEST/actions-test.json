@@ -6239,17 +6239,6 @@
       "path": "Miscellaneous Collection.Reports.Misc Business Service Collections"
     },
     {
-      "id": 1892,
-      "name": "UC Report",
-      "url": "/report/rainmaker-uc/_get",
-      "displayName": "Universal Collection Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "REPORTS",
-      "code": "null",
-      "path": "UC Report"
-    },
-    {
       "id": 1870,
       "name": "UCReportMetadata",
       "url": "/report/rainmaker-uc/metadata/_get",
@@ -6258,9 +6247,7 @@
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc",
-      "path": "Miscellaneous Collection.Reports.Universal Collection Report"
+      "path": "UC Collection Metadata "
     },
     {
       "id": 1871,
