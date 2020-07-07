@@ -5998,12 +5998,6 @@
     },
     {
        "rolecode": "UC_EMP",
-       "actionid": 1878,
-       "actioncode": "",
-       "tenantId": "uk"
-    },
-    {
-       "rolecode": "UC_EMP",
        "actionid": 1879,
        "actioncode": "",
        "tenantId": "uk"
@@ -6011,12 +6005,6 @@
     {
        "rolecode": "UC_EMP",
        "actionid": 1880,
-       "actioncode": "",
-       "tenantId": "uk"
-    },
-    {
-       "rolecode": "UC_EMP",
-       "actionid": 1881,
        "actioncode": "",
        "tenantId": "uk"
     },
@@ -6158,15 +6146,9 @@
        "actioncode": "",
        "tenantId": "uk"
     },
-{
-       "rolecode": "TL_CEMP",
-       "actionid": 1877,
-       "actioncode": "",
-       "tenantId": "uk"
-    },
     {
        "rolecode": "TL_CEMP",
-       "actionid": 1878,
+       "actionid": 1877,
        "actioncode": "",
        "tenantId": "uk"
     },
@@ -6179,12 +6161,6 @@
     {
        "rolecode": "TL_CEMP",
        "actionid": 1880,
-       "actioncode": "",
-       "tenantId": "uk"
-    },
-    {
-       "rolecode": "TL_CEMP",
-       "actionid": 1881,
        "actioncode": "",
        "tenantId": "uk"
     },
@@ -6239,6 +6215,18 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1887,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1878,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1881,
       "actioncode": "",
       "tenantId": "uk"
     }
