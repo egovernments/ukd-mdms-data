@@ -541,6 +541,13 @@
         "$.code"
       ]
     },
+    "UsageCategory": {
+      "masterName": "UsageCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
@@ -649,6 +656,27 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
+      ]
+    },
+    "RelationType": {
+      "masterName": "RelationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
       ]
     }
   },
