@@ -6494,6 +6494,110 @@
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1889,
+      "name": "Create Property registry",
+      "url": "/property-services/property/_create",
+      "displayName": "Create Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1890,
+      "name": "UpdateCreate Property registry",
+      "url": "/property-services/property/_update",
+      "displayName": "Update Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1891,
+      "name": "Search Property registry",
+      "url": "/property-services/property/_search",
+      "displayName": "Search Property Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1892,
+      "name": "Cancel Property registry",
+      "url": "/property-services/property/_cancel",
+      "displayName": "Cancel Property Registry",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1893,
+      "name": "Create Assessment registry",
+      "url": "/property-services/assessment/_create",
+      "displayName": "Create Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1894,
+      "name": "Update Assessment registry",
+      "url": "/property-services/assessment/_update",
+      "displayName": "Update Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1895,
+      "name": "Search Assessment registry",
+      "url": "/property-services/assessment/_search",
+      "displayName": "Search Assessment Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },{
+      "id": 1896,
+      "name": "Migrate Property v1 to v2",
+      "url": "/property-services/property/_migration",
+      "displayName": "Migrate Property v1 to v2",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1897,
+      "name": "Mutation Property Search",
+      "url": "url",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "pt-mutation/propertySearch",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
