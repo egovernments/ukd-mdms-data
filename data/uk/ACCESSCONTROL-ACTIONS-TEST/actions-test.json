@@ -6478,6 +6478,22 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1888,
+      "name": "rainmaker-common-propertytax",
+      "url": "card",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "pt-mutation/propertySearch",
+      "leftIcon": "action:store",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
