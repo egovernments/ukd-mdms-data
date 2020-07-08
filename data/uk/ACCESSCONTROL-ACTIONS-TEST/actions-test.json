@@ -6267,12 +6267,12 @@
       "url": "/report/rainmaker-uc/MiscReceiptStateWide/metadata/_get",
       "displayName": "Miscellaneous Collections",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
-      "path": "Reports.Miscellaneous Collection category wise"
+      "path": "Miscellaneous Collection.Reports.Miscellaneous Collection category wise"
     },
     {
       "id": 1879,
@@ -6307,7 +6307,7 @@
       "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
-      "path": "Reports.Miscellaneous Collection category wise"
+      "path": "Miscellaneous Collection.Reports.Miscellaneous Collection category wise"
     },
     {
       "id": 1882,
