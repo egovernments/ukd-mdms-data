@@ -4,152 +4,195 @@
   "UsageCategory": [
     {
       "name": "Residential",
-      "code": "RESIDENTIAL.RESIDENTIAL.RESIDENTIAL.CATDET01",
-      "active": "true",
+      "code": "RESIDENTIAL",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
+      "name": "Non-Residential",
+      "code": "NONRESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+
+    {
       "name": "Hotel Paying Guest House up to 10 rooms (without air-conditioned)",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET02",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR02",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Hotel more than 10 rooms (non air-conditioned)",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET03",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR03",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "All Hotel / Paying guest house (air conditioned) up to 3 star facility",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET04",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR04",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Hotel 4 Star and Above, Bars, Pubs, Restaurants Maybar and Club Maybar",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET05",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR05",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Charitable Dharamshala / Ashram / Hotel where room rent rate is Rs. 200 per day or more or who are using electricity at commercial rates.",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET06",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR06",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Malls",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET07",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR07",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Shops / dhabas / stalls up to 100 sqft",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET08",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR08",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Shops / dhabas / stalls 100 sq ft to 200 sq ft",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET09",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR09",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Shops / dhabas / stalls from 200 sq ft to 500",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET10",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR10",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Shops / dhabas / stalls over 500 sqft",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET11",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR11",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Clinic (used for medical consultation only)",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET12",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR12",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Hospitals / Nursing Homes, Polyclinics, Diagnostic Center Medical Stores, Paryogashalaye, Sawastha, Attendant Center etc.",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.INSTITUTIONAL.CATDET13",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR13",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Sports Center, Gym, Body Health Center, Fitness Center, Manoranjan Center, Theater and Cinema Hall",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.INSTITUTIONAL.CATDET14",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR14",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Buildings of schools, colleges and education centers with no hostel facilities (except state owned)",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.INSTITUTIONAL.CATDET15",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR15",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Buildings of hostel facility schools, colleges and education centers (except state owned)",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.INSTITUTIONAL.CATDET16",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR16",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Petrol Pump, Gas Agency, Depot",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET17",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR17",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Community Building, Wedding House, Wedding Point, Kalyan Mandap, Ware House, Warehouse, Club etc.",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET18",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR18",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Full service essential stalls related to business (find, vegetable-fruit, hairdresser, cobbler, cycle-rickshaw / two wheeler mechanic)",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET19",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR19",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "All types of commercial Bhavana showrooms, Bank office coaching & training institutes, ATMs",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET20",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR20",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Mobile towers in the building, all layers and undertakings of the state government, central government, which are engaged in commercial, business and financial activities",
-      "code": "NONRESIDENTIAL.COMMERCIAL.COMMERCIAL.CATDET21",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR21",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Industrial units small",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.INDUSTRIAL.CATDET22",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR22",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Industrial units medium",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.INDUSTRIAL.CATDET23",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR23",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "Industrial units broad",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.INDUSTRIAL.CATDET24",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR24",
+      "active": true,
       "fromFY": "2014-15"
     },
     {
       "name": "All types of non-residential buildings which do not fall under the above categories",
-      "code": "NONRESIDENTIAL.OTHERS.OTHERS.CATDET25",
-      "active": "true",
+      "code": "NONRESIDENTIAL.SUBMNR25",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Rooms",
+      "code": "RESIDENTIAL.SUBMNR26",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Balcony, Corridor, Kitchen, and Store Room",
+      "code": "RESIDENTIAL.SUBMNR27",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Garage",
+      "code": "RESIDENTIAL.SUBMNR28",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Bathroom and Staircase",
+      "code": "RESIDENTIAL.SUBMNR29",
+      "active": true,
+      "fromFY": "2014-15"
+    },
+    {
+      "name": "Complete Floor/ Portion of building",
+      "code": "RESIDENTIAL.SUBMNR30",
+      "active": true,
       "fromFY": "2014-15"
     }
   ]
