@@ -126,6 +126,66 @@
       "name": "Rural Local Government",
       "code": "INSTITUTIONALGOVERNMENT.LOCALGOVRURAL",
       "active": true
+    },
+    {
+      "name": "Proprietorship",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONAL.PROPRIETORSHIP",
+      "active": true
+    },
+    {
+      "name": "One Person Company",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
+      "active": true
+    },
+    {
+      "name": "Partnership Firm",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
+      "active": true
+    },
+    {
+      "name": "Limited Liability Partnership",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.LLPARTNERSHIP",
+      "active": true
+    },
+    {
+      "name": "Private Limited Company",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.PVTLTDCOMPANY",
+      "active": true
+    },
+    {
+      "name": "Public Limited Company",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.PUBLTDCOMPANY",
+      "active": true
+    },
+    {
+      "name": "Section 8 Company",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALCOMPANY.SEC8COMPANY",
+      "active": true
+    },
+    {
+      "name": "Housing Society",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALSOCIETY.HOUSINGCOOPERATIVESOCIETY",
+      "active": true
+    },
+    {
+      "name": "Self Help Group",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALSOCIETY.SELFHELPGROUP",
+      "active": true
+    },
+    {
+      "name": "Private Trust",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALTRUST.PRIVATETRUST",
+      "active": true
+    },
+    {
+      "name": "Public Trust",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALTRUST.PUBLICTRUST",
+      "active": true
+    },
+    {
+      "name": "Religious Trust",
+      "code": "INSTITUTIONALPRIVATE.INSTITUTIONALTRUST.RELIGIOUSTRUST",
+      "active": true
     }
   ]
 }
