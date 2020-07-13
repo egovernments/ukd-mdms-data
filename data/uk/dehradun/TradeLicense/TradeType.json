@@ -3,31 +3,7 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.PETROLEUM.PDB",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "ALMOP",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.SHOP.COAL",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "CTRECEIPT",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.BNQH",
+      "code": "TRADE.HOTEL.BH",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
@@ -39,7 +15,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.FM",
+      "code": "TRADE.INDUSTRY.BHS",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
@@ -51,11 +27,95 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.INDUSTRY.BS",
+      "code": "TRADE.INDUSTRY.MILL",
       "uom": null,
       "applicationDocument": [
         "AADPANCARD",
         "GSTCTR",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.KSA",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.PGAG",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "ALMOP",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.PETROLEUM.PUMP",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "ALMOP",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.RETAIL.CD",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "CTRECEIPT",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.RETAIL.HW",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.RETAIL.LA",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANCARD",
+        "PLETTER",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.HW",
+      "uom": null,
+      "applicationDocument": [
+        "AADPANVENCARD",
+        "POLICE",
         "OWNERPHOTO"
       ],
       "verificationDocument": [],
@@ -68,54 +128,6 @@
       "applicationDocument": [
         "AADPANCARD",
         "POLICE",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.HWK",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANVENCARD",
-        "POLICE",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.SHOP.LOUD",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "PLETTER",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.SHOP.HWK",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANVENCARD",
-        "POLICE",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.PETROLEUM.KSAR",
-      "uom": null,
-      "applicationDocument": [
-        "AADPANCARD",
-        "CTRECEIPT",
         "OWNERPHOTO"
       ],
       "verificationDocument": [],
