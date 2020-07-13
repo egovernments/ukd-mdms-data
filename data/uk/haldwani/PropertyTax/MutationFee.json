@@ -1,0 +1,18 @@
+{
+  "tenantId": "uk.haldwani",
+  "moduleName": "PropertyTax",
+  "MutationFee": [
+    {
+      "RESIDENTIAL": 150,
+      "NONRESIDENTIAL": 160,
+      "MIXED": 200,
+      "forFy": "2019-20"
+    },
+    {
+      "RESIDENTIAL": 160,
+      "NONRESIDENTIAL": 170,
+      "MIXED": 210,
+      "forFy": "2020-21"
+    }
+  ]
+}
