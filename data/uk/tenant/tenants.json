@@ -2,7 +2,6 @@
   "tenantId": "uk",
   "moduleName": "tenant",
   "tenants": [
-   //NEW CHANGE
     {
       "code": "uk.Demo1",
       "name": "Demo1",
@@ -35,9 +34,6 @@
       "address": "Demo1-Testing Address",
       "contactNumber": "+91 (135) 2653572"
     },
-    
-    //END CHANGE
-    
     {
       "code": "uk.dehradun",
       "name": "Dehradun",
