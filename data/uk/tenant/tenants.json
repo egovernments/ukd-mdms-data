@@ -3,6 +3,38 @@
   "moduleName": "tenant",
   "tenants": [
     {
+      "code": "uk.demo1",
+      "name": "Demo1",
+      "description": "Demo1",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-egov-assets/uk.dehradun/logo.png",
+      "imageId": null,
+      "domainUrl": "http://nagarnigamdehradun.com/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/DdnNagarnigam",
+      "facebookUrl": "https://www.facebook.com/municipalcommissionerdehradun/",
+      "emailId": "nagar_nigam2008@yahoo.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Demo1",
+        "localName": "Demo1",
+        "districtCode": "49",
+        "districtName": "Demo1",
+        "regionName": "Gharwal",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 78.0322,
+        "latitude": 30.3165,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248430",
+        "regionCode": "1",
+        "municipalityName": "Demo1 Municipal Corporation"
+      },
+      "address": "Demo1-Testing Address",
+      "contactNumber": "+91 (135) 2653572"
+    },
+    {
       "code": "uk.dehradun",
       "name": "Dehradun",
       "description": "Dehradun",
