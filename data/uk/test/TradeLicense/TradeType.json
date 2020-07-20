@@ -7,23 +7,23 @@
       "uom": null,
       "applicationDocument": [
         {
-         "applicationType":"NEW",
-         "documentList":[
-         "AC044",
-         "AC031",
-         "OWNERPHOTO"
-      ]
-      },
-      {
-        "applicationType":"RENEWAL",
-        "documentsList":[
-          "AC044",
-         "AC031",
-         "OWNERPHOTO"
+          "applicationType": "NEW",
+          "documentList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO"
           ]
-         }
-        ],
-        
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentsList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
@@ -32,9 +32,23 @@
       "code": "TRADE.BANK.KAINSC",
       "uom": null,
       "applicationDocument": [
-        "AC044",
-        "AC031",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentsList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -44,9 +58,23 @@
       "code": "TRADE.FIRM.ADVA",
       "uom": null,
       "applicationDocument": [
-        "AC044",
-        "AC031",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentsList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -56,14 +84,27 @@
       "code": "TRADE.BANK.OTH",
       "uom": null,
       "applicationDocument": [
-        "AC044",
-        "AC031",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentsList": [
+            "AC044",
+            "AC031",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
       "type": "TL"
     }
-   ]
- }  
-   
+  ]
+}
