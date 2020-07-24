@@ -11,7 +11,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": true,
+      "hasOnlinePayment": true
     },
     {
       "businessService": "WaterCharges",
@@ -33,7 +34,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": true,
+      "hasOnlinePayment": true
     },
     {
       "businessService": "RoadCutting",
