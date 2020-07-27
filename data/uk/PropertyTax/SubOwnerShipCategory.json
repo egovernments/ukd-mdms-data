@@ -5,109 +5,109 @@
     {
       "name": "Single Owner",
       "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owner",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Proprietorship",
       "code": "INSTITUTIONAL.PROPRIETORSHIP",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "One Person Company",
       "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Partnership Firm",
       "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Limited Liability Partnership",
       "code": "INSTITUTIONALCOMPANY.LLPARTNERSHIP",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Limited Company",
       "code": "INSTITUTIONALCOMPANY.PVTLTDCOMPANY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Public Limited Company",
       "code": "INSTITUTIONALCOMPANY.PUBLTDCOMPANY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Section 8 Company",
       "code": "INSTITUTIONALCOMPANY.SEC8COMPANY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Housing Society",
       "code": "INSTITUTIONALSOCIETY.HOUSINGCOOPERATIVESOCIETY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Self Help Group",
       "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Trust",
       "code": "INSTITUTIONALTRUST.PRIVATETRUST",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Public Trust",
       "code": "INSTITUTIONALTRUST.PUBLICTRUST",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Religious Trust",
       "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVUNDERTAKING",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Central Government",
       "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVUNDERTAKING",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Urban Local Government",
       "code": "INSTITUTIONALGOVERNMENT.LOCALGOVUNDERTAKING",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Rural Local Government",
       "code": "INSTITUTIONALGOVERNMENT.LOCALGOVRURAL",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     }
   ]
