@@ -6598,6 +6598,18 @@
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1898,
+      "name": "Mutation Calculation",
+      "url": "/pt-calculator-v2/propertytax/mutation/_calculate",
+      "displayName": "Mutation Calculation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
