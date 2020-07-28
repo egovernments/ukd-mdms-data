@@ -1,7 +1,8 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "OwnerShipCategory": [
+  "OwnerShipCategory":
+  [
     {
       "name": "Individual(s)",
       "code": "INDIVIDUAL",
@@ -35,96 +36,6 @@
     {
       "name": "Institutional - Government",
       "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
-    },
-    {
-      "name": "Single Owner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
-    },
-    {
-      "name": "Multiple Owner",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
-    },
-    {
-      "name": "Proprietorship",
-      "code": "INSTITUTIONAL.PROPRIETORSHIP",
-      "active": true
-    },
-    {
-      "name": "One Person Company",
-      "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
-      "active": true
-    },
-    {
-      "name": "Partnership Firm",
-      "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
-      "active": true
-    },
-    {
-      "name": "Limited Liability Partnership",
-      "code": "INSTITUTIONALCOMPANY.LLPARTNERSHIP",
-      "active": true
-    },
-    {
-      "name": "Private Limited Company",
-      "code": "INSTITUTIONALCOMPANY.PVTLTDCOMPANY",
-      "active": true
-    },
-    {
-      "name": "Public Limited Company",
-      "code": "INSTITUTIONALCOMPANY.PUBLTDCOMPANY",
-      "active": true
-    },
-    {
-      "name": "Section 8 Company",
-      "code": "INSTITUTIONALCOMPANY.SEC8COMPANY",
-      "active": true
-    },
-    {
-      "name": "Housing Society",
-      "code": "INSTITUTIONALSOCIETY.HOUSINGCOOPERATIVESOCIETY",
-      "active": true
-    },
-    {
-      "name": "Self Help Group",
-      "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
-      "active": true
-    },
-    {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALTRUST.PRIVATETRUST",
-      "active": true
-    },
-    {
-      "name": "Public Trust",
-      "code": "INSTITUTIONALTRUST.PUBLICTRUST",
-      "active": true
-    },
-    {
-      "name": "Religious Trust",
-      "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
-      "active": true
-    },
-    {
-      "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVUNDERTAKING",
-      "active": true
-    },
-    {
-      "name": "Central Government",
-      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVUNDERTAKING",
-      "active": true
-    },
-    {
-      "name": "Urban Local Government",
-      "code": "INSTITUTIONALGOVERNMENT.LOCALGOVUNDERTAKING",
-      "active": true
-    },
-    {
-      "name": "Rural Local Government",
-      "code": "INSTITUTIONALGOVERNMENT.LOCALGOVRURAL",
       "active": true
     }
   ]
