@@ -313,6 +313,18 @@
     "verificationDocument": [],
     "active": true,
     "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAFINC",
+    "uom": null,
+    "applicationDocument": [
+      "AADPANCARD",
+      "AC044",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
   }
 ]
 }
