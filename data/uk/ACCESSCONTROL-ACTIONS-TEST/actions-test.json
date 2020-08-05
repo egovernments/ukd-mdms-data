@@ -6568,6 +6568,30 @@
       "navigationURL": "report/rainmaker-pt/PTCollectionCount",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1897,
+      "name": "User Event Search",
+      "url": "/egov-user-event/v1/events/_search",
+      "displayName": "User Event Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-user-event",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1898,
+      "name": "User Event Notifications",
+      "url": "/egov-user-event/v1/events/notifications/_count",
+      "displayName": "User Event Notifications",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-user-event",
+      "code": "null",
+      "path": ""
     }
   ]
 }
