@@ -6610,6 +6610,18 @@
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 1899,
+      "name": "propertytax Estimate",
+      "url": "/pt-calculator-v2/propertytax/v2/_estimate",
+      "displayName": "PropertyTaxEstimates",
+      "orderNumber": 0,
+      "parentModule": null,
+      "enabled": true,
+      "serviceCode": "PropertytaxCalculatorV2",
+      "code": "null",
+      "path": "null"
     }
   ]
 }
