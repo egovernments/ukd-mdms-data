@@ -6592,6 +6592,30 @@
       "serviceCode": "egov-user-event",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1899,
+      "name": "MiscCollectionState",
+      "url": "/report/rainmaker-uc/MiscCollectionState/metadata/_get",
+      "displayName": "Miscellaneous Collection State",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscCollectionState",
+      "path": "Miscellaneous Collection.Reports.Miscellaneous Collection State"
+    },
+    {
+      "id": 1900,
+      "name": "MiscCollectionState",
+      "url": "/report/rainmaker-uc/MiscCollectionState/_get",
+      "displayName": "Miscellaneous Collection State",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": "Reports.Miscellaneous Collection State"
     }
   ]
 }
