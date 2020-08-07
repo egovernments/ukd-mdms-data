@@ -6280,12 +6280,12 @@
       "url": "/report/rainmaker-uc/MiscReceiptState/metadata/_get",
       "displayName": "Misc Receipt Register State",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptState",
-      "path": "State Reports.UC.Misc Receipts State"
+      "path": "Miscellaneous Collection.Reports.Misc Receipts State"
     },
     {
       "id": 1880,
@@ -6518,6 +6518,17 @@
          "navigationURL":"report/rainmaker-pt/PTCollectionCount",
          "leftIcon":"action:assignment",
          "rightIcon":""
-      }
+      },
+     {
+         "id": 1897,
+         "name": "MiscReceiptState",
+         "url": "/report/rainmaker-uc/MiscReceiptState/_get",
+         "displayName": "Misc Receipt Register State",
+         "orderNumber": 3,
+         "enabled": false,
+         "serviceCode": "MiscReceipt",
+         "code": "null",
+         "path": "Reports.Miscellaneous Collection State"
+    }
   ]
 }
