@@ -6399,12 +6399,12 @@
       "url": "/report/rainmaker-uc/MiscReceiptState/metadata/_get",
       "displayName": "Misc Receipt Register State",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptState",
-      "path": "State Reports.UC.Misc Receipts State"
+      "path": "Miscellaneous Collection.Reports.Misc Receipts State"
     },
     {
       "id": 1880,
@@ -6599,7 +6599,7 @@
       "url": "/report/rainmaker-uc/MiscCollectionState/metadata/_get",
       "displayName": "Miscellaneous Collection State",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -6611,6 +6611,17 @@
       "name": "MiscCollectionState",
       "url": "/report/rainmaker-uc/MiscCollectionState/_get",
       "displayName": "Miscellaneous Collection State",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": "Reports.Miscellaneous Collection State"
+    },
+    {
+      "id": 1901,
+      "name": "MiscReceiptState",
+      "url": "/report/rainmaker-uc/MiscReceiptState/_get",
+      "displayName": "Misc Receipt Register State",
       "orderNumber": 3,
       "enabled": false,
       "serviceCode": "MiscReceipt",
