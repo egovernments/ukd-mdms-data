@@ -6,7 +6,10 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD",
+        "CREDIT",
+        "DEBIT",
+        "CARD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
