@@ -7,9 +7,23 @@
     "code": "TRADE.FIRM.BUILD",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -19,9 +33,23 @@
     "code": "TRADE.FIRM.TR86",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -31,9 +59,23 @@
     "code": "TRADE.GOODS.OTHFW",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -43,9 +85,23 @@
     "code": "TRADE.HOTELS.HL10B",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -55,9 +111,23 @@
     "code": "TRADE.INDUSTRY.KM",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -67,9 +137,23 @@
     "code": "TRADE.LIQUOR.CLS",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -79,9 +163,23 @@
     "code": "TRADE.MEDICAL.DNTC",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -91,9 +189,23 @@
     "code": "TRADE.MEDICAL.MH20B",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -103,9 +215,23 @@
     "code": "TRADE.MEDICAL.MH30B",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -115,9 +241,23 @@
     "code": "TRADE.MEDICAL.PC",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -127,9 +267,23 @@
     "code": "TRADE.MEDICAL.PVTC",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -139,9 +293,23 @@
     "code": "TRADE.MEDICAL.RIPVTH",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -151,9 +319,23 @@
     "code": "TRADE.MEDICAL.XRYC",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -163,9 +345,23 @@
     "code": "TRADE.TRANSPORT.BUS",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -175,9 +371,23 @@
     "code": "TRADE.TRANSPORT.TR91",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -187,9 +397,23 @@
     "code": "TRADE.TRANSPORT.MBUS",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -199,9 +423,23 @@
     "code": "TRADE.PETROLEUM.OPOS",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -211,9 +449,23 @@
     "code": "TRADE.PETROLEUM.PDR",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -223,9 +475,23 @@
     "code": "TRADE.REST.CATE",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -235,9 +501,23 @@
     "code": "TRADE.REST.DHAB",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -247,9 +527,23 @@
     "code": "TRADE.SHOP.TR74",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -259,9 +553,23 @@
     "code": "TRADE.SHOP.GMS",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -271,9 +579,23 @@
     "code": "TRADE.SHOP.HCB",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -283,9 +605,23 @@
     "code": "TRADE.SHOP.TR61",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -295,9 +631,23 @@
     "code": "TRADE.SHOP.TR79",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -307,9 +657,23 @@
     "code": "TRADE.SHOP.TR46",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC056",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC056",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,

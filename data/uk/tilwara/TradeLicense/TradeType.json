@@ -3,348 +3,26 @@
   "moduleName": "TradeLicense",
   "TradeType": [
   {
-    "code": "TRADE.SHOP.BANG",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TH3A",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR74",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR43",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.ELEI",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.WCRS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.TR18",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC023",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.HARPVTC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.HEALTH.COMPC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.HOTELS.HL10B",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC074",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.TR69",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC028",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.PS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.JE3A",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
     "code": "TRADE.SHOP.KADRYC",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC028",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.TARW",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.HARPC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC023",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.KAXRYC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC023",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.MEDICAL.KADNTC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC023",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.HOTELS.HLGHR",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC074",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.REST.RESTS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.PETROLEUM.RIKSAR",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.KAFM",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC075",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.TR37",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.MTRG",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.INDUSTRY.SCTRG",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.BANK.KAFINC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.BANK.KAINSC",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.FIRM.TR58",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.LIVESTOCK.MCS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC015",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -354,69 +32,23 @@
     "code": "TRADE.LIVESTOCK.GMD",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC015",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.PAAN",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC028",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.STREETVENDOR.RDRTEAS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC028",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.LIQUOR.FLS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC024",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.GMS",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC045",
-      "OWNERPHOTO"
-    ],
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL"
-  },
-  {
-    "code": "TRADE.SHOP.SWEET",
-    "uom": null,
-    "applicationDocument": [
-      "AADPANCARD",
-      "AC015",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -426,33 +58,179 @@
     "code": "TRADE.SHOP.TR65",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC028",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
     "type": "TL"
   },
   {
-    "code": "TRADE.SHOP.BPS",
+    "code": "TRADE.PETROLEUM.RIKSAR",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
     "type": "TL"
   },
   {
-    "code": "TRADE.SHOP.WODT",
+    "code": "TRADE.INDUSTRY.KAFM",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC075",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC075",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.FIRM.TR58",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BANG",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TH3A",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR74",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -462,9 +240,205 @@
     "code": "TRADE.SHOP.TR79",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.HARPVTC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HEALTH.COMPC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HL10B",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC074",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC074",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.PAAN",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.RDRTEAS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BPS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WODT",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -474,9 +448,595 @@
     "code": "TRADE.FIRM.BUILD",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC032",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.TARW",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR43",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.ELEI",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.WCRS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIQUOR.FLS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC024",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC024",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.TR18",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.STREETVENDOR.TR37",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.MTRG",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.INDUSTRY.SCTRG",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAFINC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.BANK.KAINSC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.TR69",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC028",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.SWEET",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.LIVESTOCK.MCS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC015",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.PS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.GMS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.JE3A",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.HARPC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.KAXRYC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.MEDICAL.KADNTC",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC023",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.HOTELS.HLGHR",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC074",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC074",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.REST.RESTS",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC045",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
