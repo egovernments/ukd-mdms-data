@@ -6,9 +6,23 @@
       "code": "TRADE.MEDICAL.KANH20B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -18,9 +32,23 @@
       "code": "TRADE.MEDICAL.NH30B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -30,9 +58,23 @@
       "code": "TRADE.MEDICAL.KAMH20B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -42,9 +84,23 @@
       "code": "TRADE.MEDICAL.MH30B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -54,9 +110,23 @@
       "code": "TRADE.MEDICAL.KAPC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -66,9 +136,23 @@
       "code": "TRADE.MEDICAL.KAXRYC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -78,9 +162,23 @@
       "code": "TRADE.MEDICAL.KADNTC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -90,9 +188,23 @@
       "code": "TRADE.MEDICAL.KAPVTC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -102,9 +214,23 @@
       "code": "TRADE.MEDICAL.KAPVTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -114,9 +240,23 @@
       "code": "TRADE.HOTELS.HL10B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -126,9 +266,23 @@
       "code": "TRADE.HOTELS.KA3STR",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -138,9 +292,23 @@
       "code": "TRADE.HOTELS.KA5STR",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -150,9 +318,23 @@
       "code": "TRADE.SHOP.WODT",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -162,9 +344,23 @@
       "code": "TRADE.BANK.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -174,9 +370,23 @@
       "code": "TRADE.TRANSPORT.KAAU2S",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -186,9 +396,23 @@
       "code": "TRADE.TRANSPORT.KAAU4S",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -198,9 +422,23 @@
       "code": "TRADE.TRANSPORT.KAAU7S",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -210,9 +448,23 @@
       "code": "TRADE.TRANSPORT.KATBHW",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -222,9 +474,23 @@
       "code": "TRADE.TRANSPORT.KAOTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -234,9 +500,23 @@
       "code": "TRADE.REST.DHAB",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -246,9 +526,23 @@
       "code": "TRADE.REST.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -258,9 +552,23 @@
       "code": "TRADE.INDUSTRY.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -270,9 +578,23 @@
       "code": "TRADE.INDUSTRY.IF",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -282,9 +604,23 @@
       "code": "TRADE.INDUSTRY.CD",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -294,9 +630,23 @@
       "code": "TRADE.INDUSTRY.KAFM",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -306,9 +656,23 @@
       "code": "TRADE.INDUSTRY.GM",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -318,9 +682,23 @@
       "code": "TRADE.INDUSTRY.KABS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -330,9 +708,23 @@
       "code": "TRADE.INDUSTRY.KM",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -342,9 +734,23 @@
       "code": "TRADE.WORKSHOP.ELEW",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -354,9 +760,23 @@
       "code": "TRADE.WORKSHOP.KMDM",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -366,9 +786,23 @@
       "code": "TRADE.WORKSHOP.WELD",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -378,9 +812,23 @@
       "code": "TRADE.WORKSHOP.COMP",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -390,9 +838,23 @@
       "code": "TRADE.WORKSHOP.TRRE",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -402,9 +864,23 @@
       "code": "TRADE.WORKSHOP.DENT",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -414,9 +890,23 @@
       "code": "TRADE.WORKSHOP.OTHW",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -426,9 +916,23 @@
       "code": "TRADE.WORKSHOP.EX6V",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -438,9 +942,23 @@
       "code": "TRADE.WORKSHOP.EX9V",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -450,9 +968,23 @@
       "code": "TRADE.WORKSHOP.KAFAB",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -462,9 +994,23 @@
       "code": "TRADE.WORKSHOP.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -474,9 +1020,23 @@
       "code": "TRADE.BANK.KAFINC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -486,9 +1046,23 @@
       "code": "TRADE.BANK.KAINSC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -498,9 +1072,23 @@
       "code": "TRADE.LIVESTOCK.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -510,9 +1098,23 @@
       "code": "TRADE.LIVESTOCK.KABS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -522,9 +1124,23 @@
       "code": "TRADE.LIVESTOCK.KACS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -534,9 +1150,23 @@
       "code": "TRADE.LIVESTOCK.MCS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -546,9 +1176,23 @@
       "code": "TRADE.LIVESTOCK.FS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -558,9 +1202,23 @@
       "code": "TRADE.LIVESTOCK.PMS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -570,9 +1228,23 @@
       "code": "TRADE.LIVESTOCK.GMD",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -582,9 +1254,23 @@
       "code": "TRADE.FIRM.BUILD",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -594,9 +1280,23 @@
       "code": "TRADE.STREETVENDOR.KATEAS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -606,9 +1306,23 @@
       "code": "TRADE.STREETVENDOR.JUST",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -618,9 +1332,23 @@
       "code": "TRADE.STREETVENDOR.IRON",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -630,9 +1358,23 @@
       "code": "TRADE.STREETVENDOR.KATSIF",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -642,9 +1384,23 @@
       "code": "TRADE.STREETVENDOR.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -654,9 +1410,23 @@
       "code": "TRADE.LIQUOR.FLS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -666,9 +1436,23 @@
       "code": "TRADE.LIQUOR.CLS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -678,9 +1462,23 @@
       "code": "TRADE.LIQUOR.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -690,9 +1488,23 @@
       "code": "TRADE.SHOP.BAKE",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -702,9 +1514,23 @@
       "code": "TRADE.SHOP.CONF",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -714,9 +1540,23 @@
       "code": "TRADE.SHOP.SWSH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -726,9 +1566,23 @@
       "code": "TRADE.SHOP.KACOAL",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -738,9 +1592,23 @@
       "code": "TRADE.SHOP.KADRYC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -750,9 +1618,23 @@
       "code": "TRADE.SHOP.PRES",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -762,9 +1644,23 @@
       "code": "TRADE.SHOP.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -774,21 +1670,23 @@
       "code": "TRADE.SHOP.FVS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.HOTELS.KAHL50B",
-      "uom": null,
-      "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -798,9 +1696,49 @@
       "code": "TRADE.PETROLEUM.OPOS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "PANCARD-REGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.KAHL50B",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "PANCARD-REGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
