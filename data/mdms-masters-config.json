@@ -650,6 +650,27 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "RelationType": {
+      "masterName": "RelationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   },
   "egov-hrms": {
