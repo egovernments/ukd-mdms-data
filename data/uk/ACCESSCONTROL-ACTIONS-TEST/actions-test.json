@@ -6627,6 +6627,66 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": "Reports.Miscellaneous Collection State"
+    },
+    {
+      "id": 1902,
+      "name": "State Wise Adoption Report",
+      "url": "/report/rainmaker-pt/StateWiseAdoptionReport/metadata/_get",
+      "displayName": "State Wise Adoption Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise Adoption Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseAdoptionReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1903,
+      "name": "State Wise Adoption Report",
+      "url": "/report/rainmaker-pt/StateWiseAdoptionReport/_get",
+      "displayName": "State Wise Adoption Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise Adoption Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseAdoptionReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1904,
+      "name": "State Wise DCB Report",
+      "url": "/report/rainmaker-pt/StateWiseDCBReport/metadata/_get",
+      "displayName": "State Wise DCB Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise DCB Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1905,
+      "name": "State Wise DCB Report",
+      "url": "/report/rainmaker-pt/StateWiseDCBReport/_get",
+      "displayName": "State Wise DCB Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise DCB Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
