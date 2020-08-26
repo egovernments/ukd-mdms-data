@@ -5,8 +5,8 @@
     {
       "name": "Uttarakhand",
       "code": "uk",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/banner.png",
-      "logoUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/logo.png",
+      "bannerUrl": "https://nagarsewa-uat.uk.gov.in/ukd-assets/Stateimages/banner.png",
+      "logoUrl": "https://nagarsewa-uat.uk.gov.in/ukd-assets/Stateimages/logo.png",
       "hasLocalisation": true,
       "hideDigitLogo": true,
       "defaultLanguage": "hi_IN",
@@ -74,11 +74,11 @@
           "manuals": [
             {
               "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_English_UserManual_Citizen.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/TL_English_UserManual_Citizen.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_Hindi_UserManual_Citizen.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/TL_Hindi_UserManual_Citizen.pdf"
             }
           ]
         },
@@ -87,21 +87,21 @@
           "manuals": [
             {
               "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Citizen.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/PT_English_UserManual_Citizen.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Citizen.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/PT_Hindi_UserManual_Citizen.pdf"
             }
           ],
           "employeeManuals": [
             {
               "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Employee.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/PT_English_UserManual_Employee.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Employee.pdf"
+              "url": "https://nagarsewa-uat.uk.gov.in/ukd-assets/PT_Hindi_UserManual_Employee.pdf"
             }
           ]
         }
