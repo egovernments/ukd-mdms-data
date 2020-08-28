@@ -6622,6 +6622,36 @@
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
+    },
+    {
+      "id": 1900,
+      "name": "State Wise DCB Report",
+      "url": "/report/rainmaker-pt/StateWiseDCBReport/metadata/_get",
+      "displayName": "State Wise DCB Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise DCB Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1901,
+      "name": "State Wise DCB Report",
+      "url": "/report/rainmaker-pt/StateWiseDCBReport/_get",
+      "displayName": "State Wise DCB Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.State Wise DCB Report",
+      "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
