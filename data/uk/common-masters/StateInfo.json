@@ -1,107 +1,108 @@
 {
-  "tenantId": "uk",
-  "moduleName": "common-masters",
-  "StateInfo": [
-    {
-      "name": "Uttarakhand",
-      "code": "uk",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/banner.png",
-      "logoUrl": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/Stateimages/logo.png",
-      "hasLocalisation": true,
-      "hideDigitLogo": true,
-      "defaultLanguage": "hi_IN",
-      "citizenNavigationURL": "https://nagarsewa.uk.gov.in/citizen/",
-      "employeeNavigationURL": "https://nagarsewa.uk.gov.in/employee/",
-      "defaultUrl": {
-        "citizen": "/user/register",
-        "employee": "/user/login"
-      },
-      "languages": [
-        {
-          "label": "ENGLISH",
-          "value": "en_IN"
+    "tenantId": "uk",
+    "moduleName": "common-masters",
+    "StateInfo": [
+      {
+        "name": "Uttarakhand",
+        "code": "uk",
+        "bannerUrl": "https://nagarsewa.uk.gov.in/ukd-assets/Stateimages/banner.png",
+        "logoUrl": "https://nagarsewa.uk.gov.in/ukd-assets/Stateimages/logo.png",
+        "hasLocalisation": true,
+        "hideDigitLogo": true,
+        "defaultLanguage": "hi_IN",
+        "citizenNavigationURL": "https://nagarsewa.uk.gov.in/citizen/",
+        "employeeNavigationURL": "https://nagarsewa.uk.gov.in/employee/",
+        "defaultUrl": {
+          "citizen": "/user/register",
+          "employee": "/user/login"
         },
-        {
-          "label": "हिंदी",
-          "value": "hi_IN"
-        }
-      ],
-      "localizationModules": [
-        {
-          "label": "rainmaker-abg",
-          "value": "rainmaker-abg"
-        },
-        {
-          "label": "rainmaker-common",
-          "value": "rainmaker-common"
-        },
-        {
-          "label": "rainmaker-pt",
-          "value": "rainmaker-pt"
-        },
-        {
-          "label": "rainmaker-uc",
-          "value": "rainmaker-uc"
-        },
-        {
-          "label": "rainmaker-tl",
-          "value": "rainmaker-tl"
-        },
-        {
-          "label": "rainmaker-hr",
-          "value": "rainmaker-hr"
-        },
-        {
-          "label": "rainmaker-test",
-          "value": "rainmaker-test"
-        },
-        {
-          "label": "finance-erp",
-          "value": "finance-erp"
-        },
-        {
-          "label": "rainmaker-receipt",
-          "value": "rainmaker-receipt"
-        }
-      ],
-      "userManuals": [
-        {
-          "module": "TL",
-          "manuals": [
-            {
-              "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_English_UserManual_Citizen.pdf"
-            },
-            {
-              "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_Hindi_UserManual_Citizen.pdf"
-            }
-          ]
-        },
-        {
-          "module": "PT",
-          "manuals": [
-            {
-              "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Citizen.pdf"
-            },
-            {
-              "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Citizen.pdf"
-            }
-          ],
-          "employeeManuals": [
-            {
-              "locale": "en_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Employee.pdf"
-            },
-            {
-              "locale": "hi_IN",
-              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Employee.pdf"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+        "languages": [
+          {
+            "label": "ENGLISH",
+            "value": "en_IN"
+          },
+          {
+            "label": "हिंदी",
+            "value": "hi_IN"
+          }
+        ],
+        "localizationModules": [
+          {
+            "label": "rainmaker-abg",
+            "value": "rainmaker-abg"
+          },
+          {
+            "label": "rainmaker-common",
+            "value": "rainmaker-common"
+          },
+          {
+            "label": "rainmaker-pt",
+            "value": "rainmaker-pt"
+          },
+          {
+            "label": "rainmaker-uc",
+            "value": "rainmaker-uc"
+          },
+          {
+            "label": "rainmaker-tl",
+            "value": "rainmaker-tl"
+          },
+          {
+            "label": "rainmaker-hr",
+            "value": "rainmaker-hr"
+          },
+          {
+            "label": "rainmaker-test",
+            "value": "rainmaker-test"
+          },
+          {
+            "label": "finance-erp",
+            "value": "finance-erp"
+          },
+          {
+            "label": "rainmaker-receipt",
+            "value": "rainmaker-receipt"
+          }
+        ],
+        "userManuals": [
+          {
+            "module": "TL",
+            "manuals": [
+              {
+                "locale": "en_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/TL_English_UserManual_Citizen.pdf"
+              },
+              {
+                "locale": "hi_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/TL_Hindi_UserManual_Citizen.pdf"
+              }
+            ]
+          },
+          {
+            "module": "PT",
+            "manuals": [
+              {
+                "locale": "en_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/PT_English_UserManual_Citizen.pdf"
+              },
+              {
+                "locale": "hi_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/PT_Hindi_UserManual_Citizen.pdf"
+              }
+            ],
+            "employeeManuals": [
+              {
+                "locale": "en_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/PT_English_UserManual_Employee.pdf"
+              },
+              {
+                "locale": "hi_IN",
+                "url": "https://nagarsewa.uk.gov.in/ukd-assets/PT_Hindi_UserManual_Employee.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
