@@ -754,6 +754,26 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "CH.Burning_of_waste_challan",
+      "name": "CH.BURNING_OF_WASTE_CHALLAN_TAX",
+      "code": "CH.BURNING_OF_WASTE_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Burning_of_waste_challan",
+      "name": "CH.BURNING_OF_WASTE_CHALLAN_FIELD_FEE",
+      "code": "CH.BURNING_OF_WASTE_CHALLAN_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "ADMN.Parking_during_election",
       "name": "ADMN.PARKING_DURING_ELECTION_FIELD_FEE",
