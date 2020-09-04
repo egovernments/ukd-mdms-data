@@ -1,4 +1,4 @@
-{
+ {
   "tenantId": "uk.roorkee",
   "moduleName": "egov-location",
   "TenantBoundary": [
@@ -18,17 +18,17 @@
         "code": "uk.roorkee",
         "children": [
           {
-            "id": "c485cdc7-5a58-49ab-9d2e-c1caf7cc9087",
+            "id": "6c5fe43c-b0b1-4ac7-9aa6-5f2a9c32f7aa",
             "boundaryNum": 1,
             "name": "Roorkee",
             "localname": "Roorkee",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "Z1",
+            "code": "ZONE1",
             "children": [
               {
-                "id": "f7916e63-e792-473c-8db4-846b893e12b1",
+                "id": "e5f4a0bc-0c9a-4eb1-9ea0-aaa36a2ac09b",
                 "boundaryNum": 1,
                 "name": "Ward -1  CHOWMANDI",
                 "localname": "Ward -1  CHOWMANDI",
@@ -38,7 +38,7 @@
                 "code": "W11673",
                 "children": [
                   {
-                    "id": "92e93b82-921d-4251-a966-3a71a8158098",
+                    "id": "e1af0af0-e7c3-4c1f-b6d4-078f97bfbe01",
                     "boundaryNum": 1,
                     "name": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
                     "localname": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "8d1166b5-c297-4537-b9cf-a27a198346ec",
+                "id": "6b53942c-06d4-420b-9dbc-55e692b7d4f3",
                 "boundaryNum": 1,
                 "name": "Ward -2 AMBAR TALAB PASHCHMI",
                 "localname": "Ward -2 AMBAR TALAB PASHCHMI",
@@ -62,7 +62,7 @@
                 "code": "W11674",
                 "children": [
                   {
-                    "id": "a799afdc-fec6-47d2-a0f9-62b4fe676d03",
+                    "id": "67d1320c-5dfd-48bb-91c0-f1201a5936d9",
                     "boundaryNum": 1,
                     "name": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
                     "localname": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
@@ -72,23 +72,11 @@
                     "code": "M0002",
                     "area": "AREA1",
                     "children": []
-                  },
-                  {
-                    "id": "3bf44694-ae44-4f61-b239-ce4a4f7cb9c9",
-                    "boundaryNum": 1,
-                    "name": "Awas Vikas - Ward -2 AMBAR TALAB PASHCHMI",
-                    "localname": "Awas Vikas - Ward -2 AMBAR TALAB PASHCHMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0038",
-                    "area": "AREA1",
-                    "children": []
                   }
                 ]
               },
               {
-                "id": "c1b58633-44b6-4608-b680-29abd32b81ae",
+                "id": "c535430c-02eb-4555-9aae-4df28fd20456",
                 "boundaryNum": 1,
                 "name": "Ward -3 SHEKHPURI",
                 "localname": "Ward -3 SHEKHPURI",
@@ -98,7 +86,7 @@
                 "code": "W11675",
                 "children": [
                   {
-                    "id": "6d57f100-6cf0-4b3e-8045-b3f941280a97",
+                    "id": "cbac971c-af86-4b07-b605-4904f54f93ad",
                     "boundaryNum": 1,
                     "name": "Shekhpuri - Ward -3 SHEKHPURI",
                     "localname": "Shekhpuri - Ward -3 SHEKHPURI",
@@ -110,7 +98,7 @@
                     "children": []
                   },
                   {
-                    "id": "34a44632-8588-41d8-951b-af530e027dd4",
+                    "id": "12395230-b0ed-42d1-8985-ee6df8446559",
                     "boundaryNum": 1,
                     "name": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
                     "localname": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
@@ -122,7 +110,7 @@
                     "children": []
                   },
                   {
-                    "id": "957a71cd-50dc-49d7-9968-b01c97327c50",
+                    "id": "97480ea9-bdb6-4528-9755-9f78ffd2705a",
                     "boundaryNum": 1,
                     "name": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
                     "localname": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
@@ -136,7 +124,7 @@
                 ]
               },
               {
-                "id": "af803d78-c02f-4a0a-bbf6-7a17a1fa3a14",
+                "id": "54d98220-eb23-4e38-a387-d3cab03f95fe",
                 "boundaryNum": 1,
                 "name": "Ward -4 PURVAVALLI",
                 "localname": "Ward -4 PURVAVALLI",
@@ -146,7 +134,7 @@
                 "code": "W11676",
                 "children": [
                   {
-                    "id": "dd7e524f-d801-4a25-8804-262fdce9db19",
+                    "id": "492602ec-5e58-4976-9205-354d1f4baa4e",
                     "boundaryNum": 1,
                     "name": "Purvavalli - Ward -4 PURVAVALLI",
                     "localname": "Purvavalli - Ward -4 PURVAVALLI",
@@ -158,7 +146,7 @@
                     "children": []
                   },
                   {
-                    "id": "8e578b0c-c02a-4ba2-8a94-09c5dbb2801c",
+                    "id": "60ed565f-170d-4b93-9cc4-1fd4863d78fb",
                     "boundaryNum": 1,
                     "name": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
                     "localname": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
@@ -172,7 +160,7 @@
                 ]
               },
               {
-                "id": "4b62dc1f-464c-4424-8904-08b0f1300d08",
+                "id": "647a6075-a780-4214-8576-9c70f671f8a5",
                 "boundaryNum": 1,
                 "name": "Ward -5 PURVI DEENDAYAL",
                 "localname": "Ward -5 PURVI DEENDAYAL",
@@ -182,7 +170,7 @@
                 "code": "W11677",
                 "children": [
                   {
-                    "id": "000b39bc-7674-4a2a-b466-453f75bb3ec0",
+                    "id": "6b46b535-a967-4708-9366-3376406e8961",
                     "boundaryNum": 1,
                     "name": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
                     "localname": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
@@ -194,7 +182,7 @@
                     "children": []
                   },
                   {
-                    "id": "8ac63c76-db10-4b4d-a1be-2a09539febcf",
+                    "id": "6fb02067-1f5d-4be1-9928-ff286d5d911d",
                     "boundaryNum": 1,
                     "name": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
                     "localname": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
@@ -206,7 +194,7 @@
                     "children": []
                   },
                   {
-                    "id": "3a058543-c885-427d-a613-553f2e7dc9f0",
+                    "id": "3aafe94f-d4e2-4b9b-a862-c101d0420bd8",
                     "boundaryNum": 1,
                     "name": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
                     "localname": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
@@ -220,7 +208,7 @@
                 ]
               },
               {
-                "id": "88a1a3d3-705c-4203-bcb1-9f9e00294ac2",
+                "id": "face184f-5019-4da4-8543-879f1e6f3edb",
                 "boundaryNum": 1,
                 "name": "Ward -6 PURVI  AMBAR TALAB",
                 "localname": "Ward -6 PURVI  AMBAR TALAB",
@@ -230,7 +218,7 @@
                 "code": "W11678",
                 "children": [
                   {
-                    "id": "5e71ede0-8f86-4cb8-9368-b8e14d394dbc",
+                    "id": "86aab757-9453-434b-9262-3f3b4739b8b1",
                     "boundaryNum": 1,
                     "name": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
                     "localname": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
@@ -242,7 +230,7 @@
                     "children": []
                   },
                   {
-                    "id": "9a7139ab-55e9-4def-959b-d936ef58a3df",
+                    "id": "9fe1fcaa-15e9-4cf0-a496-95b452bded8f",
                     "boundaryNum": 1,
                     "name": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
                     "localname": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
@@ -256,7 +244,7 @@
                 ]
               },
               {
-                "id": "2d45a810-ce76-4a62-88fa-fb7f545b0bf3",
+                "id": "1d4364c9-5bb3-45ad-a430-9bacf1dfc0e4",
                 "boundaryNum": 1,
                 "name": "Ward -7 IIT  ROORKEE",
                 "localname": "Ward -7 IIT  ROORKEE",
@@ -266,7 +254,7 @@
                 "code": "W11679",
                 "children": [
                   {
-                    "id": "41168d12-6d2e-4827-916f-77cc7641322c",
+                    "id": "b2efb5be-5082-4391-84fc-547dd6c36304",
                     "boundaryNum": 1,
                     "name": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
                     "localname": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
@@ -280,7 +268,7 @@
                 ]
               },
               {
-                "id": "ef15e24e-3a5c-44ef-85db-a089a1e5eab0",
+                "id": "0c68b482-208c-48c5-a2c0-536628fbdeea",
                 "boundaryNum": 1,
                 "name": "Ward -8 CBRI",
                 "localname": "Ward -8 CBRI",
@@ -290,7 +278,7 @@
                 "code": "W11680",
                 "children": [
                   {
-                    "id": "574d1b94-2c2c-46de-8b0b-ffcf560c84d7",
+                    "id": "4897350c-4b7f-4d5a-8503-497c64dae139",
                     "boundaryNum": 1,
                     "name": "CBRI - Ward -8 CBRI",
                     "localname": "CBRI - Ward -8 CBRI",
@@ -302,7 +290,7 @@
                     "children": []
                   },
                   {
-                    "id": "2dd29875-30ff-484e-bef0-c4f9462be06e",
+                    "id": "f8105ce8-30d8-419a-a1c1-a6749516e46d",
                     "boundaryNum": 1,
                     "name": "Malakpur - Ward -8 CBRI",
                     "localname": "Malakpur - Ward -8 CBRI",
@@ -314,7 +302,7 @@
                     "children": []
                   },
                   {
-                    "id": "f665e069-9f07-44bb-994c-07fe84453d4c",
+                    "id": "bda67972-68db-4b82-9a07-9bf427826cf1",
                     "boundaryNum": 1,
                     "name": "IIT Roorkee Part-2 - Ward -8 CBRI",
                     "localname": "IIT Roorkee Part-2 - Ward -8 CBRI",
@@ -328,7 +316,7 @@
                 ]
               },
               {
-                "id": "71039b2f-653d-4586-88d5-1a9f84b295ae",
+                "id": "34b84f7b-2078-443a-ab06-96d9725553bc",
                 "boundaryNum": 1,
                 "name": "Ward -9 SOT",
                 "localname": "Ward -9 SOT",
@@ -338,7 +326,7 @@
                 "code": "W11681",
                 "children": [
                   {
-                    "id": "d7eaf9f9-a249-4d0b-916b-2cdcbdc8ccd1",
+                    "id": "6cc4f8ef-9219-4f07-b4bf-b1849aa59142",
                     "boundaryNum": 1,
                     "name": "Sot - Ward -9 SOT",
                     "localname": "Sot - Ward -9 SOT",
@@ -350,7 +338,7 @@
                     "children": []
                   },
                   {
-                    "id": "a952f6bd-7df2-4c51-90b6-6c74b15d1ee8",
+                    "id": "cdbaa009-0a26-4bd0-9a84-5ed3c922c880",
                     "boundaryNum": 1,
                     "name": "Kanongoyan - Ward -9 SOT",
                     "localname": "Kanongoyan - Ward -9 SOT",
@@ -364,7 +352,7 @@
                 ]
               },
               {
-                "id": "326e7d44-01f3-457d-888f-38037de1839e",
+                "id": "30447d89-643e-468e-91e9-486248e2468b",
                 "boundaryNum": 1,
                 "name": "Ward 10-CIVIL LINES UTTARI",
                 "localname": "Ward 10-CIVIL LINES UTTARI",
@@ -374,7 +362,7 @@
                 "code": "W11682",
                 "children": [
                   {
-                    "id": "608b82de-6c1e-4e5c-aff7-5cd67e579090",
+                    "id": "d99c67cd-bae0-4490-97da-cee0e63db6db",
                     "boundaryNum": 1,
                     "name": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
                     "localname": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
@@ -386,7 +374,7 @@
                     "children": []
                   },
                   {
-                    "id": "6d6f91bd-84f4-4877-b028-5a77f9dea39e",
+                    "id": "380dc34e-665d-4909-844d-c98673741be7",
                     "boundaryNum": 1,
                     "name": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
                     "localname": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
@@ -398,7 +386,7 @@
                     "children": []
                   },
                   {
-                    "id": "e509350d-5b9f-45f7-a5c0-d7908a894957",
+                    "id": "92a74d9c-92ab-40c7-8829-81a9a3dcb39a",
                     "boundaryNum": 1,
                     "name": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
                     "localname": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
@@ -412,7 +400,7 @@
                 ]
               },
               {
-                "id": "d9873533-6dba-4ecb-aa77-f59425340372",
+                "id": "4c379a4b-28e0-4f1c-9f41-f309abfcbf35",
                 "boundaryNum": 1,
                 "name": "Ward -11 AMBAR TALAB PASHCHIMI",
                 "localname": "Ward -11 AMBAR TALAB PASHCHIMI",
@@ -422,7 +410,7 @@
                 "code": "W11683",
                 "children": [
                   {
-                    "id": "1d2bc303-a62a-466c-a32e-e4ed37d31a3b",
+                    "id": "82a03a8b-ceb7-4008-84ca-7f09f200d7a3",
                     "boundaryNum": 1,
                     "name": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
                     "localname": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
@@ -432,11 +420,23 @@
                     "code": "M0022",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "105741e6-f40a-4e3f-a1bb-6a47d67aafc6",
+                    "boundaryNum": 1,
+                    "name": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
+                    "localname": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0038",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "08da6d56-b491-4371-b191-951d8b106b7f",
+                "id": "5666aab7-6ab5-424a-84d9-0ea029e2d7ce",
                 "boundaryNum": 1,
                 "name": "Ward -12  CIVIL LINES DAKSHINI",
                 "localname": "Ward -12  CIVIL LINES DAKSHINI",
@@ -446,7 +446,7 @@
                 "code": "W11684",
                 "children": [
                   {
-                    "id": "03094d22-984d-4f70-955e-5ad46322abc5",
+                    "id": "b0b9c64e-cf97-4121-b6d4-37d97ec80d4f",
                     "boundaryNum": 1,
                     "name": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
                     "localname": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
@@ -460,7 +460,7 @@
                 ]
               },
               {
-                "id": "a12b5792-e1e3-4c5e-9aef-243714bb2d9f",
+                "id": "3f3efe5d-21aa-4d05-84b0-79fcd98905fb",
                 "boundaryNum": 1,
                 "name": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
                 "localname": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
@@ -470,7 +470,7 @@
                 "code": "W11685",
                 "children": [
                   {
-                    "id": "93eb7690-6c43-4228-bc0b-517b7c846a47",
+                    "id": "f08bef05-7e41-4132-ace6-756b331582f3",
                     "boundaryNum": 1,
                     "name": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
                     "localname": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
@@ -482,7 +482,7 @@
                     "children": []
                   },
                   {
-                    "id": "a6c6fd5f-13b4-4c35-9fd9-f8c7af100fce",
+                    "id": "bedae071-c856-4824-a8cc-80d1dfd7483c",
                     "boundaryNum": 1,
                     "name": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
                     "localname": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
@@ -494,7 +494,7 @@
                     "children": []
                   },
                   {
-                    "id": "d6256eb0-ad7a-4ee5-b12e-ef6221ca3e32",
+                    "id": "e4ea2e4e-eb19-4bce-a390-814c2f566765",
                     "boundaryNum": 1,
                     "name": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
                     "localname": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
@@ -508,7 +508,7 @@
                 ]
               },
               {
-                "id": "33344288-46c8-4188-8455-ef888efa44b3",
+                "id": "72e9ac67-b8b0-4a1e-b213-c1722966bdd2",
                 "boundaryNum": 1,
                 "name": "Ward -14 CIVIL LINE MADHYA",
                 "localname": "Ward -14 CIVIL LINE MADHYA",
@@ -518,7 +518,7 @@
                 "code": "W11686",
                 "children": [
                   {
-                    "id": "83dc65d0-18ba-4e87-92a1-e00614c89ca3",
+                    "id": "fb96c6aa-58f0-4e84-bbdc-9adc6a0a0225",
                     "boundaryNum": 1,
                     "name": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
                     "localname": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
@@ -532,7 +532,7 @@
                 ]
               },
               {
-                "id": "4fe126e2-67d5-4920-821e-c0649aa2448f",
+                "id": "eb00b0f7-27f7-4cfc-ad0f-62e279f33213",
                 "boundaryNum": 1,
                 "name": "Ward -15 RAMNAGAR DAKSHNI",
                 "localname": "Ward -15 RAMNAGAR DAKSHNI",
@@ -542,7 +542,7 @@
                 "code": "W11687",
                 "children": [
                   {
-                    "id": "92cceb7f-2e26-40f0-9b88-c83d399fa702",
+                    "id": "1ed027e9-0b5e-40e6-8525-1670dfaa1f25",
                     "boundaryNum": 1,
                     "name": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
                     "localname": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
@@ -554,7 +554,7 @@
                     "children": []
                   },
                   {
-                    "id": "e1bf67e9-054f-4228-b4b3-69909ae9ea39",
+                    "id": "0ae4dcf8-12b1-47ae-955e-c9e6822ab369",
                     "boundaryNum": 1,
                     "name": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
                     "localname": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
@@ -568,7 +568,7 @@
                 ]
               },
               {
-                "id": "26f1634b-d19d-40dc-a589-d09c2c54dd03",
+                "id": "b2c09379-7269-43c8-90bb-240fd0f7ee94",
                 "boundaryNum": 1,
                 "name": "Ward -16 MAHIGRAN",
                 "localname": "Ward -16 MAHIGRAN",
@@ -578,7 +578,7 @@
                 "code": "W11688",
                 "children": [
                   {
-                    "id": "6a3f2b4e-a973-4162-b750-1dc5b4306519",
+                    "id": "118d6af3-0820-4e58-ad64-3ee578252df0",
                     "boundaryNum": 1,
                     "name": "Mahigran - Ward -16 MAHIGRAN",
                     "localname": "Mahigran - Ward -16 MAHIGRAN",
@@ -592,7 +592,7 @@
                 ]
               },
               {
-                "id": "0f646d9e-4d14-45f6-8e3f-fc542ce7dddb",
+                "id": "dc3cf88f-5725-4070-a963-f641b9d799b4",
                 "boundaryNum": 1,
                 "name": "Ward -17 RAJPUTTANA PASHCHIMI",
                 "localname": "Ward -17 RAJPUTTANA PASHCHIMI",
@@ -602,7 +602,7 @@
                 "code": "W11689",
                 "children": [
                   {
-                    "id": "285bae35-f246-44a5-886c-a76cfaddd0a9",
+                    "id": "04576aaa-8215-4ed6-82f5-494f58b6f3ce",
                     "boundaryNum": 1,
                     "name": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
                     "localname": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
@@ -614,7 +614,7 @@
                     "children": []
                   },
                   {
-                    "id": "d4256828-5fab-468f-a922-926eff9799e4",
+                    "id": "0de9237a-25d4-4a78-9720-477863084bf2",
                     "boundaryNum": 1,
                     "name": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
                     "localname": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
@@ -626,7 +626,7 @@
                     "children": []
                   },
                   {
-                    "id": "7529416c-d455-4cb7-95ad-e41cea0e93d2",
+                    "id": "39d73164-f1c8-4b7e-bd20-a20a072eed43",
                     "boundaryNum": 1,
                     "name": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
                     "localname": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
@@ -638,7 +638,7 @@
                     "children": []
                   },
                   {
-                    "id": "cdc5b687-22af-4f74-9b12-807ea4ee5b21",
+                    "id": "8451f764-d033-49b1-b9f8-a96571c40326",
                     "boundaryNum": 1,
                     "name": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
                     "localname": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
@@ -652,7 +652,7 @@
                 ]
               },
               {
-                "id": "bb9934a7-5dcf-4539-bcde-ad9eddd7deb9",
+                "id": "92669cb8-8a61-4158-bc60-9cd45840ea28",
                 "boundaryNum": 1,
                 "name": "Ward -18 RAMNAGAR UTTARI",
                 "localname": "Ward -18 RAMNAGAR UTTARI",
@@ -662,7 +662,7 @@
                 "code": "W11690",
                 "children": [
                   {
-                    "id": "7942f81b-bf64-4ff1-8e3f-bf6793879190",
+                    "id": "b0341b42-24d9-42ad-ba99-9a4e79495f85",
                     "boundaryNum": 1,
                     "name": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
                     "localname": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
@@ -676,7 +676,7 @@
                 ]
               },
               {
-                "id": "74c15a2e-cf0b-4639-beac-8d3d554c7842",
+                "id": "b2c0bef1-77b9-4821-99e2-77f354aae502",
                 "boundaryNum": 1,
                 "name": "Ward -19 PURANI TEHSIL",
                 "localname": "Ward -19 PURANI TEHSIL",
@@ -686,7 +686,7 @@
                 "code": "W11691",
                 "children": [
                   {
-                    "id": "b12de588-c7f3-4cc4-8b53-b911bc980cbe",
+                    "id": "bd970ccc-6091-4517-8a7e-5baba887c179",
                     "boundaryNum": 1,
                     "name": "Purani Tehshil - Ward -19 PURANI TEHSIL",
                     "localname": "Purani Tehshil - Ward -19 PURANI TEHSIL",
@@ -700,7 +700,7 @@
                 ]
               },
               {
-                "id": "b9e277f9-ae31-47a9-87df-31d5a5be0a3d",
+                "id": "0ec6fd37-4fb0-47b0-a707-0eed7baebebe",
                 "boundaryNum": 1,
                 "name": "Ward -20 SATTI",
                 "localname": "Ward -20 SATTI",
@@ -710,7 +710,7 @@
                 "code": "W11692",
                 "children": [
                   {
-                    "id": "618c16d9-30c5-40f0-9aa5-1ef2776c6fe8",
+                    "id": "ce38bd66-83e6-4dfe-8c33-4d305e1838b3",
                     "boundaryNum": 1,
                     "name": "Satti - Ward -20 SATTI",
                     "localname": "Satti - Ward -20 SATTI",
@@ -730,3 +730,4 @@
     }
   ]
 }
+ 
