@@ -5802,7 +5802,7 @@
     {
       "id": 1834,
       "name": "Property Tax Reconcillation Reports",
-      "url": "/report/rainmaker-pt/PropertyTaxReconcillationReports/metadata/_get",
+      "url": "/report/rainmaker-pt/DemandRegisterReport/metadata/_get",
       "displayName": "Property Tax Reconcillation Reports",
       "orderNumber": 2,
       "queryParams": "",
@@ -5810,14 +5810,14 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Property Tax Reconcillation Reports",
-      "navigationURL": "report/rainmaker-pt/PropertyTaxReconcillationReports",
+      "navigationURL": "report/rainmaker-pt/DemandRegisterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 1835,
       "name": "Property Tax Reconcillation Reports",
-      "url": "/report/rainmaker-pt/PropertyTaxReconcillationReports/_get",
+      "url": "/report/rainmaker-pt/DemandRegisterReport/_get",
       "displayName": "Property Tax Reconcillation Reports",
       "orderNumber": 2,
       "queryParams": "",
@@ -5825,7 +5825,7 @@
       "enabled": false,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Property Tax Reconcillation Reports",
-      "navigationURL": "report/rainmaker-pt/PropertyTaxReconcillationReports",
+      "navigationURL": "report/rainmaker-pt/DemandRegisterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
