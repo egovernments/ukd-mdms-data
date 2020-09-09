@@ -1,0 +1,18 @@
+{
+  "tenantId": "uk",
+  "moduleName": "tenant",
+  "citywiseconfig": [
+    {
+      "config": "ptCitizenPayButton",
+      "enabledCities": ["uk.haridwar","uk.dehradun"]
+    },
+    {
+      "config": "ptSendUpdateSMS",
+      "enabledCities": ["uk.haridwar","uk.dehradun"]
+    },
+    {
+      "config": "ptCalculateRebateAndPenalty",
+      "enabledCities": ["uk.haridwar","uk.dehradun"]
+    }
+  ]
+}
