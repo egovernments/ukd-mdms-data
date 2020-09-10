@@ -786,6 +786,1280 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
-    }
+    },
+      {
+    "businessService": "Rents.Municipal Shops Rent",
+    "code": "RT.Municipal_Shops_Rent",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Land Rent",
+    "code": "RT.Land_Rent",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Tower Rent",
+    "code": "RT.Tower_Rent",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Parking Fee",
+    "code": "RT.Parking_Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Stationary.Stationary (Not Income)",
+    "code": "ST.Stationary_Not_Income",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Stationary.Expenditure santitation (Not Income)",
+    "code": "ST.Expenditure_santitation_Not_Income",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Santitation dumping garbage",
+    "code": "CH.Santitation_dumping_garbage",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Telecom tower fees",
+    "code": "FTP.Telecom_tower_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Taxes.Electricity Chungi",
+    "code": "TX.Electricity_Chungi",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Draftsmen fees",
+    "code": "FTP.Draftsmen_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Compremasing fees",
+    "code": "FTP.Compremasing_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Building planner renew",
+    "code": "FTP.Building_planner_renew",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
+    "code": "NKS.Naksha_samjota_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Naksha changes",
+    "code": "NKS.Naksha_changes",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.License fees building branch",
+    "code": "FTP.License_fees_building_branch",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "O&M Fee.Water connection_disconnection fees",
+    "code": "OM.Water_connection_disconnection_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
+    "code": "NKS.Naksha_renew_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
+    "code": "NKS.NOC_Completion_of_building_approval",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
+    "code": "NKS.Alteration_additional_charge",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
+    "code": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Leave encashment and gratuty",
+    "code": "FTP.Leave_encashment_and_gratuty",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Plastic Challan",
+    "code": "CH.Plastic_Challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Challan for Misuse of Water",
+    "code": "CH.Challan_for_Misuse_of_Water",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Dengue Challan",
+    "code": "CH.Dengue_Challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Littering Challan",
+    "code": "CH.Littering_Challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Sanitation.Licence Pure food",
+    "code": "SNT.Licence_Pure_food",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Work Fee.Contractor Enlistment",
+    "code": "WF.Contractor_Enlistment",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Work Fee.Tender Form Fee",
+    "code": "WF.Tender Form Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Tehbazaari Fee.Advertisement fee",
+    "code": "TB.Advertisement_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Finance Fees.PF transfer (Accounts)",
+    "code": "FN.PF_transfer_(Accounts)",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Taxes.TS1 copy register for old survey",
+    "code": "TX.TS1_copy_register_for_old_survey",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Taxes.Transfer Property Fees",
+    "code": "TX.Transfer_Property_Fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "ADMIN Fees.No Dues Certificate",
+    "code": "ADMN.No_Dues_Certificate",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Architect license fee",
+    "code": "FTP.Architect_license_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.No due certificate electricity",
+    "code": "OTHER.No_due_certificate_electricity",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "SBM garbage plastic polythene challan",
+    "code": "CH.SBM_garbage_plastic_polythene_challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Sanitation.Dead animals contract",
+    "code": "SNT.Dead_animals_contract",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Finance Fees.GPF",
+    "code": "FN.GPF",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Tower Installation",
+    "code": "RT.Tower_Installation",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Tower Annual Rent",
+    "code": "RT.Tower_Annual_Rent",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Cess.Cow Cess",
+    "code": "CSS.cow_cess",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Tehbazaari Fee.Rehri Challan",
+    "code": "TB.Rehri_Challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "License Fee.Manual Rikshaw",
+    "code": "LCF.Manual_Rikshaw",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Bidi_And_Cigrette_Challan",
+    "code": "CH.Bidi_And_Cigrette_Challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Construction Waste",
+    "code": "FTP.Construction_Waste",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Fee Town Planning.Demolition Waste",
+    "code": "FTP.Demolition_Waste",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Sanitation.SNT Clean_Safai Sanitation",
+    "code": "SNT.clean_safai_sanitation",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "O&M Fee.Plumber License Fee",
+    "code": "OM.Plumber_License_Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Advertisement Tax.Light Wala Board",
+    "code": "ADVT.Light_Wala_Board",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Taxes.House Tax",
+    "code": "TX.House_Tax",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
+    "code": "NKS.Hadud_Certificate_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
+    "code": "NKS.No_Due_Certificate_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
+    "code": "NKS.Colony_Sambandhi_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Naksha fees",
+    "code": "NKS.Naksha_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Work Fee.OFC Permission fee",
+    "code": "WF.OFC_Permission_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Building_fees",
+    "code": "NKS.Building_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
+    "code": "NKS.Boundary_wall_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Malba_fees",
+    "code": "NKS.Malba_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Development_fees",
+    "code": "NKS.Development_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
+    "code": "NKS.Change_of_land_use_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Under_development_fees",
+    "code": "NKS.Under_development_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Water_Charges",
+    "code": "OTHER.Water_Charges",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Others_fee",
+    "code": "OTHER.Others_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Cess.Labor Cess",
+    "code": "CSS.labor_cess",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Finance Fees.Provident Fund Processing Fees",
+    "code": "FN.Provident_Fund_Processing_Fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "O&M Fee.Sewerage disconnection connection fees",
+    "code": "OM.Sewerage_disconnection_connection_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
+    "code": "NKS.Economics_Weaker_Section_Scheme_Charges",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
+    "code": "NKS.Economics_Weaker_Section_Projects_Fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "O&M Fee.Road cut fees",
+    "code": "OM.Road_cut_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "ADMIN Fees.Parking booking fee",
+    "code": "ADMN.Parking_booking_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Advertisement Tax.Canopy Fee",
+    "code": "ADVT.Canopy_Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+    "code": "ADVT.Outdoor_Media_Display_Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Taxes.Property Tax 2013-14",
+    "code": "TX.Property_Tax_2013-14",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Noc_fee",
+    "code": "OTHER.Noc_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Fire_Noc_fee",
+    "code": "OTHER.Fire_Noc_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Fire_Tender_fee",
+    "code": "OTHER.Fire_Tender_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Fire_Call_Report_fee",
+    "code": "OTHER.Fire_Call_Report_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Bus_Adda_fee",
+    "code": "OTHER.Bus_Adda_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
+    "code": "NKS.Rain_Harvesting_charges",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Finance Fees.Security_Deposit_Fee",
+    "code": "FN.Security_Deposit_Fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Dispensary_fee",
+    "code": "OTHER.Dispensary_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Rents.Sale_of_land",
+    "code": "RT.Sale_of_land",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.License_fee",
+    "code": "OTHER.License_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Candy_fee",
+    "code": "OTHER.Candy_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Conservancy_fee",
+    "code": "OTHER.Conservancy_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
+    "code": "NKS.Sub_division_charges",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
+    "code": "NKS.Information_certificate_fees",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
+    "code": "NKS.Building_safety_certificate",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "OTHER.Street_light_pole_transfer_fee",
+    "code": "OTHER.Street_light_pole_transfer_fee",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Collection_and_demolition_waste_challan",
+    "code": "CH.Collection_and_demolition_waste_challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  },
+  {
+    "businessService": "Challans.Burning_of_waste_challan",
+    "code": "CH.Burning_of_waste_challan",
+    "collectionModesNotAllowed": [
+      "CREDIT",
+      "DEBIT",
+      "CARD"
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc"
+  }
   ]
 }
