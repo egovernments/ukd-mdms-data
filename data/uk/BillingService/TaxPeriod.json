@@ -107,22 +107,6 @@
       "financialYear": "2016-17"
     },
     {
-      "fromDate": 1554076800000,
-      "toDate": 1585699199000,
-      "periodCycle": "ANNUAL",
-      "service": "RC.road_cutting",
-      "code": "RCAN2019",
-      "financialYear": "2019-20"
-    },
-    {
-      "fromDate": 1585699200000,
-      "toDate": 1617148800000,
-      "periodCycle": "ANNUAL",
-      "service": "RC.road_cutting",
-      "code": "RCAN2020",
-      "financialYear": "2020-21"
-    },
-    {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -240,14 +224,6 @@
       "periodCycle": "ANNUAL",
       "service": "FN.Advance_Provident_Fund",
       "code": "FNADVANCEPROVIDENTFUND",
-      "financialYear": "2014-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "FN.PF_transfer_Accounts",
-      "code": "FNPFTRANSFERACCOUNTS",
       "financialYear": "2014-24"
     },
     {
@@ -542,8 +518,24 @@
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "CH.Cattle_Challan",
-      "code": "CHCATTLECHALLAN",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "code": "ADVTWALLPAINTADVERTISEMENT",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "code": "ADVTGASBALLOONADVERTISEMENT",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "FN.PF_transfer_(Accounts)",
+      "code": "FNPFTRANSFER(ACCOUNTS)",
       "financialYear": "2014-24"
     },
     {
@@ -782,14 +774,6 @@
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "FN.PF_transfer_(Accounts)",
-      "code": "FNPFTRANSFER(ACCOUNTS)",
-      "financialYear": "2014-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
       "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXTS1COPYREGISTERFOROLDSURVEY",
       "financialYear": "2014-24"
@@ -936,14 +920,6 @@
       "periodCycle": "ANNUAL",
       "service": "ADVT.Light_Wala_Board",
       "code": "ADVTLIGHTWALABOARD",
-      "financialYear": "2014-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "ADVT.Wall_Paint_Advertisement",
-      "code": "ADVTWALLPAINTADVERTISEMENT",
       "financialYear": "2014-24"
     },
     {
