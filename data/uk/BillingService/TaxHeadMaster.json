@@ -9,7 +9,7 @@
       "code": "PT_LATE_ASSESSMENT_PENALTY",
       "isDebit": false,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "REBATE",
@@ -18,7 +18,7 @@
       "code": "PT_ADHOC_REBATE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "ADVANCE_COLLECTION",
@@ -27,7 +27,7 @@
       "code": "PT_ADVANCE_CARRYFORWARD",
       "isDebit": true,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -36,7 +36,7 @@
       "code": "PT_OWNER_EXEMPTION",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "REBATE",
@@ -45,7 +45,7 @@
       "code": "PT_TIME_REBATE",
       "isDebit": true,
       "isActualDemand": true,
-      "order": 4,
+      "order": "4",
       "legacy": true
     },
     {
@@ -55,7 +55,7 @@
       "code": "PT_PROMOTIONAL_REBATE",
       "isDebit": true,
       "isActualDemand": true,
-      "order": 3,
+      "order": "3",
       "legacy": true
     },
     {
@@ -65,7 +65,7 @@
       "code": "PT_UNIT_USAGE_EXEMPTION",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "PENALTY",
@@ -74,7 +74,7 @@
       "code": "PT_ADHOC_PENALTY",
       "isDebit": false,
       "isActualDemand": false,
-      "order": 1
+      "order": "1"
     },
     {
       "category": "TAX",
@@ -83,7 +83,7 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0,
+      "order": "0",
       "legacy": true
     },
     {
@@ -93,7 +93,7 @@
       "code": "PT_ONE_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -102,7 +102,7 @@
       "code": "PT_ONE_TIME_REBATE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -111,7 +111,7 @@
       "code": "PT_FIRE_CESS",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": "2"
     },
     {
       "category": "TAX",
@@ -120,7 +120,7 @@
       "code": "PT_CANCER_CESS",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": "2"
     },
     {
       "category": "TAX",
@@ -129,7 +129,7 @@
       "code": "PT_TIME_INTEREST",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2,
+      "order": "2",
       "legacy": true
     },
     {
@@ -139,7 +139,7 @@
       "code": "SWATCHATHA_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 1,
+      "order": "1",
       "legacy": true
     },
     {
@@ -149,7 +149,7 @@
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": "2"
     },
     {
       "category": "TAX",
@@ -158,7 +158,7 @@
       "code": "TL_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 2
+      "order": "2"
     },
     {
       "category": "TAX",
@@ -167,7 +167,7 @@
       "code": "TL_ROUNDOFF",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -176,7 +176,7 @@
       "code": "TL_ADHOC_REBATE",
       "isDebit": true,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -185,7 +185,7 @@
       "code": "TL_ADHOC_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 1
+      "order": "1"
     },
     {
       "category": "REBATE",
@@ -194,7 +194,7 @@
       "code": "PT_DECIMAL_CEILING_DEBIT",
       "isDebit": true,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -203,7 +203,7 @@
       "code": "PT_DECIMAL_CEILING_CREDIT",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 1
+      "order": "1"
     },
     {
       "category": "TAX",
@@ -212,7 +212,7 @@
       "code": "PT_ROUNDOFF",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
