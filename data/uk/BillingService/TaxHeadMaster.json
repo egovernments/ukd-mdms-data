@@ -886,16 +886,6 @@
     },
     {
       "category": "CHARGES",
-      "service": "FN.PF_transfer_Accounts",
-      "name": "FN.PF_TRANSFER_ACCOUNTS_FIELD_FEE",
-      "code": "FN.PF_TRANSFER_ACCOUNTS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
       "service": "FN.Recovery_employee_contractor",
       "name": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_FIELD_FEE",
       "code": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_FIELD_FEE",
@@ -1303,16 +1293,6 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "FN.PF_transfer_Accounts",
-      "name": "FN.PF_TRANSFER_ACCOUNTS_TAX",
-      "code": "FN.PF_TRANSFER_ACCOUNTS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
     },
     {
       "category": "TAX",
