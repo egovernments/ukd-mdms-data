@@ -2049,6 +2049,17 @@
     "isVoucherCreationEnabled": true,
     "isActive": true,
     "type": "Adhoc"
-  }
+  },
+  {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    }
   ]
 }
