@@ -273,20 +273,6 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.PF transfer Accounts",
-      "code": "FN.PF_transfer_Accounts",
-      "collectionModesNotAllowed": [
-        "CREDIT",
-        "DEBIT",
-        "CARD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Finance Fees.Recovery employee_contractor",
       "code": "FN.Recovery_employee_contractor",
       "collectionModesNotAllowed": [
