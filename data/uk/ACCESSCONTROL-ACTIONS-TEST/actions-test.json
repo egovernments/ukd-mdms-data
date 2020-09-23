@@ -6567,6 +6567,18 @@
       "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1906,
+      "name": "Plain Search TradeLicense",
+      "url": "/tl-services/v1/_plainsearch",
+      "parentModule": "",
+      "displayName": "Plain Search TradeLicense",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
