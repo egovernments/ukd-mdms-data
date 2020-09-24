@@ -3,28 +3,32 @@
   "moduleName": "PropertyTax",
   "Interest": [
     {
-      "rate": 0,
+      "rate": 20,
       "financialYear": "2014-15"
     },
     {
-      "rate": 0,
+      "rate": 20,
       "financialYear": "2015-16"
     },
     {
-      "rate": 0,
+      "rate": 20,
       "financialYear": "2016-17"
     },
     {
-      "rate": 0,
+      "rate": 20,
       "financialYear": "2017-18"
     },
     {
-      "rate": 0,
+      "rate": 20,
       "financialYear": "2018-19"
     },
-        {
-      "rate": 0,
+    {
+      "rate": 20,
       "financialYear": "2019-20"
+    },
+    {
+      "rate": 20,
+      "financialYear": "2020-21"
     }
   ]
 }
