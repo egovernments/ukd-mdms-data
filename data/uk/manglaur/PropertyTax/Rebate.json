@@ -1,0 +1,62 @@
+{
+  "tenantId": "uk.manglaur",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": 1396310400000,
+      "endingDay": 1427846399000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2015-16",
+      "startingDay": 1427846400000,
+      "endingDay": 1459468799000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2016-17",
+      "startingDay": 1459468800000,
+      "endingDay": 1491004799000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2017-18",
+      "startingDay": 1491004800000,
+      "endingDay": 1522540799000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": 1522540800000,
+      "endingDay": 1554076799000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": 1554076800000,
+      "endingDay": 1585699199000
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": 1585699200000,
+      "endingDay": 1617235199000
+    }
+  ]
+}
