@@ -611,7 +611,7 @@
     },
     "TaxRate": {
       "masterName": "TaxRate",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "RoadType": {
