@@ -6652,6 +6652,22 @@
       "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    { 
+     "id": 1902,
+     "name": "rainmaker-demand-screen",
+     "url": "url", 
+     "displayName": "Demand", 
+     "orderNumber": 5, 
+     "parentModule": "", 
+     "enabled": true, 
+     "serviceCode": "", 
+     "code": "", 
+     "path": "Demand", 
+     "navigationURL": "integration/ui-demand/demand", 
+     "leftIcon": "places:business-center", 
+     "rightIcon": "", 
+      "queryParams": "" 
     }
   ]
 }
