@@ -6391,8 +6391,8 @@
     },
     {
       "id": 1893,
-      "name": "PTApplicationReport",
-      "url": "/report/rainmaker-pt/PTApplicationReport/metadata/_get",
+      "name": "PTAdoptionReport",
+      "url": "/report/rainmaker-pt/PTAdoptionReport/metadata/_get",
       "displayName": "Property Tax Records",
       "orderNumber": 1,
       "parentModule": "rainmaker-pt",
@@ -6400,14 +6400,14 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.PT Reports.PTApplicationReport",
-      "navigationURL": "report/rainmaker-pt/PTApplicationReport",
+      "navigationURL": "report/rainmaker-pt/PTAdoptionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 1894,
-      "name": "PTApplicationReport",
-      "url": "/report/rainmaker-pt/PTApplicationReport/_get",
+      "name": "PTAdoptionReport",
+      "url": "/report/rainmaker-pt/PTAdoptionReport/_get",
       "displayName": "Property Tax Records",
       "orderNumber": 2,
       "parentModule": "rainmaker-pt",
@@ -6415,7 +6415,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.PT Reports.PTApplicationReport",
-      "navigationURL": "report/rainmaker-pt/PTApplicationReport",
+      "navigationURL": "report/rainmaker-pt/PTAdoptionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
