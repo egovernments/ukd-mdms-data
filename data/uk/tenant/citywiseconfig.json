@@ -11,7 +11,11 @@
       "enabledCities": ["uk.haridwar","uk.dehradun"]
     },
     {
-      "config": "ptCalculateRebateAndPenalty",
+      "config": "ptCalculateRebate",
+      "enabledCities": ["uk.haridwar","uk.dehradun"]
+    },
+    {
+      "config": "ptCalculateInterest",
       "enabledCities": ["uk.haridwar","uk.dehradun"]
     }
   ]
