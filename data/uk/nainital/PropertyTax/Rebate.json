@@ -1,0 +1,39 @@
+{
+  "tenantId": "uk.nainital",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 20,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": 1554076800000,
+      "endingDay": 1577923200000
+    },
+    {
+      "rate": 20,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": 1585699200000,
+      "endingDay": 1609545600000
+    },
+    {
+      "rate": 20,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDate": 1522540800000,
+      "endingDate": 1546387200000
+    },
+    {
+      "rate": 20,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2017-18",
+      "startingDate": 1491004800000,
+      "endingDate": 1514851200000
+    }
+  ]
+  
+}
