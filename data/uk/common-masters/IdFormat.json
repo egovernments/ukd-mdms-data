@@ -412,7 +412,14 @@
         {
             "format": "PT-[CITY.CODE]-[SEQ_EG_PT_PTID_[TENANT_ID]]",
             "idname": "pt.propertyid"
+        },
+        {
+            "format": "UK-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "idname": "pt.acknowledgementnumber"
+        },
+        {
+            "format": "UK-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "idname": "pt.assessmentnumber"
         }
-
     ]
 }
