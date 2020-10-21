@@ -1,0 +1,26 @@
+{
+  "tenantId": "uk.munikireti",
+  "moduleName": "PropertyTax",
+  "TaxRate": [
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Non-residential)",
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020",
+      "endingDay": "31/03/2021"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Residential)",
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020",
+      "endingDay": "31/03/2021"
+    }
+  ]
+}
