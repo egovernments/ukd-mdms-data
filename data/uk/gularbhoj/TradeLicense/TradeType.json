@@ -1043,32 +1043,6 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.SHOP.TENT",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AC056",
-            "AADPANCARD ",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AC056",
-            "AADPANCARD ",
-            "OWNERPHOTO",
-            "OLDLICENSENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
       "code": "TRADE.SHOP.KHAL",
       "uom": null,
       "applicationDocument": [
@@ -1656,32 +1630,6 @@
           "applicationType": "RENEWAL",
           "documentList": [
             "AC056",
-            "AADPANCARD ",
-            "OWNERPHOTO",
-            "OLDLICENSENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.MEDICAL.TR18",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AC020      ",
-            "AADPANCARD ",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AC020      ",
             "AADPANCARD ",
             "OWNERPHOTO",
             "OLDLICENSENO"
