@@ -6238,13 +6238,13 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": "1897",
+      "actionid": 1897,
       "actioncode": "",
       "tenantId": "uk"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": "1898",
+      "actionid": 1898,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -6262,18 +6262,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1902,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1903,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 1904,
       "actioncode": "",
       "tenantId": "uk"
@@ -6283,13 +6271,13 @@
       "actionid": 1905,
       "actioncode": "",
       "tenantId": "uk"
-    },    
+    },
     {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1906,
       "actioncode": "",
       "tenantId": "uk"
-    },    
+    },
     {
       "rolecode": "TL_APPROVER",
       "actionid": 1906,
@@ -6311,6 +6299,72 @@
     {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1906,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1577,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1844,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1845,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1846,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1847,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1848,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1849,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1850,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1854,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DSS_CITY_ADMIN",
+      "actionid": 1855,
       "actioncode": "",
       "tenantId": "uk"
     }
