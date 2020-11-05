@@ -2424,6 +2424,76 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Compounding Fee",
+      "code": "TX.Compounding_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Information Fee",
+      "code": "TX.Information_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Self Assessment Form Fee",
+      "code": "TX.Self_Assessment_Form_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Assessment Copy Fee",
+      "code": "TX.Assessment_Copy_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Publication Fee",
+      "code": "TX.Publication_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }
