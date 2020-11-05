@@ -4,7 +4,7 @@
   "DepreciationAppreciation": [
     {
       "code": "01",
-      "depreciationAppreciation": 25,
+      "depreciationAppreciation": -25,
       "ageOfBuilding": {
         "yearFrom": 1,
         "yearTo": 10
@@ -15,7 +15,7 @@
     },
     {
       "code": "02",
-      "depreciationAppreciation": 32.5,
+      "depreciationAppreciation": -32.5,
       "ageOfBuilding": {
         "yearFrom": 11,
         "yearTo": 20
@@ -26,10 +26,10 @@
     },
     {
       "code": "03",
-      "depreciationAppreciation": 40,
+      "depreciationAppreciation": -40,
       "ageOfBuilding": {
         "yearFrom": 21,
-        "yearTo": null
+        "yearTo": 99
       },
       "active": true,
       "usageCategoryMajor": "RESIDENTIAL",
