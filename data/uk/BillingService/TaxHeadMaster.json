@@ -3176,16 +3176,6 @@
     },
     {
       "category": "CHARGES",
-      "service": "OTFF.Tender_Form_Fee",
-      "name": "OTFF.TENDER_FORM_FEE_FIELD_FEE",
-      "code": "OTFF.TENDER_FORM_FEE_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
       "service": "OTFF.Contract_Registration_Fee",
       "name": "OTFF.CONTRACT_REGISTRATION_FEE_FIELD_FEE",
       "code": "OTFF.CONTRACT_REGISTRATION_FEE_FIELD_FEE",
@@ -3439,16 +3429,6 @@
       "service": "OTFF.Vehicle_Parking_Fee",
       "name": "OTFF.VEHICLE_PARKING_FEE_TAX",
       "code": "OTFF.VEHICLE_PARKING_FEE_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "TAX",
-      "service": "OTFF.Tender_Form_Fee",
-      "name": "OTFF.TENDER_FORM_FEE_TAX",
-      "code": "OTFF.TENDER_FORM_FEE_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
