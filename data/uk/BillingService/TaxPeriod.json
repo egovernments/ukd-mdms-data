@@ -1465,6 +1465,46 @@
       "service": "OTHERS.Recovery_From_Employees_Or_Contracters",
       "code": "OTHERSRECOVERYFROMEMPLOYEESORCONTRACTERS",
       "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Compounding_Fee",
+      "code": "TXCOMPOUNDINGFEE",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Information_Fee",
+      "code": "TXINFORMATIONFEE",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Self_Assessment_Form_Fee",
+      "code": "TXSELFASSESSMENTFORMFEE",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Assessment_Copy_Fee",
+      "code": "TXASSESSMENTCOPYFEE",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Publication_Fee",
+      "code": "TXPUBLICATIONFEE",
+      "financialYear": "2014-24"
     }
   ]
 }
