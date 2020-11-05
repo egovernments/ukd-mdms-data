@@ -2160,20 +2160,6 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Other Fee And Fines.Tender Form Fee",
-      "code": "OTFF.Tender_Form_Fee",
-      "collectionModesNotAllowed": [
-        "CREDIT",
-        "DEBIT",
-        "CARD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Other Fee And Fines.Contract Registration Fee",
       "code": "OTFF.Contract_Registration_Fee",
       "collectionModesNotAllowed": [
