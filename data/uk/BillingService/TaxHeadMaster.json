@@ -3623,6 +3623,106 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Compounding_Fee",
+      "name": "TX.COMPOUNDING_FEE_FIELD_FEE",
+      "code": "TX.COMPOUNDING_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Information_Fee",
+      "name": "TX.INFORMATION_FEE_FIELD_FEE",
+      "code": "TX.INFORMATION_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Self_Assessment_Form_Fee",
+      "name": "TX.SELF_ASSESSMENT_FORM_FEE_FIELD_FEE",
+      "code": "TX.SELF_ASSESSMENT_FORM_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Assessment_Copy_Fee",
+      "name": "TX.ASSESSMENT_COPY_FEE_FIELD_FEE",
+      "code": "TX.ASSESSMENT_COPY_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Publication_Fee",
+      "name": "TX.PUBLICATION_FEE_FIELD_FEE",
+      "code": "TX.PUBLICATION_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Compounding_Fee",
+      "name": "TX.COMPOUNDING_FEE_TAX",
+      "code": "TX.COMPOUNDING_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Information_Fee",
+      "name": "TX.INFORMATION_FEE_TAX",
+      "code": "TX.INFORMATION_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Self_Assessment_Form_Fee",
+      "name": "TX.SELF_ASSESSMENT_FORM_FEE_TAX",
+      "code": "TX.SELF_ASSESSMENT_FORM_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Assessment_Copy_Fee",
+      "name": "TX.ASSESSMENT_COPY_FEE_TAX",
+      "code": "TX.ASSESSMENT_COPY_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Publication_Fee",
+      "name": "TX.PUBLICATION_FEE_TAX",
+      "code": "TX.PUBLICATION_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
     }
   ]
 }
