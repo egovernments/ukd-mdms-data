@@ -2060,6 +2060,440 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "Taxes.Hoarding Unipoll Wallpaint Gasballoon Polekiosk Gateentry Other",
+      "code": "TX.Hoarding_Unipoll_Wallpaint_Gasballoon_Polekiosk_Gateentry_Other",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Show Tax",
+      "code": "TX.Show_Tax",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.G S T",
+      "code": "TX.G_S_T",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Park Rent",
+      "code": "RT.Park_Rent",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Copy Fee",
+      "code": "OTFF.Copy_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.File Observation Fee",
+      "code": "OTFF.File_Observation_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Vehicle Parking Fee",
+      "code": "OTFF.Vehicle_Parking_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Contract Registration Fee",
+      "code": "OTFF.Contract_Registration_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Contract Renewal Fees",
+      "code": "OTFF.Contract_Renewal_Fees",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Development Charges",
+      "code": "OTFF.Development_Charges",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Exhibition Fee",
+      "code": "OTFF.Exhibition_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Animal Slaughtering Fees Buffalo",
+      "code": "OTFF.Animal_Slaughtering_Fees_Buffalo",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Animal Slaughtering Fees Goat",
+      "code": "OTFF.Animal_Slaughtering_Fees_Goat",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Amplifier Fees",
+      "code": "OTFF.Amplifier_Fees",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Self Assisment Form Fees",
+      "code": "OTFF.Self_Assisment_Form_Fees",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Premium",
+      "code": "OTFF.Premium",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Late Fees",
+      "code": "OTFF.Late_Fees",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Tender Form Fee",
+      "code": "OTFF.Tender_Form_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Pay And Use Toilets Charges",
+      "code": "UC.Pay_And_Use_Toilets_Charges",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Garbage Collection Charges Residential",
+      "code": "UC.Garbage_Collection_Charges_Residential",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Garbage Collection Charges Commercial",
+      "code": "UC.Garbage_Collection_Charges_Commercial",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale And Hire Charges.Sale Of Forms And Publications",
+      "code": "SLHC.Sale_Of_Forms_And_Publications",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale And Hire Charges.Sale Of Stores Scrap",
+      "code": "SLHC.Sale_Of_Stores_Scrap",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants And Interest Earned.Interest From Sb Accounts",
+      "code": "GTINER.Interest_From_Sb_Accounts",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Profit On Disposal Of Fixed Assets",
+      "code": "OTHERS.Profit_On_Disposal_Of_Fixed_Assets",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Recovery From Employees Or Contracters",
+      "code": "OTHERS.Recovery_From_Employees_Or_Contracters",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Compounding Fee",
+      "code": "TX.Compounding_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Information Fee",
+      "code": "TX.Information_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Self Assessment Form Fee",
+      "code": "TX.Self_Assessment_Form_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Assessment Copy Fee",
+      "code": "TX.Assessment_Copy_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Publication Fee",
+      "code": "TX.Publication_Fee",
+      "collectionModesNotAllowed": [
+        "CREDIT",
+        "DEBIT",
+        "CARD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }

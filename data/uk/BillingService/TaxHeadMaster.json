@@ -3103,6 +3103,626 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Hoarding_Unipoll_Wallpaint_Gasballoon_Polekiosk_Gateentry_Other",	
+      "name": "TX.HOARDING_UNIPOLL_WALLPAINT_GASBALLOON_POLEKIOSK_GATEENTRY_OTHER_FIELD_FEE",	
+      "code": "TX.HOARDING_UNIPOLL_WALLPAINT_GASBALLOON_POLEKIOSK_GATEENTRY_OTHER_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Show_Tax",	
+      "name": "TX.SHOW_TAX_FIELD_FEE",	
+      "code": "TX.SHOW_TAX_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.G_S_T",	
+      "name": "TX.G_S_T_FIELD_FEE",	
+      "code": "TX.G_S_T_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "RT.Park_Rent",	
+      "name": "RT.PARK_RENT_FIELD_FEE",	
+      "code": "RT.PARK_RENT_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Copy_Fee",	
+      "name": "OTFF.COPY_FEE_FIELD_FEE",	
+      "code": "OTFF.COPY_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.File_Observation_Fee",	
+      "name": "OTFF.FILE_OBSERVATION_FEE_FIELD_FEE",	
+      "code": "OTFF.FILE_OBSERVATION_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Vehicle_Parking_Fee",	
+      "name": "OTFF.VEHICLE_PARKING_FEE_FIELD_FEE",	
+      "code": "OTFF.VEHICLE_PARKING_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Contract_Registration_Fee",	
+      "name": "OTFF.CONTRACT_REGISTRATION_FEE_FIELD_FEE",	
+      "code": "OTFF.CONTRACT_REGISTRATION_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Contract_Renewal_Fees",	
+      "name": "OTFF.CONTRACT_RENEWAL_FEES_FIELD_FEE",	
+      "code": "OTFF.CONTRACT_RENEWAL_FEES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Development_Charges",	
+      "name": "OTFF.DEVELOPMENT_CHARGES_FIELD_FEE",	
+      "code": "OTFF.DEVELOPMENT_CHARGES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Exhibition_Fee",	
+      "name": "OTFF.EXHIBITION_FEE_FIELD_FEE",	
+      "code": "OTFF.EXHIBITION_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Animal_Slaughtering_Fees_Buffalo",	
+      "name": "OTFF.ANIMAL_SLAUGHTERING_FEES_BUFFALO_FIELD_FEE",	
+      "code": "OTFF.ANIMAL_SLAUGHTERING_FEES_BUFFALO_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Animal_Slaughtering_Fees_Goat",	
+      "name": "OTFF.ANIMAL_SLAUGHTERING_FEES_GOAT_FIELD_FEE",	
+      "code": "OTFF.ANIMAL_SLAUGHTERING_FEES_GOAT_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Amplifier_Fees",	
+      "name": "OTFF.AMPLIFIER_FEES_FIELD_FEE",	
+      "code": "OTFF.AMPLIFIER_FEES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Self_Assisment_Form_Fees",	
+      "name": "OTFF.SELF_ASSISMENT_FORM_FEES_FIELD_FEE",	
+      "code": "OTFF.SELF_ASSISMENT_FORM_FEES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Premium",	
+      "name": "OTFF.PREMIUM_FIELD_FEE",	
+      "code": "OTFF.PREMIUM_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Late_Fees",	
+      "name": "OTFF.LATE_FEES_FIELD_FEE",	
+      "code": "OTFF.LATE_FEES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTFF.Tender_Form_Fee",	
+      "name": "OTFF.TENDER_FORM_FEE_FIELD_FEE",	
+      "code": "OTFF.TENDER_FORM_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "UC.Pay_And_Use_Toilets_Charges",	
+      "name": "UC.PAY_AND_USE_TOILETS_CHARGES_FIELD_FEE",	
+      "code": "UC.PAY_AND_USE_TOILETS_CHARGES_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "UC.Garbage_Collection_Charges_Residential",	
+      "name": "UC.GARBAGE_COLLECTION_CHARGES_RESIDENTIAL_FIELD_FEE",	
+      "code": "UC.GARBAGE_COLLECTION_CHARGES_RESIDENTIAL_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "UC.Garbage_Collection_Charges_Commercial",	
+      "name": "UC.GARBAGE_COLLECTION_CHARGES_COMMERCIAL_FIELD_FEE",	
+      "code": "UC.GARBAGE_COLLECTION_CHARGES_COMMERCIAL_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "SLHC.Sale_Of_Forms_And_Publications",	
+      "name": "SLHC.SALE_OF_FORMS_AND_PUBLICATIONS_FIELD_FEE",	
+      "code": "SLHC.SALE_OF_FORMS_AND_PUBLICATIONS_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "SLHC.Sale_Of_Stores_Scrap",	
+      "name": "SLHC.SALE_OF_STORES_SCRAP_FIELD_FEE",	
+      "code": "SLHC.SALE_OF_STORES_SCRAP_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "GTINER.Interest_From_Sb_Accounts",	
+      "name": "GTINER.INTEREST_FROM_SB_ACCOUNTS_FIELD_FEE",	
+      "code": "GTINER.INTEREST_FROM_SB_ACCOUNTS_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTHERS.Profit_On_Disposal_Of_Fixed_Assets",	
+      "name": "OTHERS.PROFIT_ON_DISPOSAL_OF_FIXED_ASSETS_FIELD_FEE",	
+      "code": "OTHERS.PROFIT_ON_DISPOSAL_OF_FIXED_ASSETS_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "OTHERS.Recovery_From_Employees_Or_Contracters",	
+      "name": "OTHERS.RECOVERY_FROM_EMPLOYEES_OR_CONTRACTERS_FIELD_FEE",	
+      "code": "OTHERS.RECOVERY_FROM_EMPLOYEES_OR_CONTRACTERS_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Hoarding_Unipoll_Wallpaint_Gasballoon_Polekiosk_Gateentry_Other",	
+      "name": "TX.HOARDING_UNIPOLL_WALLPAINT_GASBALLOON_POLEKIOSK_GATEENTRY_OTHER_TAX",	
+      "code": "TX.HOARDING_UNIPOLL_WALLPAINT_GASBALLOON_POLEKIOSK_GATEENTRY_OTHER_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Show_Tax",	
+      "name": "TX.SHOW_TAX_TAX",	
+      "code": "TX.SHOW_TAX_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.G_S_T",	
+      "name": "TX.G_S_T_TAX",	
+      "code": "TX.G_S_T_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "RT.Park_Rent",	
+      "name": "RT.PARK_RENT_TAX",	
+      "code": "RT.PARK_RENT_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Copy_Fee",	
+      "name": "OTFF.COPY_FEE_TAX",	
+      "code": "OTFF.COPY_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.File_Observation_Fee",	
+      "name": "OTFF.FILE_OBSERVATION_FEE_TAX",	
+      "code": "OTFF.FILE_OBSERVATION_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Vehicle_Parking_Fee",	
+      "name": "OTFF.VEHICLE_PARKING_FEE_TAX",	
+      "code": "OTFF.VEHICLE_PARKING_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Contract_Registration_Fee",	
+      "name": "OTFF.CONTRACT_REGISTRATION_FEE_TAX",	
+      "code": "OTFF.CONTRACT_REGISTRATION_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Contract_Renewal_Fees",	
+      "name": "OTFF.CONTRACT_RENEWAL_FEES_TAX",	
+      "code": "OTFF.CONTRACT_RENEWAL_FEES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Development_Charges",	
+      "name": "OTFF.DEVELOPMENT_CHARGES_TAX",	
+      "code": "OTFF.DEVELOPMENT_CHARGES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Exhibition_Fee",	
+      "name": "OTFF.EXHIBITION_FEE_TAX",	
+      "code": "OTFF.EXHIBITION_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Animal_Slaughtering_Fees_Buffalo",	
+      "name": "OTFF.ANIMAL_SLAUGHTERING_FEES_BUFFALO_TAX",	
+      "code": "OTFF.ANIMAL_SLAUGHTERING_FEES_BUFFALO_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Animal_Slaughtering_Fees_Goat",	
+      "name": "OTFF.ANIMAL_SLAUGHTERING_FEES_GOAT_TAX",	
+      "code": "OTFF.ANIMAL_SLAUGHTERING_FEES_GOAT_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Amplifier_Fees",	
+      "name": "OTFF.AMPLIFIER_FEES_TAX",	
+      "code": "OTFF.AMPLIFIER_FEES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Self_Assisment_Form_Fees",	
+      "name": "OTFF.SELF_ASSISMENT_FORM_FEES_TAX",	
+      "code": "OTFF.SELF_ASSISMENT_FORM_FEES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Premium",	
+      "name": "OTFF.PREMIUM_TAX",	
+      "code": "OTFF.PREMIUM_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Late_Fees",	
+      "name": "OTFF.LATE_FEES_TAX",	
+      "code": "OTFF.LATE_FEES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTFF.Tender_Form_Fee",	
+      "name": "OTFF.TENDER_FORM_FEE_TAX",	
+      "code": "OTFF.TENDER_FORM_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "UC.Pay_And_Use_Toilets_Charges",	
+      "name": "UC.PAY_AND_USE_TOILETS_CHARGES_TAX",	
+      "code": "UC.PAY_AND_USE_TOILETS_CHARGES_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "UC.Garbage_Collection_Charges_Residential",	
+      "name": "UC.GARBAGE_COLLECTION_CHARGES_RESIDENTIAL_TAX",	
+      "code": "UC.GARBAGE_COLLECTION_CHARGES_RESIDENTIAL_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "UC.Garbage_Collection_Charges_Commercial",	
+      "name": "UC.GARBAGE_COLLECTION_CHARGES_COMMERCIAL_TAX",	
+      "code": "UC.GARBAGE_COLLECTION_CHARGES_COMMERCIAL_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "SLHC.Sale_Of_Forms_And_Publications",	
+      "name": "SLHC.SALE_OF_FORMS_AND_PUBLICATIONS_TAX",	
+      "code": "SLHC.SALE_OF_FORMS_AND_PUBLICATIONS_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "SLHC.Sale_Of_Stores_Scrap",	
+      "name": "SLHC.SALE_OF_STORES_SCRAP_TAX",	
+      "code": "SLHC.SALE_OF_STORES_SCRAP_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "GTINER.Interest_From_Sb_Accounts",	
+      "name": "GTINER.INTEREST_FROM_SB_ACCOUNTS_TAX",	
+      "code": "GTINER.INTEREST_FROM_SB_ACCOUNTS_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTHERS.Profit_On_Disposal_Of_Fixed_Assets",	
+      "name": "OTHERS.PROFIT_ON_DISPOSAL_OF_FIXED_ASSETS_TAX",	
+      "code": "OTHERS.PROFIT_ON_DISPOSAL_OF_FIXED_ASSETS_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "OTHERS.Recovery_From_Employees_Or_Contracters",	
+      "name": "OTHERS.RECOVERY_FROM_EMPLOYEES_OR_CONTRACTERS_TAX",	
+      "code": "OTHERS.RECOVERY_FROM_EMPLOYEES_OR_CONTRACTERS_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Compounding_Fee",	
+      "name": "TX.COMPOUNDING_FEE_FIELD_FEE",	
+      "code": "TX.COMPOUNDING_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Information_Fee",	
+      "name": "TX.INFORMATION_FEE_FIELD_FEE",	
+      "code": "TX.INFORMATION_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Self_Assessment_Form_Fee",	
+      "name": "TX.SELF_ASSESSMENT_FORM_FEE_FIELD_FEE",	
+      "code": "TX.SELF_ASSESSMENT_FORM_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Assessment_Copy_Fee",	
+      "name": "TX.ASSESSMENT_COPY_FEE_FIELD_FEE",	
+      "code": "TX.ASSESSMENT_COPY_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "CHARGES",	
+      "service": "TX.Publication_Fee",	
+      "name": "TX.PUBLICATION_FEE_FIELD_FEE",	
+      "code": "TX.PUBLICATION_FEE_FIELD_FEE",	
+      "isDebit": false,	
+      "isActualDemand": false,	
+      "order": "0",	
+      "isRequired": false	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Compounding_Fee",	
+      "name": "TX.COMPOUNDING_FEE_TAX",	
+      "code": "TX.COMPOUNDING_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Information_Fee",	
+      "name": "TX.INFORMATION_FEE_TAX",	
+      "code": "TX.INFORMATION_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Self_Assessment_Form_Fee",	
+      "name": "TX.SELF_ASSESSMENT_FORM_FEE_TAX",	
+      "code": "TX.SELF_ASSESSMENT_FORM_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Assessment_Copy_Fee",	
+      "name": "TX.ASSESSMENT_COPY_FEE_TAX",	
+      "code": "TX.ASSESSMENT_COPY_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
+    },	
+    {	
+      "category": "TAX",	
+      "service": "TX.Publication_Fee",	
+      "name": "TX.PUBLICATION_FEE_TAX",	
+      "code": "TX.PUBLICATION_FEE_TAX",	
+      "isDebit": false,	
+      "isActualDemand": true,	
+      "order": "1",	
+      "isRequired": true	
     }
   ]
 }
