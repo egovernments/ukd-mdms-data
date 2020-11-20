@@ -288,33 +288,7 @@
     "active": true,
     "type": "TL"
   },
-     {
-      "code": "TRADE.INDUSTRY.TR36",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AC020",
-            "AADPANCARD",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AC020",
-            "AADPANCARD",
-            "OWNERPHOTO",
-            "OLDLICENSENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
+  {
       "code": "TRADE.INDUSTRY.PANMF",
       "uom": null,
       "applicationDocument": [
@@ -784,32 +758,6 @@
     },
     {
       "code": "TRADE.SHOP.JUST",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "AC056",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "AC056",
-            "OWNERPHOTO",
-            "OLDLICENSENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.STREETVENDOR.JUST",
       "uom": null,
       "applicationDocument": [
         {
