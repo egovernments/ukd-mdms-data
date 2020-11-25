@@ -780,6 +780,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "LateAssessmentPenalty": {
+      "masterName": "LateAssessmentPenalty",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   }
 }
