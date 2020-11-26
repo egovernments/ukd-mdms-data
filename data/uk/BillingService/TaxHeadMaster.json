@@ -74,8 +74,9 @@
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
       "isDebit": false,
-      "isActualDemand": false,
-      "order": "1"
+      "isActualDemand": true,
+      "order": "1",
+      "legacy": true
     },
     {
       "category": "TAX",
