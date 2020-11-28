@@ -79,6 +79,32 @@
     "verificationDocument": [],
     "active": true,
     "type": "TL"
-  }
+  },
+  {
+      "code": "TRADE.STREETVENDOR.TSIF",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC002",
+            "AC025",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AC002",
+            "AC025",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }  
 ]
 }
