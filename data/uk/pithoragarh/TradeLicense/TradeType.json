@@ -679,32 +679,6 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.REST.DHAB",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "AC028",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "AC028",
-            "OWNERPHOTO",
-            "OLDLICENSENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
       "code": "TRADE.REST.RNAC",
       "uom": null,
       "applicationDocument": [
