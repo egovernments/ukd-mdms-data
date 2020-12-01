@@ -497,22 +497,22 @@
     "type": "TL"
   },
   {
-      "code": "TRADE.STREETVENDOR.TSIF",
+      "code": "TRADE.REST.BIRYAN",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AC002",
-            "AC025",
+            "AADPANCARD",
+            "AC056",
             "OWNERPHOTO"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AC002",
-            "AC025",
+            "AADPANCARD",
+            "AC056",
             "OWNERPHOTO",
             "OLDLICENSENO"
           ]
@@ -521,6 +521,6 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
-    }
+   }
 ]
 }
