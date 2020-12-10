@@ -655,6 +655,13 @@
       "uniqueKeys": [
         "$.forFy"
       ]
+    },
+    "SwachhataTax": {
+      "masterName": "SwachhataTax",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.financialYear"
+      ]
     }
   },
   "TradeLicense": {
