@@ -6523,7 +6523,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1893,
       "name": "Create Assessment registry",
@@ -6556,7 +6555,8 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 1896,
       "name": "Migrate Property v1 to v2",
       "url": "/property-services/property/_migration",
@@ -6595,7 +6595,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1899,
       "name": "propertytax Estimate",
       "url": "/pt-calculator-v2/propertytax/v1/_estimate",
@@ -6757,7 +6757,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-      {
+    {
       "id": 1938,
       "name": "Locality searcher endpoint for PT",
       "url": "/egov-searcher/locality/PT/_get",
@@ -6778,6 +6778,22 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1940,
+      "name": "rainmaker-common-propertytax",
+      "url": "card",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "property-tax",
+      "leftIcon": "action:store",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
