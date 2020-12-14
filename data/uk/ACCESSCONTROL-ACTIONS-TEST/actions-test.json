@@ -6782,18 +6782,17 @@
     {
       "id": 1940,
       "name": "rainmaker-common-propertytax",
-      "url": "card",
+      "url": "url",
       "displayName": "Property Tax",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
+      "serviceCode": "PT",
+      "code": "null",
       "navigationURL": "property-tax",
+      "path": "UC",
       "leftIcon": "action:store",
-      "rightIcon": "",
-      "queryParams": ""
+      "rightIcon": ""
     }
   ]
 }
