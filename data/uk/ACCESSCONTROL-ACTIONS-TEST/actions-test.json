@@ -6581,11 +6581,12 @@
       "path": ""
     },
     
-{
+
+  {
       "id": 1907,
-      "name": "Dashboard Home",
+      "name": "Dashboard M Collect",
       "url": "url",
-      "displayName": "Mcollect",
+      "displayName": "M collect",
       "orderNumber": 5,
       "parentModule": "dss-dashboard",
       "enabled": true,
@@ -6596,8 +6597,8 @@
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
-    
-      {
+ 
+    {
       "id": 1908,
       "name": "DSS Dashboard Config Mcollect",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/mcollect",
@@ -6611,7 +6612,7 @@
     },
        {
       "id": 1909,
-      "name": "Dashboard ULB Mcollect",
+      "name": "Dashboard CB M Collect",
       "url": "url",
       "displayName": "ULB Mcollect",
       "orderNumber": 8,
@@ -6627,7 +6628,7 @@
   
     {
       "id": 1910,
-      "name": "Dashboard ULB Mcollect",
+      "name": "DSS Dashboard Config M Collect",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-mcollect",
       "parentModule": "",
       "displayName": "DSS",
@@ -6637,5 +6638,7 @@
       "code": "null",
       "path": ""
     }
+    
+    
   ]
 }
