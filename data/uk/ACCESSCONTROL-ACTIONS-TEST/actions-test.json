@@ -6580,9 +6580,7 @@
       "code": "null",
       "path": ""
     },
-    
-
-  {
+    {
       "id": 1907,
       "name": "Dashboard M Collect",
       "url": "url",
@@ -6597,7 +6595,6 @@
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
- 
     {
       "id": 1908,
       "name": "DSS Dashboard Config Mcollect",
@@ -6610,7 +6607,7 @@
       "code": "null",
       "path": ""
     },
-       {
+    {
       "id": 1909,
       "name": "Dashboard CB M Collect",
       "url": "url",
@@ -6625,7 +6622,6 @@
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
-  
     {
       "id": 1910,
       "name": "DSS Dashboard Config M Collect",
@@ -6637,8 +6633,42 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1911,
+      "name": "DSS Dashboard Config M Collect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-home",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1912,
+      "name": "DSS Dashboard Config M Collect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-overview",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1913,
+      "name": "DSS Dashboard Config M Collect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-tradeLicense",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
-    
-    
   ]
 }
