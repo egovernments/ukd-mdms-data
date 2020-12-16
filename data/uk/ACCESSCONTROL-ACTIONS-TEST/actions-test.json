@@ -6793,6 +6793,42 @@
       "path": "UC",
       "leftIcon": "action:store",
       "rightIcon": ""
+    },
+    {
+      "id": 1941,
+      "name": "MutationBillingSlabCreate",
+      "url": "/pt-calculator-v2/billingslab/mutation/_create",
+      "displayName": "Mutation Billing Slab Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1942,
+      "name": "MutationBillingSlabSearch",
+      "url": "/pt-calculator-v2/billingslab/mutation/_search",
+      "displayName": "Mutation Billing Slab Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1943,
+      "name": "MutationBillingSlabUpdate",
+      "url": "/pt-calculator-v2/billingslab/mutation/_update",
+      "displayName": "Mutation Billing Slab Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
