@@ -18,7 +18,7 @@
         "code": "uk.jaspur",
         "children": [
           {
-            "id": "31db15c0-f554-4f68-b735-fc7a41f49b53",
+            "id": "0a30ed04-e1e4-4d01-b8e5-9008322f35b7",
             "boundaryNum": 1,
             "name": "Jaspur",
             "localname": "Jaspur",
@@ -28,7 +28,7 @@
             "code": "ZONE1",
             "children": [
               {
-                "id": "fa4010be-150a-4233-8d59-072ce4963266",
+                "id": "1a27283c-1639-493e-8bca-de4142ab6f92",
                 "boundaryNum": 1,
                 "name": "Chhipiyan",
                 "localname": "Chhipiyan",
@@ -38,358 +38,10 @@
                 "code": "W18498",
                 "children": [
                   {
-                    "id": "370bacdf-c423-4670-92df-771dd359ceac",
+                    "id": "1d19a35e-42c3-4f81-89b7-a86ed0ed19be",
                     "boundaryNum": 1,
-                    "name": "Dilla Singh - Chhipiyan",
-                    "localname": "Dilla Singh - Chhipiyan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0004",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "f9c3df7d-41cf-4bc7-bb3f-9cb140101c72",
-                "boundaryNum": 1,
-                "name": "Bazar Bhoop Singh",
-                "localname": "Bazar Bhoop Singh",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18499",
-                "children": [
-                  {
-                    "id": "fa3fa6fd-9383-426f-904d-d443c0ac6637",
-                    "boundaryNum": 1,
-                    "name": "Nattha Singh - Bazar Bhoop Singh",
-                    "localname": "Nattha Singh - Bazar Bhoop Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0005",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "ad9abc55-b6e9-4834-87c8-b74b9edd801b",
-                "boundaryNum": 1,
-                "name": "Dilla Singh",
-                "localname": "Dilla Singh",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18500",
-                "children": [
-                  {
-                    "id": "b2eaf4a0-65cd-4457-85a2-bbe9d4c2ce6b",
-                    "boundaryNum": 1,
-                    "name": "Nattha Singh - Dilla Singh",
-                    "localname": "Nattha Singh - Dilla Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0006",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "03aa9c94-662b-41b3-9026-92fe9bbdfc17",
-                    "boundaryNum": 1,
-                    "name": "Nayee Basti - Dilla Singh",
-                    "localname": "Nayee Basti - Dilla Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0017",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "f8e57304-056c-469b-9781-72824d4be804",
-                    "boundaryNum": 1,
-                    "name": "Patti Teergadi - Dilla Singh",
-                    "localname": "Patti Teergadi - Dilla Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0025",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "c2214053-e631-4164-b81b-b9f96b5d5545",
-                "boundaryNum": 1,
-                "name": "Nattha Singh",
-                "localname": "Nattha Singh",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18501",
-                "children": [
-                  {
-                    "id": "5a148fc6-ee02-4fd4-9ac3-944e828f235a",
-                    "boundaryNum": 1,
-                    "name": "Gujratiyan - Nattha Singh",
-                    "localname": "Gujratiyan - Nattha Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0010",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "15c4c787-8e94-4b20-a5e7-03c067d1f36a",
-                    "boundaryNum": 1,
-                    "name": "Patti Mansha - Nattha Singh",
-                    "localname": "Patti Mansha - Nattha Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0024",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "7fc719f8-6eef-4c48-b2ba-d936e96ef4cd",
-                "boundaryNum": 1,
-                "name": "Patti Chauhan",
-                "localname": "Patti Chauhan",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18502",
-                "children": [
-                  {
-                    "id": "054ae1d9-1deb-40c2-bb3d-55af376899b1",
-                    "boundaryNum": 1,
-                    "name": "Patti Chauhan - Patti Chauhan",
-                    "localname": "Patti Chauhan - Patti Chauhan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0007",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "8e7a9b64-da7b-48c7-a691-c2ba4995cd89",
-                    "boundaryNum": 1,
-                    "name": "Gujratiyan - Patti Chauhan",
-                    "localname": "Gujratiyan - Patti Chauhan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0011",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "55d780e5-d880-4abd-96d9-abe591ce6b81",
-                    "boundaryNum": 1,
-                    "name": "Patti Netram - Patti Chauhan",
-                    "localname": "Patti Netram - Patti Chauhan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0023",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "4babdfb2-ef27-4393-84fc-d019078d0602",
-                "boundaryNum": 1,
-                "name": "Gujratiyan",
-                "localname": "Gujratiyan",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18503",
-                "children": [
-                  {
-                    "id": "127ffd6e-36b2-4515-9fe9-598df9b2709e",
-                    "boundaryNum": 1,
-                    "name": "Chauhanan - Gujratiyan",
-                    "localname": "Chauhanan - Gujratiyan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0013",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "cd29732f-861a-4ef0-8570-4ff21ba58e16",
-                    "boundaryNum": 1,
-                    "name": "Julahan - Gujratiyan",
-                    "localname": "Julahan - Gujratiyan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0014",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "e26eb45c-8544-46f5-b5f4-1182d99fc145",
-                "boundaryNum": 1,
-                "name": "Chauhanan",
-                "localname": "Chauhanan",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18504",
-                "children": [
-                  {
-                    "id": "0ba2764a-2be9-422a-a5e4-4b2529395821",
-                    "boundaryNum": 1,
-                    "name": "Julahan - Chauhanan",
-                    "localname": "Julahan - Chauhanan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0015",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "8600ab28-8aa1-401a-8822-b9c37589ab9b",
-                "boundaryNum": 1,
-                "name": "Julahan",
-                "localname": "Julahan",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18505",
-                "children": [
-                  {
-                    "id": "f54ce7f0-d93a-47d7-a457-4a63ba9f2639",
-                    "boundaryNum": 1,
-                    "name": "Patti Chauhan - Julahan",
-                    "localname": "Patti Chauhan - Julahan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0008",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "028340c3-dd9a-4b46-8843-6d1f8cf3f3f1",
-                "boundaryNum": 1,
-                "name": "Phoop Singh",
-                "localname": "Phoop Singh",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18506",
-                "children": [
-                  {
-                    "id": "fdf0725d-cd9d-4d5c-9a3c-a7bf5e335015",
-                    "boundaryNum": 1,
-                    "name": "Patti Chauhan - Phoop Singh",
-                    "localname": "Patti Chauhan - Phoop Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0009",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "0cde3671-8c16-4504-8c61-50cf2ee19f0a",
-                    "boundaryNum": 1,
-                    "name": "Gujratiyan - Phoop Singh",
-                    "localname": "Gujratiyan - Phoop Singh",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0012",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "9c9f167f-1762-4d2a-91fd-7d378be6316d",
-                "boundaryNum": 1,
-                "name": "Nayee Basti",
-                "localname": "Nayee Basti",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18507",
-                "children": [
-                  {
-                    "id": "3aac54ca-769a-4571-bc7e-109afce6f935",
-                    "boundaryNum": 1,
-                    "name": "Phoop Singh - Nayee Basti",
-                    "localname": "Phoop Singh - Nayee Basti",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0016",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "db1e9938-c3a1-467c-b6fa-679576fc9bf8",
-                "boundaryNum": 1,
-                "name": "Patti Netram",
-                "localname": "Patti Netram",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18508",
-                "children": [
-                  {
-                    "id": "51d4f980-3a7f-4045-9ccf-4b01a14ba2ab",
-                    "boundaryNum": 1,
-                    "name": "Bazar Bhoop Singh - Patti Netram",
-                    "localname": "Bazar Bhoop Singh - Patti Netram",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0003",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "926c5575-9177-4774-9778-3e6a42030aa4",
-                "boundaryNum": 1,
-                "name": "Patti Mansha",
-                "localname": "Patti Mansha",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W18509",
-                "children": [
-                  {
-                    "id": "f1bdbb0e-4203-4e2e-8003-8f6043e6d4a1",
-                    "boundaryNum": 1,
-                    "name": "Chhipiyan - Patti Mansha",
-                    "localname": "Chhipiyan - Patti Mansha",
+                    "name": "Chhipiyan - Chhipiyan",
+                    "localname": "Chhipiyan - Chhipiyan",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -400,20 +52,20 @@
                 ]
               },
               {
-                "id": "cfa31699-c273-49fc-bac5-643f028462ce",
+                "id": "10d044fb-4b79-44fc-967f-9aa7f3c8cd4f",
                 "boundaryNum": 1,
-                "name": "Patti Teergadi",
-                "localname": "Patti Teergadi",
+                "name": "Bazar Bhoop Singh",
+                "localname": "Bazar Bhoop Singh",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "W18510",
+                "code": "W18499",
                 "children": [
                   {
-                    "id": "f7fcac71-7366-49f5-ab76-2be8edbf5823",
+                    "id": "6997bd59-d201-49a6-907e-6d59f5c730a8",
                     "boundaryNum": 1,
-                    "name": "Chhipiyan - Patti Teergadi",
-                    "localname": "Chhipiyan - Patti Teergadi",
+                    "name": "Bazar Bhoop Singh - Bazar Bhoop Singh",
+                    "localname": "Bazar Bhoop Singh - Bazar Bhoop Singh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -424,7 +76,271 @@
                 ]
               },
               {
-                "id": "2b6e816e-2c3d-4c8b-a931-614c9d0aa776",
+                "id": "d8412803-3d72-43a8-bd70-d1dc47adbda1",
+                "boundaryNum": 1,
+                "name": "Dilla Singh",
+                "localname": "Dilla Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18500",
+                "children": [
+                  {
+                    "id": "579a55de-8636-4d1a-a340-61394f64fee5",
+                    "boundaryNum": 1,
+                    "name": "Dilla Singh - Dilla Singh",
+                    "localname": "Dilla Singh - Dilla Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee9d7d33-8f76-4f24-b613-a4df210f6ff7",
+                "boundaryNum": 1,
+                "name": "Nattha Singh",
+                "localname": "Nattha Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18501",
+                "children": [
+                  {
+                    "id": "03d5a4aa-983d-4c49-a55b-b4f753f5974c",
+                    "boundaryNum": 1,
+                    "name": "Nattha Singh - Nattha Singh",
+                    "localname": "Nattha Singh - Nattha Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "126bd189-43fb-4254-b27f-8a4f7191f21f",
+                "boundaryNum": 1,
+                "name": "Patti Chauhan",
+                "localname": "Patti Chauhan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18502",
+                "children": [
+                  {
+                    "id": "5b5893eb-fb70-4f54-8274-256745975623",
+                    "boundaryNum": 1,
+                    "name": "Patti Chauhan - Patti Chauhan",
+                    "localname": "Patti Chauhan - Patti Chauhan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06836a88-6650-41b4-8245-7dc90da5be01",
+                "boundaryNum": 1,
+                "name": "Gujratiyan",
+                "localname": "Gujratiyan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18503",
+                "children": [
+                  {
+                    "id": "9b594a06-c8b4-4741-9638-b88845707916",
+                    "boundaryNum": 1,
+                    "name": "Gujratiyan - Gujratiyan",
+                    "localname": "Gujratiyan - Gujratiyan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17960588-07df-4831-9bb8-d4e7b3bbe5ab",
+                "boundaryNum": 1,
+                "name": "Chauhanan",
+                "localname": "Chauhanan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18504",
+                "children": [
+                  {
+                    "id": "3266ca78-b64e-4b96-aa79-5f46451fb04e",
+                    "boundaryNum": 1,
+                    "name": "Chauhanan - Chauhanan",
+                    "localname": "Chauhanan - Chauhanan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e0478b2a-b797-42a7-b949-b7070dde62cf",
+                "boundaryNum": 1,
+                "name": "Julahan",
+                "localname": "Julahan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18505",
+                "children": [
+                  {
+                    "id": "799ba508-6196-4b78-82ec-2cb022b04bbc",
+                    "boundaryNum": 1,
+                    "name": "Julahan - Julahan",
+                    "localname": "Julahan - Julahan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95f3ab34-5716-4bdd-ac60-7e1691fa8564",
+                "boundaryNum": 1,
+                "name": "Phoop Singh",
+                "localname": "Phoop Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18506",
+                "children": [
+                  {
+                    "id": "3e46cf8a-8805-4a25-8b39-3cbbdb41c8f6",
+                    "boundaryNum": 1,
+                    "name": "Phoop Singh - Phoop Singh",
+                    "localname": "Phoop Singh - Phoop Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5fe04619-0792-4609-a12e-0cc6371b47d5",
+                "boundaryNum": 1,
+                "name": "Nayee Basti",
+                "localname": "Nayee Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18507",
+                "children": [
+                  {
+                    "id": "735c5390-58fb-457d-a2ce-dea571abf8ae",
+                    "boundaryNum": 1,
+                    "name": "Nayee Basti - Nayee Basti",
+                    "localname": "Nayee Basti - Nayee Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bace4fed-5d52-4155-b5cd-fe631b8e7ddd",
+                "boundaryNum": 1,
+                "name": "Patti Netram",
+                "localname": "Patti Netram",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18508",
+                "children": [
+                  {
+                    "id": "8dc69552-7daf-4b8a-b74e-fd0d40b5556b",
+                    "boundaryNum": 1,
+                    "name": "Patti Netram - Patti Netram",
+                    "localname": "Patti Netram - Patti Netram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "251aeaed-1817-4d73-acff-452b6f45b4ee",
+                "boundaryNum": 1,
+                "name": "Patti Mansha",
+                "localname": "Patti Mansha",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18509",
+                "children": [
+                  {
+                    "id": "b22caf7d-86c7-4c6e-ae6f-56df492ba3c9",
+                    "boundaryNum": 1,
+                    "name": "Patti Mansha - Patti Mansha",
+                    "localname": "Patti Mansha - Patti Mansha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a815032-1cca-482a-aa23-da1118abb843",
+                "boundaryNum": 1,
+                "name": "Patti Teergadi",
+                "localname": "Patti Teergadi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18510",
+                "children": [
+                  {
+                    "id": "35cecd75-678f-422b-9948-de2998bc34e6",
+                    "boundaryNum": 1,
+                    "name": "Patti Teergadi - Patti Teergadi",
+                    "localname": "Patti Teergadi - Patti Teergadi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0be415a7-02b4-46c8-b41d-838e8cf24209",
                 "boundaryNum": 1,
                 "name": "Ganguwala Uttri",
                 "localname": "Ganguwala Uttri",
@@ -434,33 +350,21 @@
                 "code": "W18511",
                 "children": [
                   {
-                    "id": "1a5b4a56-0e65-4bc3-b900-16104283a3de",
+                    "id": "3038d5f4-3c35-4af4-8130-47fe5d2e9fb9",
                     "boundaryNum": 1,
-                    "name": "Nayee Basti - Ganguwala Uttri",
-                    "localname": "Nayee Basti - Ganguwala Uttri",
+                    "name": "Ganguwala Uttri - Ganguwala Uttri",
+                    "localname": "Ganguwala Uttri - Ganguwala Uttri",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0018",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "18582039-857f-45fa-a432-98848598a5bb",
-                    "boundaryNum": 1,
-                    "name": "Amratpur Pashchhimi - Ganguwala Uttri",
-                    "localname": "Amratpur Pashchhimi - Ganguwala Uttri",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0029",
+                    "code": "M0014",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9ea74a5b-20fd-46d3-bf22-662b27e2f827",
+                "id": "8a28f292-01ff-486c-b307-2bf9446e445a",
                 "boundaryNum": 1,
                 "name": "Ganguwala Dakshini",
                 "localname": "Ganguwala Dakshini",
@@ -470,45 +374,21 @@
                 "code": "W18512",
                 "children": [
                   {
-                    "id": "b94925b0-7d60-4345-8d72-07f1889949f3",
-                    "boundaryNum": 1,
-                    "name": "Ganguwala Uttri - Ganguwala Dakshini",
-                    "localname": "Ganguwala Uttri - Ganguwala Dakshini",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0026",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "69ec9693-208a-4e9b-b82f-0503788bc1d6",
+                    "id": "36e52ae5-9a71-4dec-bf1a-e5c1651107b6",
                     "boundaryNum": 1,
                     "name": "Ganguwala Dakshini - Ganguwala Dakshini",
                     "localname": "Ganguwala Dakshini - Ganguwala Dakshini",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0027",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "badd7901-631f-4846-b458-e66ff365b4c0",
-                    "boundaryNum": 1,
-                    "name": "Amratpur Poorvi - Ganguwala Dakshini",
-                    "localname": "Amratpur Poorvi - Ganguwala Dakshini",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0028",
+                    "code": "M0015",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "d62bd72b-458d-48d8-8cd6-a1330a347015",
+                "id": "bb4ffc0f-07bc-4dbb-9c42-e7165e6838a7",
                 "boundaryNum": 1,
                 "name": "Amratpur Poorvi",
                 "localname": "Amratpur Poorvi",
@@ -518,33 +398,21 @@
                 "code": "W18513",
                 "children": [
                   {
-                    "id": "bb67f00d-dc8f-44fa-862f-577ca6c9852c",
+                    "id": "edd5a963-7cd1-4100-955f-a0a0985f7b3a",
                     "boundaryNum": 1,
-                    "name": "Nayee Basti - Amratpur Poorvi",
-                    "localname": "Nayee Basti - Amratpur Poorvi",
+                    "name": "Amratpur Poorvi - Amratpur Poorvi",
+                    "localname": "Amratpur Poorvi - Amratpur Poorvi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0019",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "927609d4-cc28-41fc-92f5-11f4d4618662",
-                    "boundaryNum": 1,
-                    "name": "Patti Uttam - Amratpur Poorvi",
-                    "localname": "Patti Uttam - Amratpur Poorvi",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0030",
+                    "code": "M0016",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "dabca0cf-c77a-40e1-b7ff-f675f86b910a",
+                "id": "fbbbf67a-31f3-4c43-83ff-612b3192e5c7",
                 "boundaryNum": 1,
                 "name": "Amratpur Pashchhimi",
                 "localname": "Amratpur Pashchhimi",
@@ -554,21 +422,21 @@
                 "code": "W18514",
                 "children": [
                   {
-                    "id": "52fe3a43-7043-4e7b-9eb8-1477537f3d2c",
+                    "id": "d8e8949f-2ecd-4def-9af7-3ea5dc4cdbe5",
                     "boundaryNum": 1,
-                    "name": "Nayee Basti - Amratpur Pashchhimi",
-                    "localname": "Nayee Basti - Amratpur Pashchhimi",
+                    "name": "Amratpur Pashchhimi - Amratpur Pashchhimi",
+                    "localname": "Amratpur Pashchhimi - Amratpur Pashchhimi",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0020",
+                    "code": "M0017",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "ce9a6fbc-81c5-459a-8d45-14967e81e152",
+                "id": "6defd616-cc2c-45c8-99a7-ce1620a7078a",
                 "boundaryNum": 1,
                 "name": "Patti Uttam",
                 "localname": "Patti Uttam",
@@ -578,33 +446,21 @@
                 "code": "W18515",
                 "children": [
                   {
-                    "id": "530ba380-26db-4232-b88e-4a3116e52043",
+                    "id": "4e4b6c46-5719-4332-ba32-8c22fcb3eedb",
                     "boundaryNum": 1,
-                    "name": "Nayee Basti - Patti Uttam",
-                    "localname": "Nayee Basti - Patti Uttam",
+                    "name": "Patti Uttam - Patti Uttam",
+                    "localname": "Patti Uttam - Patti Uttam",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0021",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "aaf79d3a-17e0-455b-8536-cfb50ccba565",
-                    "boundaryNum": 1,
-                    "name": "Patti Tirmal - Patti Uttam",
-                    "localname": "Patti Tirmal - Patti Uttam",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0031",
+                    "code": "M0018",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "e1a6842c-9ed6-48b4-a8c9-3b9757254008",
+                "id": "2ba7dc73-34e1-4208-8b28-1e5125440f1c",
                 "boundaryNum": 1,
                 "name": "Patti Tirmal",
                 "localname": "Patti Tirmal",
@@ -614,14 +470,14 @@
                 "code": "W18516",
                 "children": [
                   {
-                    "id": "ba904cdd-59bd-4c69-9aa8-1ebeca12a2c2",
+                    "id": "5194d7c6-3996-47cc-b7ac-203be95cc319",
                     "boundaryNum": 1,
-                    "name": "Nayee Basti - Patti Tirmal",
-                    "localname": "Nayee Basti - Patti Tirmal",
+                    "name": "Patti Tirmal - Patti Tirmal",
+                    "localname": "Patti Tirmal - Patti Tirmal",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "M0022",
+                    "code": "M0019",
                     "area": "AREA1",
                     "children": []
                   }
