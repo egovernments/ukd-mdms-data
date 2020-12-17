@@ -6582,7 +6582,7 @@
     },
     {
       "id": 1907,
-      "name": "Dashboard Home",
+      "name": "Dashboard M Collect",
       "url": "url",
       "displayName": "mCollect",
       "orderNumber": 5,
@@ -6590,14 +6590,14 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.MiscCollect",
+      "path": "Dashboard.MCollect",
       "navigationURL": "integration/dss/mCollect",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
     {
       "id": 1908,
-      "name": "DSS Dashboard Config mCollect",
+      "name": "DSS Dashboard Config M Collect",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/mCollect",
       "parentModule": "",
       "displayName": "DSS",
