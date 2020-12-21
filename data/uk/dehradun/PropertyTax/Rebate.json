@@ -2,15 +2,7 @@
   "tenantId": "uk.dehradun",
   "moduleName": "PropertyTax",
   "Rebate": [
-    {
-      "rate": 10,
-      "maxAmount": null,
-      "flatAmount": null,
-      "fromFY": "2019-20",
-      "startingDay": 1554076800000,
-      "endingDay": 1585699199000
-    },
-    {
+      {
       "rate": 20,
       "maxAmount": null,
       "flatAmount": null,
