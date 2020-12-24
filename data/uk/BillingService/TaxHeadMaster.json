@@ -13,7 +13,7 @@
       "legacy": true
     },
     {
-      "category": "REBATE",
+      "category": "TAX",
       "service": "PT",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
@@ -40,23 +40,13 @@
       "order": "0"
     },
     {
-      "category": "REBATE",
+      "category": "TAX",
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
       "isDebit": true,
       "isActualDemand": true,
       "order": "4",
-      "legacy": true
-    },
-    {
-      "category": "REBATE",
-      "service": "PT",
-      "name": "Pt promotional rebate",
-      "code": "PT_PROMOTIONAL_REBATE",
-      "isDebit": true,
-      "isActualDemand": true,
-      "order": "3",
       "legacy": true
     },
     {
@@ -93,15 +83,6 @@
       "service": "PT",
       "name": "PT one time penalty",
       "code": "PT_ONE_TIME_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0"
-    },
-    {
-      "category": "TAX",
-      "service": "PT",
-      "name": "PT one time rebate",
-      "code": "PT_ONE_TIME_REBATE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0"
