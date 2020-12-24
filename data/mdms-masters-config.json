@@ -87,7 +87,6 @@
       "moduleDefinition": null,
       "isStateLevel": true,
       "uniqueKeys": []
-      
     },
     "OwnerType": {
       "masterName": "OwnerType",
@@ -585,7 +584,7 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -635,7 +634,7 @@
         "$.code"
       ]
     },
-   "MutationRebate": {
+    "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -679,12 +678,12 @@
         "$.code"
       ]
     },
-    "AccessoriesCategory": {	
-      "masterName": "AccessoriesCategory",	
-      "isStateLevel": true,	
-      "uniqueKeys": [	
-        "$.code"	
-      ]	
+    "AccessoriesCategory": {
+      "masterName": "AccessoriesCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     },
     "OccupancyType": {
       "masterName": "OccupancyType",
