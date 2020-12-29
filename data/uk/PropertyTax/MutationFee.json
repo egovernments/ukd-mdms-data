@@ -1,0 +1,22 @@
+{
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "MutationFee": [
+    {
+      "RESIDENTIAL": 150,
+      "NONRESIDENTIAL": 160,
+      "MIXED": 200,
+      "forFy": "2019-20",
+      "startingDay": 1554076800000,
+      "endingDay": 1585699199000
+    },
+    {
+      "RESIDENTIAL": 160,
+      "NONRESIDENTIAL": 170,
+      "MIXED": 210,
+      "forFy": "2020-21",
+      "startingDay": 1585699200000,
+      "endingDay": 1617148800000
+    }
+  ]
+}
