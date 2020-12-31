@@ -135,6 +135,25 @@
       "order": "2"
     },
     {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "Pt promotional rebate",
+      "code": "PT_PROMOTIONAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": "3",
+      "legacy": true
+    },
+   {
+      "category": "TAX",
+      "service": "PT",
+      "name": "PT one time rebate",
+      "code": "PT_ONE_TIME_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
       "category": "TAX",
       "service": "TL",
       "name": "tl tax",
