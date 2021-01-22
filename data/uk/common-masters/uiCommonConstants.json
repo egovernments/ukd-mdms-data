@@ -145,7 +145,15 @@
                "ulb-overview":{
                   "routePath":"/dashboard/ulb-overview",
                   "isOrigin":true
-               }
+               },
+               "mCollect": {
+                  "routePath": "/dashboard/mCollect",
+                  "isOrigin": true
+                },
+              "ulb-mCollect": {
+                  "routePath": "/dashboard/ulb-mCollect",
+                  "isOrigin": true
+                }
             }
          }
       }
