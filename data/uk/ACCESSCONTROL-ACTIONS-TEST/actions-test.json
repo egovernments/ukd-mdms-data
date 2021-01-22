@@ -6567,6 +6567,60 @@
       "navigationURL": "report/rainmaker-pt/StateWiseDCBReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1906,
+      "name": "Dashboard M Collect",
+      "url": "url",
+      "displayName": "mCollect",
+      "orderNumber": 6,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.mCollect",
+      "navigationURL": "integration/dss/mCollect",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1907,
+      "name": "DSS Dashboard Config M Collect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/mCollect",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1908,
+      "name": "Dashboard ULB mCollect",
+      "url": "url",
+      "displayName": "ULB mCollect",
+      "orderNumber": 8,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.mCollect",
+      "navigationURL": "integration/dss/ulb-mCollect",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1909,
+      "name": "Dashboard ULB mCollect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-mCollect",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
