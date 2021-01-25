@@ -4,15 +4,44 @@
   "citywiseconfig": [
     {
       "config": "ptCitizenPayButton",
-      "enabledCities": []
+      "enabledCities": [
+        "uk.lambgaon",
+        "uk.uttarkhand",
+        "uk.kapkot",
+        "uk.pipalkoti",
+        "uk.banbasa",
+        "uk.ukhimath",
+        "uk.tilwara",
+        "uk.bhikiyasain",
+        "uk.chinyalisaur",
+        "uk.gangolihat",
+        "uk.chamiyala",
+        "uk.kedarnath",
+        "uk.naugaon",
+        "uk.gaja",
+        "uk.shivaliknagar",
+        "uk.berinag",
+        "uk.tehri",
+        "uk.bhagwanpur",
+        "uk.ranikhetchiliyanaula",
+        "uk.gularbhoj",
+        "uk.ghansali",
+        "uk.satpuli"
+      ]
     },
     {
       "config": "ptSendUpdateSMS",
-      "enabledCities": ["uk.haridwar","uk.dehradun"]
+      "enabledCities": [
+        "uk.haridwar",
+        "uk.dehradun"
+      ]
     },
     {
       "config": "ptCalculateRebateAndPenalty",
-      "enabledCities": ["uk.haridwar","uk.dehradun"]
+      "enabledCities": [
+        "uk.haridwar",
+        "uk.dehradun"
+      ]
     }
   ]
 }
