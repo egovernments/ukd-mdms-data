@@ -1381,6 +1381,32 @@
       "type": "TL"
     },
     {
+      "code": "TRADE.FIRM.TR85",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC037",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC037",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
       "code": "TRADE.STREETVENDOR.HWK",
       "uom": null,
       "applicationDocument": [
