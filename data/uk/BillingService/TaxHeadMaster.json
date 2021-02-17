@@ -3155,6 +3155,46 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Application Fee",
+      "code": "PT_MUTATION_APPLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Processing Fee",
+      "code": "PT_MUTATION_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Publication Fee",
+      "code": "PT_MUTATION_PUBLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Late Fee",
+      "code": "PT_MUTATION_LATE_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "5",
+      "isRequired": false
     }
   ]
 }
