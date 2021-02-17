@@ -1,10 +1,12 @@
 {
-  "tenantId": "uk",
-  "moduleName": "PropertyTax",
-  "processingFee": { 
-    "enabledCities" : ["uk.dehradun","uk.haridwar"]
-  },
-  "applicationFee": { 
-    "enabledCities" : ["uk.dehradun","uk.haridwar"]
-  }  
+	"tenantId": "uk",
+	"moduleName": "PropertyTax",
+	"MutationAdditionalFees": [{
+		"processingFee": {
+			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+		},
+		"applicationFee": {
+			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+		}
+	}]
 }
