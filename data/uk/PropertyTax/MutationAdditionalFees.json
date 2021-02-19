@@ -7,6 +7,12 @@
 		},
 		"applicationFee": {
 			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+		},
+		"publicationFee": {
+			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+		},
+               "lateFee": {
+			"enabledCities": ["uk.haridwar"]
 		}
 	}]
 }
