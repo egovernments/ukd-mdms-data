@@ -15,7 +15,8 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "hasOnlinePayment": true
+      "hasOnlinePayment": true,
+      "billGineiURL" : "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "WaterCharges",
