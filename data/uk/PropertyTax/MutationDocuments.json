@@ -47,6 +47,7 @@
       "required": true,
       "active": true,
       "hasDropdown": true,
+      "mutationReason": ["SALEDEED"],
       "dropdownData": [
         {
           "code": "OWNER.IDENTITYPROOF.AADHAAR",
@@ -77,6 +78,7 @@
       "required": true,
       "active": true,
       "hasDropdown": true,
+      "mutationReason": ["SALEDEED"],
       "dropdownData": [
         {
           "code": "OWNER.TRANSFERREASONDOCUMENT.SALEDEED",
