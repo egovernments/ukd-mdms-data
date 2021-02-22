@@ -3,7 +3,8 @@
 	"moduleName": "PropertyTax",
 	"MutationAdditionalFees": [{
 		"processingFee": {
-			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+			"enabledCities": ["uk.dehradun", "uk.haridwar"],
+			"stateLevel": "true"
 		},
 		"applicationFee": {
 			"enabledCities": ["uk.dehradun", "uk.haridwar"]
@@ -11,7 +12,7 @@
 		"publicationFee": {
 			"enabledCities": ["uk.dehradun", "uk.haridwar"]
 		},
-               "lateFee": {
+		"lateFee": {
 			"enabledCities": ["uk.dehradun"]
 		}
 	}]
