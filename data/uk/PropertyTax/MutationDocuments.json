@@ -3,43 +3,298 @@
   "moduleName": "PropertyTax",
   "MutationDocuments": [
     {
-      "code": "OWNER.ADDRESSPROOF",
+      "code": "OWNER.AFFIDAVIT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
       "hasDropdown": true,
-      "mutationReason": ["SALEDEED","GIFTDEED"],
+      "mutationReason": [
+        "SALEDEED",
+        "GIFTDEED",
+        "SPELLINGMISTAKECORRECTION",
+        "SALEPOWEROFATTORNEY",
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED",
+        "AUCTION",
+        "PARTITIONDEED",
+        "SUCESSTIONORDEATHCERTIFICATE",
+        "PATTACERTIFICATE",
+        "COURTDECREE",
+        "FAMILYSETTLEMENT"
+      ],
       "dropdownData": [
         {
-          "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
+          "code": "OWNER.AFFIDAVIT",
           "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.WATERBILL",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.GASBILL",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.AADHAAR",
-          "active": false
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.VOTERID",
-          "active": false
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.DRIVING",
-          "active": false
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.PASSPORT",
-          "active": false
         }
       ],
-      "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
+      "description": "OWNER.AFFIDAVIT.AFFIDAVIT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.APPLICANTSIGNATURE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SALEDEED",
+        "GIFTDEED",
+        "SPELLINGMISTAKECORRECTION",
+        "SALEPOWEROFATTORNEY",
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED",
+        "AUCTION",
+        "PARTITIONDEED",
+        "PATTACERTIFICATE"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.APPLICANTSIGNATURE",
+          "active": true
+        }
+      ],
+      "description": "OWNER.APPLICANTSIGNATURE.APPLICANTSIGNATURE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.APPLICANTPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SALEDEED",
+        "GIFTDEED",
+        "SPELLINGMISTAKECORRECTION",
+        "SALEPOWEROFATTORNEY",
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED",
+        "AUCTION",
+        "PARTITIONDEED",
+        "SUCESSTIONORDEATHCERTIFICATE",
+        "PATTACERTIFICATE",
+        "COURTDECREE",
+        "FAMILYSETTLEMENT"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.APPLICANTPHOTO",
+          "active": true
+        }
+      ],
+      "description": "OWNER.APPLICANTPHOTO.APPLICANTPHOTO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDSALEDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SALEDEED",
+        "SALEPOWEROFATTORNEY"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDSALEDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDSALEDEED.REGISTEREDSALEDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.DEATHCERTIFICATE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED",
+        "SUCESSTIONORDEATHCERTIFICATE"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.DEATHCERTIFICATE",
+          "active": true
+        }
+      ],
+      "description": "OWNER.DEATHCERTIFICATE.DEATHCERTIFICATE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.PROPERTYOWNERSHIP",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SPELLINGMISTAKECORRECTION",
+        "SALEPOWEROFATTORNEY"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.PROPERTYOWNERSHIP",
+          "active": true
+        }
+      ],
+      "description": "OWNER.PROPERTYOWNERSHIP.PROPERTYOWNERSHIP_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDWILLDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDWILLDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDWILLDEED.REGISTEREDWILLDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SUCCESSIONCERTIFICATE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "REGISTEREDWILLDEED",
+        "SUCESSTIONORDEATHCERTIFICATE"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.SUCCESSIONCERTIFICATE",
+          "active": true
+        }
+      ],
+      "description": "OWNER.SUCCESSIONCERTIFICATE.SUCCESSIONCERTIFICATE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.UNREGISTEREDWILLDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "UNREGISTEREDWILLDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.UNREGISTEREDWILLDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.UNREGISTEREDWILLDEED.UNREGISTEREDWILLDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDAUCTIONDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "AUCTION"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDAUCTIONDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDAUCTIONDEED.REGISTEREDAUCTIONDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDPARTITIONDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "PARTITIONDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDPARTITIONDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDPARTITIONDEED.REGISTEREDPARTITIONDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDGIFTDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "GIFTDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDGIFTDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDGIFTDEED.REGISTEREDGIFTDEED_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMOTHERFAMILYMEMBERS",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SUCESSTIONORDEATHCERTIFICATE",
+        "FAMILYSETTLEMENT"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.NOCFROMOTHERFAMILYMEMBERS",
+          "active": true
+        }
+      ],
+      "description": "OWNER.NOCFROMOTHERFAMILYMEMBERS.NOCFROMOTHERFAMILYMEMBERS_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SCANNEDCOPYOFAPPLICANTSIGNATURE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "SUCESSTIONORDEATHCERTIFICATE",
+        "COURTDECREE",
+        "FAMILYSETTLEMENT"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.SCANNEDCOPYOFAPPLICANTSIGNATURE",
+          "active": true
+        }
+      ],
+      "description": "OWNER.SCANNEDCOPYOFAPPLICANTSIGNATURE.SCANNEDCOPYOFAPPLICANTSIGNATURE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.COURTDECREE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "COURTDECREE"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.COURTDECREE",
+          "active": true
+        }
+      ],
+      "description": "OWNER.COURTDECREE.COURTDECREE_DESCRIPTION"
     },
     {
       "code": "OWNER.IDENTITYPROOF",
@@ -47,7 +302,20 @@
       "required": true,
       "active": true,
       "hasDropdown": true,
-      "mutationReason": ["SALEDEED"],
+      "mutationReason": [
+        "SALEDEED",
+        "GIFTDEED",
+        "SPELLINGMISTAKECORRECTION",
+        "SALEPOWEROFATTORNEY",
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED",
+        "AUCTION",
+        "PARTITIONDEED",
+        "SUCESSTIONORDEATHCERTIFICATE",
+        "PATTACERTIFICATE",
+        "COURTDECREE",
+        "FAMILYSETTLEMENT"
+      ],
       "dropdownData": [
         {
           "code": "OWNER.IDENTITYPROOF.AADHAAR",
@@ -71,57 +339,6 @@
         }
       ],
       "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.TRANSFERREASONDOCUMENT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": true,
-      "mutationReason": ["SALEDEED"],
-      "dropdownData": [
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.SALEDEED",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.GIFTDEED",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.PATTACERTIFICATE",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.REGISTEREDWILLDEED",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.PARTITIONDEED",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.COURTDECREE",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.PROPERTYAUCTION",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.SUCCESSIONORDEATHCERTIFICATE",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.FAMILYSETTLEMENT",
-          "active": true
-        },
-        {
-          "code": "OWNER.TRANSFERREASONDOCUMENT.UNREGISTEREDWILLDEED",
-          "active": true
-        }
-      ],
-      "description": "OWNER.TRANSFERREASONDOCUMENT.TRANSFERREASONDOCUMENT_DESCRIPTION"
     },
     {
       "code": "OWNER.SPECIALCATEGORYPROOF",
