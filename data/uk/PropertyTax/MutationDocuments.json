@@ -11,11 +11,11 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-        "SPELLINGMISTAKECORRECTION",
+       "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "AUCTION",
+        "PROPERTYAUCTION",
         "PARTITIONDEED",
         "SUCESSTIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
@@ -39,11 +39,11 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-        "SPELLINGMISTAKECORRECTION",
+       "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "AUCTION",
+        "PROPERTYAUCTION",
         "PARTITIONDEED",
         "PATTACERTIFICATE"
       ],
@@ -64,11 +64,11 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-        "SPELLINGMISTAKECORRECTION",
+       "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "AUCTION",
+        "PROPERTYAUCTION",
         "PARTITIONDEED",
         "SUCESSTIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
@@ -127,7 +127,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "SPELLINGMISTAKECORRECTION",
+       "NAMECORRECTION",
         "SALEPOWEROFATTORNEY"
       ],
       "dropdownData": [
@@ -198,7 +198,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "AUCTION"
+        "PROPERTYAUCTION"
       ],
       "dropdownData": [
         {
@@ -305,11 +305,11 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-        "SPELLINGMISTAKECORRECTION",
+       "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "AUCTION",
+        "PROPERTYAUCTION",
         "PARTITIONDEED",
         "SUCESSTIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
