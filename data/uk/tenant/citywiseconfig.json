@@ -17,6 +17,10 @@
     {
       "config": "ptCalculateInterest",
       "disabledCities": ["uk.haridwar"]
+    },
+    {
+      "config": "assessmentEnabledCities",
+      "enabledCities": ["uk.haridwar"]
     }
   ]
 }
