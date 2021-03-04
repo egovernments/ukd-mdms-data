@@ -6724,6 +6724,30 @@
     "actionid": 1927,
     "actioncode": "",
     "tenantId": "uk"
-  }
+  },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTAPPROVER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTDOCVERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "uk"
+    }
   ]
 }
