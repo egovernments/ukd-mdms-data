@@ -6,6 +6,10 @@
       "code": "SALEDEED",
       "active": true
     },
+     {
+      "code": "SALEPOWEROFATTORNEY",
+      "active": true
+    },
     {
       "code": "GIFTDEED",
       "active": true
@@ -31,6 +35,10 @@
       "active": true
     },
     {
+      "code": "NAMECORRECTION",
+      "active": true
+    },
+    {
       "code": "SUCCESSIONORDEATHCERTIFICATE",
       "active": true
     },
@@ -42,9 +50,10 @@
       "code": "UNREGISTEREDWILLDEED",
       "active": true
     },
-    {
-      "code": "CORRECTIONINNAME",
+     {
+      "code": "CORRECTIONNAME",
       "active": true
     }
+    
   ]
 }
