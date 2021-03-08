@@ -1,58 +1,55 @@
 {
-    "tenantId": "uk",
-    "moduleName": "PropertyTax",
-    "ReasonForTransfer":
-    [
-      {
-        "name": "Sale Deed",
-        "code": "SALEDEED",
-        "active": true
-      },
-      {
-        "name": "Gift Deed",
-        "code": "GIFTDEED",
-        "active": true
-      },
-      {
-        "name": "Patta Certificate",
-        "code": "PATTACERTIFICATE",
-         "active": true
-      },
-      {
-        "name": "Registered will deed",
-        "code": "REGISTEREDWILLDEED",
-        "active": true
-      },
-      {
-        "name": "Partition Deed",
-        "code": "PARTITIONDEED",
-        "active": true
-      },
-      {
-        "name": "Court Decree",
-        "code": "COURTDECREE",
-        "active": true
-      },
-      {
-        "name": "Property Auction",
-        "code": "PROPERTYAUCTION",
-         "active": true
-      },
-      {
-        "name": "Succession or Death Certificate",
-        "code": "SUCCESSIONORDEATHCERTIFICATE",
-        "active": true
-      },
-      {
-        "name": "Family Settlement",
-        "code": "FAMILYSETTLEMENT",
-        "active": true
-      },
-      {
-        "name": "Unregistered Will deed",
-        "code": "UNREGISTEREDWILLDEED",
-        "active": true
-      }
-    ]
-  }
-  
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "ReasonForTransfer": [
+    {
+      "code": "SALEDEED",
+      "active": true
+    },
+     {
+      "code": "SALEPOWEROFATTORNEY",
+      "active": true
+    },
+    {
+      "code": "GIFTDEED",
+      "active": true
+    },
+    {
+      "code": "PATTACERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "REGISTEREDWILLDEED",
+      "active": true
+    },
+    {
+      "code": "PARTITIONDEED",
+      "active": true
+    },
+    {
+      "code": "COURTDECREE",
+      "active": true
+    },
+    {
+      "code": "PROPERTYAUCTION",
+      "active": true
+    },
+    {
+      "code": "SUCCESSIONORDEATHCERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "FAMILYSETTLEMENT",
+      "active": true
+    },
+    {
+      "code": "UNREGISTEREDWILLDEED",
+      "active": true
+    },
+     {
+      "code": "NAMECORRECTION",
+      "active": true
+    }
+    
+  ]
+}
