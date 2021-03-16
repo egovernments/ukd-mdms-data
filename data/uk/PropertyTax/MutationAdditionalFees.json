@@ -1,19 +1,28 @@
 {
-	"tenantId": "uk",
-	"moduleName": "PropertyTax",
-	"MutationAdditionalFees": [{
-		"processingFee": {
-			"enabledCities": ["uk.dehradun", "uk.haridwar"],
-			"stateLevel": "true"
-		},
-		"applicationFee": {
-			"enabledCities": ["uk.dehradun", "uk.haridwar"]
-		},
-		"publicationFee": {
-			"enabledCities": ["uk.dehradun", "uk.haridwar"]
-		},
-		"lateFee": {
-			"enabledCities": ["uk.dehradun"]
-		}
-	}]
+  "tenantId": "uk",
+  "moduleName": "PropertyTax",
+  "MutationAdditionalFees": [
+    {
+      "processingFee": {
+        "enabledCities": [
+          "uk.haridwar"
+        ],
+        "stateLevel": "true"
+      },
+      "applicationFee": {
+        "enabledCities": [
+          "uk.dehradun",
+          "uk.haridwar"
+        ]
+      },
+      "publicationFee": {
+        "enabledCities": [
+          "uk.haridwar"
+        ]
+      },
+      "lateFee": {
+        "enabledCities": []
+      }
+    }
+  ]
 }
