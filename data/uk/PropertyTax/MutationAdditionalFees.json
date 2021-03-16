@@ -25,7 +25,74 @@
             "ProcessingFee": 0,
             "publicationFee": 0
           },
-          "PARTITIONDEED": {
+	"PARTITIONDEED": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "GIFTDEED": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SUCCESSIONORDEATHCERTIFICATE": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "PATTACERTIFICATE": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "COURTDECREE": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "FAMILYSETTLEMENT": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "FREEHOLDREGISTRY": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEPOWEROFATTORNEY": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "UNREGISTEREDWILLDEED": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          }
+        },
+        "NONRESIDENTIAL": {
+          "NAMECORRECTION": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEDEED": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "REGISTEREDWILLDEED": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "PROPERTYAUCTION": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+	"PARTITIONDEED": {
             "applicationFee": 150,
             "ProcessingFee": 0,
             "publicationFee": 0
@@ -94,9 +161,76 @@
             "ProcessingFee": 950,
             "publicationFee": 0
           },
-          "PARTITIONDEED": {
-            "applicationFee": 1000,
+	"PARTITIONDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "GIFTDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "SUCCESSIONORDEATHCERTIFICATE": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "PATTACERTIFICATE": {
+            "applicationFee": 0,
             "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "COURTDECREE": {
+            "applicationFee": 0,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "FAMILYSETTLEMENT": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "FREEHOLDREGISTRY": {
+            "applicationFee": 150,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEPOWEROFATTORNEY": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "UNREGISTEREDWILLDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          }
+        },
+          "NONRESIDENTIAL": {
+          "NAMECORRECTION": {
+            "applicationFee": 0,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "REGISTEREDWILLDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+          "PROPERTYAUCTION": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
+            "publicationFee": 0
+          },
+	"PARTITIONDEED": {
+            "applicationFee": 50,
+            "ProcessingFee": 950,
             "publicationFee": 0
           },
           "GIFTDEED": {
@@ -163,6 +297,11 @@
             "ProcessingFee": 0,
             "publicationFee": 0
           },
+	  "PARTITIONDEED": {
+            "applicationFee": 1000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
           "GIFTDEED": {
             "applicationFee": 1000,
             "ProcessingFee": 0,
@@ -203,6 +342,73 @@
             "ProcessingFee": 0,
             "publicationFee": 0
           }
+        },
+	"NONRESIDENTIAL": {
+          "NAMECORRECTION": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEDEED": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "REGISTEREDWILLDEED": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "PROPERTYAUCTION": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+	  "PARTITIONDEED": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "GIFTDEED": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SUCCESSIONORDEATHCERTIFICATE": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "PATTACERTIFICATE": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "COURTDECREE": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "FAMILYSETTLEMENT": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "FREEHOLDREGISTRY": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEPOWEROFATTORNEY": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "UNREGISTEREDWILLDEED": {
+            "applicationFee": 2000,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          }
         }
       },
       "uk.rishikesh": {
@@ -227,7 +433,73 @@
             "ProcessingFee": 0,
             "publicationFee": 0
           },
-          "PARTITIONDEED": {
+	"PARTITIONDEED": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "GIFTDEED": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "SUCCESSIONORDEATHCERTIFICATE": {
+            "applicationFee": 5,
+            "ProcessingFee": 0,
+            "publicationFee": 400
+          },
+          "PATTACERTIFICATE": {
+            "applicationFee": 0,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "COURTDECREE": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "FAMILYSETTLEMENT": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "FREEHOLDREGISTRY": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "SALEPOWEROFATTORNEY": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "UNREGISTEREDWILLDEED": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          }
+        },     "NONRESIDENTIAL": {
+          "NAMECORRECTION": {
+            "applicationFee": 0,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+          "SALEDEED": {
+            "applicationFee": 5,
+            "ProcessingFee": 250,
+            "publicationFee": 400
+          },
+          "REGISTEREDWILLDEED": {
+            "applicationFee": 5,
+            "ProcessingFee": 0,
+            "publicationFee": 400
+          },
+          "PROPERTYAUCTION": {
+            "applicationFee": 0,
+            "ProcessingFee": 0,
+            "publicationFee": 0
+          },
+	"PARTITIONDEED": {
             "applicationFee": 5,
             "ProcessingFee": 250,
             "publicationFee": 400
