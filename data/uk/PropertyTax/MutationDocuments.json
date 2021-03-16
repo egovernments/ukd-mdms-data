@@ -11,7 +11,7 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-       "NAMECORRECTION",
+        "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
@@ -20,7 +20,8 @@
         "SUCESSTIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
-        "FAMILYSETTLEMENT"
+        "FAMILYSETTLEMENT",
+        "FREEHOLDREGISTRY"
       ],
       "dropdownData": [
         {
@@ -39,13 +40,14 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-       "NAMECORRECTION",
+        "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "PATTACERTIFICATE"
+        "PATTACERTIFICATE",
+        "FREEHOLDREGISTRY"
       ],
       "dropdownData": [
         {
@@ -56,6 +58,23 @@
       "description": "OWNER.APPLICANTSIGNATURE.APPLICANTSIGNATURE_DESCRIPTION"
     },
     {
+      "code": "OWNER.FREEHOLDREGISTRY",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "FREEHOLDREGISTRY"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.FREEHOLDREGISTRY",
+          "active": true
+        }
+      ],
+      "description": "OWNER.FREEHOLDREGISTRY.FREEHOLDREGISTRY_DESCRIPTION"
+    },
+    {
       "code": "OWNER.APPLICANTPHOTO",
       "documentType": "OWNER",
       "required": true,
@@ -64,7 +83,7 @@
       "mutationReason": [
         "SALEDEED",
         "GIFTDEED",
-       "NAMECORRECTION",
+        "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
@@ -73,7 +92,8 @@
         "SUCESSTIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
-        "FAMILYSETTLEMENT"
+        "FAMILYSETTLEMENT",
+        "FREEHOLDREGISTRY"
       ],
       "dropdownData": [
         {
@@ -127,7 +147,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-       "NAMECORRECTION",
+        "NAMECORRECTION",
         "SALEPOWEROFATTORNEY"
       ],
       "dropdownData": [
@@ -303,9 +323,10 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
+        "FREEHOLDREGISTRY",
         "SALEDEED",
         "GIFTDEED",
-       "NAMECORRECTION",
+        "NAMECORRECTION",
         "SALEPOWEROFATTORNEY",
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
