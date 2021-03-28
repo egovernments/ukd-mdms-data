@@ -6676,7 +6676,29 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 1915,
+      "name": "Create Assessment registry",
+      "url": "/property-services/assessment/_create",
+      "displayName": "Create Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1916,
+      "name": "Update Assessment registry",
+      "url": "/property-services/assessment/_update",
+      "displayName": "Update Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
   
