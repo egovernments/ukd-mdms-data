@@ -1,0 +1,12 @@
+{
+	"tenantId": "uk",
+	"moduleName": "PropertyTax",
+	"MutationAdditionalFees": [{
+		"mutationFee": {
+			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+		},
+		"lateFee": {
+			"enabledCities": ["uk.dehradun"]
+		}
+	}]
+}
