@@ -6621,6 +6621,51 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+{
+      "id": 1910,
+      "name": "Create Property registry",
+      "url": "/property-services/property/_create",
+      "displayName": "Create Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1911,
+      "name": "UpdateCreate Property registry",
+      "url": "/property-services/property/_update",
+      "displayName": "Update Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1912,
+      "name": "Search Property registry",
+      "url": "/property-services/property/_search",
+      "displayName": "Search Property Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1913,
+      "name": "Cancel Property registry",
+      "url": "/property-services/property/_cancel",
+      "displayName": "Cancel Property Registry",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
+  
