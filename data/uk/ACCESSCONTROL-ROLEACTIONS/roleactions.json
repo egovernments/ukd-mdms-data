@@ -6493,6 +6493,36 @@
       "actionid": 1913,
       "actioncode": "",
       "tenantId": "uk"
-    }
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1914,
+      "actioncode": "",
+      "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": 1914,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTDOCVERIFIER",
+    "actionid": 1914,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTAPPROVER",
+    "actionid": 1914,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTFEMP",
+    "actionid": 1914,
+    "actioncode": "",
+    "tenantId": "uk"
+  }    
   ]
 }
