@@ -6622,7 +6622,7 @@
       "code": "null",
       "path": ""
     },
-{
+    {
       "id": 1910,
       "name": "Create Property registry",
       "url": "/property-services/property/_create",
@@ -6698,7 +6698,137 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1917,
+      "name": "Update Assessment registry",
+      "url": "/property-services/assessment/_update",
+      "displayName": "Update Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1918,
+      "name": "Search Assessment registry",
+      "url": "/property-services/assessment/_search",
+      "displayName": "Search Assessment Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1919,
+      "name": "Migrate Property v1 to v2",
+      "url": "/property-services/property/_migration",
+      "displayName": "Migrate Property v1 to v2",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1920,
+      "name": "Mutation Property Search",
+      "url": "url",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "pt-mutation/propertySearch",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1921,
+      "name": "Mutation Calculation",
+      "url": "/pt-calculator-v2/propertytax/mutation/_calculate",
+      "displayName": "Mutation Calculation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1922,
+      "name": "propertytax Estimate",
+      "url": "/pt-calculator-v2/propertytax/v1/_estimate",
+      "displayName": "PropertyTaxEstimates",
+      "orderNumber": 0,
+      "parentModule": null,
+      "enabled": true,
+      "serviceCode": "PropertytaxCalculatorV2",
+      "code": "null",
+      "path": "null"
+    },
+    {
+      "id": 1923,
+      "name": "MutationBillingSlabCreate",
+      "url": "/pt-calculator-v2/billingslab/mutation/_create",
+      "displayName": "Mutation Billing Slab Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1924,
+      "name": "MutationBillingSlabSearch",
+      "url": "/pt-calculator-v2/billingslab/mutation/_search",
+      "displayName": "Mutation Billing Slab Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1925,
+      "name": "MutationBillingSlabUpdate",
+      "url": "/pt-calculator-v2/billingslab/mutation/_update",
+      "displayName": "Mutation Billing Slab Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1926,
+      "name": "Locality searcher endpoint for PT",
+      "url": "/egov-searcher/locality/PT/_get",
+      "displayName": "PT locality searcher",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1927,
+      "name": "Locality searcher endpoint for PT Service",
+      "url": "/egov-searcher/locality/pt-services/_get",
+      "displayName": "PT locality searcher",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
-  
