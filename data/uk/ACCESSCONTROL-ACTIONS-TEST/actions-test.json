@@ -6859,6 +6859,17 @@
       "navigationURL": "report/rainmaker-pt/DemandRollOverReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1867,
+      "name": "Locality searcher endpoint for TL",
+      "url": "/egov-searcher/rainmaker-pt-demandbased/searchAssessmentsToUpdate/_get",
+      "displayName": "TL locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
