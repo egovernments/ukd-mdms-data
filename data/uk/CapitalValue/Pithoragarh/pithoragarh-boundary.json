@@ -1,0 +1,139 @@
+{
+  "tenantId": "uk.pithoragarh",
+  "moduleName": "Pithoragarh",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "pithoragarh",
+        "localname": "pithoragarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.pithoragarh",
+        "children": [
+          {
+            "id": "fb691dff-8a61-4020-9219-5fd45123a178",
+            "boundaryNum": 1,
+            "name": "PITHORAGARH",
+            "localname": "PITHORAGARH",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "D10",
+            "children": [
+              {
+                "id": "9a6db679-0317-4e3d-bb67-ae2c3a6d0c3a",
+                "boundaryNum": 1,
+                "name": "PITHORAGARH",
+                "localname": "PITHORAGARH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Sro",
+                "code": "S3",
+                "children": [
+                  {
+                    "id": "f13a2faf-715f-47b7-96bb-9a59ca0f0bb0",
+                    "boundaryNum": 1,
+                    "name": "Registration Sub District Pithoragarh (Urban Area)",
+                    "localname": "Registration Sub District Pithoragarh (Urban Area)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Pargana",
+                    "code": "P7",
+                    "children": [
+                      {
+                        "id": "cfc70aea-0033-40df-b7f6-bae8013fd8b9",
+                        "boundaryNum": 1,
+                        "name": "Category A",
+                        "localname": "Category A",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Jurisdiction",
+                        "code": "J9",
+                        "children": [
+                          {
+                            "id": "e4f870cb-c960-42f3-8cf9-4a6e2edcbd1a",
+                            "boundaryNum": 1,
+                            "name": "Motorway falling under Municipal Council nasal land",
+                            "localname": "Motorway falling under Municipal Council nasal land",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Segment",
+                            "code": "L16",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "c1165ed6-54eb-487e-b659-62744691ff8e",
+                        "boundaryNum": 1,
+                        "name": "Category B",
+                        "localname": "Category B",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Jurisdiction",
+                        "code": "J10",
+                        "children": [
+                          {
+                            "id": "e93cb826-5851-4c06-95bf-6455f3b614f2",
+                            "boundaryNum": 1,
+                            "name": "Aecoli (town area) - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "localname": "Aecoli (town area) - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Segment",
+                            "code": "L17",
+                            "children": []
+                          },
+                          {
+                            "id": "b499228e-6cd6-4b10-bc31-9e7f4ea378fe",
+                            "boundaryNum": 1,
+                            "name": "Bdela Gunt - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "localname": "Bdela Gunt - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Segment",
+                            "code": "L18",
+                            "children": []
+                          },
+                          {
+                            "id": "bd9f133b-9f0a-4e21-9149-f757d776d461",
+                            "boundaryNum": 1,
+                            "name": "Kumod - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "localname": "Kumod - Aecoli - Hanuman Temple Road - the Volcán Tacaná roadways station",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Segment",
+                            "code": "L19",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d8a8999b-5e37-4b6f-9e80-7122ce168864",
+                        "boundaryNum": 1,
+                        "name": "Category C",
+                        "localname": "Category C",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Jurisdiction",
+                        "code": "J11",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
