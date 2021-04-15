@@ -169,6 +169,20 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
+    },
+    {
+      "id": "13",
+      "tenantId": "uk",
+      "finYearRange": "2021-22",
+      "name": "2021-22",
+      "code": "2021-22",
+      "startingDate": 1617235200000,
+      "endingDate": 1648771199000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
     }
   ]
 }
