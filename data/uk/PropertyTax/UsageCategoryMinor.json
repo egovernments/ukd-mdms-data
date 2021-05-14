@@ -3,18 +3,381 @@
   "moduleName": "PropertyTax",
   "UsageCategoryMinor": [
     {
-      "name": "Residential",
-      "code": "RESIDENTIAL",
+      "code": "SUBMNR02",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel Paying Guest House up to 10 rooms (without air-conditioned)",
       "active": true,
       "fromFY": "2014-15",
-      "usageCategoryMajor": "RESIDENTIAL"
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
-      "name": "Non-residential",
-      "code": "NONRESIDENTIAL",
+      "code": "SUBMNR03",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel more than 10 rooms (non air-conditioned)",
       "active": true,
       "fromFY": "2014-15",
-      "usageCategoryMajor": "NONRESIDENTIAL"
+      "ARVFactor": 4,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR04",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All Hotel / Paying guest house (air conditioned) up to 3 star facility",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR05",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hotel 4 Star and Above, Bars, Pubs, Restaurants Maybar and Club Maybar",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR06",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Charitable Dharamshala / Ashram / Hotel where room rent rate is Rs. 200 per day or more or who are using electricity at commercial rates.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR07",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Malls",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 6,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR08",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls up to 100 sqft",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR09",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls 100 sq ft to 200 sq ft",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR10",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls from 200 sq ft to 500",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 4,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR11",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Shops / dhabas / stalls over 500 sqft",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR12",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Clinic (used for medical consultation only)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR13",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Hospitals / Nursing Homes, Polyclinics, Diagnostic Center Medical Stores, Paryogashalaye, Sawastha, Attendant Center etc.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR14",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Sports Center, Gym, Body Health Center, Fitness Center, Manoranjan Center, Theater and Cinema Hall",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR15",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of schools, colleges and education centers with no hostel facilities (except state owned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR16",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Buildings of hostel facility schools, colleges and education centers (except state owned)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR17",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Petrol Pump, Gas Agency, Depot",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR18",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Community Building, Wedding House, Wedding Point, Kalyan Mandap, Ware House, Warehouse, Club etc.",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR19",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Full service essential stalls related to business (find, vegetable-fruit, hairdresser, cobbler, cycle-rickshaw / two wheeler mechanic)",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1.1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR20",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of commercial Bhavana showrooms, Bank office coaching & training institutes, ATMs",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR21",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Mobile towers in the building, all layers and undertakings of the state government, central government, which are engaged in commercial, business and financial activities",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR22",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units small",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 2,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR23",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units medium",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 3,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR24",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "Industrial units broad",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR25",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "name": "All types of non-residential buildings which do not fall under the above categories",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR26",
+      "name": "Rooms",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR27",
+      "name": "Balcony, Corridor, Kitchen, and Store Room",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0.5,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR28",
+      "name": "Garage",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0.25,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR29",
+      "name": "Bathroom and Staircase",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 0,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "code": "SUBMNR30",
+      "name": "Complete Floor/ Portion of building",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "ARVFactor": 1,
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
   ]
 }
