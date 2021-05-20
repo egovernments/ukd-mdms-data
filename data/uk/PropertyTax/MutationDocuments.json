@@ -152,9 +152,42 @@
       ],
       "dropdownData": [
         {
-          "code": "OWNER.PROPERTYOWNERSHIP",
+          "code": "OWNER.PROPERTYOWNERSHIP.KHATAUNI",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.FREEHOLDREGISTERY",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.SALEDEED",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.WILLDEED",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.PATTA_OR_LEASE_DEED",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.GIFTDEED",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.SUCESSION_OR_DEATH",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.COURTDECREE",
+          "active": true
+        },
+	{
+          "code": "OWNER.PROPERTYOWNERSHIP.AUCTIONDEED",
           "active": true
         }
+
       ],
       "description": "OWNER.PROPERTYOWNERSHIP.PROPERTYOWNERSHIP_DESCRIPTION"
     },
