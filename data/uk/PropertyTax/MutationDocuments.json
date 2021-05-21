@@ -17,7 +17,7 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT",
@@ -89,7 +89,7 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT",
@@ -130,7 +130,7 @@
       "mutationReason": [
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "SUCESSTIONORDEATHCERTIFICATE"
+        "SUCCESSIONORDEATHCERTIFICATE"
       ],
       "dropdownData": [
         {
@@ -152,42 +152,9 @@
       ],
       "dropdownData": [
         {
-          "code": "OWNER.PROPERTYOWNERSHIP.KHATAUNI",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.FREEHOLDREGISTERY",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.SALEDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.WILLDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.PATTA_OR_LEASE_DEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.GIFTDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.SUCESSION_OR_DEATH",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.COURTDECREE",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.AUCTIONDEED",
+          "code": "OWNER.PROPERTYOWNERSHIP",
           "active": true
         }
-
       ],
       "description": "OWNER.PROPERTYOWNERSHIP.PROPERTYOWNERSHIP_DESCRIPTION"
     },
@@ -198,7 +165,8 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "REGISTEREDWILLDEED"
+        "REGISTEREDWILLDEED",
+        "UNREGISTEREDWILLDEED"
       ],
       "dropdownData": [
         {
@@ -216,8 +184,7 @@
       "hasDropdown": true,
       "mutationReason": [
         "REGISTEREDWILLDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
-	"UNREGISTEREDWILLDEED"
+        "SUCCESSIONORDEATHCERTIFICATE"
       ],
       "dropdownData": [
         {
@@ -302,7 +269,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "FAMILYSETTLEMENT"
       ],
       "dropdownData": [
@@ -320,7 +287,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT"
       ],
@@ -365,7 +332,7 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT"
