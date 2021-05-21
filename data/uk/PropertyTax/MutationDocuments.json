@@ -198,8 +198,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "REGISTEREDWILLDEED",
-        "UNREGISTEREDWILLDEED"
+        "REGISTEREDWILLDEED"
       ],
       "dropdownData": [
         {
@@ -217,7 +216,8 @@
       "hasDropdown": true,
       "mutationReason": [
         "REGISTEREDWILLDEED",
-        "SUCESSTIONORDEATHCERTIFICATE"
+        "SUCESSTIONORDEATHCERTIFICATE",
+	"UNREGISTEREDWILLDEED"
       ],
       "dropdownData": [
         {
