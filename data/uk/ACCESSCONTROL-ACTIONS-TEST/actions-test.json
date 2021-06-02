@@ -6876,41 +6876,20 @@
 			"leftIcon": "action:assignment",
 			"rightIcon": ""
 		},
-		{
+    {
 			"id": 1931,
-			"name": "rainmaker-common-PTMuation",
-			"url": "card",
-			"displayName": "PT Muation",
-			"orderNumber": 2,
-			"parentModule": "",
-			"enabled": true,
-			"serviceCode": "",
-			"code": "",
-			"path": "",
-			"navigationURL": "pt-mutation",
-			"leftIcon": "action:store",
-			"rightIcon": "",
-			"queryParams": ""
-		},
-		{
-			"id": 1932,
-			"name": "Search Mutation Applications",
+			"name": "PT Mutation",
 			"url": "url",
-			"displayName": "Search Applications",
-			"orderNumber": 1,
-			"queryParams": "",
+			"displayName": "PT Mutation",
+			"orderNumber": 5,
 			"parentModule": "",
 			"enabled": true,
-			"serviceCode": "",
-			"tenantId": "uk",
-			"createdDate": null,
-			"createdBy": null,
-			"lastModifiedDate": null,
-			"lastModifiedBy": null,
-			"path": "PT Muation.Search Applications",
+			"serviceCode": "PT.Mutation",
+			"code": "null",
 			"navigationURL": "pt-mutation/propertySearch",
-			"leftIcon": "communication:business",
-			"rightIcon": ""
+			"path": "null",
+			"leftIcon": "action:mutation"
 		}
+    		
 	]
 }
