@@ -6886,9 +6886,9 @@
 			"enabled": true,
 			"serviceCode": "PT.Muation",
 			"code": "null",
-			"navigationURL": "pt-mutation/propertySearch",
+			"navigationURL": "pt-mutation/propertySearch?citizenSearch=true",
 			"path": "null",
-			"leftIcon": "action:receipt"
+			"leftIcon": "places:business-center"
 		}
     		
 	]
