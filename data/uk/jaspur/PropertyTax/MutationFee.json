@@ -1,0 +1,404 @@
+{
+  "tenantId": "uk.jaspur",
+  "moduleName": "PropertyTax",
+  "MutationFee": [
+    {
+      "RESIDENTIAL": {
+        "NAMECORRECTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "REGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PROPERTYAUCTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PARTITIONDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "GIFTDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SUCCESSIONORDEATHCERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PATTACERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "COURTDECREE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FAMILYSETTLEMENT": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FREEHOLDREGISTRY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEPOWEROFATTORNEY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "UNREGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ]
+      },
+      "NONRESIDENTIAL": {
+        "NAMECORRECTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "REGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PROPERTYAUCTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PARTITIONDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "GIFTDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SUCCESSIONORDEATHCERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PATTACERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "COURTDECREE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FAMILYSETTLEMENT": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FREEHOLDREGISTRY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEPOWEROFATTORNEY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "UNREGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ]
+      },
+      "MIXED": {
+        "NAMECORRECTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "REGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PROPERTYAUCTION": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PARTITIONDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "GIFTDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SUCCESSIONORDEATHCERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "PATTACERTIFICATE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "COURTDECREE": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FAMILYSETTLEMENT": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "FREEHOLDREGISTRY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "SALEPOWEROFATTORNEY": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ],
+        "UNREGISTEREDWILLDEED": [
+          {
+            "applicationFee": 100,
+            "processingFee": 0,
+            "publicationFee": 0,
+            "forFy": "2021-22",
+            "startingDay": 1617235200000,
+            "endingDay": 1648684800000
+          }
+        ]
+      }
+    }
+  ]
+}
