@@ -3,10 +3,10 @@
 	"moduleName": "PropertyTax",
 	"MutationAdditionalFees": [{
 		"mutationFee": {
-			"enabledCities": ["uk.dehradun", "uk.haridwar"]
+			"enabledCities": ["uk.haridwar", "uk.roorkee", "uk.haldwani", "uk.rudrapur", "uk.kashipur", "uk.kotdwar"]
 		},
 		"lateFee": {
-			"enabledCities": ["uk.dehradun"]
+			"enabledCities": ["uk.dehradun", "uk.haridwar", "uk.rishikesh", "uk.haldwani", "uk.rudrapur"]
 		}
 	}]
 }
