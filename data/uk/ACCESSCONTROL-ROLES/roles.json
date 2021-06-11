@@ -216,6 +216,11 @@
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
-    }   
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous User",
+      "description": "Anonymous User to be used in case of no auth"
+    }
   ]
 }
