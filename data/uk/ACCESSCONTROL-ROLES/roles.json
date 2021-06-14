@@ -216,6 +216,11 @@
       "code": "BBPS_ADMIN",
       "name": "BBPS ADMIN",
       "description": "Role for BBPS ADMIN"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous User",
+      "description": "Anonymous User to be used in case of no auth"
     }
   ]
 }
