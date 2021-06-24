@@ -5,7 +5,7 @@
     {
       "code": "PT",
       "headerBandLabel": "PT_COMMON_TABLE_COL_PT_ID",
-      "receiptKey": "property-receipt",
+      "receiptKey": "consolidatedreceipt",
       "billKey": "property-bill",
       "cancelReceipt":true,
       "arrears": true,
@@ -20,7 +20,7 @@
     {
       "code": "PT.MUTATION",
       "headerBandLabel": "PTM_COMMON_TABLE_COL_PT_ID",
-      "receiptKey": "property-receipt",
+      "receiptKey": "pt-mutation-receipt",
       "billKey": "property-bill",
       "cancelReceipt":false,
       "arrears": true,
@@ -35,7 +35,7 @@
     {
       "code": "TL",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
-      "receiptKey": "tradelicense-receipt",
+      "receiptKey": "tl-receipt",
       "billKey": "tradelicense-bill",
       "cancelReceipt":false,
       "arrears": false,
