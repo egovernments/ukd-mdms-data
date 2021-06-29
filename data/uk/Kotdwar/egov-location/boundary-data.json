@@ -1,3 +1,4 @@
+
 {
   "tenantId": "uk.kotdwar",
   "moduleName": "egov-location",
@@ -18,7 +19,7 @@
         "code": "uk.kotdwar",
         "children": [
           {
-            "id": "869c877a-daf9-472c-bdad-71c293da4705",
+            "id": "101ce730-5f11-42a9-950b-e7b236a901c5",
             "boundaryNum": 1,
             "name": "Kotdwar",
             "localname": "Kotdwar",
@@ -28,7 +29,7 @@
             "code": "ZONE1",
             "children": [
               {
-                "id": "fa82458c-1b2a-42e1-ab22-ff8e77474992",
+                "id": "6567027e-d23a-4f39-a2b8-6e060c1c3ed6",
                 "boundaryNum": 1,
                 "name": "Ward No.-01 Ratanpur, Saneh",
                 "localname": "Ward No.-01 Ratanpur, Saneh",
@@ -38,10 +39,10 @@
                 "code": "WARD1",
                 "children": [
                   {
-                    "id": "4e006bb1-7a97-4c0c-abb5-d4125e5526f4",
+                    "id": "83a23a41-b470-4e94-84ca-96beef669077",
                     "boundaryNum": 1,
-                    "name": "Ratanpur - Ward No.-01 Ratanpur, Saneh ",
-                    "localname": "Ratanpur - Ward No.-01 Ratanpur, Saneh ",
+                    "name": "Ratanpur - Ward No.-01 Ratanpur, Saneh",
+                    "localname": "Ratanpur - Ward No.-01 Ratanpur, Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -50,10 +51,10 @@
                     "children": []
                   },
                   {
-                    "id": "0c59a219-8f42-479f-93ff-43275f40a5c0",
+                    "id": "8f9a285b-d01a-45b2-a023-e8ac210c211e",
                     "boundaryNum": 1,
-                    "name": "Grastanganj - Ward No.-01 Ratanpur, Saneh ",
-                    "localname": "Grastanganj - Ward No.-01 Ratanpur, Saneh ",
+                    "name": "Grastanganj - Ward No.-01 Ratanpur, Saneh",
+                    "localname": "Grastanganj - Ward No.-01 Ratanpur, Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -62,10 +63,10 @@
                     "children": []
                   },
                   {
-                    "id": "7bf3bd16-71ea-4a19-bbc5-fcefff81cc58",
+                    "id": "4db3977d-ccc8-4a58-8d0c-d3daaf206be0",
                     "boundaryNum": 1,
-                    "name": "Purana Kotdwara Pachimi Bhag - Ward No.-01 Ratanpur, Saneh ",
-                    "localname": "Purana Kotdwara Pachimi Bhag - Ward No.-01 Ratanpur, Saneh ",
+                    "name": "Purana Kotdwara Pachimi Bhag - Ward No.-01 Ratanpur, Saneh",
+                    "localname": "Purana Kotdwara Pachimi Bhag - Ward No.-01 Ratanpur, Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -76,7 +77,7 @@
                 ]
               },
               {
-                "id": "f77bd9fc-67f7-45f2-b872-e686c6c888e8",
+                "id": "44c531a2-68cb-4f57-8545-360848d123f7",
                 "boundaryNum": 1,
                 "name": "Ward No.-2 Khumbichour",
                 "localname": "Ward No.-2 Khumbichour",
@@ -86,10 +87,10 @@
                 "code": "WARD2",
                 "children": [
                   {
-                    "id": "d189afc2-266e-440f-82cb-8939c0808848",
+                    "id": "b95d51b8-0405-4ab1-8f6c-7eccef6534e3",
                     "boundaryNum": 1,
-                    "name": "Nathupur - Ward No.-2 Khumbichour ",
-                    "localname": "Nathupur - Ward No.-2 Khumbichour ",
+                    "name": "Nathupur - Ward No.-2 Khumbichour",
+                    "localname": "Nathupur - Ward No.-2 Khumbichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -98,10 +99,10 @@
                     "children": []
                   },
                   {
-                    "id": "37628578-fd05-4e30-b5ec-492c3e0850c1",
+                    "id": "5211e723-bb77-4c7c-8b36-97d4d7fcb34b",
                     "boundaryNum": 1,
-                    "name": "Rampur - Ward No.-2 Khumbichour ",
-                    "localname": "Rampur - Ward No.-2 Khumbichour ",
+                    "name": "Rampur - Ward No.-2 Khumbichour",
+                    "localname": "Rampur - Ward No.-2 Khumbichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -110,10 +111,10 @@
                     "children": []
                   },
                   {
-                    "id": "7d8bdfc8-fe6f-402e-be0f-b2c78d831ece",
+                    "id": "87ca86ff-66f5-4691-a58e-bb925b1f3ffa",
                     "boundaryNum": 1,
-                    "name": "Kumbhichaur - Ward No.-2 Khumbichour ",
-                    "localname": "Kumbhichaur - Ward No.-2 Khumbichour ",
+                    "name": "Kumbhichaur - Ward No.-2 Khumbichour",
+                    "localname": "Kumbhichaur - Ward No.-2 Khumbichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -122,10 +123,10 @@
                     "children": []
                   },
                   {
-                    "id": "4fde5c09-242f-410a-b04f-56d56fd68c94",
+                    "id": "5f9d1d7a-6e8d-429a-84b7-0294a5914a20",
                     "boundaryNum": 1,
-                    "name": "Bishanpur - Ward No.-2 Khumbichour ",
-                    "localname": "Bishanpur - Ward No.-2 Khumbichour ",
+                    "name": "Bishanpur - Ward No.-2 Khumbichour",
+                    "localname": "Bishanpur - Ward No.-2 Khumbichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -134,10 +135,10 @@
                     "children": []
                   },
                   {
-                    "id": "5136874d-1d04-4eca-8f85-05b391633a98",
+                    "id": "3a9e4666-66ad-41a1-b18e-b2d7855429f8",
                     "boundaryNum": 1,
-                    "name": "Jeetpur - Ward No.-2 Khumbichour ",
-                    "localname": "Jeetpur - Ward No.-2 Khumbichour ",
+                    "name": "Jeetpur - Ward No.-2 Khumbichour",
+                    "localname": "Jeetpur - Ward No.-2 Khumbichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -148,7 +149,7 @@
                 ]
               },
               {
-                "id": "f63b45cf-21d9-44e2-8eef-ff4900a66f00",
+                "id": "8bc83f7d-cd20-4a76-88f9-bc8453af897b",
                 "boundaryNum": 1,
                 "name": "Ward No-03 Saneh",
                 "localname": "Ward No-03 Saneh",
@@ -158,10 +159,10 @@
                 "code": "WARD3",
                 "children": [
                   {
-                    "id": "893ba21b-cbb3-40d1-8fc7-9427cbce90e6",
+                    "id": "d8828700-0ca5-4f8d-bca1-672bbc91bd09",
                     "boundaryNum": 1,
-                    "name": "Vill.SanehTalli - Ward No-03 Saneh ",
-                    "localname": "Vill.SanehTalli - Ward No-03 Saneh ",
+                    "name": "Vill.SanehTalli - Ward No-03 Saneh",
+                    "localname": "Vill.SanehTalli - Ward No-03 Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -170,10 +171,10 @@
                     "children": []
                   },
                   {
-                    "id": "49b94642-0ea8-4543-bc6e-b3f59338dc92",
+                    "id": "eb02a5bd-f90f-443b-bbfc-5f3b71f3a111",
                     "boundaryNum": 1,
-                    "name": "Saneh Malli - Ward No-03 Saneh ",
-                    "localname": "Saneh Malli - Ward No-03 Saneh ",
+                    "name": "Saneh Malli - Ward No-03 Saneh",
+                    "localname": "Saneh Malli - Ward No-03 Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -182,10 +183,10 @@
                     "children": []
                   },
                   {
-                    "id": "dfe1f1d3-dab2-480e-8f2a-7e0a458fb3ff",
+                    "id": "38f30f6e-39f8-4ad3-8d8b-a3115db19409",
                     "boundaryNum": 1,
-                    "name": "Kotridhang - Ward No-03 Saneh ",
-                    "localname": "Kotridhang - Ward No-03 Saneh ",
+                    "name": "Kotridhang - Ward No-03 Saneh",
+                    "localname": "Kotridhang - Ward No-03 Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -194,10 +195,10 @@
                     "children": []
                   },
                   {
-                    "id": "b69f0f33-db64-43c0-aa28-ebf20adf41bc",
+                    "id": "75e880f0-12f7-4044-9c94-15c1b926c0b5",
                     "boundaryNum": 1,
-                    "name": "Lalpani walli - Ward No-03 Saneh ",
-                    "localname": "Lalpani walli - Ward No-03 Saneh ",
+                    "name": "Lalpani walli - Ward No-03 Saneh",
+                    "localname": "Lalpani walli - Ward No-03 Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -206,10 +207,10 @@
                     "children": []
                   },
                   {
-                    "id": "a9b05652-e469-4bd2-9ff9-ef2eaf6db7bd",
+                    "id": "fe7770b8-654b-4da0-bec9-3cc211442a76",
                     "boundaryNum": 1,
-                    "name": "Lalpani palli - Ward No-03 Saneh ",
-                    "localname": "Lalpani palli - Ward No-03 Saneh ",
+                    "name": "Lalpani palli - Ward No-03 Saneh",
+                    "localname": "Lalpani palli - Ward No-03 Saneh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -220,7 +221,7 @@
                 ]
               },
               {
-                "id": "5973e3ea-14f0-4257-8115-dde948849cd3",
+                "id": "e14b0143-332e-408c-8369-f2ae63645c70",
                 "boundaryNum": 1,
                 "name": "Ward No-04 Gadighat",
                 "localname": "Ward No-04 Gadighat",
@@ -230,10 +231,10 @@
                 "code": "WARD4",
                 "children": [
                   {
-                    "id": "05aab636-f673-4b76-9e22-6703c57b5caa",
+                    "id": "0473c9e1-e6a1-4158-9105-6ef04397fe84",
                     "boundaryNum": 1,
-                    "name": "Giwai Shrot - Ward No-04 Gadighat ",
-                    "localname": "Giwai Shrot - Ward No-04 Gadighat ",
+                    "name": "Giwai Shrot - Ward No-04 Gadighat",
+                    "localname": "Giwai Shrot - Ward No-04 Gadighat",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -242,10 +243,10 @@
                     "children": []
                   },
                   {
-                    "id": "f7fbe62d-77a8-4ce1-bb15-eeb457826ee9",
+                    "id": "db7ee2b8-dc5a-4a35-b842-2caabac793a5",
                     "boundaryNum": 1,
-                    "name": "Gadighat Vikasnagar - Ward No-04 Gadighat ",
-                    "localname": "Gadighat Vikasnagar - Ward No-04 Gadighat ",
+                    "name": "Gadighat Vikasnagar - Ward No-04 Gadighat",
+                    "localname": "Gadighat Vikasnagar - Ward No-04 Gadighat",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -254,10 +255,10 @@
                     "children": []
                   },
                   {
-                    "id": "4d4e6e21-9db3-4052-ac67-d5d5ee8b5ec5",
+                    "id": "9170b393-45f0-440f-9ce9-8e56a4fbb6dc",
                     "boundaryNum": 1,
-                    "name": "Gadighat Dakshin-Purab - Ward No-04 Gadighat ",
-                    "localname": "Gadighat Dakshin-Purab - Ward No-04 Gadighat ",
+                    "name": "Gadighat Dakshin-Purab - Ward No-04 Gadighat",
+                    "localname": "Gadighat Dakshin-Purab - Ward No-04 Gadighat",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -268,7 +269,7 @@
                 ]
               },
               {
-                "id": "f2371251-3535-4e25-8da0-597519be0a31",
+                "id": "192faaef-5dde-466f-aec5-9e93c4efce3b",
                 "boundaryNum": 1,
                 "name": "Ward No-05 Lakdipadaw",
                 "localname": "Ward No-05 Lakdipadaw",
@@ -278,10 +279,10 @@
                 "code": "WARD5",
                 "children": [
                   {
-                    "id": "c3c61a47-161f-4c74-94aa-b9db01f70737",
+                    "id": "abb5ec77-9300-4c92-9825-18056df355ea",
                     "boundaryNum": 1,
-                    "name": "Lakdipadaw Dakshin - Ward No-05 Lakdipadaw ",
-                    "localname": "Lakdipadaw Dakshin - Ward No-05 Lakdipadaw ",
+                    "name": "Lakdipadaw Dakshin - Ward No-05 Lakdipadaw",
+                    "localname": "Lakdipadaw Dakshin - Ward No-05 Lakdipadaw",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -290,10 +291,10 @@
                     "children": []
                   },
                   {
-                    "id": "82b68789-a218-4374-ae38-8042a585b692",
+                    "id": "4038de30-9205-41a0-a038-1b59e125dfd8",
                     "boundaryNum": 1,
-                    "name": "Paniyali Talli - Ward No-05 Lakdipadaw ",
-                    "localname": "Paniyali Talli - Ward No-05 Lakdipadaw ",
+                    "name": "Paniyali Talli - Ward No-05 Lakdipadaw",
+                    "localname": "Paniyali Talli - Ward No-05 Lakdipadaw",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -304,7 +305,7 @@
                 ]
               },
               {
-                "id": "2c01b1bc-ac96-4e70-8d82-3ba4438fec78",
+                "id": "f793dc86-ca23-475d-87f5-8bab0138a96f",
                 "boundaryNum": 1,
                 "name": "Ward No-06 Kashirampur Talla",
                 "localname": "Ward No-06 Kashirampur Talla",
@@ -314,10 +315,10 @@
                 "code": "WARD6",
                 "children": [
                   {
-                    "id": "45e89ec4-8bf0-42e1-9cd2-e2fee8b2c14e",
+                    "id": "ac41f5a3-21e1-41fc-82c8-bb7fd075baf6",
                     "boundaryNum": 1,
-                    "name": "Ganesh Vihar - Ward No-06 Kashirampur Talla ",
-                    "localname": "Ganesh Vihar - Ward No-06 Kashirampur Talla ",
+                    "name": "Ganesh Vihar - Ward No-06 Kashirampur Talla",
+                    "localname": "Ganesh Vihar - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -326,10 +327,10 @@
                     "children": []
                   },
                   {
-                    "id": "9bd59b67-99e2-4de1-b3ca-9a3e01469bfe",
+                    "id": "66308842-c1f0-4758-9a14-53b658375e88",
                     "boundaryNum": 1,
-                    "name": "Kashirampur Talla - Ward No-06 Kashirampur Talla ",
-                    "localname": "Kashirampur Talla - Ward No-06 Kashirampur Talla ",
+                    "name": "Kashirampur Talla - Ward No-06 Kashirampur Talla",
+                    "localname": "Kashirampur Talla - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -338,10 +339,10 @@
                     "children": []
                   },
                   {
-                    "id": "a6f48da9-b61a-4dbc-b8ee-23dd0367ed5f",
+                    "id": "c37ea6fb-3859-40fa-891c-8ee6c970b059",
                     "boundaryNum": 1,
-                    "name": "Railway Line - Ward No-06 Kashirampur Talla ",
-                    "localname": "Railway Line - Ward No-06 Kashirampur Talla ",
+                    "name": "Railway Line - Ward No-06 Kashirampur Talla",
+                    "localname": "Railway Line - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -350,10 +351,10 @@
                     "children": []
                   },
                   {
-                    "id": "cb87cbb5-3ac9-47da-8f00-6c5896f0b700",
+                    "id": "1791235b-fee7-4b8a-b475-98afc24fb8dc",
                     "boundaryNum": 1,
-                    "name": "Bhardwaj Gali - Ward No-06 Kashirampur Talla ",
-                    "localname": "Bhardwaj Gali - Ward No-06 Kashirampur Talla ",
+                    "name": "Bhardwaj Gali - Ward No-06 Kashirampur Talla",
+                    "localname": "Bhardwaj Gali - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -362,10 +363,10 @@
                     "children": []
                   },
                   {
-                    "id": "db2237a9-0e60-445c-a25e-cf466b97fe82",
+                    "id": "5d9943ae-d1ca-4ffa-873c-460cdffe0770",
                     "boundaryNum": 1,
-                    "name": "Panchayat Bhawan - Ward No-06 Kashirampur Talla ",
-                    "localname": "Panchayat Bhawan - Ward No-06 Kashirampur Talla ",
+                    "name": "Panchayat Bhawan - Ward No-06 Kashirampur Talla",
+                    "localname": "Panchayat Bhawan - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -374,10 +375,10 @@
                     "children": []
                   },
                   {
-                    "id": "1fefa150-c570-4928-8345-1e2eac64c677",
+                    "id": "643ab544-d59d-4b27-a7cf-f3a23df434d2",
                     "boundaryNum": 1,
-                    "name": "Rokhad Kinara - Ward No-06 Kashirampur Talla ",
-                    "localname": "Rokhad Kinara - Ward No-06 Kashirampur Talla ",
+                    "name": "Rokhad Kinara - Ward No-06 Kashirampur Talla",
+                    "localname": "Rokhad Kinara - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -386,10 +387,10 @@
                     "children": []
                   },
                   {
-                    "id": "42a4ea4d-67f0-47dc-ac9c-4e5139c7d9ec",
+                    "id": "7b3d3c67-9ea1-4b71-b13e-7c3060b0a09b",
                     "boundaryNum": 1,
-                    "name": "Shiv Mandir ke Pass - Ward No-06 Kashirampur Talla ",
-                    "localname": "Shiv Mandir ke Pass - Ward No-06 Kashirampur Talla ",
+                    "name": "Shiv Mandir ke Pass - Ward No-06 Kashirampur Talla",
+                    "localname": "Shiv Mandir ke Pass - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -398,10 +399,10 @@
                     "children": []
                   },
                   {
-                    "id": "7ee77aa7-2bd7-40f6-9d77-bd3f05bdc0d5",
+                    "id": "c7dccb43-f65a-4ef7-b334-33a438efad62",
                     "boundaryNum": 1,
-                    "name": "Anup Vihar - Ward No-06 Kashirampur Talla ",
-                    "localname": "Anup Vihar - Ward No-06 Kashirampur Talla ",
+                    "name": "Anup Vihar - Ward No-06 Kashirampur Talla",
+                    "localname": "Anup Vihar - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -410,10 +411,10 @@
                     "children": []
                   },
                   {
-                    "id": "5bda6dfc-9f86-46e6-8fca-2f4c43b27f8c",
+                    "id": "cb80960a-66b7-4b0a-9c9e-d7207726b5a1",
                     "boundaryNum": 1,
-                    "name": "Chakki Mohalla - Ward No-06 Kashirampur Talla ",
-                    "localname": "Chakki Mohalla - Ward No-06 Kashirampur Talla ",
+                    "name": "Chakki Mohalla - Ward No-06 Kashirampur Talla",
+                    "localname": "Chakki Mohalla - Ward No-06 Kashirampur Talla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -424,7 +425,7 @@
                 ]
               },
               {
-                "id": "4caa1a06-6431-4d76-a93d-51e8ce62d7be",
+                "id": "a9eb3c45-db67-4146-9478-c45ff0536b38",
                 "boundaryNum": 1,
                 "name": "Ward No-07 Kaudia",
                 "localname": "Ward No-07 Kaudia",
@@ -434,10 +435,10 @@
                 "code": "WARD7",
                 "children": [
                   {
-                    "id": "8cebc96b-3c2d-4ff6-a273-1165cf44c926",
+                    "id": "e4cdabd9-abf4-4a5f-b817-228243c46143",
                     "boundaryNum": 1,
-                    "name": "Kaudia - Ward No-07 Kaudia ",
-                    "localname": "Kaudia - Ward No-07 Kaudia ",
+                    "name": "Kaudia - Ward No-07 Kaudia",
+                    "localname": "Kaudia - Ward No-07 Kaudia",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -446,10 +447,10 @@
                     "children": []
                   },
                   {
-                    "id": "c41ab9c2-ef87-4221-8ea6-47d3c5fb29a1",
+                    "id": "87fa67b3-a148-4dbb-a59d-7212dc506cff",
                     "boundaryNum": 1,
-                    "name": "Kashirampur, Pashchmi Bhag - Ward No-07 Kaudia ",
-                    "localname": "Kashirampur, Pashchmi Bhag - Ward No-07 Kaudia ",
+                    "name": "Kashirampur, Pashchmi Bhag - Ward No-07 Kaudia",
+                    "localname": "Kashirampur, Pashchmi Bhag - Ward No-07 Kaudia",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -460,7 +461,7 @@
                 ]
               },
               {
-                "id": "1768c36c-9704-4b99-ad72-63d0f6ac0ace",
+                "id": "2061791b-5eef-4f85-9d74-7945f3b22a8f",
                 "boundaryNum": 1,
                 "name": "Ward No-08 Govind Nagar",
                 "localname": "Ward No-08 Govind Nagar",
@@ -470,10 +471,10 @@
                 "code": "WARD8",
                 "children": [
                   {
-                    "id": "0cbee851-096c-4017-bc91-2049381c975f",
+                    "id": "cf644673-d064-431a-9ecb-fdf451f56119",
                     "boundaryNum": 1,
-                    "name": "Premnagar - Ward No-08 Govind Nagar ",
-                    "localname": "Premnagar - Ward No-08 Govind Nagar ",
+                    "name": "Premnagar - Ward No-08 Govind Nagar",
+                    "localname": "Premnagar - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -482,10 +483,10 @@
                     "children": []
                   },
                   {
-                    "id": "18c2181e-ec2a-414e-8d87-05d37ee7e6ff",
+                    "id": "6041c267-0a0f-4e1e-a9ca-b929d389bc3b",
                     "boundaryNum": 1,
-                    "name": "Defence Colony - Ward No-08 Govind Nagar ",
-                    "localname": "Defence Colony - Ward No-08 Govind Nagar ",
+                    "name": "Defence Colony - Ward No-08 Govind Nagar",
+                    "localname": "Defence Colony - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -494,10 +495,10 @@
                     "children": []
                   },
                   {
-                    "id": "946b92b5-89a5-44b3-923c-666cad5ffcdc",
+                    "id": "89da25da-b34c-4940-a2b5-5afa8ab4369d",
                     "boundaryNum": 1,
-                    "name": "Badola Gali - Ward No-08 Govind Nagar ",
-                    "localname": "Badola Gali - Ward No-08 Govind Nagar ",
+                    "name": "Badola Gali - Ward No-08 Govind Nagar",
+                    "localname": "Badola Gali - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -506,10 +507,10 @@
                     "children": []
                   },
                   {
-                    "id": "0ecf3586-d616-42fc-9f41-8d8613f025f7",
+                    "id": "a7f44104-2358-4f68-b2f9-b138bb0e69ae",
                     "boundaryNum": 1,
-                    "name": "Mandakini Nagar - Ward No-08 Govind Nagar ",
-                    "localname": "Mandakini Nagar - Ward No-08 Govind Nagar ",
+                    "name": "Mandakini Nagar - Ward No-08 Govind Nagar",
+                    "localname": "Mandakini Nagar - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -518,10 +519,10 @@
                     "children": []
                   },
                   {
-                    "id": "c5f67ceb-5e9e-4d30-8163-20f9b4fcb127",
+                    "id": "0798e355-7c2a-456a-877c-90c16dbd8750",
                     "boundaryNum": 1,
-                    "name": "Mishra Colony - Ward No-08 Govind Nagar ",
-                    "localname": "Mishra Colony - Ward No-08 Govind Nagar ",
+                    "name": "Mishra Colony - Ward No-08 Govind Nagar",
+                    "localname": "Mishra Colony - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -530,10 +531,10 @@
                     "children": []
                   },
                   {
-                    "id": "7cf866b3-f7de-4479-b9f7-bfbd53361c8c",
+                    "id": "0ec32fef-3bf3-4227-8fc3-eed8a26e49b3",
                     "boundaryNum": 1,
-                    "name": "Deepak Wedding Point - Ward No-08 Govind Nagar ",
-                    "localname": "Deepak Wedding Point - Ward No-08 Govind Nagar ",
+                    "name": "Deepak Wedding Point - Ward No-08 Govind Nagar",
+                    "localname": "Deepak Wedding Point - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -542,10 +543,10 @@
                     "children": []
                   },
                   {
-                    "id": "9108021a-dd29-4d38-8470-1212efe7cd5a",
+                    "id": "e20997d8-aa98-42a4-aa87-c7f586333967",
                     "boundaryNum": 1,
-                    "name": "Mata Ka Mandir - Ward No-08 Govind Nagar ",
-                    "localname": "Mata Ka Mandir - Ward No-08 Govind Nagar ",
+                    "name": "Mata Ka Mandir - Ward No-08 Govind Nagar",
+                    "localname": "Mata Ka Mandir - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -554,10 +555,10 @@
                     "children": []
                   },
                   {
-                    "id": "51ee8f24-649b-4d05-bb55-bc9efda4fb85",
+                    "id": "69433fca-8af9-4966-bb55-0e0fe55f4187",
                     "boundaryNum": 1,
-                    "name": "Govindnagar - Ward No-08 Govind Nagar ",
-                    "localname": "Govindnagar - Ward No-08 Govind Nagar ",
+                    "name": "Govindnagar - Ward No-08 Govind Nagar",
+                    "localname": "Govindnagar - Ward No-08 Govind Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -568,7 +569,7 @@
                 ]
               },
               {
-                "id": "40e590bc-a2fa-47e5-9bce-183b2874244b",
+                "id": "74014516-af1c-4f8d-8c5c-36afea425788",
                 "boundaryNum": 1,
                 "name": "Ward No-09 Kashirampur Malla",
                 "localname": "Ward No-09 Kashirampur Malla",
@@ -578,10 +579,10 @@
                 "code": "WARD9",
                 "children": [
                   {
-                    "id": "aa217114-bdac-48ec-86a6-ab6f270a11a0",
+                    "id": "2725b861-6132-4eaf-a093-ef225ad9879e",
                     "boundaryNum": 1,
-                    "name": "Kashirampur Malla - Ward No-09 Kashirampur Malla ",
-                    "localname": "Kashirampur Malla - Ward No-09 Kashirampur Malla ",
+                    "name": "Kashirampur Malla - Ward No-09 Kashirampur Malla",
+                    "localname": "Kashirampur Malla - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -590,10 +591,10 @@
                     "children": []
                   },
                   {
-                    "id": "057e0aaa-1736-47d6-afdb-ff029e19c21e",
+                    "id": "2940ff90-8320-4079-a2fb-5176e6f92951",
                     "boundaryNum": 1,
-                    "name": "Shivalik Nagar - Ward No-09 Kashirampur Malla ",
-                    "localname": "Shivalik Nagar - Ward No-09 Kashirampur Malla ",
+                    "name": "Shivalik Nagar - Ward No-09 Kashirampur Malla",
+                    "localname": "Shivalik Nagar - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -602,10 +603,10 @@
                     "children": []
                   },
                   {
-                    "id": "60ce1e02-ab51-49f0-ac31-5f6a5f4701a6",
+                    "id": "66c5eb3c-9ea9-4903-923c-c7720b5d4f85",
                     "boundaryNum": 1,
-                    "name": "Pratap Nagar - Ward No-09 Kashirampur Malla ",
-                    "localname": "Pratap Nagar - Ward No-09 Kashirampur Malla ",
+                    "name": "Pratap Nagar - Ward No-09 Kashirampur Malla",
+                    "localname": "Pratap Nagar - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -614,10 +615,10 @@
                     "children": []
                   },
                   {
-                    "id": "9404e88e-1cbc-415b-9a7a-70b5d602c290",
+                    "id": "a37765df-4f1c-4568-a35c-662b362b878d",
                     "boundaryNum": 1,
-                    "name": "New Pratap Nagar - Ward No-09 Kashirampur Malla ",
-                    "localname": "New Pratap Nagar - Ward No-09 Kashirampur Malla ",
+                    "name": "New Pratap Nagar - Ward No-09 Kashirampur Malla",
+                    "localname": "New Pratap Nagar - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -626,10 +627,10 @@
                     "children": []
                   },
                   {
-                    "id": "6a5edf70-721e-4b6d-92e2-3ca2163567fc",
+                    "id": "92b285ca-bd03-4b85-93eb-572f5cbc45a1",
                     "boundaryNum": 1,
-                    "name": "Devi Nagar - Ward No-09 Kashirampur Malla ",
-                    "localname": "Devi Nagar - Ward No-09 Kashirampur Malla ",
+                    "name": "Devi Nagar - Ward No-09 Kashirampur Malla",
+                    "localname": "Devi Nagar - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -638,10 +639,10 @@
                     "children": []
                   },
                   {
-                    "id": "6445318b-eaae-4942-9a9a-0904f6e6c608",
+                    "id": "352e9b81-9ef7-4595-bf7a-314bb95bb7b3",
                     "boundaryNum": 1,
-                    "name": "sShiva Nagar - Ward No-09 Kashirampur Malla ",
-                    "localname": "sShiva Nagar - Ward No-09 Kashirampur Malla ",
+                    "name": "sShiva Nagar - Ward No-09 Kashirampur Malla",
+                    "localname": "sShiva Nagar - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -650,10 +651,10 @@
                     "children": []
                   },
                   {
-                    "id": "1bcb3bfc-a806-4e79-a9cb-5731c1d21b48",
+                    "id": "d97d09ac-35f2-48a0-967a-8843f1fca107",
                     "boundaryNum": 1,
-                    "name": "Railway Station ke Upar Dakshini Bhag - Ward No-09 Kashirampur Malla ",
-                    "localname": "Railway Station ke Upar Dakshini Bhag - Ward No-09 Kashirampur Malla ",
+                    "name": "Railway Station ke Upar Dakshini Bhag - Ward No-09 Kashirampur Malla",
+                    "localname": "Railway Station ke Upar Dakshini Bhag - Ward No-09 Kashirampur Malla",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -664,7 +665,7 @@
                 ]
               },
               {
-                "id": "21379c64-45f5-42a9-8cb2-83e7634985bc",
+                "id": "e0ba4ac1-e995-40ed-b4bb-ed77736aace7",
                 "boundaryNum": 1,
                 "name": "Ward No-10 Paniyali Talli",
                 "localname": "Ward No-10 Paniyali Talli",
@@ -674,10 +675,10 @@
                 "code": "WARD10",
                 "children": [
                   {
-                    "id": "b7bc10d6-4ac2-4ab3-8df7-5f65596b51b6",
+                    "id": "de5c557c-8e38-4ff4-8b86-99a13dd10cca",
                     "boundaryNum": 1,
-                    "name": "Lakdi Padaw - Ward No-10 Paniyali Talli ",
-                    "localname": "Lakdi Padaw - Ward No-10 Paniyali Talli ",
+                    "name": "Lakdi Padaw - Ward No-10 Paniyali Talli",
+                    "localname": "Lakdi Padaw - Ward No-10 Paniyali Talli",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -686,10 +687,10 @@
                     "children": []
                   },
                   {
-                    "id": "6c5084dd-779d-496b-9e00-121e3ed98cd6",
+                    "id": "06ba1fec-a317-4e3d-8a97-a526f0eaec31",
                     "boundaryNum": 1,
-                    "name": "Kashirampur Talla - Ward No-10 Paniyali Talli ",
-                    "localname": "Kashirampur Talla - Ward No-10 Paniyali Talli ",
+                    "name": "Kashirampur Talla - Ward No-10 Paniyali Talli",
+                    "localname": "Kashirampur Talla - Ward No-10 Paniyali Talli",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -698,10 +699,10 @@
                     "children": []
                   },
                   {
-                    "id": "d9b1e712-011c-4397-9556-b0cac00f0a22",
+                    "id": "7b3c7cce-b604-437c-a7ba-d3ce1cc6f3ed",
                     "boundaryNum": 1,
-                    "name": "Prajapati Nagar - Ward No-10 Paniyali Talli ",
-                    "localname": "Prajapati Nagar - Ward No-10 Paniyali Talli ",
+                    "name": "Prajapati Nagar - Ward No-10 Paniyali Talli",
+                    "localname": "Prajapati Nagar - Ward No-10 Paniyali Talli",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -712,7 +713,7 @@
                 ]
               },
               {
-                "id": "76200f5e-ffc1-4054-a409-c1e45aa78f15",
+                "id": "982115cb-2ec3-4f70-8760-6a93e1f0f06f",
                 "boundaryNum": 1,
                 "name": "Ward No-11 Jhandachok Badrinath Marg",
                 "localname": "Ward No-11 Jhandachok Badrinath Marg",
@@ -722,10 +723,10 @@
                 "code": "WARD11",
                 "children": [
                   {
-                    "id": "2f3c84b1-2d4d-4051-961c-6c483ae8df98",
+                    "id": "5c8eb3cd-b92a-45ba-962b-03edf7e50da3",
                     "boundaryNum": 1,
-                    "name": "Badrinath Marg - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Badrinath Marg - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Badrinath Marg - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Badrinath Marg - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -734,10 +735,10 @@
                     "children": []
                   },
                   {
-                    "id": "5f280806-3e45-4709-a043-9ae7301dba25",
+                    "id": "c0b5e49f-db30-4a53-8332-9f4899cc448d",
                     "boundaryNum": 1,
-                    "name": "Jhanda Chawk - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Jhanda Chawk - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Jhanda Chawk - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Jhanda Chawk - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -746,10 +747,10 @@
                     "children": []
                   },
                   {
-                    "id": "119947bc-4217-4424-9cc0-628d7a9bc78a",
+                    "id": "dbf32eb0-f204-4e60-9845-17542047995a",
                     "boundaryNum": 1,
-                    "name": "Sidhbali Marg - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Sidhbali Marg - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Sidhbali Marg - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Sidhbali Marg - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -758,10 +759,10 @@
                     "children": []
                   },
                   {
-                    "id": "978aac69-c7ca-40f0-a4c1-8fd5073de464",
+                    "id": "514d7567-6992-40b6-94fd-db1e300d2fd0",
                     "boundaryNum": 1,
-                    "name": "Malgodam Road - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Malgodam Road - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Malgodam Road - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Malgodam Road - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -770,10 +771,10 @@
                     "children": []
                   },
                   {
-                    "id": "8457c69f-e3d9-4ff1-86bc-46e88c13cbcb",
+                    "id": "80610130-12a7-45a5-9167-03c2d627da67",
                     "boundaryNum": 1,
-                    "name": "Vikash nagar - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Vikash nagar - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Vikash nagar - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Vikash nagar - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -782,10 +783,10 @@
                     "children": []
                   },
                   {
-                    "id": "5acdacfa-a1a6-4d65-a5c0-7e289c666ffc",
+                    "id": "9f94b480-2989-4679-86f1-7294b7cb055c",
                     "boundaryNum": 1,
-                    "name": "Dhobighat - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Dhobighat - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Dhobighat - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Dhobighat - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -794,10 +795,10 @@
                     "children": []
                   },
                   {
-                    "id": "fc18451c-045c-4e40-aafa-8ba7155b9f94",
+                    "id": "feee37a1-c532-4117-ad17-9b93f3116356",
                     "boundaryNum": 1,
-                    "name": "Jhula Pul Road - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Jhula Pul Road - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Jhula Pul Road - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Jhula Pul Road - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -806,10 +807,10 @@
                     "children": []
                   },
                   {
-                    "id": "6c7386e5-59d0-4342-8913-d2f795f7a46a",
+                    "id": "dd52f63e-fe4e-4bd8-854b-46e29f9821c2",
                     "boundaryNum": 1,
-                    "name": "Jhula Basti - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Jhula Basti - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Jhula Basti - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Jhula Basti - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -818,10 +819,10 @@
                     "children": []
                   },
                   {
-                    "id": "0a7c02d0-f201-43fb-9f77-aa2d595e4e4f",
+                    "id": "c4cd1bca-b672-4173-894c-a5b9ccded8f6",
                     "boundaryNum": 1,
-                    "name": "Gadighat - Ward No-11 Jhandachok Badrinath Marg ",
-                    "localname": "Gadighat - Ward No-11 Jhandachok Badrinath Marg ",
+                    "name": "Gadighat - Ward No-11 Jhandachok Badrinath Marg",
+                    "localname": "Gadighat - Ward No-11 Jhandachok Badrinath Marg",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -832,7 +833,7 @@
                 ]
               },
               {
-                "id": "2eb65ac0-3d3d-4520-aaa4-01c4f15cd6dc",
+                "id": "1bd14603-8d47-48cc-ab49-28839802aedb",
                 "boundaryNum": 1,
                 "name": "Ward No- 12 Kalabadh",
                 "localname": "Ward No- 12 Kalabadh",
@@ -842,10 +843,10 @@
                 "code": "WARD12",
                 "children": [
                   {
-                    "id": "eab44690-39e8-4f2b-baaa-6c2cc438e930",
+                    "id": "0ac84ae4-9152-4288-a864-5cd65a68b95d",
                     "boundaryNum": 1,
-                    "name": "Johnpur Uttar - Ward No- 12 Kalabadh ",
-                    "localname": "Johnpur Uttar - Ward No- 12 Kalabadh ",
+                    "name": "Johnpur Uttar - Ward No- 12 Kalabadh",
+                    "localname": "Johnpur Uttar - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -854,10 +855,10 @@
                     "children": []
                   },
                   {
-                    "id": "0e88663c-5784-45e4-91d2-e8945ecfa42f",
+                    "id": "d7cb1f9a-e6c0-41d6-b080-c30e0ff4397e",
                     "boundaryNum": 1,
-                    "name": "Johnpur madhya - Ward No- 12 Kalabadh ",
-                    "localname": "Johnpur madhya - Ward No- 12 Kalabadh ",
+                    "name": "Johnpur madhya - Ward No- 12 Kalabadh",
+                    "localname": "Johnpur madhya - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -866,10 +867,10 @@
                     "children": []
                   },
                   {
-                    "id": "de3519dd-0aa7-49f8-8466-f6d042335805",
+                    "id": "fa1ac6d3-a453-4203-a9ee-1cebb968fc6b",
                     "boundaryNum": 1,
-                    "name": "Johnpur Dakshin Madhya - Ward No- 12 Kalabadh ",
-                    "localname": "Johnpur Dakshin Madhya - Ward No- 12 Kalabadh ",
+                    "name": "Johnpur Dakshin Madhya - Ward No- 12 Kalabadh",
+                    "localname": "Johnpur Dakshin Madhya - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -878,10 +879,10 @@
                     "children": []
                   },
                   {
-                    "id": "ac7df764-5f06-4a0a-a169-9f8806eda09e",
+                    "id": "7fc804b2-107f-4a5b-8c08-0df8199483e1",
                     "boundaryNum": 1,
-                    "name": "Upper Kalabad - Ward No- 12 Kalabadh ",
-                    "localname": "Upper Kalabad - Ward No- 12 Kalabadh ",
+                    "name": "Upper Kalabad - Ward No- 12 Kalabadh",
+                    "localname": "Upper Kalabad - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -890,10 +891,10 @@
                     "children": []
                   },
                   {
-                    "id": "89d46ece-e21f-47a8-928f-f233c23f32e0",
+                    "id": "38debd32-62d5-49a0-8ff4-a163119e907b",
                     "boundaryNum": 1,
-                    "name": "Lower Kalabad - Ward No- 12 Kalabadh ",
-                    "localname": "Lower Kalabad - Ward No- 12 Kalabadh ",
+                    "name": "Lower Kalabad - Ward No- 12 Kalabadh",
+                    "localname": "Lower Kalabad - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -902,10 +903,10 @@
                     "children": []
                   },
                   {
-                    "id": "bde8fc97-c653-49cc-a6e1-16e727ac0614",
+                    "id": "1e1793c9-482b-4473-8e0c-f260cf5061d2",
                     "boundaryNum": 1,
-                    "name": "Hospital Area - Ward No- 12 Kalabadh ",
-                    "localname": "Hospital Area - Ward No- 12 Kalabadh ",
+                    "name": "Hospital Area - Ward No- 12 Kalabadh",
+                    "localname": "Hospital Area - Ward No- 12 Kalabadh",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -916,7 +917,7 @@
                 ]
               },
               {
-                "id": "5dc74162-9945-4592-ab79-bc7903c26b9a",
+                "id": "e40be682-3c60-4438-9b3c-ce332b33226e",
                 "boundaryNum": 1,
                 "name": "Ward No -13 Aadhat Bazar Christian Colony",
                 "localname": "Ward No -13 Aadhat Bazar Christian Colony",
@@ -926,10 +927,10 @@
                 "code": "WARD13",
                 "children": [
                   {
-                    "id": "1721a685-e8f9-4098-8056-7030f7541f7f",
+                    "id": "5d924735-1189-4b9c-b80b-138912274c4b",
                     "boundaryNum": 1,
-                    "name": "Gokhlay Marg - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Gokhlay Marg - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Gokhlay Marg - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Gokhlay Marg - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -938,10 +939,10 @@
                     "children": []
                   },
                   {
-                    "id": "98d3db24-f99c-4eb6-9d98-6cd97a65d52b",
+                    "id": "f4022b22-d74a-4fdc-bb2d-21481b572578",
                     "boundaryNum": 1,
-                    "name": "Meat Market - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Meat Market - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Meat Market - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Meat Market - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -950,10 +951,10 @@
                     "children": []
                   },
                   {
-                    "id": "fe8c68fa-3219-40fb-9a94-3cfea7766ab7",
+                    "id": "d7dbf286-cb20-4464-8b3d-01bc750af308",
                     "boundaryNum": 1,
-                    "name": "Cinema Marg - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Cinema Marg - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Cinema Marg - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Cinema Marg - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -962,10 +963,10 @@
                     "children": []
                   },
                   {
-                    "id": "08b67ca6-2f41-4945-9ddf-cf764dbe06bb",
+                    "id": "390d5a2f-9fe6-443a-93ac-1c735547868d",
                     "boundaryNum": 1,
-                    "name": "Dakshin Aampadaw - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Dakshin Aampadaw - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Dakshin Aampadaw - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Dakshin Aampadaw - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -974,10 +975,10 @@
                     "children": []
                   },
                   {
-                    "id": "65689fc1-26c0-4d0a-80d6-8764d03df569",
+                    "id": "31577861-da59-41fb-b437-e2f941a1ecf9",
                     "boundaryNum": 1,
-                    "name": "Aadhat Bazar - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Aadhat Bazar - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Aadhat Bazar - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Aadhat Bazar - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -986,10 +987,10 @@
                     "children": []
                   },
                   {
-                    "id": "6288103d-9aee-4cee-80e8-35ec7e668ac3",
+                    "id": "8a174abe-0017-4049-b920-2c575d5470f3",
                     "boundaryNum": 1,
-                    "name": "Garage Kshtra - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Garage Kshtra - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Garage Kshtra - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Garage Kshtra - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -998,10 +999,10 @@
                     "children": []
                   },
                   {
-                    "id": "9c860c39-bc61-42c9-9251-edc69aa3e6a7",
+                    "id": "668d3125-8a17-44e8-83ee-c03ae1f0b789",
                     "boundaryNum": 1,
-                    "name": "Suman Marg - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Suman Marg - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Suman Marg - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Suman Marg - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1010,10 +1011,10 @@
                     "children": []
                   },
                   {
-                    "id": "445309f4-cf96-4809-be5b-c1581dd21dc3",
+                    "id": "02360f6d-c418-435e-a6f0-bc7b873914c9",
                     "boundaryNum": 1,
-                    "name": "Christian Colony - Ward No -13 Aadhat Bazar Christian Colony ",
-                    "localname": "Christian Colony - Ward No -13 Aadhat Bazar Christian Colony ",
+                    "name": "Christian Colony - Ward No -13 Aadhat Bazar Christian Colony",
+                    "localname": "Christian Colony - Ward No -13 Aadhat Bazar Christian Colony",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1024,7 +1025,7 @@
                 ]
               },
               {
-                "id": "b2d99059-0dc4-487e-b4d0-4d44d58e43d5",
+                "id": "ea979f9e-1fa6-4ffa-bb5b-7f1158405da0",
                 "boundaryNum": 1,
                 "name": "Ward No-14 Johnpur",
                 "localname": "Ward No-14 Johnpur",
@@ -1034,10 +1035,10 @@
                 "code": "WARD14",
                 "children": [
                   {
-                    "id": "e76f6d81-42f6-46cb-b861-ff8dcd4a2daf",
+                    "id": "130abe12-970c-45be-acae-855cebcbac0a",
                     "boundaryNum": 1,
-                    "name": "Aampadav Shesh Bhag - Ward No-14 Johnpur ",
-                    "localname": "Aampadav Shesh Bhag - Ward No-14 Johnpur ",
+                    "name": "Aampadav Shesh Bhag - Ward No-14 Johnpur",
+                    "localname": "Aampadav Shesh Bhag - Ward No-14 Johnpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1046,10 +1047,10 @@
                     "children": []
                   },
                   {
-                    "id": "81bfaa5a-aba0-405b-8aae-0ef9e3d50807",
+                    "id": "18b07ef7-68c3-4acc-b9c3-4aaa5f928063",
                     "boundaryNum": 1,
-                    "name": "Saneh Kunj - Ward No-14 Johnpur ",
-                    "localname": "Saneh Kunj - Ward No-14 Johnpur ",
+                    "name": "Saneh Kunj - Ward No-14 Johnpur",
+                    "localname": "Saneh Kunj - Ward No-14 Johnpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1058,10 +1059,10 @@
                     "children": []
                   },
                   {
-                    "id": "2ef3fac4-a8e6-483f-b971-d43478b78381",
+                    "id": "ddd9ee73-5b6c-4033-ab7c-9fac711d823d",
                     "boundaryNum": 1,
-                    "name": "Alaknanda Colony - Ward No-14 Johnpur ",
-                    "localname": "Alaknanda Colony - Ward No-14 Johnpur ",
+                    "name": "Alaknanda Colony - Ward No-14 Johnpur",
+                    "localname": "Alaknanda Colony - Ward No-14 Johnpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1070,10 +1071,10 @@
                     "children": []
                   },
                   {
-                    "id": "e3e086b2-d045-45c3-9c3e-8b61ba6da8ca",
+                    "id": "cd3802ab-99a7-4509-b02e-36a4b34c7e1e",
                     "boundaryNum": 1,
-                    "name": "Robert Colony - Ward No-14 Johnpur ",
-                    "localname": "Robert Colony - Ward No-14 Johnpur ",
+                    "name": "Robert Colony - Ward No-14 Johnpur",
+                    "localname": "Robert Colony - Ward No-14 Johnpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1084,7 +1085,7 @@
                 ]
               },
               {
-                "id": "246d7d6e-e164-4670-8154-cb5075fbcd76",
+                "id": "66035e56-ac17-4079-a323-bb5c564bf5bd",
                 "boundaryNum": 1,
                 "name": "Ward No-15 Govind Nagar, Nayagaun",
                 "localname": "Ward No-15 Govind Nagar, Nayagaun",
@@ -1094,10 +1095,10 @@
                 "code": "WARD15",
                 "children": [
                   {
-                    "id": "f704324c-78cf-4be8-900c-63d96a1a6cf1",
+                    "id": "48dd1258-09cc-47cf-b49c-b02e85394f9e",
                     "boundaryNum": 1,
-                    "name": "Govind Nagar - Ward No-15 Govind Nagar, Nayagaun ",
-                    "localname": "Govind Nagar - Ward No-15 Govind Nagar, Nayagaun ",
+                    "name": "Govind Nagar - Ward No-15 Govind Nagar, Nayagaun",
+                    "localname": "Govind Nagar - Ward No-15 Govind Nagar, Nayagaun",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1106,10 +1107,10 @@
                     "children": []
                   },
                   {
-                    "id": "fedc5fc3-6a86-41e2-9fa7-b72d34291c35",
+                    "id": "355a0294-4a90-4991-ab0e-fea144d479d6",
                     "boundaryNum": 1,
-                    "name": "Naya Gaun - Ward No-15 Govind Nagar, Nayagaun ",
-                    "localname": "Naya Gaun - Ward No-15 Govind Nagar, Nayagaun ",
+                    "name": "Naya Gaun - Ward No-15 Govind Nagar, Nayagaun",
+                    "localname": "Naya Gaun - Ward No-15 Govind Nagar, Nayagaun",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1118,21 +1119,45 @@
                     "children": []
                   },
                   {
-                    "id": "94b0da10-3874-4c2e-a4fa-6f655a8cae26",
+                    "id": "f6b45291-7834-44d5-95c3-58d264a6c0bc",
                     "boundaryNum": 1,
-                    "name": "Railway Colony - Ward No-15 Govind Nagar, Nayagaun ",
-                    "localname": "Railway Colony - Ward No-15 Govind Nagar, Nayagaun ",
+                    "name": "Railway Colony - Ward No-15 Govind Nagar, Nayagaun",
+                    "localname": "Railway Colony - Ward No-15 Govind Nagar, Nayagaun",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "M0077",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "6171344a-207b-4829-9931-b18649955cf2",
+                    "boundaryNum": 1,
+                    "name": "Najibabad Road - Ward No-15 Govind Nagar, Nayagaun",
+                    "localname": "Najibabad Road - Ward No-15 Govind Nagar, Nayagaun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0192",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b99631d5-c714-47ae-8814-5411065481da",
+                    "boundaryNum": 1,
+                    "name": "Devi Road - Ward No-15 Govind Nagar, Nayagaun",
+                    "localname": "Devi Road - Ward No-15 Govind Nagar, Nayagaun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0193",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "5feb2bd5-2ade-4b2d-9244-49738c08fa63",
+                "id": "f8184770-e138-44c0-9396-4ee0b4f8d21c",
                 "boundaryNum": 1,
                 "name": "Ward No-16 Sitabpur",
                 "localname": "Ward No-16 Sitabpur",
@@ -1142,10 +1167,10 @@
                 "code": "WARD16",
                 "children": [
                   {
-                    "id": "558d3661-1a76-4193-8e0a-f8c72f49d083",
+                    "id": "3f900455-17b5-428d-861f-f061a428ff82",
                     "boundaryNum": 1,
-                    "name": "Circus Ground - Ward No-16 Sitabpur ",
-                    "localname": "Circus Ground - Ward No-16 Sitabpur ",
+                    "name": "Circus Ground - Ward No-16 Sitabpur",
+                    "localname": "Circus Ground - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1154,10 +1179,10 @@
                     "children": []
                   },
                   {
-                    "id": "cb42fa16-b559-49a6-9228-43b92655d3c9",
+                    "id": "3a4aeeb1-1fc0-4948-ac6b-bb935fcaa9df",
                     "boundaryNum": 1,
-                    "name": "Sukhrow Colony - Ward No-16 Sitabpur ",
-                    "localname": "Sukhrow Colony - Ward No-16 Sitabpur ",
+                    "name": "Sukhrow Colony - Ward No-16 Sitabpur",
+                    "localname": "Sukhrow Colony - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1166,10 +1191,10 @@
                     "children": []
                   },
                   {
-                    "id": "cd59f88a-f98f-481b-8064-5d476ef8021c",
+                    "id": "30bac449-19f2-48d2-b8ed-73e40cf181df",
                     "boundaryNum": 1,
-                    "name": "Dabral Colony - Ward No-16 Sitabpur ",
-                    "localname": "Dabral Colony - Ward No-16 Sitabpur ",
+                    "name": "Dabral Colony - Ward No-16 Sitabpur",
+                    "localname": "Dabral Colony - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1178,10 +1203,10 @@
                     "children": []
                   },
                   {
-                    "id": "572b2340-7562-48d0-a1c9-db5d795f5ed6",
+                    "id": "ae039316-5a06-46a6-baa5-2ea4902e3f08",
                     "boundaryNum": 1,
-                    "name": "Motor Nagar - Ward No-16 Sitabpur ",
-                    "localname": "Motor Nagar - Ward No-16 Sitabpur ",
+                    "name": "Motor Nagar - Ward No-16 Sitabpur",
+                    "localname": "Motor Nagar - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1190,10 +1215,10 @@
                     "children": []
                   },
                   {
-                    "id": "be8decf3-2c59-48b5-938d-2e18887ab4ba",
+                    "id": "07e84dc0-4416-4ee9-bad1-d2c438b687bd",
                     "boundaryNum": 1,
-                    "name": "Pencil Factroy - Ward No-16 Sitabpur ",
-                    "localname": "Pencil Factroy - Ward No-16 Sitabpur ",
+                    "name": "Pencil Factroy - Ward No-16 Sitabpur",
+                    "localname": "Pencil Factroy - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1202,10 +1227,10 @@
                     "children": []
                   },
                   {
-                    "id": "7fffbdae-d169-42e9-a477-5d32df29e067",
+                    "id": "0bdaf19c-b1e2-4d36-891e-c29efd15dc85",
                     "boundaryNum": 1,
-                    "name": "Shidhbali Banqute Hall - Ward No-16 Sitabpur ",
-                    "localname": "Shidhbali Banqute Hall - Ward No-16 Sitabpur ",
+                    "name": "Shidhbali Banqute Hall - Ward No-16 Sitabpur",
+                    "localname": "Shidhbali Banqute Hall - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1214,10 +1239,10 @@
                     "children": []
                   },
                   {
-                    "id": "f01143c7-5f1c-4b61-9b59-9d8d9fa89d04",
+                    "id": "215c75e9-5053-4a9d-8bec-79fbb61d60a4",
                     "boundaryNum": 1,
-                    "name": "Narayan Vihar - Ward No-16 Sitabpur ",
-                    "localname": "Narayan Vihar - Ward No-16 Sitabpur ",
+                    "name": "Narayan Vihar - Ward No-16 Sitabpur",
+                    "localname": "Narayan Vihar - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1226,10 +1251,10 @@
                     "children": []
                   },
                   {
-                    "id": "4d3fa007-93ac-4248-ae87-c2321ba687d5",
+                    "id": "3e009a7c-f156-46f7-9647-8f200b478e89",
                     "boundaryNum": 1,
-                    "name": "Mantha Colony - Ward No-16 Sitabpur ",
-                    "localname": "Mantha Colony - Ward No-16 Sitabpur ",
+                    "name": "Mantha Colony - Ward No-16 Sitabpur",
+                    "localname": "Mantha Colony - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1238,10 +1263,10 @@
                     "children": []
                   },
                   {
-                    "id": "c4b38136-9ac0-4ebe-9c94-605408f729de",
+                    "id": "590c936c-86e8-42d5-9934-9b66889a584f",
                     "boundaryNum": 1,
-                    "name": "Kaamroop Nagar - Ward No-16 Sitabpur ",
-                    "localname": "Kaamroop Nagar - Ward No-16 Sitabpur ",
+                    "name": "Kaamroop Nagar - Ward No-16 Sitabpur",
+                    "localname": "Kaamroop Nagar - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1250,10 +1275,10 @@
                     "children": []
                   },
                   {
-                    "id": "0e851f56-dcff-4687-9bcc-d169e3a3ba7b",
+                    "id": "9b40baea-9b2f-45f8-95a5-e78c78074cf4",
                     "boundaryNum": 1,
-                    "name": "Goniyal Market - Ward No-16 Sitabpur ",
-                    "localname": "Goniyal Market - Ward No-16 Sitabpur ",
+                    "name": "Goniyal Market - Ward No-16 Sitabpur",
+                    "localname": "Goniyal Market - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1262,10 +1287,10 @@
                     "children": []
                   },
                   {
-                    "id": "814f4cae-ccab-4761-81b2-3668167904c7",
+                    "id": "acc9f707-d955-4123-bbef-8ac0bb7908af",
                     "boundaryNum": 1,
-                    "name": "Neelkhanth Colony - Ward No-16 Sitabpur ",
-                    "localname": "Neelkhanth Colony - Ward No-16 Sitabpur ",
+                    "name": "Neelkhanth Colony - Ward No-16 Sitabpur",
+                    "localname": "Neelkhanth Colony - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1274,10 +1299,10 @@
                     "children": []
                   },
                   {
-                    "id": "5294b7fe-96e1-4f12-9b72-e1aa57014286",
+                    "id": "a935fd63-fa8d-47f9-87c6-92fb02bd9d01",
                     "boundaryNum": 1,
-                    "name": "Padam Singh Building - Ward No-16 Sitabpur ",
-                    "localname": "Padam Singh Building - Ward No-16 Sitabpur ",
+                    "name": "Padam Singh Building - Ward No-16 Sitabpur",
+                    "localname": "Padam Singh Building - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1286,10 +1311,10 @@
                     "children": []
                   },
                   {
-                    "id": "272d7f4d-b009-4053-ac46-bfaeeace6e5f",
+                    "id": "9b10815e-c375-45cf-9145-23377332374c",
                     "boundaryNum": 1,
-                    "name": "Dani Mohalla - Ward No-16 Sitabpur ",
-                    "localname": "Dani Mohalla - Ward No-16 Sitabpur ",
+                    "name": "Dani Mohalla - Ward No-16 Sitabpur",
+                    "localname": "Dani Mohalla - Ward No-16 Sitabpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1300,7 +1325,7 @@
                 ]
               },
               {
-                "id": "f25eeb0e-51f2-4ac3-bef5-076c3311e31a",
+                "id": "c4b6e1fe-542b-4ac5-878b-850750afccbf",
                 "boundaryNum": 1,
                 "name": "Ward No-17 Manpur",
                 "localname": "Ward No-17 Manpur",
@@ -1310,10 +1335,10 @@
                 "code": "WARD17",
                 "children": [
                   {
-                    "id": "c9bfeb4f-aba7-4a12-8b6a-22e0bb9c2075",
+                    "id": "8758a069-da71-4485-b645-1409b3497987",
                     "boundaryNum": 1,
-                    "name": "Maanpur - Ward No-17 Manpur ",
-                    "localname": "Maanpur - Ward No-17 Manpur ",
+                    "name": "Maanpur - Ward No-17 Manpur",
+                    "localname": "Maanpur - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1322,10 +1347,10 @@
                     "children": []
                   },
                   {
-                    "id": "eba36dff-48a5-47f9-8ca3-5ff93ba23569",
+                    "id": "06a30a99-8d97-4310-89cf-72faedb10298",
                     "boundaryNum": 1,
-                    "name": "Khantwal Mohalla - Ward No-17 Manpur ",
-                    "localname": "Khantwal Mohalla - Ward No-17 Manpur ",
+                    "name": "Khantwal Mohalla - Ward No-17 Manpur",
+                    "localname": "Khantwal Mohalla - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1334,10 +1359,10 @@
                     "children": []
                   },
                   {
-                    "id": "71957a26-f9a4-43af-a5ae-64e63632971a",
+                    "id": "8feac1af-a2f5-4a7d-9cfa-0f64ec2069e3",
                     "boundaryNum": 1,
-                    "name": "Bebni Mohalla - Ward No-17 Manpur ",
-                    "localname": "Bebni Mohalla - Ward No-17 Manpur ",
+                    "name": "Bebni Mohalla - Ward No-17 Manpur",
+                    "localname": "Bebni Mohalla - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1346,10 +1371,10 @@
                     "children": []
                   },
                   {
-                    "id": "0dd539f0-0a11-49f8-bb47-64be098b2f5b",
+                    "id": "e95699e8-ac9c-4899-b98a-1675fe769747",
                     "boundaryNum": 1,
-                    "name": "Bisht Colony - Ward No-17 Manpur ",
-                    "localname": "Bisht Colony - Ward No-17 Manpur ",
+                    "name": "Bisht Colony - Ward No-17 Manpur",
+                    "localname": "Bisht Colony - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1358,10 +1383,10 @@
                     "children": []
                   },
                   {
-                    "id": "671dba7a-e122-410d-90ee-39b01a71194f",
+                    "id": "6a2e534b-e9c9-4cff-9b26-87d17da02504",
                     "boundaryNum": 1,
-                    "name": "Shiv Shakit Colony - Ward No-17 Manpur ",
-                    "localname": "Shiv Shakit Colony - Ward No-17 Manpur ",
+                    "name": "Shiv Shakit Colony - Ward No-17 Manpur",
+                    "localname": "Shiv Shakit Colony - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1370,10 +1395,10 @@
                     "children": []
                   },
                   {
-                    "id": "39a86462-aa93-40cb-a3ba-dc11e237ddc4",
+                    "id": "1316dde9-e38a-4863-b516-663eac4e8fa0",
                     "boundaryNum": 1,
-                    "name": "Ritupana Gali - Ward No-17 Manpur ",
-                    "localname": "Ritupana Gali - Ward No-17 Manpur ",
+                    "name": "Ritupana Gali - Ward No-17 Manpur",
+                    "localname": "Ritupana Gali - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1382,10 +1407,10 @@
                     "children": []
                   },
                   {
-                    "id": "78c763bc-6605-47a5-8973-a59245c7822f",
+                    "id": "9a289df5-5310-4ba5-89cf-7fcc294f7f18",
                     "boundaryNum": 1,
-                    "name": "Vijaypath - Ward No-17 Manpur ",
-                    "localname": "Vijaypath - Ward No-17 Manpur ",
+                    "name": "Vijaypath - Ward No-17 Manpur",
+                    "localname": "Vijaypath - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1394,10 +1419,10 @@
                     "children": []
                   },
                   {
-                    "id": "0fe4a78f-5b9d-46fd-9576-546f0fa3cc27",
+                    "id": "06d91af4-ffb4-4583-8ef0-73b8829c4ec3",
                     "boundaryNum": 1,
-                    "name": "Tomar Gali - Ward No-17 Manpur ",
-                    "localname": "Tomar Gali - Ward No-17 Manpur ",
+                    "name": "Tomar Gali - Ward No-17 Manpur",
+                    "localname": "Tomar Gali - Ward No-17 Manpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1408,7 +1433,7 @@
                 ]
               },
               {
-                "id": "a385d9e4-ee58-467e-a8b2-d0f39cc8617a",
+                "id": "12278ae2-4a9b-4b99-aa27-6926cf9dbd8b",
                 "boundaryNum": 1,
                 "name": "Ward No-18 Shivpur",
                 "localname": "Ward No-18 Shivpur",
@@ -1418,10 +1443,10 @@
                 "code": "WARD18",
                 "children": [
                   {
-                    "id": "80be416e-420b-410e-b903-1035e62ac562",
+                    "id": "0f6d40c0-cb14-49a1-9199-9f0985bf38bd",
                     "boundaryNum": 1,
-                    "name": "Shivpur - Ward No-18 Shivpur ",
-                    "localname": "Shivpur - Ward No-18 Shivpur ",
+                    "name": "Shivpur - Ward No-18 Shivpur",
+                    "localname": "Shivpur - Ward No-18 Shivpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1432,7 +1457,7 @@
                 ]
               },
               {
-                "id": "bd802453-f59d-477d-977a-eb6f5d0f943b",
+                "id": "90066525-7b85-415b-bf9a-cc926e7f94e4",
                 "boundaryNum": 1,
                 "name": "Ward No-19 Lalpur",
                 "localname": "Ward No-19 Lalpur",
@@ -1442,10 +1467,10 @@
                 "code": "WARD19",
                 "children": [
                   {
-                    "id": "9ed7c78c-cfc0-49d5-b693-5cac998f82d6",
+                    "id": "b83bc315-748e-4de6-92e1-d44203195df8",
                     "boundaryNum": 1,
-                    "name": "Lalpur - Ward No-19 Lalpur ",
-                    "localname": "Lalpur - Ward No-19 Lalpur ",
+                    "name": "Lalpur - Ward No-19 Lalpur",
+                    "localname": "Lalpur - Ward No-19 Lalpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1454,10 +1479,10 @@
                     "children": []
                   },
                   {
-                    "id": "59a0a992-ed23-4c80-af01-b8ce778d0031",
+                    "id": "1924c26c-7da1-4ad6-af6d-d2b3e5e404d8",
                     "boundaryNum": 1,
-                    "name": "Dhurvpur - Ward No-19 Lalpur ",
-                    "localname": "Dhurvpur - Ward No-19 Lalpur ",
+                    "name": "Dhurvpur - Ward No-19 Lalpur",
+                    "localname": "Dhurvpur - Ward No-19 Lalpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1468,7 +1493,7 @@
                 ]
               },
               {
-                "id": "53792ae6-1293-4f82-b8f4-850421179c54",
+                "id": "9b90d25d-255c-4a84-8551-f589c089365c",
                 "boundaryNum": 1,
                 "name": "Ward No-20 Pandampur Sukhrow",
                 "localname": "Ward No-20 Pandampur Sukhrow",
@@ -1478,10 +1503,10 @@
                 "code": "WARD20",
                 "children": [
                   {
-                    "id": "67ed77b1-a543-4736-9121-e59445be969e",
+                    "id": "275cfcf8-f9a8-4704-a6e5-1e4708ed7275",
                     "boundaryNum": 1,
-                    "name": "Pokhriyal Colony - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Pokhriyal Colony - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Pokhriyal Colony - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Pokhriyal Colony - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1490,10 +1515,10 @@
                     "children": []
                   },
                   {
-                    "id": "90079737-307f-454f-8b2a-b6ced60f8c3d",
+                    "id": "97dd9724-c146-43c8-acea-68e89ff03ec1",
                     "boundaryNum": 1,
-                    "name": "Basant Vihar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Basant Vihar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Basant Vihar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Basant Vihar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1502,10 +1527,10 @@
                     "children": []
                   },
                   {
-                    "id": "31401fb8-2fec-410c-8c26-02f41b0d8c75",
+                    "id": "ee48e913-c40f-42ce-bafb-6b16a1677609",
                     "boundaryNum": 1,
-                    "name": "Ektapuram - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Ektapuram - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Ektapuram - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Ektapuram - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1514,10 +1539,10 @@
                     "children": []
                   },
                   {
-                    "id": "ddef95e7-4343-4da6-a5d5-d74722e6758c",
+                    "id": "11118f25-b64b-4604-84ec-9ed49179fe5a",
                     "boundaryNum": 1,
-                    "name": "Savitri nagar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Savitri nagar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Savitri nagar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Savitri nagar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1526,10 +1551,10 @@
                     "children": []
                   },
                   {
-                    "id": "e4878454-b5d5-4007-9038-74c9c1ada5c0",
+                    "id": "872682c7-10c9-48be-8a1c-8a837c34fdaf",
                     "boundaryNum": 1,
-                    "name": "Shivmandir Colony - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Shivmandir Colony - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Shivmandir Colony - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Shivmandir Colony - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1538,10 +1563,10 @@
                     "children": []
                   },
                   {
-                    "id": "6fcf73ce-bd3e-4f5a-9829-098bea4a58a2",
+                    "id": "370ccd03-f88b-4305-9694-e0b323759b27",
                     "boundaryNum": 1,
-                    "name": "Tariyal Chowk - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Tariyal Chowk - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Tariyal Chowk - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Tariyal Chowk - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1550,10 +1575,10 @@
                     "children": []
                   },
                   {
-                    "id": "e6898903-5799-4fae-a657-35f7e93d4a98",
+                    "id": "341a8ae5-4f1e-483c-ae5e-464a22073bfa",
                     "boundaryNum": 1,
-                    "name": "Janshkati Vihar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Janshkati Vihar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Janshkati Vihar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Janshkati Vihar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1562,10 +1587,10 @@
                     "children": []
                   },
                   {
-                    "id": "534efa05-c164-4aef-ae70-2f740c8afa16",
+                    "id": "dec2f933-8422-49a5-b98b-685ea9faf99e",
                     "boundaryNum": 1,
-                    "name": "Shyamsundar Vihar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Shyamsundar Vihar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Shyamsundar Vihar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Shyamsundar Vihar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1574,10 +1599,10 @@
                     "children": []
                   },
                   {
-                    "id": "d2dc0b65-3781-45c5-8e94-439a1d1a2bce",
+                    "id": "42398bfe-dc70-4f53-b3e8-80532ad79c16",
                     "boundaryNum": 1,
-                    "name": "Shyamlal Gali - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Shyamlal Gali - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Shyamlal Gali - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Shyamlal Gali - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1586,10 +1611,10 @@
                     "children": []
                   },
                   {
-                    "id": "6131cb12-c630-4284-96f5-056d6951d3b7",
+                    "id": "4d62fc62-a59c-472e-b9a0-313a6226ae35",
                     "boundaryNum": 1,
-                    "name": "RadheVihar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "RadheVihar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "RadheVihar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "RadheVihar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1598,10 +1623,10 @@
                     "children": []
                   },
                   {
-                    "id": "f91ac861-4a16-48b1-9d51-a2ab306afa61",
+                    "id": "e15024f7-b276-4993-98e7-6d537a27ca20",
                     "boundaryNum": 1,
-                    "name": "Goutam Vihar - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Goutam Vihar - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Goutam Vihar - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Goutam Vihar - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1610,10 +1635,10 @@
                     "children": []
                   },
                   {
-                    "id": "2ae5f35a-dc6c-4155-bc63-8c3e9a232e4c",
+                    "id": "7b84f39c-99af-4616-b016-6575f602ba74",
                     "boundaryNum": 1,
-                    "name": "Chandra Colony - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Chandra Colony - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Chandra Colony - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Chandra Colony - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1622,10 +1647,10 @@
                     "children": []
                   },
                   {
-                    "id": "aae401bd-c673-4938-9b3e-4ef03bc36bf0",
+                    "id": "3cc64647-5f4c-42bd-8852-62fe0970e8e8",
                     "boundaryNum": 1,
-                    "name": "Gururam Colony - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Gururam Colony - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Gururam Colony - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Gururam Colony - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1634,10 +1659,10 @@
                     "children": []
                   },
                   {
-                    "id": "80d1c2f0-a9f1-4870-b50e-4afb686a50e6",
+                    "id": "a1fd1972-15a3-4aef-b0db-dcce04d3d28b",
                     "boundaryNum": 1,
-                    "name": "Mukund Singh Colony - Ward No-20 Pandampur Sukhrow ",
-                    "localname": "Mukund Singh Colony - Ward No-20 Pandampur Sukhrow ",
+                    "name": "Mukund Singh Colony - Ward No-20 Pandampur Sukhrow",
+                    "localname": "Mukund Singh Colony - Ward No-20 Pandampur Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1648,7 +1673,7 @@
                 ]
               },
               {
-                "id": "a4c0530b-5c6e-4b78-b975-5cd0eb97554d",
+                "id": "781d2aff-3ce3-4dc5-9d8f-211e67dec684",
                 "boundaryNum": 1,
                 "name": "Ward No-21 Padampur pratham Sukhrow",
                 "localname": "Ward No-21 Padampur pratham Sukhrow",
@@ -1658,10 +1683,10 @@
                 "code": "WARD21",
                 "children": [
                   {
-                    "id": "c11a5ee4-22b5-4c76-94d4-0daca115fc9d",
+                    "id": "33e45596-9fc4-4bcc-947f-21a4cd75732b",
                     "boundaryNum": 1,
-                    "name": "Kachhi Nali - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Kachhi Nali - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Kachhi Nali - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Kachhi Nali - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1670,10 +1695,10 @@
                     "children": []
                   },
                   {
-                    "id": "7204028b-3c4a-4df4-9e7e-c40317bd3006",
+                    "id": "aa05e1dd-1a91-4a89-8106-04271d9362d5",
                     "boundaryNum": 1,
-                    "name": "Sangam Vihar - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Sangam Vihar - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Sangam Vihar - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Sangam Vihar - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1682,10 +1707,10 @@
                     "children": []
                   },
                   {
-                    "id": "fff0f156-5665-40e1-84ce-e5164e6f3cab",
+                    "id": "c660a97a-fd60-4a36-99d8-e151891a3c3d",
                     "boundaryNum": 1,
-                    "name": "Shanta Vihar - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Shanta Vihar - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Shanta Vihar - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Shanta Vihar - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1694,10 +1719,10 @@
                     "children": []
                   },
                   {
-                    "id": "459b8592-39f2-49cb-835d-69f5096ad850",
+                    "id": "e33eba13-c693-483f-8b93-296fa8fe8337",
                     "boundaryNum": 1,
-                    "name": "Prem Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Prem Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Prem Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Prem Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1706,10 +1731,10 @@
                     "children": []
                   },
                   {
-                    "id": "17857234-374a-435e-ad84-2b6abe8f5a2e",
+                    "id": "930a2587-c033-46ee-bd99-a0186783d6a6",
                     "boundaryNum": 1,
-                    "name": "Rajat Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Rajat Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Rajat Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Rajat Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1718,10 +1743,10 @@
                     "children": []
                   },
                   {
-                    "id": "7e2f4001-bf9e-4d6b-b428-5e842dd9c36f",
+                    "id": "aa561da1-9c1e-415b-9abb-e633c3beea15",
                     "boundaryNum": 1,
-                    "name": "Kiran Vihar - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Kiran Vihar - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Kiran Vihar - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Kiran Vihar - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1730,10 +1755,10 @@
                     "children": []
                   },
                   {
-                    "id": "69580ba7-9135-432f-a95e-89f58fba836e",
+                    "id": "daa8876d-fe53-4c7e-a47b-131bd14160bf",
                     "boundaryNum": 1,
-                    "name": "Ambey Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Ambey Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Ambey Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Ambey Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1742,10 +1767,10 @@
                     "children": []
                   },
                   {
-                    "id": "42769474-a914-4a2d-bebb-8865e93016a2",
+                    "id": "2996a44b-9f04-42ee-a141-aec68e50afab",
                     "boundaryNum": 1,
-                    "name": "Shyama Vihar - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Shyama Vihar - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Shyama Vihar - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Shyama Vihar - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1754,10 +1779,10 @@
                     "children": []
                   },
                   {
-                    "id": "b16f6327-5ef2-4d66-bdf5-4dc113ee768e",
+                    "id": "34d355df-437e-4a0a-99e3-15d7248a0419",
                     "boundaryNum": 1,
-                    "name": "Chudhary Mohalla - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Chudhary Mohalla - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Chudhary Mohalla - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Chudhary Mohalla - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1766,10 +1791,10 @@
                     "children": []
                   },
                   {
-                    "id": "60b275b2-56a5-4dee-b151-39ecc43939c9",
+                    "id": "3109eb24-ff48-4d7d-8321-9da076707cc3",
                     "boundaryNum": 1,
-                    "name": "Shakambari Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Shakambari Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Shakambari Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Shakambari Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1778,10 +1803,10 @@
                     "children": []
                   },
                   {
-                    "id": "6b57902e-0390-4cca-baa5-a5d6591c8a24",
+                    "id": "526e354a-c546-46cc-b46b-cd489efbb6a1",
                     "boundaryNum": 1,
-                    "name": "Nandan Vihar - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Nandan Vihar - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Nandan Vihar - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Nandan Vihar - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1790,10 +1815,10 @@
                     "children": []
                   },
                   {
-                    "id": "6362a105-17f4-4bdb-bcc3-75bfb8673efd",
+                    "id": "6c4474d8-45f5-43f7-9338-206aa728901c",
                     "boundaryNum": 1,
-                    "name": "Roopnagar Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Roopnagar Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Roopnagar Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Roopnagar Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1802,10 +1827,10 @@
                     "children": []
                   },
                   {
-                    "id": "9d3bb7ee-a4a0-48ec-a8e9-a655c88c79f2",
+                    "id": "beb4a82a-81f2-4f25-95aa-6553edf7b82d",
                     "boundaryNum": 1,
-                    "name": "Shivi Colony - Ward No-21 Padampur pratham Sukhrow ",
-                    "localname": "Shivi Colony - Ward No-21 Padampur pratham Sukhrow ",
+                    "name": "Shivi Colony - Ward No-21 Padampur pratham Sukhrow",
+                    "localname": "Shivi Colony - Ward No-21 Padampur pratham Sukhrow",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1816,7 +1841,7 @@
                 ]
               },
               {
-                "id": "7bb5ec40-c95d-4165-8174-9363b2cdd4c8",
+                "id": "014fd8f5-d03d-437b-ad8c-1ef0c4e1dbd6",
                 "boundaryNum": 1,
                 "name": "Ward no-22,Simbalchour",
                 "localname": "Ward no-22,Simbalchour",
@@ -1826,10 +1851,10 @@
                 "code": "WARD22",
                 "children": [
                   {
-                    "id": "2bc0e9e9-668f-408c-b832-68d145549040",
+                    "id": "53db02ae-d943-490e-873c-4ded5f7d0271",
                     "boundaryNum": 1,
-                    "name": "Gram ShimmalChaur - Ward no-22,Simbalchour ",
-                    "localname": "Gram ShimmalChaur - Ward no-22,Simbalchour ",
+                    "name": "Gram ShimmalChaur - Ward no-22,Simbalchour",
+                    "localname": "Gram ShimmalChaur - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1838,10 +1863,10 @@
                     "children": []
                   },
                   {
-                    "id": "2c3e0a1c-92eb-4978-971b-f99a4dff8c9c",
+                    "id": "cd748a46-b5b5-4ff9-8d74-2756b989fabf",
                     "boundaryNum": 1,
-                    "name": "T.C.G. Mohalla - Ward no-22,Simbalchour ",
-                    "localname": "T.C.G. Mohalla - Ward no-22,Simbalchour ",
+                    "name": "T.C.G. Mohalla - Ward no-22,Simbalchour",
+                    "localname": "T.C.G. Mohalla - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1850,10 +1875,10 @@
                     "children": []
                   },
                   {
-                    "id": "9f0e8db6-edb1-4898-a9f5-4480ca6623cc",
+                    "id": "ca6b11af-8b62-4b7b-b704-b700e6090fa6",
                     "boundaryNum": 1,
-                    "name": "Narayan Nagar - Ward no-22,Simbalchour ",
-                    "localname": "Narayan Nagar - Ward no-22,Simbalchour ",
+                    "name": "Narayan Nagar - Ward no-22,Simbalchour",
+                    "localname": "Narayan Nagar - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1862,10 +1887,10 @@
                     "children": []
                   },
                   {
-                    "id": "a2ae381c-13f6-4187-b527-61ccf355baa4",
+                    "id": "8965dc92-962a-4af3-926c-79b39473c94a",
                     "boundaryNum": 1,
-                    "name": "Adarsh Colony - Ward no-22,Simbalchour ",
-                    "localname": "Adarsh Colony - Ward no-22,Simbalchour ",
+                    "name": "Adarsh Colony - Ward no-22,Simbalchour",
+                    "localname": "Adarsh Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1874,10 +1899,10 @@
                     "children": []
                   },
                   {
-                    "id": "9d744d1a-df96-457d-b257-e679fdeeb9f0",
+                    "id": "2d80279b-4da3-40d4-bf03-bdade761ecc5",
                     "boundaryNum": 1,
-                    "name": "Jagdishpuram - Ward no-22,Simbalchour ",
-                    "localname": "Jagdishpuram - Ward no-22,Simbalchour ",
+                    "name": "Jagdishpuram - Ward no-22,Simbalchour",
+                    "localname": "Jagdishpuram - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1886,10 +1911,10 @@
                     "children": []
                   },
                   {
-                    "id": "c90c7f5c-f28a-4df5-b273-d4d51a872018",
+                    "id": "b87a9cd2-a687-4f19-b2b3-e7677b99f7f0",
                     "boundaryNum": 1,
-                    "name": "Padampur New - Ward no-22,Simbalchour ",
-                    "localname": "Padampur New - Ward no-22,Simbalchour ",
+                    "name": "Padampur New - Ward no-22,Simbalchour",
+                    "localname": "Padampur New - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1898,10 +1923,10 @@
                     "children": []
                   },
                   {
-                    "id": "18838ed6-13a1-4873-9dca-355a566ebdac",
+                    "id": "c1e3c857-caf9-4401-8491-0c925933efc3",
                     "boundaryNum": 1,
-                    "name": "Adarsh Sainik Colony - Ward no-22,Simbalchour ",
-                    "localname": "Adarsh Sainik Colony - Ward no-22,Simbalchour ",
+                    "name": "Adarsh Sainik Colony - Ward no-22,Simbalchour",
+                    "localname": "Adarsh Sainik Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1910,10 +1935,10 @@
                     "children": []
                   },
                   {
-                    "id": "7cc42035-0f6e-488b-b817-2c8510d02ecc",
+                    "id": "3668b7c7-e77e-4752-b102-9fcf570bd4cf",
                     "boundaryNum": 1,
-                    "name": "Adarsh Colony - Ward no-22,Simbalchour ",
-                    "localname": "Adarsh Colony - Ward no-22,Simbalchour ",
+                    "name": "Adarsh Colony - Ward no-22,Simbalchour",
+                    "localname": "Adarsh Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1922,10 +1947,10 @@
                     "children": []
                   },
                   {
-                    "id": "fbeef991-50e5-4cf3-9656-14ea259b8dd0",
+                    "id": "83a7b18b-5391-4bcb-bc07-f8538fb7ca56",
                     "boundaryNum": 1,
-                    "name": "Negi Mohalla - Ward no-22,Simbalchour ",
-                    "localname": "Negi Mohalla - Ward no-22,Simbalchour ",
+                    "name": "Negi Mohalla - Ward no-22,Simbalchour",
+                    "localname": "Negi Mohalla - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1934,10 +1959,10 @@
                     "children": []
                   },
                   {
-                    "id": "09a17cef-4809-4eb6-8a30-a63126b943bc",
+                    "id": "34c89e85-bca7-45af-ae1c-1e005820155f",
                     "boundaryNum": 1,
-                    "name": "Kundaliya Colony - Ward no-22,Simbalchour ",
-                    "localname": "Kundaliya Colony - Ward no-22,Simbalchour ",
+                    "name": "Kundaliya Colony - Ward no-22,Simbalchour",
+                    "localname": "Kundaliya Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1946,10 +1971,10 @@
                     "children": []
                   },
                   {
-                    "id": "effd59ca-3dcc-46aa-baab-5d2feea4d9d2",
+                    "id": "2da11d46-a6c7-4739-8b4f-2b3c9e1fe232",
                     "boundaryNum": 1,
-                    "name": "Pushp Vihar - Ward no-22,Simbalchour ",
-                    "localname": "Pushp Vihar - Ward no-22,Simbalchour ",
+                    "name": "Pushp Vihar - Ward no-22,Simbalchour",
+                    "localname": "Pushp Vihar - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1958,10 +1983,10 @@
                     "children": []
                   },
                   {
-                    "id": "18fa18f6-d714-4f1f-9380-a1e2da34ffdf",
+                    "id": "d979623a-1d56-49e7-91ab-30edf04ffeb6",
                     "boundaryNum": 1,
-                    "name": "Defence Colony - Ward no-22,Simbalchour ",
-                    "localname": "Defence Colony - Ward no-22,Simbalchour ",
+                    "name": "Defence Colony - Ward no-22,Simbalchour",
+                    "localname": "Defence Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1970,10 +1995,10 @@
                     "children": []
                   },
                   {
-                    "id": "0f2ccb4f-9c04-4d06-a77c-374dc5493e6a",
+                    "id": "f8b1a4aa-ce84-4be1-b9b1-a7ce575d2951",
                     "boundaryNum": 1,
-                    "name": "Ganga Vihar - Ward no-22,Simbalchour ",
-                    "localname": "Ganga Vihar - Ward no-22,Simbalchour ",
+                    "name": "Ganga Vihar - Ward no-22,Simbalchour",
+                    "localname": "Ganga Vihar - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1982,10 +2007,10 @@
                     "children": []
                   },
                   {
-                    "id": "044f12eb-39ae-48ef-a39b-fa660f242283",
+                    "id": "61e258d5-1714-4205-834c-9e58ea04ddd6",
                     "boundaryNum": 1,
-                    "name": "Rana Colony - Ward no-22,Simbalchour ",
-                    "localname": "Rana Colony - Ward no-22,Simbalchour ",
+                    "name": "Rana Colony - Ward no-22,Simbalchour",
+                    "localname": "Rana Colony - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1994,10 +2019,10 @@
                     "children": []
                   },
                   {
-                    "id": "cfa97d87-a5b9-4f4b-84a0-b8c413a1300e",
+                    "id": "5afb82fa-5ea1-43df-9180-992e21133ebb",
                     "boundaryNum": 1,
-                    "name": "Ganesh Vihar - Ward no-22,Simbalchour ",
-                    "localname": "Ganesh Vihar - Ward no-22,Simbalchour ",
+                    "name": "Ganesh Vihar - Ward no-22,Simbalchour",
+                    "localname": "Ganesh Vihar - Ward no-22,Simbalchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2008,7 +2033,7 @@
                 ]
               },
               {
-                "id": "1af92f43-bddb-417d-b2b7-e84323cb8120",
+                "id": "4f8975c8-a208-4461-b703-38a212843286",
                 "boundaryNum": 1,
                 "name": "Ward no-23, Shibunagar",
                 "localname": "Ward no-23, Shibunagar",
@@ -2018,10 +2043,10 @@
                 "code": "WARD23",
                 "children": [
                   {
-                    "id": "c7b093f1-e9d0-4eb3-8b0d-f4d07fab874d",
+                    "id": "81b63ed9-a8d9-4142-9b20-958aa4798443",
                     "boundaryNum": 1,
-                    "name": "Shibbu Nagar - Ward no-23, Shibunagar ",
-                    "localname": "Shibbu Nagar - Ward no-23, Shibunagar ",
+                    "name": "Shibbu Nagar - Ward no-23, Shibunagar",
+                    "localname": "Shibbu Nagar - Ward no-23, Shibunagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2032,7 +2057,7 @@
                 ]
               },
               {
-                "id": "f15dcee4-82dc-4dce-8089-f4645610fdad",
+                "id": "c4f950e9-102e-4934-b7b8-ffb0b9a2aa0a",
                 "boundaryNum": 1,
                 "name": "Ward no-24,Balasaur",
                 "localname": "Ward no-24,Balasaur",
@@ -2042,10 +2067,10 @@
                 "code": "WARD24",
                 "children": [
                   {
-                    "id": "fc331228-0590-45a7-90bb-d3706e401791",
+                    "id": "ecc7d317-fdb5-4a53-9350-d825d0de3882",
                     "boundaryNum": 1,
-                    "name": "Balasour - Ward no-24,Balasaur ",
-                    "localname": "Balasour - Ward no-24,Balasaur ",
+                    "name": "Balasour - Ward no-24,Balasaur",
+                    "localname": "Balasour - Ward no-24,Balasaur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2056,7 +2081,7 @@
                 ]
               },
               {
-                "id": "b5bcc873-d785-4d6a-9f8e-3bde9491fb75",
+                "id": "fef6a23f-846e-4faa-aae2-477af6eec02a",
                 "boundaryNum": 1,
                 "name": "Ward no-25,Ratanpur Sukhro",
                 "localname": "Ward no-25,Ratanpur Sukhro",
@@ -2066,10 +2091,10 @@
                 "code": "WARD25",
                 "children": [
                   {
-                    "id": "7ff0b105-f534-4c98-8be7-f80ae3a4e912",
+                    "id": "7b9ad6bc-b99d-4f4d-9b54-1794e9e15fc9",
                     "boundaryNum": 1,
-                    "name": "Harsinghpur - Ward no-25,Ratanpur Sukhro ",
-                    "localname": "Harsinghpur - Ward no-25,Ratanpur Sukhro ",
+                    "name": "Harsinghpur - Ward no-25,Ratanpur Sukhro",
+                    "localname": "Harsinghpur - Ward no-25,Ratanpur Sukhro",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2078,10 +2103,10 @@
                     "children": []
                   },
                   {
-                    "id": "82ea33f0-e40b-494a-8cb9-89b998b56d60",
+                    "id": "2254ed0c-f1bb-458f-9d48-c8d80c485be3",
                     "boundaryNum": 1,
-                    "name": "Ratanpur - Ward no-25,Ratanpur Sukhro ",
-                    "localname": "Ratanpur - Ward no-25,Ratanpur Sukhro ",
+                    "name": "Ratanpur - Ward no-25,Ratanpur Sukhro",
+                    "localname": "Ratanpur - Ward no-25,Ratanpur Sukhro",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2092,7 +2117,7 @@
                 ]
               },
               {
-                "id": "10b748cf-0394-403a-b421-48748b512614",
+                "id": "9ea36f7d-3a10-4df6-b73a-1a3fa2418acf",
                 "boundaryNum": 1,
                 "name": "Ward no-26,Balbhadrapur",
                 "localname": "Ward no-26,Balbhadrapur",
@@ -2102,10 +2127,10 @@
                 "code": "WARD26",
                 "children": [
                   {
-                    "id": "dd875772-9f06-468b-b502-c6f43d36b983",
+                    "id": "f6431fd1-aa8d-47da-993a-6bf1bdb44cec",
                     "boundaryNum": 1,
-                    "name": "Bhalbhadrapur - Ward no-26,Balbhadrapur ",
-                    "localname": "Bhalbhadrapur - Ward no-26,Balbhadrapur ",
+                    "name": "Bhalbhadrapur - Ward no-26,Balbhadrapur",
+                    "localname": "Bhalbhadrapur - Ward no-26,Balbhadrapur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2116,7 +2141,7 @@
                 ]
               },
               {
-                "id": "265a476f-602a-4b65-a34a-9ded30c40c3f",
+                "id": "bb98aaef-2e46-4d89-ba0e-a5e248fc0bac",
                 "boundaryNum": 1,
                 "name": "Ward no-27,Durgapur",
                 "localname": "Ward no-27,Durgapur",
@@ -2126,10 +2151,10 @@
                 "code": "WARD27",
                 "children": [
                   {
-                    "id": "adb1c174-e6bd-4da4-b32f-c24da50f8b5a",
+                    "id": "08357b97-eaee-4708-843d-6e2568b6271f",
                     "boundaryNum": 1,
-                    "name": "Durgapur - Ward no-27,Durgapur ",
-                    "localname": "Durgapur - Ward no-27,Durgapur ",
+                    "name": "Durgapur - Ward no-27,Durgapur",
+                    "localname": "Durgapur - Ward no-27,Durgapur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2138,10 +2163,10 @@
                     "children": []
                   },
                   {
-                    "id": "85e516e1-3894-434f-b85e-4fe5725bebdf",
+                    "id": "e85338b8-f648-428f-8dfa-bf641cfea891",
                     "boundaryNum": 1,
-                    "name": "Khunibar - Ward no-27,Durgapur ",
-                    "localname": "Khunibar - Ward no-27,Durgapur ",
+                    "name": "Khunibar - Ward no-27,Durgapur",
+                    "localname": "Khunibar - Ward no-27,Durgapur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2150,10 +2175,10 @@
                     "children": []
                   },
                   {
-                    "id": "ab54a927-c01a-4927-965a-5df46f1a3b45",
+                    "id": "e3ed6f0d-5507-4e54-bbe9-1170df3c28eb",
                     "boundaryNum": 1,
-                    "name": "Jeevanandpur - Ward no-27,Durgapur ",
-                    "localname": "Jeevanandpur - Ward no-27,Durgapur ",
+                    "name": "Jeevanandpur - Ward no-27,Durgapur",
+                    "localname": "Jeevanandpur - Ward no-27,Durgapur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2164,7 +2189,7 @@
                 ]
               },
               {
-                "id": "95303ef2-712d-4d8c-87f2-86a452b82e5a",
+                "id": "c688ddb8-2d03-41af-8270-8e093258e74d",
                 "boundaryNum": 1,
                 "name": "Ward no-28,Nibbuchour",
                 "localname": "Ward no-28,Nibbuchour",
@@ -2174,10 +2199,10 @@
                 "code": "WARD28",
                 "children": [
                   {
-                    "id": "f1a7ef95-e4aa-4695-869b-ed6e64ee2bb8",
+                    "id": "8b5f53b2-45bb-4acd-9acf-2be48c3009f5",
                     "boundaryNum": 1,
-                    "name": "Nimbuchaur - Ward no-28,Nibbuchour ",
-                    "localname": "Nimbuchaur - Ward no-28,Nibbuchour ",
+                    "name": "Nimbuchaur - Ward no-28,Nibbuchour",
+                    "localname": "Nimbuchaur - Ward no-28,Nibbuchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2186,10 +2211,10 @@
                     "children": []
                   },
                   {
-                    "id": "e5688482-172d-4736-b23f-dd474fecedae",
+                    "id": "42366d6c-1002-48d6-83fc-09a80de0f414",
                     "boundaryNum": 1,
-                    "name": "Sattichaur - Ward no-28,Nibbuchour ",
-                    "localname": "Sattichaur - Ward no-28,Nibbuchour ",
+                    "name": "Sattichaur - Ward no-28,Nibbuchour",
+                    "localname": "Sattichaur - Ward no-28,Nibbuchour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2200,7 +2225,7 @@
                 ]
               },
               {
-                "id": "ac113c96-303a-4f79-b7cc-e0fc936eb917",
+                "id": "8c866087-d4c4-4f7f-b789-cac19abba57f",
                 "boundaryNum": 1,
                 "name": "Ward no-29,Ghandpur",
                 "localname": "Ward no-29,Ghandpur",
@@ -2210,10 +2235,10 @@
                 "code": "WARD29",
                 "children": [
                   {
-                    "id": "cf5a7848-b18b-4a0b-b174-596350a3e357",
+                    "id": "21e3972d-d382-4ff2-9084-5d0cb41f26b8",
                     "boundaryNum": 1,
-                    "name": "Ghamandpur - Ward no-29,Ghandpur ",
-                    "localname": "Ghamandpur - Ward no-29,Ghandpur ",
+                    "name": "Ghamandpur - Ward no-29,Ghandpur",
+                    "localname": "Ghamandpur - Ward no-29,Ghandpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2224,7 +2249,7 @@
                 ]
               },
               {
-                "id": "8a6064b0-c698-4a8f-aacc-ca8ea642182a",
+                "id": "bd4ac5ef-d612-4674-a831-c6edc71e20ac",
                 "boundaryNum": 1,
                 "name": "Ward no-30,Nandpur",
                 "localname": "Ward no-30,Nandpur",
@@ -2234,10 +2259,10 @@
                 "code": "WARD30",
                 "children": [
                   {
-                    "id": "72988350-ab4d-4483-acd8-b96ff43594fb",
+                    "id": "e8813ce7-e24b-4363-a738-ef1f1318051a",
                     "boundaryNum": 1,
-                    "name": "Nandpur - Ward no-30,Nandpur ",
-                    "localname": "Nandpur - Ward no-30,Nandpur ",
+                    "name": "Nandpur - Ward no-30,Nandpur",
+                    "localname": "Nandpur - Ward no-30,Nandpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2246,10 +2271,10 @@
                     "children": []
                   },
                   {
-                    "id": "3f997b16-65c1-42cf-870b-c57bb1a2b3bc",
+                    "id": "4b9d613c-85c6-4d35-96c0-8abd7e286252",
                     "boundaryNum": 1,
-                    "name": "Mawakot - Ward no-30,Nandpur ",
-                    "localname": "Mawakot - Ward no-30,Nandpur ",
+                    "name": "Mawakot - Ward no-30,Nandpur",
+                    "localname": "Mawakot - Ward no-30,Nandpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2258,10 +2283,10 @@
                     "children": []
                   },
                   {
-                    "id": "268b1973-f087-4119-a40d-a825a920bbcd",
+                    "id": "90515e74-5dd5-439a-9142-1a81bd62ba74",
                     "boundaryNum": 1,
-                    "name": "Kotla - Ward no-30,Nandpur ",
-                    "localname": "Kotla - Ward no-30,Nandpur ",
+                    "name": "Kotla - Ward no-30,Nandpur",
+                    "localname": "Kotla - Ward no-30,Nandpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2270,10 +2295,10 @@
                     "children": []
                   },
                   {
-                    "id": "c20b2577-a5e8-4113-9146-2150d5a9cbea",
+                    "id": "05fa2ad1-6e94-47eb-bb13-bf940a1a5ed0",
                     "boundaryNum": 1,
-                    "name": "Ghorkhpur - Ward no-30,Nandpur ",
-                    "localname": "Ghorkhpur - Ward no-30,Nandpur ",
+                    "name": "Ghorkhpur - Ward no-30,Nandpur",
+                    "localname": "Ghorkhpur - Ward no-30,Nandpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2284,7 +2309,7 @@
                 ]
               },
               {
-                "id": "e2429110-24fa-4c1f-9e17-76124f185693",
+                "id": "28ed6d50-b675-40c9-b9f2-d8872be6cb8d",
                 "boundaryNum": 1,
                 "name": "Word no-31,Padampur Motadhank",
                 "localname": "Word no-31,Padampur Motadhank",
@@ -2294,10 +2319,10 @@
                 "code": "WARD31",
                 "children": [
                   {
-                    "id": "feeb6834-762e-40e5-b0c9-d98c6c27b9ce",
+                    "id": "e74921af-8b5f-407b-bba2-e233ca08af5c",
                     "boundaryNum": 1,
-                    "name": "Padampur - Word no-31,Padampur Motadhank ",
-                    "localname": "Padampur - Word no-31,Padampur Motadhank ",
+                    "name": "Padampur - Word no-31,Padampur Motadhank",
+                    "localname": "Padampur - Word no-31,Padampur Motadhank",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2308,7 +2333,7 @@
                 ]
               },
               {
-                "id": "5051aa60-6d7d-4083-9e38-819f55701c47",
+                "id": "2011f0a9-ab66-4f5c-80e9-4965675bf69c",
                 "boundaryNum": 1,
                 "name": "Ward no-32,Shivrajpur",
                 "localname": "Ward no-32,Shivrajpur",
@@ -2318,10 +2343,10 @@
                 "code": "WARD32",
                 "children": [
                   {
-                    "id": "c64557cc-bd94-4e6e-8b25-be594e88170e",
+                    "id": "d5e0f808-e938-4c0c-b9cf-785e5293dc34",
                     "boundaryNum": 1,
-                    "name": "Shivrajpur - Ward no-32,Shivrajpur ",
-                    "localname": "Shivrajpur - Ward no-32,Shivrajpur ",
+                    "name": "Shivrajpur - Ward no-32,Shivrajpur",
+                    "localname": "Shivrajpur - Ward no-32,Shivrajpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2330,10 +2355,10 @@
                     "children": []
                   },
                   {
-                    "id": "7061751c-e94f-4e6c-b72d-d99c9f8a975f",
+                    "id": "38e3f049-f576-4fdc-b071-99c47ede36c8",
                     "boundaryNum": 1,
-                    "name": "Devrampur - Ward no-32,Shivrajpur ",
-                    "localname": "Devrampur - Ward no-32,Shivrajpur ",
+                    "name": "Devrampur - Ward no-32,Shivrajpur",
+                    "localname": "Devrampur - Ward no-32,Shivrajpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2344,7 +2369,7 @@
                 ]
               },
               {
-                "id": "23d1485e-ba57-4f03-b634-4d6334e07747",
+                "id": "4f460eb1-72de-4e16-8312-e8dab39362f4",
                 "boundaryNum": 1,
                 "name": "Ward no-33,Haldukhata",
                 "localname": "Ward no-33,Haldukhata",
@@ -2354,10 +2379,10 @@
                 "code": "WARD33",
                 "children": [
                   {
-                    "id": "7b28e680-5513-480a-a793-794da193bb1d",
+                    "id": "d8ca4b0a-cec0-456a-bf67-409ea4642407",
                     "boundaryNum": 1,
-                    "name": "Haldukhata Malla - Ward no-33,Haldukhata ",
-                    "localname": "Haldukhata Malla - Ward no-33,Haldukhata ",
+                    "name": "Haldukhata Malla - Ward no-33,Haldukhata",
+                    "localname": "Haldukhata Malla - Ward no-33,Haldukhata",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2366,10 +2391,10 @@
                     "children": []
                   },
                   {
-                    "id": "9a719d14-4e2b-416c-86b1-79f318a7f666",
+                    "id": "58ddb069-a7f4-42d9-b3a4-66d5c622b1c7",
                     "boundaryNum": 1,
-                    "name": "Luthapur - Ward no-33,Haldukhata ",
-                    "localname": "Luthapur - Ward no-33,Haldukhata ",
+                    "name": "Luthapur - Ward no-33,Haldukhata",
+                    "localname": "Luthapur - Ward no-33,Haldukhata",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2378,10 +2403,10 @@
                     "children": []
                   },
                   {
-                    "id": "e4050067-fa67-4092-acd1-cf3c550adc0c",
+                    "id": "fceea010-75be-48ec-9796-9e270737dbba",
                     "boundaryNum": 1,
-                    "name": "Balaganj - Ward no-33,Haldukhata ",
-                    "localname": "Balaganj - Ward no-33,Haldukhata ",
+                    "name": "Balaganj - Ward no-33,Haldukhata",
+                    "localname": "Balaganj - Ward no-33,Haldukhata",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2390,10 +2415,10 @@
                     "children": []
                   },
                   {
-                    "id": "be3e81ed-ef3d-4b8b-9350-5303eb52fed8",
+                    "id": "9705e90d-e96c-4b8f-b1e9-b13877269e9b",
                     "boundaryNum": 1,
-                    "name": "Lachampur - Ward no-33,Haldukhata ",
-                    "localname": "Lachampur - Ward no-33,Haldukhata ",
+                    "name": "Lachampur - Ward no-33,Haldukhata",
+                    "localname": "Lachampur - Ward no-33,Haldukhata",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2404,7 +2429,7 @@
                 ]
               },
               {
-                "id": "e7c0b89e-b016-4fe1-a0c3-49e1c59ab235",
+                "id": "da83cccf-605c-4eac-8953-0b49d74f5eb2",
                 "boundaryNum": 1,
                 "name": "Ward no-34,Udayrampur Nayawad",
                 "localname": "Ward no-34,Udayrampur Nayawad",
@@ -2414,10 +2439,10 @@
                 "code": "WARD34",
                 "children": [
                   {
-                    "id": "7db119af-574f-4ef3-9b26-47cc58ab7044",
+                    "id": "182d25c3-c58f-4073-aa51-53f98725cbcf",
                     "boundaryNum": 1,
-                    "name": "Bheemsinghpur - Ward no-34,Udayrampur Nayawad ",
-                    "localname": "Bheemsinghpur - Ward no-34,Udayrampur Nayawad ",
+                    "name": "Bheemsinghpur - Ward no-34,Udayrampur Nayawad",
+                    "localname": "Bheemsinghpur - Ward no-34,Udayrampur Nayawad",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2426,10 +2451,10 @@
                     "children": []
                   },
                   {
-                    "id": "e30ac7cc-a5d4-4423-a372-f5d522f67b64",
+                    "id": "f11274ed-1d20-4449-982a-3b37ff6c794d",
                     "boundaryNum": 1,
-                    "name": "Chokighata - Ward no-34,Udayrampur Nayawad ",
-                    "localname": "Chokighata - Ward no-34,Udayrampur Nayawad ",
+                    "name": "Chokighata - Ward no-34,Udayrampur Nayawad",
+                    "localname": "Chokighata - Ward no-34,Udayrampur Nayawad",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2438,10 +2463,10 @@
                     "children": []
                   },
                   {
-                    "id": "edbced3f-20cf-40e2-be84-6a7022bbeef8",
+                    "id": "1742ee89-86ca-43ab-859f-85838095f635",
                     "boundaryNum": 1,
-                    "name": "Udayrampur Nayawad - Ward no-34,Udayrampur Nayawad ",
-                    "localname": "Udayrampur Nayawad - Ward no-34,Udayrampur Nayawad ",
+                    "name": "Udayrampur Nayawad - Ward no-34,Udayrampur Nayawad",
+                    "localname": "Udayrampur Nayawad - Ward no-34,Udayrampur Nayawad",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2450,10 +2475,10 @@
                     "children": []
                   },
                   {
-                    "id": "9ffdfc32-aeee-456e-a745-2706f24f585e",
+                    "id": "14a26826-7a1e-4f48-bf91-407c555f9206",
                     "boundaryNum": 1,
-                    "name": "Maanpur - Ward no-34,Udayrampur Nayawad ",
-                    "localname": "Maanpur - Ward no-34,Udayrampur Nayawad ",
+                    "name": "Maanpur - Ward no-34,Udayrampur Nayawad",
+                    "localname": "Maanpur - Ward no-34,Udayrampur Nayawad",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2464,7 +2489,7 @@
                 ]
               },
               {
-                "id": "6cd31c57-eaa7-42e6-ba66-a50286411c78",
+                "id": "a49f42a1-cfcf-4338-87dd-dcd7eb7b23d6",
                 "boundaryNum": 1,
                 "name": "Ward no-35,Trilokpur",
                 "localname": "Ward no-35,Trilokpur",
@@ -2474,10 +2499,10 @@
                 "code": "WARD35",
                 "children": [
                   {
-                    "id": "fc453c09-0d40-4c0d-a494-4e2814a963f8",
+                    "id": "80fd1b49-f07d-428a-ad69-7ef1e864189c",
                     "boundaryNum": 1,
-                    "name": "Udayrampur - Ward no-35,Trilokpur ",
-                    "localname": "Udayrampur - Ward no-35,Trilokpur ",
+                    "name": "Udayrampur - Ward no-35,Trilokpur",
+                    "localname": "Udayrampur - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2486,10 +2511,10 @@
                     "children": []
                   },
                   {
-                    "id": "779a36e8-92ce-4404-9e9a-dc478c8ce5a7",
+                    "id": "bec6b7d3-4a04-4184-b80f-0338a199b235",
                     "boundaryNum": 1,
-                    "name": "Trilokpur - Ward no-35,Trilokpur ",
-                    "localname": "Trilokpur - Ward no-35,Trilokpur ",
+                    "name": "Trilokpur - Ward no-35,Trilokpur",
+                    "localname": "Trilokpur - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2498,10 +2523,10 @@
                     "children": []
                   },
                   {
-                    "id": "b47e904c-287d-4661-82d3-4deeab1fe20b",
+                    "id": "da45af8f-d998-4bbc-b37c-a1b96fe986c9",
                     "boundaryNum": 1,
-                    "name": "Teliwada - Ward no-35,Trilokpur ",
-                    "localname": "Teliwada - Ward no-35,Trilokpur ",
+                    "name": "Teliwada - Ward no-35,Trilokpur",
+                    "localname": "Teliwada - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2510,10 +2535,10 @@
                     "children": []
                   },
                   {
-                    "id": "dc29d9b4-d27f-47d0-a09c-ba2ef97016dd",
+                    "id": "16fd33fe-da7f-4588-b90a-8e8a86bc1077",
                     "boundaryNum": 1,
-                    "name": "Maganpur - Ward no-35,Trilokpur ",
-                    "localname": "Maganpur - Ward no-35,Trilokpur ",
+                    "name": "Maganpur - Ward no-35,Trilokpur",
+                    "localname": "Maganpur - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2522,10 +2547,10 @@
                     "children": []
                   },
                   {
-                    "id": "85720f7c-1908-4f5f-a623-7139aa62ac1a",
+                    "id": "6b11a6e7-3b5c-4f2d-98e2-689d26e3ae35",
                     "boundaryNum": 1,
-                    "name": "Ramdayalpur - Ward no-35,Trilokpur ",
-                    "localname": "Ramdayalpur - Ward no-35,Trilokpur ",
+                    "name": "Ramdayalpur - Ward no-35,Trilokpur",
+                    "localname": "Ramdayalpur - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2534,10 +2559,10 @@
                     "children": []
                   },
                   {
-                    "id": "3491d0a6-873a-4c22-8388-7714ea9add72",
+                    "id": "8f8f6804-3ec9-4736-be3e-6aa6676ffd04",
                     "boundaryNum": 1,
-                    "name": "Kamalganj - Ward no-35,Trilokpur ",
-                    "localname": "Kamalganj - Ward no-35,Trilokpur ",
+                    "name": "Kamalganj - Ward no-35,Trilokpur",
+                    "localname": "Kamalganj - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2546,10 +2571,10 @@
                     "children": []
                   },
                   {
-                    "id": "8115260d-7d56-4171-90eb-6f7923ab094e",
+                    "id": "300640d1-7d85-4334-9a43-8ca55106db60",
                     "boundaryNum": 1,
-                    "name": "Shrirampur - Ward no-35,Trilokpur ",
-                    "localname": "Shrirampur - Ward no-35,Trilokpur ",
+                    "name": "Shrirampur - Ward no-35,Trilokpur",
+                    "localname": "Shrirampur - Ward no-35,Trilokpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2560,7 +2585,7 @@
                 ]
               },
               {
-                "id": "8a39b477-6296-4f55-861b-8648db909b6c",
+                "id": "58d39e79-a685-4989-a025-382ba31f1ac9",
                 "boundaryNum": 1,
                 "name": "Ward no-36,Lokmanipur",
                 "localname": "Ward no-36,Lokmanipur",
@@ -2570,10 +2595,10 @@
                 "code": "WARD36",
                 "children": [
                   {
-                    "id": "140dbb12-be3c-4746-87ea-f3c25d70342e",
+                    "id": "c01c6fef-b831-4eb8-8b11-7272aa8f6830",
                     "boundaryNum": 1,
-                    "name": "Jaydevpur - Ward no-36,Lokmanipur ",
-                    "localname": "Jaydevpur - Ward no-36,Lokmanipur ",
+                    "name": "Jaydevpur - Ward no-36,Lokmanipur",
+                    "localname": "Jaydevpur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2582,10 +2607,10 @@
                     "children": []
                   },
                   {
-                    "id": "b1165b48-6ab3-4cd6-a95b-16a095cb0072",
+                    "id": "c396d741-18b6-4f50-9a12-082bdc3751bf",
                     "boundaryNum": 1,
-                    "name": "Mandevpur - Ward no-36,Lokmanipur ",
-                    "localname": "Mandevpur - Ward no-36,Lokmanipur ",
+                    "name": "Mandevpur - Ward no-36,Lokmanipur",
+                    "localname": "Mandevpur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2594,10 +2619,10 @@
                     "children": []
                   },
                   {
-                    "id": "b2f23c2e-1eff-46ac-a7d5-d1be50fadbe6",
+                    "id": "a78ee20b-420f-47c9-90b8-46e9fd2c1eff",
                     "boundaryNum": 1,
-                    "name": "Bhawanipur - Ward no-36,Lokmanipur ",
-                    "localname": "Bhawanipur - Ward no-36,Lokmanipur ",
+                    "name": "Bhawanipur - Ward no-36,Lokmanipur",
+                    "localname": "Bhawanipur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2606,10 +2631,10 @@
                     "children": []
                   },
                   {
-                    "id": "352a3441-8f4f-478d-9807-5492ac2af15f",
+                    "id": "6b5a4020-78b3-4c78-b9fc-7d26718bd244",
                     "boundaryNum": 1,
-                    "name": "Bhudevpur - Ward no-36,Lokmanipur ",
-                    "localname": "Bhudevpur - Ward no-36,Lokmanipur ",
+                    "name": "Bhudevpur - Ward no-36,Lokmanipur",
+                    "localname": "Bhudevpur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2618,10 +2643,10 @@
                     "children": []
                   },
                   {
-                    "id": "a5b8cfa7-a963-45f9-bd6a-b65199b9528b",
+                    "id": "9a9b34a9-ece1-4d55-8b4b-090244226614",
                     "boundaryNum": 1,
-                    "name": "Dalippur - Ward no-36,Lokmanipur ",
-                    "localname": "Dalippur - Ward no-36,Lokmanipur ",
+                    "name": "Dalippur - Ward no-36,Lokmanipur",
+                    "localname": "Dalippur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2630,10 +2655,10 @@
                     "children": []
                   },
                   {
-                    "id": "86079cae-879b-4009-bcf8-47f52c85f5eb",
+                    "id": "ec00946e-747f-40b0-9347-695682d0a079",
                     "boundaryNum": 1,
-                    "name": "Lokmanipur - Ward no-36,Lokmanipur ",
-                    "localname": "Lokmanipur - Ward no-36,Lokmanipur ",
+                    "name": "Lokmanipur - Ward no-36,Lokmanipur",
+                    "localname": "Lokmanipur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2642,10 +2667,10 @@
                     "children": []
                   },
                   {
-                    "id": "1a531610-b45b-429f-ae36-ea7dae2171a3",
+                    "id": "e93d9e02-3cdf-482f-a4c5-9ed5ccf17068",
                     "boundaryNum": 1,
-                    "name": "Gandriyakhal - Ward no-36,Lokmanipur ",
-                    "localname": "Gandriyakhal - Ward no-36,Lokmanipur ",
+                    "name": "Gandriyakhal - Ward no-36,Lokmanipur",
+                    "localname": "Gandriyakhal - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2654,10 +2679,10 @@
                     "children": []
                   },
                   {
-                    "id": "1014545e-73a9-4241-b42e-5c35abdc8185",
+                    "id": "ce39e746-206a-4c76-bacb-154c29422981",
                     "boundaryNum": 1,
-                    "name": "Kishandevpur - Ward no-36,Lokmanipur ",
-                    "localname": "Kishandevpur - Ward no-36,Lokmanipur ",
+                    "name": "Kishandevpur - Ward no-36,Lokmanipur",
+                    "localname": "Kishandevpur - Ward no-36,Lokmanipur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2668,7 +2693,7 @@
                 ]
               },
               {
-                "id": "6cd4c2bc-d782-47ee-8b0d-81005a69b24d",
+                "id": "100ac52f-4a04-43b6-805d-cfbfc5ad1d21",
                 "boundaryNum": 1,
                 "name": "Ward no-37,Pachimi Jhandichour",
                 "localname": "Ward no-37,Pachimi Jhandichour",
@@ -2678,10 +2703,10 @@
                 "code": "WARD37",
                 "children": [
                   {
-                    "id": "2124ccde-9882-4797-bf76-15d3bfb5ee83",
+                    "id": "c0e058c8-8237-440d-8fc0-81c419ba3d9b",
                     "boundaryNum": 1,
-                    "name": "Pachimi Jhandichour - Ward no-37,Pachimi Jhandichour ",
-                    "localname": "Pachimi Jhandichour - Ward no-37,Pachimi Jhandichour ",
+                    "name": "Pachimi Jhandichour - Ward no-37,Pachimi Jhandichour",
+                    "localname": "Pachimi Jhandichour - Ward no-37,Pachimi Jhandichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2692,7 +2717,7 @@
                 ]
               },
               {
-                "id": "6f0d0363-e958-47ed-89a1-43f08879e337",
+                "id": "455a3f2b-6744-43c5-88a7-21bf6a9839e8",
                 "boundaryNum": 1,
                 "name": "Ward no-38,Uttari Jhandichour",
                 "localname": "Ward no-38,Uttari Jhandichour",
@@ -2702,10 +2727,10 @@
                 "code": "WARD38",
                 "children": [
                   {
-                    "id": "baebd4cc-e9c6-481a-b0e2-899515ff5beb",
+                    "id": "c09097d9-2042-4079-a7bf-bd9d10ab4400",
                     "boundaryNum": 1,
-                    "name": "Uttari Jhandichour - Ward no-38,Uttari Jhandichour ",
-                    "localname": "Uttari Jhandichour - Ward no-38,Uttari Jhandichour ",
+                    "name": "Uttari Jhandichour - Ward no-38,Uttari Jhandichour",
+                    "localname": "Uttari Jhandichour - Ward no-38,Uttari Jhandichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2714,10 +2739,10 @@
                     "children": []
                   },
                   {
-                    "id": "42af5688-1d57-4b18-8304-f059746ca0d5",
+                    "id": "7c439182-98f8-4c65-9392-eeae20e93c69",
                     "boundaryNum": 1,
-                    "name": "Umravpur - Ward no-38,Uttari Jhandichour ",
-                    "localname": "Umravpur - Ward no-38,Uttari Jhandichour ",
+                    "name": "Umravpur - Ward no-38,Uttari Jhandichour",
+                    "localname": "Umravpur - Ward no-38,Uttari Jhandichour",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2728,7 +2753,7 @@
                 ]
               },
               {
-                "id": "85ca5b9f-f6c9-4141-afca-b131bf03e2b2",
+                "id": "43152293-70c4-4dcc-87c1-741e62308735",
                 "boundaryNum": 1,
                 "name": "Ward no-39,Purvi Jhandichaur",
                 "localname": "Ward no-39,Purvi Jhandichaur",
@@ -2738,10 +2763,10 @@
                 "code": "WARD39",
                 "children": [
                   {
-                    "id": "9fe55387-8695-4005-afee-7de37abfc02c",
+                    "id": "8b9019c9-e372-4ec6-9b53-b27b3b7ef18f",
                     "boundaryNum": 1,
-                    "name": "Purvi Jhandichour - Ward no-39,Purvi Jhandichaur ",
-                    "localname": "Purvi Jhandichour - Ward no-39,Purvi Jhandichaur ",
+                    "name": "Purvi Jhandichour - Ward no-39,Purvi Jhandichaur",
+                    "localname": "Purvi Jhandichour - Ward no-39,Purvi Jhandichaur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2752,7 +2777,7 @@
                 ]
               },
               {
-                "id": "08b90c8b-f2b9-45c9-a51c-0c6d2ecf4c2e",
+                "id": "15ae6a42-9fe1-436e-b578-dbbf2e9c4b52",
                 "boundaryNum": 1,
                 "name": "Ward no-40,Jashodharpur",
                 "localname": "Ward no-40,Jashodharpur",
@@ -2762,10 +2787,10 @@
                 "code": "WARD40",
                 "children": [
                   {
-                    "id": "56483377-25c8-4c35-8912-0b1b4e83dff7",
+                    "id": "f6ed2609-e704-4c23-9fbc-1cbb22ddf50f",
                     "boundaryNum": 1,
-                    "name": "Haldukhata Talla - Ward no-40,Jashodharpur ",
-                    "localname": "Haldukhata Talla - Ward no-40,Jashodharpur ",
+                    "name": "Haldukhata Talla - Ward no-40,Jashodharpur",
+                    "localname": "Haldukhata Talla - Ward no-40,Jashodharpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2774,10 +2799,10 @@
                     "children": []
                   },
                   {
-                    "id": "c39d75ac-e6de-434f-a30c-37cbf98f7b97",
+                    "id": "63558ef5-8d09-44f7-a8aa-1497098578e8",
                     "boundaryNum": 1,
-                    "name": "Jashodarpur - Ward no-40,Jashodharpur ",
-                    "localname": "Jashodarpur - Ward no-40,Jashodharpur ",
+                    "name": "Jashodarpur - Ward no-40,Jashodharpur",
+                    "localname": "Jashodarpur - Ward no-40,Jashodharpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2786,10 +2811,10 @@
                     "children": []
                   },
                   {
-                    "id": "c829d16c-1223-4508-aa8c-d004d376d6c2",
+                    "id": "1b992b14-5126-4729-aa29-0f6eab6acee6",
                     "boundaryNum": 1,
-                    "name": "Kishanpur - Ward no-40,Jashodharpur ",
-                    "localname": "Kishanpur - Ward no-40,Jashodharpur ",
+                    "name": "Kishanpur - Ward no-40,Jashodharpur",
+                    "localname": "Kishanpur - Ward no-40,Jashodharpur",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2806,3 +2831,4 @@
     }
   ]
 }
+
