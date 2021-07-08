@@ -1,7 +1,7 @@
 {
-"tenantId": "uk.berinag",
-"moduleName": "TradeLicense",
-"TradeType":[
+  "tenantId": "uk.berinag",
+  "moduleName": "TradeLicense",
+  "TradeType":[
   {
     "code": "TRADE.TRANSPORT.HARAU2S",
     "uom": null,
@@ -2134,7 +2134,7 @@
       "active": true,
       "type": "TL"
     },
-  {
+    {
       "code": "TRADE.SHOP.JLU5L",
       "uom": null,
       "applicationDocument": [
