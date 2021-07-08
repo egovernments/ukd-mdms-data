@@ -3,7 +3,7 @@ kind: CronJob
 metadata:
   name: dcbrefresh
 spec:
-  schedule: "0/15 * * * *"
+  schedule: "0 21 * * *"
   jobTemplate:
     spec:
       template:
