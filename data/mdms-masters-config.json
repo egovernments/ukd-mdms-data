@@ -20,6 +20,7 @@
   "ACCESSCONTROL-ROLEACTIONS": {
     "roleactions": {
       "masterName": "roleactions",
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.rolecode",
         "$.actionid",
@@ -624,6 +625,11 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "Thana": {
+      "masterName": "Thana",
+      "isStateLevel": false,
+      "uniqueKeys": []
     },
     "DepreciationAppreciation": {
       "masterName": "DepreciationAppreciation",
