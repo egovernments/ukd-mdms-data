@@ -6889,7 +6889,21 @@
 			"navigationURL": "pt-mutation/propertySearch?citizenSearch=true",
 			"path": "null",
 			"leftIcon": "places:business-center"
-		}
-    		
+		},
+			 {
+		      "id": 1932,
+		      "name": "ReceiptCancellation",
+		      "url": "url",
+		      "displayName": "ReceiptCancellation",
+		      "orderNumber": 24,
+		      "parentModule": "",
+		      "enabled": true,
+		      "serviceCode": "",
+		      "code": "null",
+		      "navigationURL": "receipts/search",
+		      "path": "receipts",
+		      "leftIcon": "action:receipt"
+		    }
+
 	]
 }
