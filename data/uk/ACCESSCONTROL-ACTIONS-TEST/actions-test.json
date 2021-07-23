@@ -6903,6 +6903,22 @@
 		      "navigationURL": "receipts/search",
 		      "path": "receipts",
 		      "leftIcon": "action:receipt"
+		    },
+			  {
+		      "id": 1933,
+		      "name": "ReceiptCancellation",
+		      "url": "card",
+		      "displayName": "ReceiptCancellation",
+		      "orderNumber": 25,
+		      "parentModule": "",
+		      "enabled": true,
+		      "serviceCode": "",
+		      "code": "",
+		      "path": "",
+		      "navigationURL": "receipts/search",
+		      "leftIcon": "action:receipt",
+		      "rightIcon": "",
+		      "queryParams": ""
 		    }
 
 	]
