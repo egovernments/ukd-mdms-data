@@ -221,6 +221,11 @@
       "code": "ANONYMOUS",
       "name": "Anonymous User",
       "description": "Anonymous User to be used in case of no auth"
+    },
+    {
+      "code": "CR_PT",
+      "name": "Property Tax Receipt Cancellator",
+      "description": "Property Tax Receipt Cancelling Employee"
     }
   ]
 }
