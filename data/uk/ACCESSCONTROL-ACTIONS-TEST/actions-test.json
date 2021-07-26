@@ -6919,7 +6919,62 @@
 		      "leftIcon": "action:receipt",
 		      "rightIcon": "",
 		      "queryParams": ""
-		    }
+		    },
+			 {
+      "id": 1934,
+      "name": "PT Payment search",
+      "url": "/collection-services/payments/PT/_search",
+      "displayName": "PT Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+
+  {
+      "id": 1935,
+      "name": "PT Receipt Update",
+      "url": "/collection-services/payments/PT/_workflow",
+      "displayName": "PT Receipt Cancel",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 1936,
+      "name": "PTReceiptCancellation",
+      "url": "url",
+      "displayName": "PTReceiptCancellation",
+      "orderNumber": 24,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "path": "PTreceipt",
+      "leftIcon": "action:receipt"
+    },
+{
+      "id": 1937,
+      "name": "PTReceiptCancellation",
+      "url": "card",
+      "displayName": "PTReceiptCancellation",
+      "orderNumber": 25,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "leftIcon": "action:receipt",
+      "rightIcon": "",
+      "queryParams": ""
+    }
 
 	]
 }
