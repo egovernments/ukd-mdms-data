@@ -6923,7 +6923,7 @@
 			 {
       "id": 1934,
       "name": "PT Payment search",
-      "url": "/collection-services/payments/PT/_search",
+      "url": "/collection-services/payments/_search",
       "displayName": "PT Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -6936,7 +6936,7 @@
   {
       "id": 1935,
       "name": "PT Receipt Update",
-      "url": "/collection-services/payments/PT/_workflow",
+      "url": "/collection-services/payments/_workflow",
       "displayName": "PT Receipt Cancel",
       "orderNumber": 1,
       "parentModule": "",
