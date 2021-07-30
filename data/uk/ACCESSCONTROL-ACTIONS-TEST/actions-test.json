@@ -6870,6 +6870,30 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },{
+      "id": 1947,
+      "name": "PT Payment search",
+      "url": "/collection-services/payments/PT/_search",
+      "displayName": "PT Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+
+  {
+      "id": 1948,
+      "name": "PT Receipt Update",
+      "url": "/collection-services/payments/PT/_workflow",
+      "displayName": "PT Receipt Cancel",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
