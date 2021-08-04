@@ -6979,14 +6979,28 @@
          "id":1938,
          "name":"TradeLicenseCitizen",
          "url":"url",
-         "displayName":"TradeLicense",
+         "displayName":"Home",
          "orderNumber":1,
          "parentModule":"",
          "enabled":true,
          "serviceCode":"TradeLicense",
          "code":"null",
          "navigationURL":"tradelicense-citizen/home",
-         "path":"Trade License.TradeLicense",
+         "path":"Trade License.Home",
+         "leftIcon":"places:business-center"
+      },
+      {
+         "id":1938,
+         "name":"TradeLicenseCitizen",
+         "url":"url",
+         "displayName":"My Applications",
+         "orderNumber":1,
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"TradeLicense",
+         "code":"null",
+         "navigationURL":"tradelicense-citizen/my-applications",
+         "path":"Trade License.My Applications",
          "leftIcon":"places:business-center"
       }
    ]
