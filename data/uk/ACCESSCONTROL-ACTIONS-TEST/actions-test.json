@@ -6878,20 +6878,6 @@
          "rightIcon":""
       },
       {
-         "id":1931,
-         "name":"PT Mutation",
-         "url":"url",
-         "displayName":"PT Mutation",
-         "orderNumber":4,
-         "parentModule":"",
-         "enabled":true,
-         "serviceCode":"PT.Muation",
-         "code":"null",
-         "navigationURL":"pt-mutation/propertySearch?citizenSearch=true",
-         "path":"null",
-         "leftIcon":"places:business-center"
-      },
-      {
          "id":1932,
          "name":"ReceiptCancellation",
          "url":"url",
@@ -6979,14 +6965,14 @@
          "id":1938,
          "name":"TradeLicenseCitizen",
          "url":"url",
-         "displayName":"Home",
+         "displayName":"TradeLicense Home",
          "orderNumber":1,
          "parentModule":"",
          "enabled":true,
          "serviceCode":"TradeLicense",
          "code":"null",
          "navigationURL":"tradelicense-citizen/home",
-         "path":"Trade License.Home",
+         "path":"Trade License.TradeLicense Home",
          "leftIcon":"places:business-center"
       },
       {
@@ -7002,6 +6988,46 @@
          "navigationURL":"tradelicense-citizen/my-applications",
          "path":"Trade License.My Applications",
          "leftIcon":"places:business-center"
+      },
+      {
+         "id":1940,
+         "name":"Apply for Mutation",
+         "url":"url",
+         "displayName":"Apply for Mutation",
+         "orderNumber":4,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"",
+         "tenantId":"uk",
+         "createdDate":null,
+         "createdBy":null,
+         "lastModifiedDate":null,
+         "lastModifiedBy":null,
+         "path":"Property Tax.Apply for Mutation",
+         "navigationURL":"pt-mutation/propertySearch",
+         "leftIcon":"communication:business",
+         "rightIcon":""
+      },
+      {
+         "id":1941,
+         "name":"Pay for Mutation",
+         "url":"url",
+         "displayName":"Pay for Mutation",
+         "orderNumber":5,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"",
+         "tenantId":"uk",
+         "createdDate":null,
+         "createdBy":null,
+         "lastModifiedDate":null,
+         "lastModifiedBy":null,
+         "path":"Property Tax.Pay for Mutation",
+         "navigationURL":"pt-mutation/propertyApplicationSearch",
+         "leftIcon":"communication:business",
+         "rightIcon":""
       }
    ]
 }
