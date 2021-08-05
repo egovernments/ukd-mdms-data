@@ -7063,6 +7063,60 @@
          "navigationURL":"pt-mutation/propertySearch",
          "leftIcon":"communication:business",
          "queryParams":""
-      }
+      },
+      {
+      "id": 1944,
+      "name": "Property Tax Dashboard",
+      "url": "url",
+      "displayName": "propertytax",
+      "orderNumber": 6,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.propertytax",
+      "navigationURL": "integration/dss/propertytax",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1945,
+      "name": "DSS Dashboard Config Property Tax",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/propertytax",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1946,
+      "name": "Dashboard ULB Property Tax",
+      "url": "url",
+      "displayName": "ULB propertytax",
+      "orderNumber": 8,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.propertytax",
+      "navigationURL": "integration/dss/ulb-propertytax",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1947,
+      "name": "Dashboard ULB propertytax",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-propertytax",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
