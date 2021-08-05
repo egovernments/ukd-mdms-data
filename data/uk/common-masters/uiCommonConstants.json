@@ -129,6 +129,15 @@
           "ulb-mCollect": {
             "routePath": "/dashboard/ulb-mCollect",
             "isOrigin": true
+          },
+          
+          "propertytax": {
+            "routePath": "/dashboard/propertytax",
+            "isOrigin": true
+          },
+          "ulb-propertytax": {
+            "routePath": "/dashboard/ulb-propertytax",
+            "isOrigin": true
           }
         }
       },
