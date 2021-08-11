@@ -203,9 +203,29 @@
       "description": "Admin of ULB to get access to the ULB level"
     },
     {
+      "code": "PTDOCVERIFIER",
+      "name": "PT Document Verifier",
+      "description": "Universal Miscellaneous Collection Employee"
+    },
+    {
+      "code": "PTAPPROVER",
+      "name": "PT Approver",
+      "description": "PT Approver"
+    },
+    {
       "code": "BBPS_ADMIN",
       "name": "BBPS ADMIN",
       "description": "Role for BBPS ADMIN"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous User",
+      "description": "Anonymous User to be used in case of no auth"
+    },
+    {
+      "code": "CR_PT",
+      "name": "Property Tax Receipt Cancellator",
+      "description": "Property Tax Receipt Cancelling Employee"
     }
   ]
 }
