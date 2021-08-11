@@ -133,6 +133,16 @@
       "legacy": true
     },
     {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "Pt promotional rebate",
+      "code": "PT_PROMOTIONAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": "3",
+      "legacy": true
+    },
+   {
       "category": "TAX",
       "service": "PT",
       "name": "Swachatha Tax",
@@ -3723,6 +3733,96 @@
       "isActualDemand": true,	
       "order": "1",	
       "isRequired": true	
+    },
+    {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fees",
+      "code": "PT_MUTATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Rebate",
+      "code": "PT_MUTATION_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Penalty",
+      "code": "PT_MUTATION_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation adhoc rebate",
+      "code": "PT_MUTATION_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation adhoc penalty",
+      "code": "PT_MUTATION_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Application Fee",
+      "code": "PT_MUTATION_APPLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Processing Fee",
+      "code": "PT_MUTATION_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Publication Fee",
+      "code": "PT_MUTATION_PUBLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Pt mutation Late Fee",
+      "code": "PT_MUTATION_LATE_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "5",
+      "isRequired": false
     }
   ]
 }
