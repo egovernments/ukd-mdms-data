@@ -413,6 +413,23 @@
         }
       ],
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "NAMECORRECTIONCLERICAL"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER",
+          "active": true
+        }
+      ],
+      "description": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER.DEPARTMENTAUTHORIZEDPERSONLETTER_DESCRIPTION"
     }
   ]
 }
