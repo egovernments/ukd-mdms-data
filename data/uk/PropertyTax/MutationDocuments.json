@@ -430,6 +430,23 @@
         }
       ],
       "description": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER.DEPARTMENTAUTHORIZEDPERSONLETTER_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "RELINQUISHDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDDEED.REGISTEREDDEED_DESCRIPTION"
     }
   ]
 }
