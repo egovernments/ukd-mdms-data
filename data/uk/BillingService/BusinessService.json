@@ -2054,7 +2054,7 @@
       "businessService": "TL.RENEWAL",
       "code": "TL.RENEWAL",
       "collectionModesNotAllowed": [
-        "DD"
+       
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -2065,7 +2065,7 @@
       "businessService": "PT.MUTATION",
       "code": "PT.MUTATION",
       "collectionModesNotAllowed": [
-        "DD",
+       
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
