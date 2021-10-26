@@ -5,7 +5,7 @@
     {
       "businessService": "PropertyTax",
       "code": "PT",
-      "collectionModesNotAllowed": ["DD", "CREDIT", "DEBIT", "CARD"],
+      "collectionModesNotAllowed": [ "CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
@@ -24,7 +24,7 @@
     {
       "businessService": "TradeLicense",
       "code": "TL",
-      "collectionModesNotAllowed": ["DD"],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
@@ -1472,7 +1472,7 @@
     {
       "businessService": "TL.RENEWAL",
       "code": "TL.RENEWAL",
-      "collectionModesNotAllowed": ["DD"],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1801,7 +1801,7 @@
       "businessService": "PT.MUTATION",
       "code": "PT.MUTATION",
       "collectionModesNotAllowed": [
-        "DD",
+        
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
