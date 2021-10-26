@@ -1791,7 +1791,7 @@
     {
       "businessService": "TL.RENEWAL",
       "code": "TL.RENEWAL",
-      "collectionModesNotAllowed": ["DD"],
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
