@@ -6,9 +6,23 @@
       "code": "TRADE.SHOP.RDRDRYC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -18,9 +32,23 @@
       "code": "TRADE.WORKSHOP.FAB",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -30,9 +58,23 @@
       "code": "TRADE.HOTELS.OTH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -42,9 +84,23 @@
       "code": "TRADE.REST.RESTS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "FOODLICENSE",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "FOODLICENSE",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "FOODLICENSE",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -54,9 +110,23 @@
       "code": "TRADE.STREETVENDOR.FTVEG",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-FOODLICENSE",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-FOODLICENSE",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-FOODLICENSE",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -66,9 +136,23 @@
       "code": "TRADE.POWER.100H",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -78,9 +162,23 @@
       "code": "TRADE.BANK.RDRFINC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -90,9 +188,23 @@
       "code": "TRADE.LIQUOR.RDRFLS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "EXCISELICENSE",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -102,9 +214,23 @@
       "code": "TRADE.LIQUOR.RDRCLG",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "EXCISELICENSE",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -114,9 +240,23 @@
       "code": "TRADE.REST.BAC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "EXCISELICENSE-FOODLICENSE",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE-FOODLICENSE",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "EXCISELICENSE-FOODLICENSE",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -126,9 +266,23 @@
       "code": "TRADE.STREETVENDOR.RDRTEAS",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -138,9 +292,23 @@
       "code": "TRADE.MEDICAL.NH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -150,9 +318,23 @@
       "code": "TRADE.MEDICAL.RDRPC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -162,9 +344,23 @@
       "code": "TRADE.HOTELS.MRGH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -174,9 +370,23 @@
       "code": "TRADE.BANK.RDRINSC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -186,9 +396,23 @@
       "code": "TRADE.MEDICAL.RDRXRYC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -198,9 +422,23 @@
       "code": "TRADE.SHOP.WASH",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -210,9 +448,23 @@
       "code": "TRADE.POWER.10HP",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -222,9 +474,23 @@
       "code": "TRADE.POWER.20HP",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -234,9 +500,23 @@
       "code": "TRADE.POWER.50HP",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "GSTREGISTRATION",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "GSTREGISTRATION",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -246,9 +526,23 @@
       "code": "TRADE.MEDICAL.RDRPVTC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -258,9 +552,23 @@
       "code": "TRADE.MEDICAL.RDRDNTC",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -270,9 +578,23 @@
       "code": "TRADE.MEDICAL.PH20B",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,
@@ -282,9 +604,23 @@
       "code": "TRADE.MEDICAL.PHA20",
       "uom": null,
       "applicationDocument": [
-        "IDPROOF",
-        "APPLLTTR-RLVNTDEGR",
-        "OWNERPHOTO"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "IDPROOF",
+            "APPLLTTR-RLVNTDEGR",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
       ],
       "verificationDocument": [],
       "active": true,

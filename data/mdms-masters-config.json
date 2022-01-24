@@ -82,6 +82,13 @@
         "$.code"
       ]
     },
+    "wfSlaConfig": {
+      "masterName": "wfSlaConfig",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": []
+      
+    },
     "OwnerType": {
       "masterName": "OwnerType",
       "moduleDefinition": null,
@@ -534,6 +541,13 @@
         "$.code"
       ]
     },
+    "UsageCategory": {
+      "masterName": "UsageCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
@@ -613,7 +627,35 @@
       "uniqueKeys": [
         "$.code"
       ]
-    }
+    },
+      "MutationReason": {
+      "masterName": "MutationReason",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "MutationRebate": {
+      "masterName": "MutationRebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "MutationPenalty": {
+      "masterName": "MutationPenalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "MutationFee": {
+      "masterName": "MutationFee",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.forFy"
+      ]
+    }    
   },
   "TradeLicense": {
     "ApplicationType": {
@@ -642,6 +684,27 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
+      ]
+    },
+    "RelationType": {
+      "masterName": "RelationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
       ]
     }
   },

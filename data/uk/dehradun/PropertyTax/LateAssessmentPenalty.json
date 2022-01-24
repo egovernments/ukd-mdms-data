@@ -1,0 +1,13 @@
+{
+  "tenantId": "uk.dehradun",
+  "moduleName": "PropertyTax",
+  "LateAssessmentPenalty": [
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "01/04/2019"
+    }
+  ]
+}

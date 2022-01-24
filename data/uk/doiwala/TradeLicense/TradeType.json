@@ -7,9 +7,23 @@
     "code": "TRADE.LIQUOR.CLS",
     "uom": null,
     "applicationDocument": [
-      "AC016",
-      "EXCISELICENSE",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC016",
+          "EXCISELICENSE",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC016",
+          "EXCISELICENSE",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -19,9 +33,23 @@
     "code": "TRADE.LIQUOR.FLS",
     "uom": null,
     "applicationDocument": [
-      "AC016",
-      "EXCISELICENSE",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC016",
+          "EXCISELICENSE",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC016",
+          "EXCISELICENSE",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
@@ -31,9 +59,23 @@
     "code": "TRADE.STREETVENDOR.HW",
     "uom": null,
     "applicationDocument": [
-      "AADPANCARD",
-      "AC043",
-      "OWNERPHOTO"
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AADPANCARD",
+          "AC043",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AADPANCARD",
+          "AC043",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
     ],
     "verificationDocument": [],
     "active": true,
