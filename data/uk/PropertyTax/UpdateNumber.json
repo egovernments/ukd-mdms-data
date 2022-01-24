@@ -1,0 +1,26 @@
+{
+    "tenantId": "uk",
+    "moduleName": "PropertyTax",
+    "UpdateNumber":[ {
+        "invalidPattern":"^[6789][0-9]{9}$",
+        "invalidNumber":"9999999999",
+        "warningEnabled":true,
+        "skipEnabled":true,
+        "documents":[ 
+              {
+                "active": true,
+                "code": "OWNER.IDENTITYPROOF",
+                "description": "OWNER.IDENTITYPROOF_DESCRIPTION",
+                "documentType": "IDENTITYPROOF",
+                "dropdownData": [],
+                "hasDropdown": false,
+                "required": false,
+                "inputProps": {
+                  "accept": "image/*, .pdf, .png, .jpeg"
+                },
+                "maxFileSize": 5000
+              }
+        ]
+    }
+   ]
+  }

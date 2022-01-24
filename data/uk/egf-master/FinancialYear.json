@@ -3,20 +3,6 @@
   "moduleName": "egf-master",
   "FinancialYear": [
     {
-      "id": "11",
-      "tenantId": "uk",
-      "finYearRange": "2020-21",
-      "name": "2020-21",
-      "code": "2020-21",
-      "startingDate": 1585699200000,
-      "endingDate": 1617235199000,
-      "active": true,
-      "isActiveForPosting": false,
-      "isClosed": false,
-      "transferClosingBalance": false,
-      "module": "PT"
-    },
-    {
       "id": "10",
       "tenantId": "uk",
       "finYearRange": "2021-22",
@@ -178,6 +164,20 @@
       "code": "2020-21",
       "startingDate": 1585699200000,
       "endingDate": 1617235199000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
+    {
+      "id": "13",
+      "tenantId": "uk",
+      "finYearRange": "2021-22",
+      "name": "2021-22",
+      "code": "2021-22",
+      "startingDate": 1617235200000,
+      "endingDate": 1648771199000,
       "active": true,
       "isActiveForPosting": true,
       "isClosed": false,

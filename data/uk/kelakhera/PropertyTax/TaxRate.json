@@ -1,0 +1,26 @@
+{
+  "tenantId": "uk.kelakhera",
+  "moduleName": "PropertyTax",
+  "TaxRate": [
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Non-residential)",
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2018",
+      "endingDay": "31/03/2019"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Residential)",
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2018",
+      "endingDay": "31/03/2019"
+    }
+  ]
+}

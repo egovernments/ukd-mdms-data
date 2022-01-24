@@ -1,0 +1,22 @@
+{
+  "tenantId": "uk.badrinath",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": 1554076800000,
+      "endingDay": 1564617599000
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": 1585699200000,
+      "endingDay": 1617235199000
+    }
+  ]
+}
