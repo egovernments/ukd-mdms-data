@@ -7162,6 +7162,20 @@
         "navigationURL":"report/rainmaker-pt/PTBBPSCollectionCount",
         "leftIcon":"action:assignment",
         "rightIcon":""
-     }
+     },
+     {
+         "id":1951,
+         "name":"TradeLicenseCitizen",
+         "url":"url",
+         "displayName":"TradeLicense Apply",
+         "orderNumber":1,
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"TradeLicense",
+         "code":"null",
+         "navigationURL":"tradelicense-citizen/home",
+         "path":"Trade License.TradeLicense Apply",
+         "leftIcon":"places:business-center"
+      }
    ]
 }
