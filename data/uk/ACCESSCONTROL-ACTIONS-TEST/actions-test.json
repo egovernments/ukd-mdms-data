@@ -9334,6 +9334,39 @@
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
-    }
+    },
+     {
+        "id": 2132,
+        "name": "mchallan search",
+        "url": "/egov-pdf/download/UC/mcollect-challan",
+        "displayName": "mchallan search",
+        "orderNumber": 9,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2133,
+        "name": "mbill search",
+        "url": "/egov-pdf/download/UC/mcollect-bill",
+        "displayName": "mbill search",
+        "orderNumber": 9,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2134,
+        "name": "mchallan search",
+        "url": "/egov-pdf/download/UC/mcollect-receipt",
+        "displayName": "mchallan search",
+        "orderNumber": 9,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
+      }
    ]
 }
