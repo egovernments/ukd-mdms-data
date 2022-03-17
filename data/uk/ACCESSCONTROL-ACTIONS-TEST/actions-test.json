@@ -9286,6 +9286,54 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2128,
+      "name": "eChallan create",
+      "url": "/echallan-services/eChallan/v1/_create",
+      "parentModule": "",
+      "displayName": "Create Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2129,
+      "name": "eChallan search",
+      "url": "/echallan-services/eChallan/v1/_search",
+      "parentModule": "",
+      "displayName": "Search Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2130,
+      "name": "eChallan update",
+      "url": "/echallan-services/eChallan/v1/_update",
+      "parentModule": "",
+      "displayName": "Update Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2131,
+      "name": "eChallan count",
+      "url": "/echallan-services/eChallan/v1/_count",
+      "parentModule": "",
+      "displayName": "Count Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
     }
    ]
 }
