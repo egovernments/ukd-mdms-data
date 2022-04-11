@@ -1,9 +1,11 @@
 {
   "tenantId": "uk",
   "moduleName": "tenant",
-  "paybuttonconfig":{
-    "citizen": true,
-    "employee": false,
-    "open" : false
-  }
+  "paybuttonconfig":[
+    {
+      "citizen": true,
+      "employee": false,
+      "open" : false
+    }
+  ]
 }
