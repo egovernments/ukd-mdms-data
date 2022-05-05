@@ -3,7 +3,7 @@
     "moduleName" : "DataSecurity",
     "DecryptionABAC" : [
       {
-        "key" : "User",
+        "key" : "ALL_ACCESS",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "CITIZEN",
