@@ -1,5 +1,5 @@
 {
-  "tenantId": "uk.kelakhera",
+  "tenantId": "uk.kelakhara",
   "moduleName": "PropertyTax",
   "TaxRate": [
     {
@@ -8,9 +8,9 @@
       "flatAmount": null,
       "maxAmount": null,
       "taxhead": "General Tax (Non-residential)",
-      "fromFY": "2018-19",
-      "startingDay": "01/04/2018",
-      "endingDay": "31/03/2019"
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020",
+      "endingDay": "31/03/2021"
     },
     {
       "rate": 5,
@@ -18,9 +18,49 @@
       "flatAmount": null,
       "maxAmount": null,
       "taxhead": "General Tax (Residential)",
-      "fromFY": "2018-19",
-      "startingDay": "01/04/2018",
-      "endingDay": "31/03/2019"
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020",
+      "endingDay": "31/03/2021"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Non-residential)",
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2021",
+      "endingDay": "31/03/2022"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Residential)",
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2021",
+      "endingDay": "31/03/2022"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Non-residential)",
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+      "endingDay": "31/03/2023"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "taxhead": "General Tax (Residential)",
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+      "endingDay": "31/03/2023"
     }
   ]
 }

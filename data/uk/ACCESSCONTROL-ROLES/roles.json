@@ -226,6 +226,21 @@
       "code": "CR_PT",
       "name": "Property Tax Receipt Cancellator",
       "description": "Property Tax Receipt Cancelling Employee"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "SYSTEM_PAYMENT",
+      "name": "System Payment user",
+      "description": "System payment user role"
+    },
+    {
+      "code": "SMART_CITY",
+      "name": "SMART_CITY",
+      "description": "PT Role For Smart City"
     }
   ]
 }
