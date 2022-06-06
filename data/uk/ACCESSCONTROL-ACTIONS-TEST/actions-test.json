@@ -7117,6 +7117,36 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+       "id": 1948,
+       "name":"PTMutationULBWiseApplicationStatusReport",
+       "url":"/report/rainmaker-pt/PTMutationULBWiseApplicationStatusReport/metadata/_get",
+       "displayName":"PTMutation ULB Wise Status",
+       "orderNumber":5,
+       "parentModule":"rainmaker-pt",
+       "enabled":true,
+       "serviceCode":"PT",
+       "code":"null",
+       "path":"Property Tax.PT Reports.PTMutationULBWiseApplicationStatusReport",
+       "navigationURL":"report/rainmaker-pt/PTMutationULBWiseApplicationStatusReport",
+       "leftIcon":"action:assignment",
+       "rightIcon":""
+     },
+     {
+       "id": 1949,
+       "name":"PTMutationULBWiseApplicationStatusReport",
+       "url":"/report/rainmaker-pt/PTMutationULBWiseApplicationStatusReport/_get",
+       "displayName":"PTMutation ULB Wise Status",
+       "orderNumber":5,
+       "parentModule":"rainmaker-pt",
+       "enabled":false,
+       "serviceCode":"PT",
+       "code":"null",
+       "path":"Property Tax.PT Reports.PTMutationULBWiseApplicationStatusReport",
+       "navigationURL":"report/rainmaker-pt/PTMutationULBWiseApplicationStatusReport",
+       "leftIcon":"action:assignment",
+       "rightIcon":""
+     }
    ]
 }

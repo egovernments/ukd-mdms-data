@@ -521,6 +521,240 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.LIQUOR.TRBR",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.REST.RESTS",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC078",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC078",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.HOSL",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.HARPVTC",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.DNTC",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.HARPC",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.MEDICAL.KAXRYC",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC082",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.BANK.FINCOM",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC083",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC083",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.BANK.RDRINSC",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "AC084",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "AC084",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
-]
+  ]
 }

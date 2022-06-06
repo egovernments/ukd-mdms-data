@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "Rebate": [
     {
-      "rate": 0,
+      "rate": 10,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
@@ -16,7 +16,15 @@
       "flatAmount": null,
       "fromFY": "2021-22",
       "startingDay": 1585699200000,
-      "endingDay": 1646072999000
+      "endingDay": 1677565799000
+    },
+    {
+      "rate": 20,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": 1648771200000,
+      "endingDay": 1667260799000
     }
   ]
 }
