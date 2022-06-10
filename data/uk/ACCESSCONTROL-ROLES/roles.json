@@ -236,6 +236,16 @@
       "code": "PTADMIN",
       "name": "Property Tax Editor",
       "description": "Property can also be edited after payment with this employee"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "SYSTEM_PAYMENT",
+      "name": "System Payment user",
+      "description": "System payment user role"
     }
   ]
 }
