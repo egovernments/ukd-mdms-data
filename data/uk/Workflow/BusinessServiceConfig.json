@@ -1,0 +1,14 @@
+{
+  "tenantId": "uk",
+  "moduleName": "Workflow",
+  "BusinessServiceConfig": [
+    {
+      "code": "NewTL",
+      "isStateLevel": true
+    },
+    {
+      "code": "FIRENOC",
+      "isStateLevel": true
+    }
+  ]
+}
