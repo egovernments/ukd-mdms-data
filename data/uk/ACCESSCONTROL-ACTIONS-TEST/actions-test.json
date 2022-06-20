@@ -9438,6 +9438,17 @@
        "serviceCode":"",
        "code":"null",
        "path":""
+    },
+    {
+       "id":2136,
+       "name":"Payment workflow",
+       "url":"/collection-services/payments/_workflow",
+       "displayName":"Payment workflow",
+       "orderNumber":11,
+       "enabled":false,
+       "serviceCode":"COLLECTION_SERVICE",
+       "code":"null",
+       "path":""
     }
   ]
 }
