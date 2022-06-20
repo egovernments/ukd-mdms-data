@@ -9426,6 +9426,18 @@
       "serviceCode":"egov-pdf",
       "code":"null",
       "path":""
+    },
+    {
+       "id":2135,
+       "name":"PT Receipt Update",
+       "url":"/collection-services/payments/_workflow",
+       "displayName":"PT Receipt Cancel",
+       "orderNumber":1,
+       "parentModule":"",
+       "enabled":false,
+       "serviceCode":"",
+       "code":"null",
+       "path":""
     }
   ]
 }
