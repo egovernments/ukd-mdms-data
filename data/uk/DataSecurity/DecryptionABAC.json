@@ -1225,6 +1225,28 @@
               "accessType": "MASK"
             }
           ]
+        },
+        {
+          "key": "ReceiptRegister",
+          "roleAttributeAccessList": [
+            {
+              "roleCode": "EMPLOYEE",
+              "attributeAccessList": [
+                {
+                  "attribute": {
+                    "jsonPath": "*/collectorname"
+                  },
+                  "accessType": "PLAIN"
+                },
+                {
+                  "attribute": {
+                    "jsonPath": "*/ownername"
+                  },
+                  "accessType": "PLAIN"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
