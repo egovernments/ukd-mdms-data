@@ -1234,13 +1234,7 @@
               "attributeAccessList": [
                 {
                   "attribute": {
-                    "jsonPath": "*/collectorname"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/ownername"
+                    "jsonPath": "*/name"
                   },
                   "accessType": "PLAIN"
                 }
