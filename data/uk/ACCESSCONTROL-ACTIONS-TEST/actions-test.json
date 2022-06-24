@@ -9449,6 +9449,18 @@
        "serviceCode":"COLLECTION_SERVICE",
        "code":"null",
        "path":""
+    },
+    {
+      "id": 2137,
+      "name": "Search mcollect Bill",
+      "url": "/egov-searcher/bill-genie/mcollectbills/_get",
+      "parentModule": "",
+      "displayName": "Search mcollect Bill",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
