@@ -1,7 +1,8 @@
 {
   "tenantId": "uk",
   "moduleName": "ACCESSCONTROL-ROLES",
-  "roles": [{
+  "roles": [
+    {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
@@ -228,6 +229,16 @@
       "description": "Property Tax Receipt Cancelling Employee"
     },
     {
+      "code": "SMART_CITY",
+      "name": "SMART_CITY",
+      "description": "PT Role For Smart City"
+    },
+    {
+      "code": "PTADMIN",
+      "name": "Property Tax Editor",
+      "description": "Property can also be edited after payment with this employee"
+    },
+    {
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
@@ -236,11 +247,6 @@
       "code": "SYSTEM_PAYMENT",
       "name": "System Payment user",
       "description": "System payment user role"
-    },
-    {
-      "code": "SMART_CITY",
-      "name": "SMART_CITY",
-      "description": "PT Role For Smart City"
     }
   ]
 }
