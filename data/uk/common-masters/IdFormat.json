@@ -429,6 +429,10 @@
     {
       "format": "UK-MT-[CITY.CODE]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.mutation.number"
+    },
+    {
+      "format": "UK-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
+      "idname": "echallan.aplnumber"
     }
   ]
 }
