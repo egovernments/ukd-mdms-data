@@ -6,8 +6,8 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
-      "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "isBillAmendmentEnabled": "true",
@@ -1942,6 +1942,15 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
