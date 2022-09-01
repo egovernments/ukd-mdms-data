@@ -1247,6 +1247,40 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "PTCEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/username"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "DATAENTRY_ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/username"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     }
