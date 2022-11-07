@@ -1283,6 +1283,28 @@
           ]
         }
       ]
+    },
+    {
+      "key": "DemandRegisterReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
