@@ -6428,6 +6428,21 @@
       "navigationURL": "report/rainmaker-pt/ArrearRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1891,
+      "name": "Arrear Register",
+      "url": "/report/rainmaker-pt/ArrearRegister//_get",
+      "displayName": "Arrear Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Arrear Register",
+      "navigationURL": "report/rainmaker-pt/ArrearRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
    ]
 }
