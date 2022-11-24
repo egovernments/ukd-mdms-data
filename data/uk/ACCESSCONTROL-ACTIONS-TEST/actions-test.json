@@ -6428,6 +6428,21 @@
       "navigationURL": "report/rainmaker-pt/ArrearRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+     {
+        "id":1950,
+        "name":"PTBBPSCollectionCount",
+        "url":"/report/rainmaker-pt/PTBBPSCollectionCount/metadata/_get",
+        "displayName":"Property Tax BBPS Collection",
+        "orderNumber":6,
+        "parentModule":"rainmaker-pt",
+        "enabled":true,
+        "serviceCode":"PT",
+        "code":"null",
+        "path":"Property Tax.PT Reports.PTBBPSCollectionCount",
+        "navigationURL":"report/rainmaker-pt/PTBBPSCollectionCount",
+        "leftIcon":"action:assignment",
+        "rightIcon":""
+     }
    ]
 }
