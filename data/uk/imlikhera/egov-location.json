@@ -1,0 +1,444 @@
+{
+  "tenantId": "uk.imlikhera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "imlikhera",
+        "localname": "imlikhera",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.imlikhera",
+        "children": [
+          {
+            "id": "fffc1493-1f35-485a-8cfe-bc76265d6ad7",
+            "boundaryNum": 1,
+            "name": "Imlikhera",
+            "localname": "Imlikhera",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "caa30679-1e59-4c2f-9d70-7d561e720848",
+                "boundaryNum": 1,
+                "name": "Ward no 01 Rangarhwala",
+                "localname": "Ward no 01 Rangarhwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "56abb0cb-ef2f-49ac-bd92-7f759456ef64",
+                    "boundaryNum": 1,
+                    "name": "Rangarhwala - Ward no 01 Rangarhwala",
+                    "localname": "Rangarhwala - Ward no 01 Rangarhwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "61d5cfc1-fd5f-4e55-a40e-5815e1c30b0f",
+                    "boundaryNum": 1,
+                    "name": "Rangarhwala tanda - Ward no 01 Rangarhwala",
+                    "localname": "Rangarhwala tanda - Ward no 01 Rangarhwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61c218f0-5c0a-4a8d-bbd0-2a4e923a8b5e",
+                "boundaryNum": 1,
+                "name": "Ward no 02 Gummawala",
+                "localname": "Ward no 02 Gummawala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "cc458637-5399-45e2-a33f-0fd6a1e59add",
+                    "boundaryNum": 1,
+                    "name": "Gummawala - Ward no 02 Gummawala",
+                    "localname": "Gummawala - Ward no 02 Gummawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6bad124e-f2e9-4182-82b1-4256faec3ab3",
+                "boundaryNum": 1,
+                "name": "Ward no 03 Majri",
+                "localname": "Ward no 03 Majri",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "2d9a2ba3-df86-446c-aec0-6966ebe1c23a",
+                    "boundaryNum": 1,
+                    "name": "Majri - Ward no 03 Majri",
+                    "localname": "Majri - Ward no 03 Majri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da0005c8-70e3-4205-b96f-38bcb3d2a318",
+                "boundaryNum": 1,
+                "name": "Ward no 04 Imlikhera First",
+                "localname": "Ward no 04 Imlikhera First",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "9392062c-48d3-4872-bb2c-869399b334be",
+                    "boundaryNum": 1,
+                    "name": "Phonics College - Ward no 04 Imlikhera First",
+                    "localname": "Phonics College - Ward no 04 Imlikhera First",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a819a0f1-69b1-431b-a50d-0d9390205141",
+                    "boundaryNum": 1,
+                    "name": "Police Chowki - Ward no 04 Imlikhera First",
+                    "localname": "Police Chowki - Ward no 04 Imlikhera First",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "240f4f81-1f6d-4b5c-b1e1-2f17ca37fb15",
+                    "boundaryNum": 1,
+                    "name": "KPS School - Ward no 04 Imlikhera First",
+                    "localname": "KPS School - Ward no 04 Imlikhera First",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6be4b4a4-742d-40b9-9907-2db83e5be7a3",
+                    "boundaryNum": 1,
+                    "name": "Saini Chowk - Ward no 04 Imlikhera First",
+                    "localname": "Saini Chowk - Ward no 04 Imlikhera First",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "026e3df2-6a77-49ea-ae25-5db376544399",
+                    "boundaryNum": 1,
+                    "name": "Pal Samaj basti - Ward no 04 Imlikhera First",
+                    "localname": "Pal Samaj basti - Ward no 04 Imlikhera First",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a5456f6-3589-45de-bcee-8b06edd5cfbb",
+                "boundaryNum": 1,
+                "name": "Ward no 05 Imlikhera Second",
+                "localname": "Ward no 05 Imlikhera Second",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "eb64bdae-27ea-4756-99bc-bacb4a38294d",
+                    "boundaryNum": 1,
+                    "name": "Bhai Singh Devta Wali Gali - Ward no 05 Imlikhera Second",
+                    "localname": "Bhai Singh Devta Wali Gali - Ward no 05 Imlikhera Second",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "161bfeb9-f6f1-496f-8044-5c76b327c749",
+                    "boundaryNum": 1,
+                    "name": "Near Bypass Gali - Ward no 05 Imlikhera Second",
+                    "localname": "Near Bypass Gali - Ward no 05 Imlikhera Second",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "97f941d6-3408-42c0-a0bb-65599340edd1",
+                    "boundaryNum": 1,
+                    "name": "Peth Bajar - Ward no 05 Imlikhera Second",
+                    "localname": "Peth Bajar - Ward no 05 Imlikhera Second",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c938196b-abf2-41a7-a06d-a635ecfa6c4e",
+                    "boundaryNum": 1,
+                    "name": "Rajeev Singhal wali gali - Ward no 05 Imlikhera Second",
+                    "localname": "Rajeev Singhal wali gali - Ward no 05 Imlikhera Second",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c60bcff-85a9-48d7-972a-3c9c09565ca4",
+                "boundaryNum": 1,
+                "name": "Ward no 06 Imlikhera Third",
+                "localname": "Ward no 06 Imlikhera Third",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "ed877e4d-b218-4b5d-8bbd-0b47696f3af8",
+                    "boundaryNum": 1,
+                    "name": "Amrish Saini Wali Gali - Ward no 06 Imlikhera Third",
+                    "localname": "Amrish Saini Wali Gali - Ward no 06 Imlikhera Third",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c8d98652-cc7a-429b-9253-d2f636e6eb8f",
+                    "boundaryNum": 1,
+                    "name": "Dr. Vijay pal Wali gali - Ward no 06 Imlikhera Third",
+                    "localname": "Dr. Vijay pal Wali gali - Ward no 06 Imlikhera Third",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1bdf30af-8337-46cc-8664-6d39b203346d",
+                    "boundaryNum": 1,
+                    "name": "Pandito Wali Gali - Ward no 06 Imlikhera Third",
+                    "localname": "Pandito Wali Gali - Ward no 06 Imlikhera Third",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca68ee2f-61a1-47ea-b070-34f24ea73352",
+                    "boundaryNum": 1,
+                    "name": "Main market Aanshik - Ward no 06 Imlikhera Third",
+                    "localname": "Main market Aanshik - Ward no 06 Imlikhera Third",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7dfe5ca-0c7d-47a3-9713-87421e4684d8",
+                    "boundaryNum": 1,
+                    "name": "Shiv mandir Wali gali - Ward no 06 Imlikhera Third",
+                    "localname": "Shiv mandir Wali gali - Ward no 06 Imlikhera Third",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ebaabfe2-6baf-485a-baa8-b958ee22a038",
+                "boundaryNum": 1,
+                "name": "Ward no 07 Imlikhera Fourth",
+                "localname": "Ward no 07 Imlikhera Fourth",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "3b3ff7f4-2fcd-433a-9862-49c6cb3ddb7e",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Basti - Ward no 07 Imlikhera Fourth",
+                    "localname": "Ravidas Basti - Ward no 07 Imlikhera Fourth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c3413e89-91a1-47c7-9326-9bd412f9436c",
+                    "boundaryNum": 1,
+                    "name": "Post Office wali gali - Ward no 07 Imlikhera Fourth",
+                    "localname": "Post Office wali gali - Ward no 07 Imlikhera Fourth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22fad411-5c68-4a9c-8758-a08682d378f4",
+                "boundaryNum": 1,
+                "name": "Ward no 08 Imlikhera Fifth",
+                "localname": "Ward no 08 Imlikhera Fifth",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "02c0425d-8051-4da3-ae4e-67636cca8dd1",
+                    "boundaryNum": 1,
+                    "name": "Anand Bal Bharti School Wali gali - Ward no 08 Imlikhera Fifth",
+                    "localname": "Anand Bal Bharti School Wali gali - Ward no 08 Imlikhera Fifth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "24713842-4eca-46b6-bc9b-54c21426f0a4",
+                    "boundaryNum": 1,
+                    "name": "Furqan Furniture Wali Gali - Ward no 08 Imlikhera Fifth",
+                    "localname": "Furqan Furniture Wali Gali - Ward no 08 Imlikhera Fifth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fd5a8af7-3776-45b4-9de7-db65c30b8c4a",
+                    "boundaryNum": 1,
+                    "name": "main Market ka Anshik Part - Ward no 08 Imlikhera Fifth",
+                    "localname": "main Market ka Anshik Part - Ward no 08 Imlikhera Fifth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2403a4a4-b055-4cd5-873d-62a81d8cceac",
+                "boundaryNum": 1,
+                "name": "Ward no 09 Imlikhera Sixth",
+                "localname": "Ward no 09 Imlikhera Sixth",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W009",
+                "children": [
+                  {
+                    "id": "3b6f153e-150d-4f52-8117-db53945a1940",
+                    "boundaryNum": 1,
+                    "name": "Badi Masjid Wali Gali - Ward no 09 Imlikhera Sixth",
+                    "localname": "Badi Masjid Wali Gali - Ward no 09 Imlikhera Sixth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ebc38e1-c665-4030-a82f-322560429584",
+                    "boundaryNum": 1,
+                    "name": "ShamShan Ghat Waligali - Ward no 09 Imlikhera Sixth",
+                    "localname": "ShamShan Ghat Waligali - Ward no 09 Imlikhera Sixth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
