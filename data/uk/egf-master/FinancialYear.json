@@ -211,6 +211,34 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
+    },
+    {
+      "id": "18",
+      "tenantId": "uk",
+      "finYearRange": "2023-24",
+      "name": "2023-24",
+      "code": "2023-24",
+      "startingDate": 1680307200000,
+      "endingDate": 1711929599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
+    {
+      "id": "17",
+      "tenantId": "uk",
+      "finYearRange": "2023-24",
+      "name": "2023-24",
+      "code": "2023-24",
+      "startingDate": 1680307200000,
+      "endingDate": 1711929599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
   ]
 }

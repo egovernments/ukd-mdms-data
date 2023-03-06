@@ -1,0 +1,264 @@
+{
+  "tenantId": "uk.tapovan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tapovan",
+        "localname": "tapovan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.tapovan",
+        "children": [
+          {
+            "id": "dab1c3f1-ce7a-4799-ac81-c10c615a316c",
+            "boundaryNum": 1,
+            "name": "Tapovan",
+            "localname": "Tapovan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "b506f453-532d-4c93-95a9-ee2e2c595ce1",
+                "boundaryNum": 1,
+                "name": "Upla tapovan",
+                "localname": "Upla tapovan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "af03dd94-4525-4d5f-a9f5-06377e3200ef",
+                    "boundaryNum": 1,
+                    "name": "Decon valley - Upla tapovan",
+                    "localname": "Decon valley - Upla tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7e3ae267-c085-4817-b093-678cf9e865d9",
+                    "boundaryNum": 1,
+                    "name": "Baba balaknath mandir - Upla tapovan",
+                    "localname": "Baba balaknath mandir - Upla tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "61bd4992-16b7-44ac-87aa-9efb41a58c6c",
+                    "boundaryNum": 1,
+                    "name": "Balaknath marg - Upla tapovan",
+                    "localname": "Balaknath marg - Upla tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e06a80cd-30d4-4d56-a2b6-555c9b078981",
+                "boundaryNum": 1,
+                "name": "Madhya Tapovan",
+                "localname": "Madhya Tapovan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "c2dcfb55-5004-48ff-b4c3-3a9cffcfcbbb",
+                    "boundaryNum": 1,
+                    "name": "Balaknath marg - Madhya Tapovan",
+                    "localname": "Balaknath marg - Madhya Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26a59557-0ff7-4e26-91bb-79555b484662",
+                    "boundaryNum": 1,
+                    "name": "Gulab nagar - Madhya Tapovan",
+                    "localname": "Gulab nagar - Madhya Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a265d2d7-14c1-4136-b998-3dd965b6bffb",
+                    "boundaryNum": 1,
+                    "name": "Inter college - Madhya Tapovan",
+                    "localname": "Inter college - Madhya Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e4975622-cebb-4251-894e-41f82aea0a71",
+                    "boundaryNum": 1,
+                    "name": "Swiss cottage - Madhya Tapovan",
+                    "localname": "Swiss cottage - Madhya Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50b6dedd-0358-4843-86a4-1d85e5059df5",
+                "boundaryNum": 1,
+                "name": "Nichla Tapovan",
+                "localname": "Nichla Tapovan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "a6eb0a7b-97b7-447a-b145-356fe2b81a91",
+                    "boundaryNum": 1,
+                    "name": "laxman jhula pul - Nichla Tapovan",
+                    "localname": "laxman jhula pul - Nichla Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "923b6212-273f-48a4-b71c-f1d25d8586ca",
+                    "boundaryNum": 1,
+                    "name": "Laxman jhula paidal marg - Nichla Tapovan",
+                    "localname": "Laxman jhula paidal marg - Nichla Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2bb8fb04-aeea-402b-bd02-e7a5bc786d98",
+                    "boundaryNum": 1,
+                    "name": "Gau ghat - Nichla Tapovan",
+                    "localname": "Gau ghat - Nichla Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e3b0831-3242-4efc-9909-4c4f585c7a8a",
+                    "boundaryNum": 1,
+                    "name": "Sai ghat - Nichla Tapovan",
+                    "localname": "Sai ghat - Nichla Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8179ae00-2d51-4000-875b-35739e293c1e",
+                    "boundaryNum": 1,
+                    "name": "Laxman chowk - Nichla Tapovan",
+                    "localname": "Laxman chowk - Nichla Tapovan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26d0183d-8cb9-4707-82a6-270f997314af",
+                "boundaryNum": 1,
+                "name": "Ghughtyani, Jamrikatal",
+                "localname": "Ghughtyani, Jamrikatal",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "0f5a461b-6498-4884-bd87-71d5c6c350d0",
+                    "boundaryNum": 1,
+                    "name": "Hotel aloha - Ghughtyani, Jamrikatal",
+                    "localname": "Hotel aloha - Ghughtyani, Jamrikatal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "00e109ae-a6cd-44c5-ad92-fe9d682d25ee",
+                    "boundaryNum": 1,
+                    "name": "Ram mandir - Ghughtyani, Jamrikatal",
+                    "localname": "Ram mandir - Ghughtyani, Jamrikatal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "55f0bbd6-7b61-4047-b5e7-014a257611f8",
+                    "boundaryNum": 1,
+                    "name": "Sounriyal mandir upla tapovan - Ghughtyani, Jamrikatal",
+                    "localname": "Sounriyal mandir upla tapovan - Ghughtyani, Jamrikatal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
