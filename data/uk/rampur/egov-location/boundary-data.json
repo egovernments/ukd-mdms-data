@@ -1,0 +1,373 @@
+{
+  "tenantId": "uk.rampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "rampur",
+        "localname": "rampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.rampur",
+        "children": [
+          {
+            "id": "278eec48-5882-4098-9ac7-e61638712334",
+            "boundaryNum": 1,
+            "name": "Rampur",
+            "localname": "Rampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "785eaa5d-4906-45f9-91bb-2f7d95f29d99",
+                "boundaryNum": 1,
+                "name": "Saliyar Ambedkar nagar",
+                "localname": "Saliyar Ambedkar nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "6b188ab5-f2e0-4206-9c61-29707787ec0d",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar nagar, - Saliyar Ambedkar nagar",
+                    "localname": "Ambedkar nagar, - Saliyar Ambedkar nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "88133a28-66a7-4ac9-8130-d6e05d37ced1",
+                    "boundaryNum": 1,
+                    "name": "Teliyo wala mohlla - Saliyar Ambedkar nagar",
+                    "localname": "Teliyo wala mohlla - Saliyar Ambedkar nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae44dcb4-490d-437e-8343-a4308f4d313b",
+                "boundaryNum": 1,
+                "name": "Saliyar Bada Kuan",
+                "localname": "Saliyar Bada Kuan",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "de8f9887-2c78-4c4e-b2ce-88f54ba9115a",
+                    "boundaryNum": 1,
+                    "name": "Gado wala mohlla - Saliyar Bada Kuan",
+                    "localname": "Gado wala mohlla - Saliyar Bada Kuan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bbf6777a-026b-4d23-af8e-f50a5606a24c",
+                "boundaryNum": 1,
+                "name": "Saliyar BSI College",
+                "localname": "Saliyar BSI College",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "c2108db2-0e30-4b4b-8336-618915daa3a9",
+                    "boundaryNum": 1,
+                    "name": "Roorkee chutmalpur Road - Saliyar BSI College",
+                    "localname": "Roorkee chutmalpur Road - Saliyar BSI College",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "95d7b8aa-7e9d-4cb1-9aec-955f1caf6f40",
+                    "boundaryNum": 1,
+                    "name": "BSI Collage - Saliyar BSI College",
+                    "localname": "BSI Collage - Saliyar BSI College",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd7e6d32-54a7-46de-8553-e3b60821c498",
+                "boundaryNum": 1,
+                "name": "Ibraheempur",
+                "localname": "Ibraheempur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "76f4c2a6-9351-4b0d-bd36-d96fcf8de30b",
+                    "boundaryNum": 1,
+                    "name": "Ibrahimpur Deh - Ibraheempur",
+                    "localname": "Ibrahimpur Deh - Ibraheempur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d566d03d-be24-4d22-8ea1-47c648d9de5b",
+                "boundaryNum": 1,
+                "name": "Rampur Shivaley",
+                "localname": "Rampur Shivaley",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "832e1feb-20fd-4613-a61b-3158349dc57b",
+                    "boundaryNum": 1,
+                    "name": "Prachin Shiv mandir - Rampur Shivaley",
+                    "localname": "Prachin Shiv mandir - Rampur Shivaley",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f2404eab-c388-42f2-a1c9-c8e364371d40",
+                    "boundaryNum": 1,
+                    "name": "Lalbhadur shastri school - Rampur Shivaley",
+                    "localname": "Lalbhadur shastri school - Rampur Shivaley",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8992bd2d-1633-4be7-8069-b2303415f435",
+                "boundaryNum": 1,
+                "name": "Rampur Madarsa",
+                "localname": "Rampur Madarsa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "0e328b97-c4a6-45d7-b28c-8c4d03555d5a",
+                    "boundaryNum": 1,
+                    "name": "Dhobiyo wala mohlla - Rampur Madarsa",
+                    "localname": "Dhobiyo wala mohlla - Rampur Madarsa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "757c7a5b-f290-4fb9-ab5e-263896d1e4ba",
+                "boundaryNum": 1,
+                "name": "Rampur Dandi",
+                "localname": "Rampur Dandi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "ac566ba0-d275-4e43-a96e-a45134e83c70",
+                    "boundaryNum": 1,
+                    "name": "Jawaipura - Rampur Dandi",
+                    "localname": "Jawaipura - Rampur Dandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f2d3b9a-6263-4bf6-b4bb-8c92662a0e05",
+                    "boundaryNum": 1,
+                    "name": "Dandi - Rampur Dandi",
+                    "localname": "Dandi - Rampur Dandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5f57dc9-7bc4-421c-8807-28e12838b0da",
+                "boundaryNum": 1,
+                "name": "Hasan Colony",
+                "localname": "Hasan Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "d07e27d7-8985-4288-8a44-f108cc4b8b09",
+                    "boundaryNum": 1,
+                    "name": "Hasan colony - Hasan Colony",
+                    "localname": "Hasan colony - Hasan Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b74cbcd2-8707-481b-8dee-1286b0c47878",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Nagar - Hasan Colony",
+                    "localname": "Ravidas Nagar - Hasan Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dbcfd8c5-fc80-46e6-b52f-dcc1c862efe0",
+                "boundaryNum": 1,
+                "name": "Rampur Chunghi",
+                "localname": "Rampur Chunghi",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W009",
+                "children": [
+                  {
+                    "id": "d534e5e6-d137-4365-8920-93f39281d4c3",
+                    "boundaryNum": 1,
+                    "name": "Naveen mandi ke samne wala Area - Rampur Chunghi",
+                    "localname": "Naveen mandi ke samne wala Area - Rampur Chunghi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b65216a-9c50-4e62-a6d0-0bb4fa766a44",
+                "boundaryNum": 1,
+                "name": "Green Park Colony",
+                "localname": "Green Park Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W010",
+                "children": [
+                  {
+                    "id": "e8a12aaf-313e-4237-a67f-0a162160459b",
+                    "boundaryNum": 1,
+                    "name": "Naveen mandi ke piche wala Area - Green Park Colony",
+                    "localname": "Naveen mandi ke piche wala Area - Green Park Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f06690eb-6b41-4fb0-ad85-93ce71ad97e4",
+                "boundaryNum": 1,
+                "name": "Rampur",
+                "localname": "Rampur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W011",
+                "children": [
+                  {
+                    "id": "f7c27347-1545-4753-9c09-56119a22c0f1",
+                    "boundaryNum": 1,
+                    "name": "Sadak wali masjid - Rampur",
+                    "localname": "Sadak wali masjid - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bb1b192f-f953-4d3f-a59d-d7841a9e3c05",
+                    "boundaryNum": 1,
+                    "name": "Nagar panchayat office West Area - Rampur",
+                    "localname": "Nagar panchayat office West Area - Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+
