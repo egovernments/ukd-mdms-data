@@ -1,0 +1,348 @@
+{
+  "tenantId": "uk.garur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "garur",
+        "localname": "garur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.garur",
+        "children": [
+          {
+            "id": "f17cfd97-554e-498a-8dde-51cf39a8562d",
+            "boundaryNum": 1,
+            "name": "GARUR",
+            "localname": "GARUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "93346b5c-80d7-47dc-bc58-7a98ec38c180",
+                "boundaryNum": 1,
+                "name": "FULWADIGUNTH",
+                "localname": "FULWADIGUNTH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "4e6a8a5e-867e-4ab1-b5f2-bf9334e3b7ee",
+                    "boundaryNum": 1,
+                    "name": "BAIJNATH  MANDIR - FULWADIGUNTH",
+                    "localname": "BAIJNATH  MANDIR - FULWADIGUNTH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "335b3d1b-d6db-4d6a-88d4-6f697c2ac4b2",
+                    "boundaryNum": 1,
+                    "name": "SINCHAI VIBHAG - FULWADIGUNTH",
+                    "localname": "SINCHAI VIBHAG - FULWADIGUNTH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0727207f-f957-45a0-892f-3d248fd1a210",
+                    "boundaryNum": 1,
+                    "name": "KALIKA MANDIR (KHAFSER TOK) - FULWADIGUNTH",
+                    "localname": "KALIKA MANDIR (KHAFSER TOK) - FULWADIGUNTH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a0594b90-db9c-46d5-b74f-312b06d5e5d8",
+                "boundaryNum": 1,
+                "name": "BHAKUNKHOLA",
+                "localname": "BHAKUNKHOLA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "a7baa9c9-2db7-4922-a9b7-de131c68dd06",
+                    "boundaryNum": 1,
+                    "name": "ASPTAL - BHAKUNKHOLA",
+                    "localname": "ASPTAL - BHAKUNKHOLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0be3d706-c35f-4414-a97b-9337137d8574",
+                    "boundaryNum": 1,
+                    "name": "TEET BAZAR - BHAKUNKHOLA",
+                    "localname": "TEET BAZAR - BHAKUNKHOLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1bc61d1-a131-4c90-8d27-bdaebbf219ba",
+                "boundaryNum": 1,
+                "name": "GARSHER",
+                "localname": "GARSHER",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "cccf6ba9-5e55-473c-ba3a-1e3484c6d7da",
+                    "boundaryNum": 1,
+                    "name": "KHAND VIKASH GARUR - GARSHER",
+                    "localname": "KHAND VIKASH GARUR - GARSHER",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6a355fba-e631-4cb0-b4e2-9b2218a43d0f",
+                    "boundaryNum": 1,
+                    "name": "BADRINATH MANDIR - GARSHER",
+                    "localname": "BADRINATH MANDIR - GARSHER",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "acb50d90-0aca-477b-bd99-55f7078f34ff",
+                    "boundaryNum": 1,
+                    "name": "TANIKHET - GARSHER",
+                    "localname": "TANIKHET - GARSHER",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a03f1f9-0fdb-4bac-9834-0fda268c1f25",
+                "boundaryNum": 1,
+                "name": "SYALDEY (MA SHITLA DEVI MANDIR)",
+                "localname": "SYALDEY (MA SHITLA DEVI MANDIR)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "2ad1f687-edae-4251-a04f-c0a94bb726ca",
+                    "boundaryNum": 1,
+                    "name": "KAMAL TALAB - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "localname": "KAMAL TALAB - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e737462-553f-4b21-9b4d-41d4d1c6d9f9",
+                    "boundaryNum": 1,
+                    "name": "BAYALISERA - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "localname": "BAYALISERA - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b1eaef2c-3675-40c5-a144-4ddfc6e83396",
+                    "boundaryNum": 1,
+                    "name": "MASJID - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "localname": "MASJID - SYALDEY (MA SHITLA DEVI MANDIR)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e482d22-9553-4e74-ad29-2495a00266ba",
+                "boundaryNum": 1,
+                "name": "NOUGHAR",
+                "localname": "NOUGHAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "5f205bf5-fd43-491d-84ad-fcc5c4d21c8d",
+                    "boundaryNum": 1,
+                    "name": "MADARN  RA. PRA. VI.  NOUGHAR MOHALLA - NOUGHAR",
+                    "localname": "MADARN  RA. PRA. VI.  NOUGHAR MOHALLA - NOUGHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3b4f3a6d-f0a7-466e-bed7-cecdeceb03e3",
+                    "boundaryNum": 1,
+                    "name": "GOLU MANDIR - NOUGHAR",
+                    "localname": "GOLU MANDIR - NOUGHAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aca1e19d-f6f5-44bf-9f0e-273c671dfebf",
+                "boundaryNum": 1,
+                "name": "RAM MANDIR DARSHANI",
+                "localname": "RAM MANDIR DARSHANI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "982a29f2-0fd5-4556-84f2-5024b140ca32",
+                    "boundaryNum": 1,
+                    "name": "DELHI DARBAR - RAM MANDIR DARSHANI",
+                    "localname": "DELHI DARBAR - RAM MANDIR DARSHANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2024f3d1-9d02-4ae5-b9d4-af6e242995ed",
+                    "boundaryNum": 1,
+                    "name": "BALWARI - RAM MANDIR DARSHANI",
+                    "localname": "BALWARI - RAM MANDIR DARSHANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6702a4f5-5e7d-47eb-b85a-7fd9ad5a0e34",
+                    "boundaryNum": 1,
+                    "name": "GANDHI CHABUTRA - RAM MANDIR DARSHANI",
+                    "localname": "GANDHI CHABUTRA - RAM MANDIR DARSHANI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55d2dc01-62bf-405a-8f4b-fd3ac7a00a4f",
+                "boundaryNum": 1,
+                "name": "PAYE GARUR GANGA",
+                "localname": "PAYE GARUR GANGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "93d3014a-f1a4-4ff8-bf99-8584909c9007",
+                    "boundaryNum": 1,
+                    "name": "GOLU MARKET MOHLLA - PAYE GARUR GANGA",
+                    "localname": "GOLU MARKET MOHLLA - PAYE GARUR GANGA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "18b16993-b0c3-4464-ba30-f0a76b4b56d1",
+                    "boundaryNum": 1,
+                    "name": "RAMLILA MAIDAN - PAYE GARUR GANGA",
+                    "localname": "RAMLILA MAIDAN - PAYE GARUR GANGA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db5d7fb9-b809-443f-9616-783aaf6f0386",
+                    "boundaryNum": 1,
+                    "name": "LALPUL MOHALLA - PAYE GARUR GANGA",
+                    "localname": "LALPUL MOHALLA - PAYE GARUR GANGA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
