@@ -1,0 +1,385 @@
+ {
+  "tenantId": "uk.dhandera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "dhandera",
+        "localname": "dhandera",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.dhandera",
+        "children": [
+          {
+            "id": "d306507f-8546-4fa1-93c8-265067776909",
+            "boundaryNum": 1,
+            "name": "Dhandera",
+            "localname": "Dhandera",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "f26783db-d43e-48af-b268-f0ad2cb14369",
+                "boundaryNum": 1,
+                "name": "VEER CHANDRA GARWALI",
+                "localname": "VEER CHANDRA GARWALI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "8719ba5d-c03d-413f-8075-4b3cc95d89af",
+                    "boundaryNum": 1,
+                    "name": "VIJAY NAGAR - VEER CHANDRA GARWALI",
+                    "localname": "VIJAY NAGAR - VEER CHANDRA GARWALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0aed8e05-a999-4e1f-a4aa-47c5826e54f8",
+                    "boundaryNum": 1,
+                    "name": "BHARAT COLONY - VEER CHANDRA GARWALI",
+                    "localname": "BHARAT COLONY - VEER CHANDRA GARWALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af7e0cac-4006-482a-9f9e-14c199f7afbd",
+                "boundaryNum": 1,
+                "name": "GULLI WARD",
+                "localname": "GULLI WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "b8e07399-ed08-4852-9515-eb2885223046",
+                    "boundaryNum": 1,
+                    "name": "KIRTI NAGAR - GULLI WARD",
+                    "localname": "KIRTI NAGAR - GULLI WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "676d9066-2f97-4d54-aebb-78620e461a56",
+                    "boundaryNum": 1,
+                    "name": "SAI ENCLAVE - GULLI WARD",
+                    "localname": "SAI ENCLAVE - GULLI WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe0e18a1-891c-4ed4-9e7d-3cd5e2475dc6",
+                    "boundaryNum": 1,
+                    "name": "HIFAJAT NAGAR - GULLI WARD",
+                    "localname": "HIFAJAT NAGAR - GULLI WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6187ad3e-9204-4f36-ad5c-73205513970a",
+                "boundaryNum": 1,
+                "name": "RAJPUTANA WARD",
+                "localname": "RAJPUTANA WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "26d88387-6d5e-4723-a8de-4aaaea211f50",
+                    "boundaryNum": 1,
+                    "name": "RAJPUTANA MOHALLA - RAJPUTANA WARD",
+                    "localname": "RAJPUTANA MOHALLA - RAJPUTANA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d9fd070c-a13c-4ec2-a5b7-0ecfe27637fb",
+                "boundaryNum": 1,
+                "name": "JYOTIBA FULE",
+                "localname": "JYOTIBA FULE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "814e772c-6013-4a01-80c8-24257e30f0d0",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI - JYOTIBA FULE",
+                    "localname": "HARIJAN BASTI - JYOTIBA FULE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "325d6c58-6b5e-43fe-ba0e-e272193d9470",
+                "boundaryNum": 1,
+                "name": "RAWALA WARD",
+                "localname": "RAWALA WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "d0d26d2f-f3d0-4351-81a2-e195420e5374",
+                    "boundaryNum": 1,
+                    "name": "SAINIK VIHAR - RAWALA WARD",
+                    "localname": "SAINIK VIHAR - RAWALA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a16e34db-f5ec-4ba6-b627-15b51668e929",
+                "boundaryNum": 1,
+                "name": "NEW DHANDERA WARD",
+                "localname": "NEW DHANDERA WARD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "08fa0514-f11e-4a61-ae9b-9f85501070e9",
+                    "boundaryNum": 1,
+                    "name": "DEFENCE COLONY - NEW DHANDERA WARD",
+                    "localname": "DEFENCE COLONY - NEW DHANDERA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "88b06fc4-c06e-45a1-963e-316df9b6a37b",
+                    "boundaryNum": 1,
+                    "name": "PARDEEP VIHAR - NEW DHANDERA WARD",
+                    "localname": "PARDEEP VIHAR - NEW DHANDERA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6336cff-a22f-416a-aaa3-52310ba8a69c",
+                    "boundaryNum": 1,
+                    "name": "DEV ENCALAVE - NEW DHANDERA WARD",
+                    "localname": "DEV ENCALAVE - NEW DHANDERA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "187c6227-6868-4a40-80c2-09561feb2417",
+                    "boundaryNum": 1,
+                    "name": "KARNAL ENCLAVE - NEW DHANDERA WARD",
+                    "localname": "KARNAL ENCLAVE - NEW DHANDERA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1824bf9d-1d23-4197-90b2-c6962655e832",
+                    "boundaryNum": 1,
+                    "name": "MAHARANA PARTAP ENCALAVE - NEW DHANDERA WARD",
+                    "localname": "MAHARANA PARTAP ENCALAVE - NEW DHANDERA WARD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3129d694-392e-4a85-8b20-e9de597d4d08",
+                "boundaryNum": 1,
+                "name": "AMBEDKAR NAGAR",
+                "localname": "AMBEDKAR NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "fb756aaa-0b19-4163-878e-0fbf7ee6fe39",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI - AMBEDKAR NAGAR",
+                    "localname": "HARIJAN BASTI - AMBEDKAR NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23386158-f6aa-4316-b49f-27277165071f",
+                "boundaryNum": 1,
+                "name": "SANGAM-SHANTIPURAM",
+                "localname": "SANGAM-SHANTIPURAM",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "fe0a75b3-da79-43ed-bf6e-6e5e2d599838",
+                    "boundaryNum": 1,
+                    "name": "SHANTIPUARAM-SANGAM VIHAR - SANGAM-SHANTIPURAM",
+                    "localname": "SHANTIPUARAM-SANGAM VIHAR - SANGAM-SHANTIPURAM",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d346eddf-6bab-4b62-be1d-3fb788c70484",
+                "boundaryNum": 1,
+                "name": "GOL BHATTA-MILAP NAGAR",
+                "localname": "GOL BHATTA-MILAP NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W009",
+                "children": [
+                  {
+                    "id": "065bc8cb-e578-4ca3-944a-1fb45f7cff7a",
+                    "boundaryNum": 1,
+                    "name": "GOL BHATTA-MILAP NAGAR - GOL BHATTA-MILAP NAGAR",
+                    "localname": "GOL BHATTA-MILAP NAGAR - GOL BHATTA-MILAP NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3c1ad52-2806-46af-b80c-d31308415f88",
+                "boundaryNum": 1,
+                "name": "WEST ASHOK NAGAR",
+                "localname": "WEST ASHOK NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W010",
+                "children": [
+                  {
+                    "id": "6a44f5ad-fd10-485f-aa93-cc6592ec1901",
+                    "boundaryNum": 1,
+                    "name": "ASHOK NAGAR - WEST ASHOK NAGAR",
+                    "localname": "ASHOK NAGAR - WEST ASHOK NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1f98c20-8023-478b-9559-ab4ef32a3898",
+                "boundaryNum": 1,
+                "name": "EAST ASHOK NAGAR",
+                "localname": "EAST ASHOK NAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W011",
+                "children": [
+                  {
+                    "id": "80d47c58-51a5-49fc-9d57-1b4fe49b6671",
+                    "boundaryNum": 1,
+                    "name": "ASHOK NAGAR - EAST ASHOK NAGAR",
+                    "localname": "ASHOK NAGAR - EAST ASHOK NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+
