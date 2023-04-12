@@ -3,6 +3,14 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
     {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2023",
+      "financialYear": "2023-24"
+    },
+    {
       "fromDate": 1648771200000,
       "toDate": 1680307199000,
       "periodCycle": "ANNUAL",
@@ -1601,6 +1609,14 @@
       "service": "PT.MUTATION",
       "code": "PTANMUT2022",
       "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTANMUT2023",
+      "financialYear": "2023-24"
     },
     {
       "fromDate": 1680307200000,
