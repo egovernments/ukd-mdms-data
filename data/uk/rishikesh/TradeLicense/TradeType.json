@@ -3485,6 +3485,32 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.HEALTH.GYMYOG",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC089",
+            "AC010",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AC089",
+            "AC010",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }
