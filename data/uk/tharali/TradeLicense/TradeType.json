@@ -1275,6 +1275,58 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
-    }
+    },
+  {
+    "code": "TRADE.SHOP.SMSHO",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC006",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC006",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  },
+  {
+    "code": "TRADE.SHOP.BISHO",
+    "uom": null,
+    "applicationDocument": [
+      {
+        "applicationType": "NEW",
+        "documentList": [
+          "AC006",
+          "AC032",
+          "OWNERPHOTO"
+        ]
+      },
+      {
+        "applicationType": "RENEWAL",
+        "documentList": [
+          "AC006",
+          "AC032",
+          "OWNERPHOTO",
+          "OLDLICENSENO"
+        ]
+      }
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
 ]
 }

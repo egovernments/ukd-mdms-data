@@ -1,0 +1,480 @@
+{
+  "tenantId": "uk.selaqui",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "selaqui",
+        "localname": "selaqui",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.selaqui",
+        "children": [
+          {
+            "id": "e13ba0b9-50f5-481d-bd82-33741157ae2d",
+            "boundaryNum": 1,
+            "name": "selaqui",
+            "localname": "selaqui",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "a19eb9a2-961d-4ba9-9b8f-8f5b648c0161",
+                "boundaryNum": 1,
+                "name": "HARIPUR PRATHAM (Ward No. 1)",
+                "localname": "HARIPUR PRATHAM (Ward No. 1)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101231",
+                "children": [
+                  {
+                    "id": "3bf808c0-8b9b-4ce2-89f5-ab936796146c",
+                    "boundaryNum": 1,
+                    "name": "Haripur khairi - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "Haripur khairi - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1bf4e04-af2a-4ece-9030-e878718796f0",
+                    "boundaryNum": 1,
+                    "name": "Madhu vihar - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "Madhu vihar - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "86f099cf-cdd5-434b-95bf-f8425a1581dd",
+                    "boundaryNum": 1,
+                    "name": "krishna nagar - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "krishna nagar - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b279e9ff-ddeb-4797-8d8f-68381f8bd69d",
+                    "boundaryNum": 1,
+                    "name": "Radha colony - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "Radha colony - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0bea4869-3a24-4aa2-8282-f7fc9f2a9941",
+                    "boundaryNum": 1,
+                    "name": "Mahadev colony - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "Mahadev colony - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f2e546da-4b10-4a76-9db2-75941762fce2",
+                    "boundaryNum": 1,
+                    "name": "Laxmanpur - HARIPUR PRATHAM (Ward No. 1)",
+                    "localname": "Laxmanpur - HARIPUR PRATHAM (Ward No. 1)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00f90717-efce-419b-8145-f1ccfa4acf05",
+                "boundaryNum": 1,
+                "name": "SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                "localname": "SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101232",
+                "children": [
+                  {
+                    "id": "5cc3273b-3a52-4429-96c5-c44facdd3245",
+                    "boundaryNum": 1,
+                    "name": "Shivnagar - SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                    "localname": "Shivnagar - SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "75242a1b-9cdb-44bb-9bf2-2aa75ace5b7e",
+                    "boundaryNum": 1,
+                    "name": "Haripur-2 - SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                    "localname": "Haripur-2 - SHIVNAGAR HARIPUR ANSHIK (Ward No. 2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "defbc713-56f5-4951-9039-3d8a5b8b4e21",
+                "boundaryNum": 1,
+                "name": "KHERA (Ward No. 3)",
+                "localname": "KHERA (Ward No. 3)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101233",
+                "children": [
+                  {
+                    "id": "1ed844e4-1328-43d4-aadb-9d4d05a8e865",
+                    "boundaryNum": 1,
+                    "name": "main bazar - KHERA (Ward No. 3)",
+                    "localname": "main bazar - KHERA (Ward No. 3)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6322dbb-fc9d-4d3f-8fb7-5e5feffabe1c",
+                    "boundaryNum": 1,
+                    "name": "Khera mohalla - KHERA (Ward No. 3)",
+                    "localname": "Khera mohalla - KHERA (Ward No. 3)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b47189fa-7faf-4c04-83b1-771dc32a5dbc",
+                    "boundaryNum": 1,
+                    "name": "Inter collage ke pas ki basti - KHERA (Ward No. 3)",
+                    "localname": "Inter collage ke pas ki basti - KHERA (Ward No. 3)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b0db7f0c-f6ff-47dd-adbe-c9cc64de277e",
+                "boundaryNum": 1,
+                "name": "JAMANPUR PRATHAM (Ward No. 4)",
+                "localname": "JAMANPUR PRATHAM (Ward No. 4)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101234",
+                "children": [
+                  {
+                    "id": "d9cf867a-e159-4071-bd7b-2ea955c7258d",
+                    "boundaryNum": 1,
+                    "name": "Camp Road - JAMANPUR PRATHAM (Ward No. 4)",
+                    "localname": "Camp Road - JAMANPUR PRATHAM (Ward No. 4)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c9152250-b9ff-4235-996b-69f8a1c78c31",
+                    "boundaryNum": 1,
+                    "name": "Ambedker colony - JAMANPUR PRATHAM (Ward No. 4)",
+                    "localname": "Ambedker colony - JAMANPUR PRATHAM (Ward No. 4)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f2bb4efb-2be4-4c18-8ac3-abe032b58187",
+                    "boundaryNum": 1,
+                    "name": "Behive Road - JAMANPUR PRATHAM (Ward No. 4)",
+                    "localname": "Behive Road - JAMANPUR PRATHAM (Ward No. 4)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "536a7e9e-afd8-4e0b-82cb-8fc1ce189c92",
+                "boundaryNum": 1,
+                "name": "JAMANPUR SECOND (Ward No. 5)",
+                "localname": "JAMANPUR SECOND (Ward No. 5)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101235",
+                "children": [
+                  {
+                    "id": "9ed6eecf-8090-43d7-a9bc-777ba5440fda",
+                    "boundaryNum": 1,
+                    "name": "Baloon wali gali - JAMANPUR SECOND (Ward No. 5)",
+                    "localname": "Baloon wali gali - JAMANPUR SECOND (Ward No. 5)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40f07ea2-7f7e-4e2b-afa8-72f685c8a51b",
+                    "boundaryNum": 1,
+                    "name": "Harijan Basti - JAMANPUR SECOND (Ward No. 5)",
+                    "localname": "Harijan Basti - JAMANPUR SECOND (Ward No. 5)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2f31791e-60c4-45b6-a93f-7a3f2e16a3e4",
+                    "boundaryNum": 1,
+                    "name": "Shanidham colony - JAMANPUR SECOND (Ward No. 5)",
+                    "localname": "Shanidham colony - JAMANPUR SECOND (Ward No. 5)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eee63930-f2f6-4e23-b48b-e9ae38a62cf5",
+                "boundaryNum": 1,
+                "name": "PRAGATI VIHAR (Ward No. 6)",
+                "localname": "PRAGATI VIHAR (Ward No. 6)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101236",
+                "children": [
+                  {
+                    "id": "6b5508ae-b304-4685-9142-6f552491238b",
+                    "boundaryNum": 1,
+                    "name": "PRAGATI VIHAR AREA - PRAGATI VIHAR (Ward No. 6)",
+                    "localname": "PRAGATI VIHAR AREA - PRAGATI VIHAR (Ward No. 6)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6e833fce-8d6c-4629-a435-08f92d35e399",
+                "boundaryNum": 1,
+                "name": "BAYANKHALA (Ward No. 7)",
+                "localname": "BAYANKHALA (Ward No. 7)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101237",
+                "children": [
+                  {
+                    "id": "c3e878c1-55d7-4dc8-9f8d-e5a773c056e6",
+                    "boundaryNum": 1,
+                    "name": "Bayankhala Basti (Shivshakti vihar) - BAYANKHALA (Ward No. 7)",
+                    "localname": "Bayankhala Basti (Shivshakti vihar) - BAYANKHALA (Ward No. 7)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "002a601e-aae2-4164-bf43-d14ef6c9caf8",
+                    "boundaryNum": 1,
+                    "name": "Gorkha gali - BAYANKHALA (Ward No. 7)",
+                    "localname": "Gorkha gali - BAYANKHALA (Ward No. 7)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "29d6899c-ecde-4726-be11-dee49efc6233",
+                    "boundaryNum": 1,
+                    "name": "Kashyap mohalla - BAYANKHALA (Ward No. 7)",
+                    "localname": "Kashyap mohalla - BAYANKHALA (Ward No. 7)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70a3dc29-a057-4212-b7b0-b21f0de58e9d",
+                "boundaryNum": 1,
+                "name": "BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                "localname": "BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101238",
+                "children": [
+                  {
+                    "id": "72492a1d-6197-43e9-b6f7-ecc50ff7105d",
+                    "boundaryNum": 1,
+                    "name": "Banjara mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "localname": "Banjara mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "793274a8-8942-416e-b132-21fc449e3834",
+                    "boundaryNum": 1,
+                    "name": "Purviya mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "localname": "Purviya mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e10724f-2818-4dd5-9a90-bbdadbc713db",
+                    "boundaryNum": 1,
+                    "name": "Mandir wala mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "localname": "Mandir wala mohalla - BANJARABASTI PURVIYA LINE (Ward No. 8)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "acb1b185-1a99-4858-85ce-b93b91960d45",
+                "boundaryNum": 1,
+                "name": "BAHADURPUR (Ward No. 9)",
+                "localname": "BAHADURPUR (Ward No. 9)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W101239",
+                "children": [
+                  {
+                    "id": "72b2c6b4-fb33-424a-ad73-e9d2c557f8f5",
+                    "boundaryNum": 1,
+                    "name": "Raja road Bahadurpur - BAHADURPUR (Ward No. 9)",
+                    "localname": "Raja road Bahadurpur - BAHADURPUR (Ward No. 9)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f8080eb4-4a34-4df3-8df8-a8b243d0d755",
+                    "boundaryNum": 1,
+                    "name": "Vrindavan colony - BAHADURPUR (Ward No. 9)",
+                    "localname": "Vrindavan colony - BAHADURPUR (Ward No. 9)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bdffd484-f37c-4202-b5b2-cc1a77370fbe",
+                    "boundaryNum": 1,
+                    "name": "Tehri colony - BAHADURPUR (Ward No. 9)",
+                    "localname": "Tehri colony - BAHADURPUR (Ward No. 9)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ceddfc76-cb3d-4bd1-8cad-af3470c9b7a3",
+                    "boundaryNum": 1,
+                    "name": "Vishvnath colony - BAHADURPUR (Ward No. 9)",
+                    "localname": "Vishvnath colony - BAHADURPUR (Ward No. 9)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

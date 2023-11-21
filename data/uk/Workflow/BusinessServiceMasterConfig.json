@@ -1,0 +1,16 @@
+{
+    "tenantId": "uk",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "NewTL",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+      {
+        "businessService": "PGR",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+    ]
+  }

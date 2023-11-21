@@ -1,0 +1,360 @@
+{
+  "tenantId": "uk.padligurjar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "padligurjar",
+        "localname": "padligurjar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.padligurjar",
+        "children": [
+          {
+            "id": "f78869a0-08e1-47e9-bce1-b30b28e73570",
+            "boundaryNum": 1,
+            "name": "Padligurjar",
+            "localname": "Padligurjar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "4fed6c6f-db50-434c-a51d-e7365e0272d8",
+                "boundaryNum": 1,
+                "name": "Shakti Vehar Ward No.1",
+                "localname": "Shakti Vehar Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0001",
+                "children": [
+                  {
+                    "id": "7d309f0f-663b-4121-b5c3-a89641ecfbde",
+                    "boundaryNum": 1,
+                    "name": "Dangar Chok - Shakti Vehar Ward No.1",
+                    "localname": "Dangar Chok - Shakti Vehar Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9b19c39f-59e7-4453-b50a-29c4e2f50211",
+                    "boundaryNum": 1,
+                    "name": "Bhoomia Khada - Shakti Vehar Ward No.1",
+                    "localname": "Bhoomia Khada - Shakti Vehar Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79a7e3ff-8761-44b2-a60e-880eee4770aa",
+                "boundaryNum": 1,
+                "name": "Telliwala First Ward No. 2",
+                "localname": "Telliwala First Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0002",
+                "children": [
+                  {
+                    "id": "02fffe4b-e95e-4c8d-ae4d-f1de5f9cb7b8",
+                    "boundaryNum": 1,
+                    "name": "Chaper Wali Masjid - Telliwala First Ward No. 2",
+                    "localname": "Chaper Wali Masjid - Telliwala First Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6cb83734-e66d-440c-9f6f-73bacf757478",
+                "boundaryNum": 1,
+                "name": "Telliwala Second Ward No.3",
+                "localname": "Telliwala Second Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0003",
+                "children": [
+                  {
+                    "id": "d29aeb21-24bb-479c-927b-ae4517885ad9",
+                    "boundaryNum": 1,
+                    "name": "kalu Calony - Telliwala Second Ward No.3",
+                    "localname": "kalu Calony - Telliwala Second Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c485830-f231-4b88-a8d0-e9822749d397",
+                "boundaryNum": 1,
+                "name": "Padli Gurjar First Ward No.4",
+                "localname": "Padli Gurjar First Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0004",
+                "children": [
+                  {
+                    "id": "7ba32882-02a7-477e-b8fb-f50126e21822",
+                    "boundaryNum": 1,
+                    "name": "Dhobi Wali Gali - Padli Gurjar First Ward No.4",
+                    "localname": "Dhobi Wali Gali - Padli Gurjar First Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f431f78c-0442-471a-ae9d-d03a972307d3",
+                    "boundaryNum": 1,
+                    "name": "Ghoda Wali Gali - Padli Gurjar First Ward No.4",
+                    "localname": "Ghoda Wali Gali - Padli Gurjar First Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c18c8c3-49c1-4c9b-94ce-325660ba9cdd",
+                "boundaryNum": 1,
+                "name": "Padli Gurjar Second Ward No. 5",
+                "localname": "Padli Gurjar Second Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0005",
+                "children": [
+                  {
+                    "id": "46aeb60a-f530-4574-ae97-98dc265d6863",
+                    "boundaryNum": 1,
+                    "name": "Edgaha Chok - Padli Gurjar Second Ward No. 5",
+                    "localname": "Edgaha Chok - Padli Gurjar Second Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0df8eed0-9240-4d45-8e27-995d03c4e93a",
+                    "boundaryNum": 1,
+                    "name": "Badi Masjid - Padli Gurjar Second Ward No. 5",
+                    "localname": "Badi Masjid - Padli Gurjar Second Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5a31080-7b9b-4df1-86d9-01fe91d1c9d4",
+                "boundaryNum": 1,
+                "name": "Padli Gurjar Third Ward No. 6",
+                "localname": "Padli Gurjar Third Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0006",
+                "children": [
+                  {
+                    "id": "6c86bf33-0e1f-4a52-88ce-9daae4b46c5e",
+                    "boundaryNum": 1,
+                    "name": "Harijon Basti - Padli Gurjar Third Ward No. 6",
+                    "localname": "Harijon Basti - Padli Gurjar Third Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "862ff004-3d8b-4c04-9f08-65281b2cd897",
+                "boundaryNum": 1,
+                "name": "Paniyala Chandapur First Ward No.7",
+                "localname": "Paniyala Chandapur First Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0007",
+                "children": [
+                  {
+                    "id": "d1393b9d-f8cd-4358-acc9-f4390f624d00",
+                    "boundaryNum": 1,
+                    "name": "Valmiki basti - Paniyala Chandapur First Ward No.7",
+                    "localname": "Valmiki basti - Paniyala Chandapur First Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0cf9c07d-c4a3-47d0-984d-70a25aa10dd9",
+                    "boundaryNum": 1,
+                    "name": "Mundi - Paniyala Chandapur First Ward No.7",
+                    "localname": "Mundi - Paniyala Chandapur First Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b896f9f-b583-4d25-8ec8-04089779e072",
+                "boundaryNum": 1,
+                "name": "Paniyala Chandapur Second Ward No. 8",
+                "localname": "Paniyala Chandapur Second Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0008",
+                "children": [
+                  {
+                    "id": "ab8b05c1-df97-46ca-85fa-2a4a0e229789",
+                    "boundaryNum": 1,
+                    "name": "Ramlila Chok - Paniyala Chandapur Second Ward No. 8",
+                    "localname": "Ramlila Chok - Paniyala Chandapur Second Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1955d853-9834-4f14-afc2-f86de6bdb88c",
+                    "boundaryNum": 1,
+                    "name": "Riksha Stand - Paniyala Chandapur Second Ward No. 8",
+                    "localname": "Riksha Stand - Paniyala Chandapur Second Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe680d41-69dc-4281-b48e-b2548c2e103b",
+                "boundaryNum": 1,
+                "name": "Paniyala Chandapur Third Ward No.9",
+                "localname": "Paniyala Chandapur Third Ward No.9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0009",
+                "children": [
+                  {
+                    "id": "c9e30f74-e74c-41f7-a328-03627fa60f84",
+                    "boundaryNum": 1,
+                    "name": "Dabar Mohala - Paniyala Chandapur Third Ward No.9",
+                    "localname": "Dabar Mohala - Paniyala Chandapur Third Ward No.9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ffb5623-4cbf-4c53-b02b-1d2e2a612475",
+                "boundaryNum": 1,
+                "name": "Paniyala Chandapur Fourth Ward No 10",
+                "localname": "Paniyala Chandapur Fourth Ward No 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0010",
+                "children": [
+                  {
+                    "id": "0f2363d4-8da0-489b-adee-edd881b76377",
+                    "boundaryNum": 1,
+                    "name": "Soni STD - Paniyala Chandapur Fourth Ward No 10",
+                    "localname": "Soni STD - Paniyala Chandapur Fourth Ward No 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c569017e-8b85-4222-b7f3-18394158b7b2",
+                "boundaryNum": 1,
+                "name": "Paniyala Chandapur Fifth Ward No. 11",
+                "localname": "Paniyala Chandapur Fifth Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0011",
+                "children": [
+                  {
+                    "id": "57742fe8-7533-4eb7-8add-49a5275cb652",
+                    "boundaryNum": 1,
+                    "name": "Gadhi Mohala - Paniyala Chandapur Fifth Ward No. 11",
+                    "localname": "Gadhi Mohala - Paniyala Chandapur Fifth Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

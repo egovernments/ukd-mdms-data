@@ -1,0 +1,288 @@
+{
+  "tenantId": "uk.thalisain",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "thalisain",
+        "localname": "thalisain",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.thalisain",
+        "children": [
+          {
+            "id": "1767b3b9-bdf9-4939-ab9b-a0ca8ec2eee3",
+            "boundaryNum": 1,
+            "name": "Thalisain",
+            "localname": "Thalisain",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "6ba6bd82-cd67-4001-a53c-56edbd8799bf",
+                "boundaryNum": 1,
+                "name": "Kainyur-1 Ranakhol- Dhakot",
+                "localname": "Kainyur-1 Ranakhol- Dhakot",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "f5a2ac2a-d5cb-4d3d-af04-7632cfacec1f",
+                    "boundaryNum": 1,
+                    "name": "Ranakhol - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Ranakhol - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "157dbf0d-b079-46ce-ba47-ed13294abb9f",
+                    "boundaryNum": 1,
+                    "name": "Dhakot - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Dhakot - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de870457-2092-4f79-8f34-f6338180166b",
+                    "boundaryNum": 1,
+                    "name": "Konkal - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Konkal - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da1d3348-b94e-4356-aae7-11ca00b327bb",
+                    "boundaryNum": 1,
+                    "name": "Bhujeti - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Bhujeti - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2161d6ec-2c0e-4798-87f7-bbd3b6d6bd23",
+                    "boundaryNum": 1,
+                    "name": "Jhindoli - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Jhindoli - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0a480d4b-5ea2-4e2f-8f95-b560e414be34",
+                    "boundaryNum": 1,
+                    "name": "Laamsem - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Laamsem - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3359992e-312d-49f8-bcb7-85e92f74a7f0",
+                    "boundaryNum": 1,
+                    "name": "Bajwad - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Bajwad - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2aa1582-15a9-427d-9ff6-d1cc392fd9b2",
+                    "boundaryNum": 1,
+                    "name": "Futaani - Kainyur-1 Ranakhol- Dhakot",
+                    "localname": "Futaani - Kainyur-1 Ranakhol- Dhakot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "435a5c19-3913-447d-bce2-81b1ebc9079c",
+                "boundaryNum": 1,
+                "name": "Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                "localname": "Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "3dd3ec4b-5600-4fd3-803c-5911411c15e5",
+                    "boundaryNum": 1,
+                    "name": "Vichlakhol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "localname": "Vichlakhol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "444c686f-7b9e-4b46-940a-92a1d17645a2",
+                    "boundaryNum": 1,
+                    "name": "Pajynakhol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "localname": "Pajynakhol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "babb419c-da94-4b53-9939-26abe7f9516e",
+                    "boundaryNum": 1,
+                    "name": "Kirpani Khol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "localname": "Kirpani Khol - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf71ebaf-ff78-452f-b51a-dae75d89ed8c",
+                    "boundaryNum": 1,
+                    "name": "Boombagad - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "localname": "Boombagad - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eadf541c-bfef-4f9a-89a0-73b4f77767d9",
+                    "boundaryNum": 1,
+                    "name": "Meruwa - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "localname": "Meruwa - Kainyur-2 Vichlakhol Pajyanakhol, Meruwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60d5063c-d4b0-4040-9141-f1e5ff5fda13",
+                "boundaryNum": 1,
+                "name": "Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                "localname": "Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "02394574-9352-4c11-8025-fe156203464d",
+                    "boundaryNum": 1,
+                    "name": "Thalisain Mukya Bajar Sadak Se Uper ki or ki aabaadi - Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                    "localname": "Thalisain Mukya Bajar Sadak Se Uper ki or ki aabaadi - Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "14d166f9-b52b-4cb0-a472-2a57568b618b",
+                    "boundaryNum": 1,
+                    "name": "Kainyur Anusuchit Jaati Basti - Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                    "localname": "Kainyur Anusuchit Jaati Basti - Upper Thalisain Bajar laga Kainyur Anusuchit Jati Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6bbda16f-aae9-408b-98cf-426d8464db64",
+                "boundaryNum": 1,
+                "name": "Lower Thalisain Bajar Laga Randola",
+                "localname": "Lower Thalisain Bajar Laga Randola",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "e2e52fbd-250c-463a-8ab6-e36e3970edc1",
+                    "boundaryNum": 1,
+                    "name": "Thalisain Mukya Bajar Sadak se Niche ki or ki Aabaadi - Lower Thalisain Bajar Laga Randola",
+                    "localname": "Thalisain Mukya Bajar Sadak se Niche ki or ki Aabaadi - Lower Thalisain Bajar Laga Randola",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6148c5ad-1535-46e9-af68-0c2e86513781",
+                    "boundaryNum": 1,
+                    "name": "Gram Randola Mohalla - Lower Thalisain Bajar Laga Randola",
+                    "localname": "Gram Randola Mohalla - Lower Thalisain Bajar Laga Randola",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

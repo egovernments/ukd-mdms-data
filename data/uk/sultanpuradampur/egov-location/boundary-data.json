@@ -1,0 +1,480 @@
+{
+  "tenantId": "uk.sultanpuradampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "sultanpuradampur",
+        "localname": "sultanpuradampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "uk.sultanpuradampur",
+        "children": [
+          {
+            "id": "742f6c39-807b-4c9d-9da3-63321e232ec4",
+            "boundaryNum": 1,
+            "name": "Sultanpur Adampur",
+            "localname": "Sultanpur Adampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "f4df4bcd-a457-4a33-a598-b707fb21ac61",
+                "boundaryNum": 1,
+                "name": "ALI CHOWK",
+                "localname": "ALI CHOWK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0001",
+                "children": [
+                  {
+                    "id": "5609a27b-e497-456e-b4ac-7eb4e78b3e02",
+                    "boundaryNum": 1,
+                    "name": "PAPPU KI COLONY - ALI CHOWK",
+                    "localname": "PAPPU KI COLONY - ALI CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0001",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "70878ede-5eb2-4b59-9f56-d2cdc82eaa16",
+                    "boundaryNum": 1,
+                    "name": "SONIYA KA MHOLLA - ALI CHOWK",
+                    "localname": "SONIYA KA MHOLLA - ALI CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0002",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aeed7a45-572d-47a9-af74-887a5e66b300",
+                    "boundaryNum": 1,
+                    "name": "JHONKI KA MHOLLA - ALI CHOWK",
+                    "localname": "JHONKI KA MHOLLA - ALI CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0003",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e6204200-a8ec-4cbf-a5da-185a0e76ad6b",
+                    "boundaryNum": 1,
+                    "name": "ALI CHOWK ANSHIKA BHAAG - ALI CHOWK",
+                    "localname": "ALI CHOWK ANSHIKA BHAAG - ALI CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0004",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b480954-5463-4720-8910-f4b9e4160d25",
+                "boundaryNum": 1,
+                "name": "HANUMAN CHOWK",
+                "localname": "HANUMAN CHOWK",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0002",
+                "children": [
+                  {
+                    "id": "e933c489-7b56-4c67-9dc5-ff8af9749e86",
+                    "boundaryNum": 1,
+                    "name": "VIDHAYAK KI GALI - HANUMAN CHOWK",
+                    "localname": "VIDHAYAK KI GALI - HANUMAN CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0005",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d1657358-ffe7-4354-af11-be5893a35e79",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI - HANUMAN CHOWK",
+                    "localname": "HARIJAN BASTI - HANUMAN CHOWK",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0006",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9983fa0f-2a3e-43e7-a519-342f8ce2f7d0",
+                "boundaryNum": 1,
+                "name": "EIDGAAH",
+                "localname": "EIDGAAH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0003",
+                "children": [
+                  {
+                    "id": "e765489e-a2c5-4b9f-a7aa-87f15e4e474e",
+                    "boundaryNum": 1,
+                    "name": "EIDGHAH - EIDGAAH",
+                    "localname": "EIDGHAH - EIDGAAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0007",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "23fe4fd2-cd33-4137-aeaf-812dc6eaecc6",
+                    "boundaryNum": 1,
+                    "name": "JODE WALI MASJID - EIDGAAH",
+                    "localname": "JODE WALI MASJID - EIDGAAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0008",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e78cb3f1-a722-45a8-8d6d-ba25a71e5dce",
+                    "boundaryNum": 1,
+                    "name": "MHOLLA DHAAB BHAUVAPUR ROAD - EIDGAAH",
+                    "localname": "MHOLLA DHAAB BHAUVAPUR ROAD - EIDGAAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0009",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e0399c8c-c1b7-4f3a-8de8-59d475e97b9f",
+                "boundaryNum": 1,
+                "name": "ISLAMNAGAR",
+                "localname": "ISLAMNAGAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0004",
+                "children": [
+                  {
+                    "id": "60086af6-e5f3-4ead-aa27-862bf88de732",
+                    "boundaryNum": 1,
+                    "name": "SUNA SHAB KI - ISLAMNAGAR",
+                    "localname": "SUNA SHAB KI - ISLAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0010",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2661d50-cd3a-4ac7-8fd6-6de0bb2c256e",
+                    "boundaryNum": 1,
+                    "name": "AABID ALI KI - ISLAMNAGAR",
+                    "localname": "AABID ALI KI - ISLAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0011",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3a6c151f-3db2-4d91-b5b5-36755a5169ab",
+                    "boundaryNum": 1,
+                    "name": "DHAAB WALI MASJID - ISLAMNAGAR",
+                    "localname": "DHAAB WALI MASJID - ISLAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0012",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8109db9e-41ef-452b-8879-2dcf48937afd",
+                    "boundaryNum": 1,
+                    "name": "MAHOLLA ISLAMNAGAR - ISLAMNAGAR",
+                    "localname": "MAHOLLA ISLAMNAGAR - ISLAMNAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0013",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d6f80ec-1be3-4413-914b-65b611eb2853",
+                "boundaryNum": 1,
+                "name": "DADA KHAN",
+                "localname": "DADA KHAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0005",
+                "children": [
+                  {
+                    "id": "9e94afce-96cb-49b9-8c3a-3ebd8102c96c",
+                    "boundaryNum": 1,
+                    "name": "MHOLLA DADA KHAN - DADA KHAN",
+                    "localname": "MHOLLA DADA KHAN - DADA KHAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0014",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9210155-9191-4503-b1f2-3d8a8f14e86b",
+                    "boundaryNum": 1,
+                    "name": "PUCHADI MHOLLA - DADA KHAN",
+                    "localname": "PUCHADI MHOLLA - DADA KHAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0015",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77c7a314-102f-4854-83e3-1bbea4afc86b",
+                    "boundaryNum": 1,
+                    "name": "KHARA KUAAN MHOLLA - DADA KHAN",
+                    "localname": "KHARA KUAAN MHOLLA - DADA KHAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0016",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60e2bf44-5494-44c7-8937-06a13a610f58",
+                "boundaryNum": 1,
+                "name": "KACCHI CHAUPAL",
+                "localname": "KACCHI CHAUPAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0006",
+                "children": [
+                  {
+                    "id": "48a7f592-ea16-43d9-938a-1954c92d042a",
+                    "boundaryNum": 1,
+                    "name": "MO. KACCHI CHOPAL - KACCHI CHAUPAL",
+                    "localname": "MO. KACCHI CHOPAL - KACCHI CHAUPAL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0017",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77382845-0fc2-478d-b9d2-cb2ec55aba61",
+                    "boundaryNum": 1,
+                    "name": "BHADBHUJA MOHLLA - KACCHI CHAUPAL",
+                    "localname": "BHADBHUJA MOHLLA - KACCHI CHAUPAL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0018",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "611f5785-b273-4985-9184-761d54a7a23c",
+                    "boundaryNum": 1,
+                    "name": "BAHRE WALI GALI - KACCHI CHAUPAL",
+                    "localname": "BAHRE WALI GALI - KACCHI CHAUPAL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0019",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b95e4ff0-0b21-4a66-bdf6-91215746cb54",
+                "boundaryNum": 1,
+                "name": "SULTANSHAH",
+                "localname": "SULTANSHAH",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0007",
+                "children": [
+                  {
+                    "id": "634e0038-6a4e-4eef-b521-ba320c0e6216",
+                    "boundaryNum": 1,
+                    "name": "KANHARIKA - SULTANSHAH",
+                    "localname": "KANHARIKA - SULTANSHAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0020",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "80215e40-f86b-4d02-8119-c1717bf8ceba",
+                    "boundaryNum": 1,
+                    "name": "SADKE KE SULTAN SHAH MO. ANSARI WALA GALI - SULTANSHAH",
+                    "localname": "SADKE KE SULTAN SHAH MO. ANSARI WALA GALI - SULTANSHAH",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0021",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5c924dcf-fd8a-407e-9b92-38749413e360",
+                "boundaryNum": 1,
+                "name": "BADA BAGAD",
+                "localname": "BADA BAGAD",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0008",
+                "children": [
+                  {
+                    "id": "e132c05b-00de-472e-9690-fcb629c08337",
+                    "boundaryNum": 1,
+                    "name": "PATWARI WALA MOHALLA CHUKDAT - BADA BAGAD",
+                    "localname": "PATWARI WALA MOHALLA CHUKDAT - BADA BAGAD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0022",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e18e1a02-8556-4cba-afc7-5fe712999ef9",
+                    "boundaryNum": 1,
+                    "name": "PAKKI CHAUPAL MOHALLA - BADA BAGAD",
+                    "localname": "PAKKI CHAUPAL MOHALLA - BADA BAGAD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0023",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e06804e6-55ca-4778-b37e-64b44405dae1",
+                    "boundaryNum": 1,
+                    "name": "TASLEEM WALA MOHALLA - BADA BAGAD",
+                    "localname": "TASLEEM WALA MOHALLA - BADA BAGAD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0024",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "455e8ab0-088c-476f-ad47-3f2d958d66b4",
+                "boundaryNum": 1,
+                "name": "SABAR ALI",
+                "localname": "SABAR ALI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W0009",
+                "children": [
+                  {
+                    "id": "b8df9751-2201-42d2-9f4c-3ba124a70959",
+                    "boundaryNum": 1,
+                    "name": "BADA KABRISTAN MOHALLA NAYI BASTI - SABAR ALI",
+                    "localname": "BADA KABRISTAN MOHALLA NAYI BASTI - SABAR ALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0025",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e7c84d4-22c5-4048-8a14-e2e6292455d2",
+                    "boundaryNum": 1,
+                    "name": "SABARLI MASJID MOHALLA - SABAR ALI",
+                    "localname": "SABARLI MASJID MOHALLA - SABAR ALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0026",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0a990e78-ef22-4bc8-a98f-411c82fe6469",
+                    "boundaryNum": 1,
+                    "name": "DR.AADIL WALI GALI - SABAR ALI",
+                    "localname": "DR.AADIL WALI GALI - SABAR ALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0027",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b8a26829-cc5a-4d0e-8244-06300d3cc846",
+                    "boundaryNum": 1,
+                    "name": "ALI CHOWK AANSIK - SABAR ALI",
+                    "localname": "ALI CHOWK AANSIK - SABAR ALI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M0028",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
